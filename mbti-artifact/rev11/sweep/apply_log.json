@@ -1,0 +1,794 @@
+[
+[
+"Niw2",
+"adopt 3.61->3.00"
+],
+[
+"Nil2",
+"adopt 3.85->3.08"
+],
+[
+"Nip1",
+"adopt 3.70->2.73"
+],
+[
+"Nih2",
+"reject-rating 3.65->2.73"
+],
+[
+"Niz3",
+"adopt 3.56->2.82"
+],
+[
+"Nit1",
+"adopt 3.36->2.91"
+],
+[
+"Nik5",
+"adopt 2.85->2.73"
+],
+[
+"Niz5",
+"adopt 3.06->2.73"
+],
+[
+"Nip3",
+"adopt 3.10->2.91"
+],
+[
+"Nil4",
+"adopt 3.20->3.00"
+],
+[
+"Nin2",
+"adopt 3.29->2.91"
+],
+[
+"Niu2",
+"adopt 3.15->2.91"
+],
+[
+"Nik1",
+"reject-rating 3.44->2.91"
+],
+[
+"Nis2",
+"adopt 3.61->2.91"
+],
+[
+"Ner0",
+"adopt 4.00->2.73"
+],
+[
+"New3",
+"reject-defender"
+],
+[
+"New5",
+"reject-rating 3.55->2.73"
+],
+[
+"Nel0",
+"adopt 3.29->2.73"
+],
+[
+"Nel1",
+"adopt 3.50->2.91"
+],
+[
+"Nel2",
+"adopt 3.25->3.26"
+],
+[
+"Nes1",
+"reject-defender"
+],
+[
+"Nev1",
+"adopt 3.10->2.73"
+],
+[
+"Ned2",
+"adopt 3.29->2.73"
+],
+[
+"Neh4",
+"adopt 3.75->2.91"
+],
+[
+"Nen3",
+"adopt 3.50->3.08"
+],
+[
+"Nei0",
+"adopt 3.10->2.91"
+],
+[
+"Nek7",
+"adopt 3.51->2.91"
+],
+[
+"Nei4",
+"adopt 2.70->2.82"
+],
+[
+"Nek8",
+"adopt 2.79->2.73"
+],
+[
+"Nek9",
+"adopt 2.95->3.00"
+],
+[
+"Sir0",
+"adopt 4.15->3.08"
+],
+[
+"Sir1",
+"adopt 4.15->3.08"
+],
+[
+"Sir3",
+"adopt 3.85->2.73"
+],
+[
+"Sir4",
+"adopt 3.75->2.91"
+],
+[
+"Sia0",
+"adopt 3.55->3.26"
+],
+[
+"Sit0",
+"adopt 3.65->2.73"
+],
+[
+"Sih0",
+"adopt 3.80->3.00"
+],
+[
+"Siz0",
+"adopt 3.76->2.91"
+],
+[
+"Siz1",
+"adopt 4.05->2.91"
+],
+[
+"Sii3",
+"adopt 3.70->3.00"
+],
+[
+"Sif2",
+"adopt 3.65->2.91"
+],
+[
+"Sif3",
+"adopt 3.70->3.62"
+],
+[
+"Six3",
+"adopt 3.61->2.91"
+],
+[
+"Sik3",
+"adopt 3.31->2.91"
+],
+[
+"Siw2",
+"reject-defender"
+],
+[
+"Sip0",
+"adopt 3.15->2.73"
+],
+[
+"Sex0",
+"adopt 3.90->3.44"
+],
+[
+"Sex4",
+"reject-defender"
+],
+[
+"Sey2",
+"adopt 2.99->3.17"
+],
+[
+"Sep2",
+"adopt 2.95->2.91"
+],
+[
+"Ser4",
+"adopt 3.85->3.08"
+],
+[
+"Sex2",
+"reject-defender"
+],
+[
+"Ser0",
+"adopt 3.15->2.91"
+],
+[
+"Sel0",
+"adopt 3.44->3.26"
+],
+[
+"Sel2",
+"adopt 3.25->3.35"
+],
+[
+"Seg0",
+"adopt 3.00->2.91"
+],
+[
+"Seg3",
+"adopt 3.29->2.73"
+],
+[
+"Sew5",
+"adopt 3.30->3.35"
+],
+[
+"Sej4",
+"adopt 3.11->3.08"
+],
+[
+"Sei2",
+"adopt 3.36->3.17"
+],
+[
+"Sek0",
+"reject-rating 3.49->2.55"
+],
+[
+"Sew2",
+"reject-rating 3.20->2.37"
+],
+[
+"Sek4",
+"adopt 3.40->2.73"
+],
+[
+"Ser2",
+"reject-rating 3.55->2.55"
+],
+[
+"Tir0",
+"reject-rating 3.40->2.64"
+],
+[
+"Tir1",
+"adopt 2.85->3.00"
+],
+[
+"Tis1",
+"adopt 3.75->3.17"
+],
+[
+"Tis2",
+"adopt 3.25->3.26"
+],
+[
+"Tim2",
+"reject-defender"
+],
+[
+"Tip1",
+"adopt 2.96->3.26"
+],
+[
+"Tia3",
+"adopt 2.61->3.26"
+],
+[
+"Tix1",
+"adopt 2.60->2.82"
+],
+[
+"Tih3",
+"reject-rating 3.65->2.64"
+],
+[
+"Tiy1",
+"adopt 3.10->3.00"
+],
+[
+"Tij2",
+"adopt 3.00->3.00"
+],
+[
+"Tin3",
+"adopt 3.61->3.44"
+],
+[
+"Tid3",
+"adopt 2.79->2.91"
+],
+[
+"Tiu4",
+"adopt 2.65->2.91"
+],
+[
+"Tiq1",
+"adopt 3.00->2.91"
+],
+[
+"Tes2",
+"adopt 3.75->3.44"
+],
+[
+"Tex2",
+"adopt 3.90->3.17"
+],
+[
+"Tej2",
+"adopt 3.89->2.91"
+],
+[
+"Tef4",
+"adopt 4.05->2.91"
+],
+[
+"Tew2",
+"adopt 3.60->3.44"
+],
+[
+"Tet0",
+"adopt 3.64->3.44"
+],
+[
+"Tel0",
+"adopt 3.75->3.00"
+],
+[
+"Tel1",
+"adopt 3.85->2.91"
+],
+[
+"Tel2",
+"adopt 3.74->3.08"
+],
+[
+"Tem0",
+"adopt 3.90->3.08"
+],
+[
+"Ted0",
+"adopt 3.80->3.08"
+],
+[
+"Ted1",
+"adopt 3.60->3.08"
+],
+[
+"Tea0",
+"adopt 3.69->2.91"
+],
+[
+"Teq5",
+"adopt 3.85->3.08"
+],
+[
+"Tek3",
+"adopt 3.80->3.26"
+],
+[
+"Tek4",
+"adopt 3.51->3.44"
+],
+[
+"Tek1",
+"adopt 2.89->2.91"
+],
+[
+"Tey3",
+"adopt 3.05->3.26"
+],
+[
+"Ter3",
+"adopt 2.70->2.91"
+],
+[
+"Fir0",
+"reject-rating 3.45->2.73"
+],
+[
+"Fir5",
+"adopt 3.20->3.26"
+],
+[
+"Fil0",
+"adopt 3.36->3.08"
+],
+[
+"Fil1",
+"adopt 3.56->3.26"
+],
+[
+"Fil4",
+"adopt 3.05->3.08"
+],
+[
+"Fim2",
+"adopt 3.24->3.00"
+],
+[
+"Fig3",
+"adopt 3.00->2.91"
+],
+[
+"Fid0",
+"reject-rating 3.61->2.82"
+],
+[
+"Fid2",
+"adopt 3.10->3.26"
+],
+[
+"Fiy1",
+"adopt 3.60->3.26"
+],
+[
+"Fiy5",
+"adopt 3.10->2.91"
+],
+[
+"Fit1",
+"adopt 3.05->2.91"
+],
+[
+"Fiz1",
+"adopt 3.95->2.73"
+],
+[
+"Fiz5",
+"adopt 2.95->3.17"
+],
+[
+"Fii0",
+"adopt 3.74->3.44"
+],
+[
+"Fiq4",
+"adopt 2.94->3.08"
+],
+[
+"Fiq5",
+"adopt 3.61->2.73"
+],
+[
+"Fix5",
+"adopt 3.80->3.17"
+],
+[
+"Fik1",
+"reject-rating 3.35->2.91"
+],
+[
+"Fik2",
+"reject-rating 2.65->2.37"
+],
+[
+"Fik4",
+"adopt 2.90->3.08"
+],
+[
+"Few3",
+"adopt 3.79->3.00"
+],
+[
+"Fer2",
+"adopt 3.85->2.91"
+],
+[
+"Fel0",
+"adopt 4.15->2.91"
+],
+[
+"Fel2",
+"adopt 3.95->3.17"
+],
+[
+"Fel3",
+"adopt 3.65->3.17"
+],
+[
+"Fel4",
+"adopt 3.25->3.08"
+],
+[
+"Fes0",
+"adopt 3.99->3.17"
+],
+[
+"Fes1",
+"adopt 2.96->2.82"
+],
+[
+"Feb0",
+"adopt 3.70->3.26"
+],
+[
+"Feb2",
+"adopt 3.44->2.73"
+],
+[
+"Feb3",
+"adopt 3.79->3.08"
+],
+[
+"Fem1",
+"adopt 3.95->2.73"
+],
+[
+"Feg2",
+"adopt 3.91->3.26"
+],
+[
+"Fev2",
+"adopt 4.10->3.08"
+],
+[
+"Fev3",
+"adopt 3.74->2.91"
+],
+[
+"Fep2",
+"adopt 3.70->3.53"
+],
+[
+"Fea1",
+"adopt 3.91->2.82"
+],
+[
+"Feh0",
+"adopt 3.90->3.35"
+],
+[
+"Feh1",
+"adopt 3.91->2.73"
+],
+[
+"Feh2",
+"adopt 3.86->3.00"
+],
+[
+"Fey0",
+"adopt 4.10->3.71"
+],
+[
+"Fey2",
+"adopt 3.61->3.08"
+],
+[
+"Fey3",
+"adopt 3.40->3.26"
+],
+[
+"Fez1",
+"adopt 4.15->2.91"
+],
+[
+"Fez3",
+"adopt 3.85->2.91"
+],
+[
+"Fej0",
+"adopt 3.90->2.82"
+],
+[
+"Fej1",
+"adopt 4.10->3.00"
+],
+[
+"Fej3",
+"adopt 3.86->2.73"
+],
+[
+"Fen0",
+"adopt 3.91->3.00"
+],
+[
+"Fen3",
+"adopt 2.75->3.44"
+],
+[
+"Fei0",
+"adopt 4.00->3.00"
+],
+[
+"Fei1",
+"reject-rating 3.74->2.64"
+],
+[
+"Fei2",
+"adopt 3.91->2.91"
+],
+[
+"Feu0",
+"adopt 4.06->3.53"
+],
+[
+"Feq4",
+"adopt 3.90->2.73"
+],
+[
+"Fex3",
+"adopt 3.91->3.26"
+],
+[
+"Fek0",
+"adopt 3.75->3.00"
+],
+[
+"Fek1",
+"adopt 4.15->3.26"
+],
+[
+"Niq0",
+"adopt 2.99->2.91"
+],
+[
+"BNiSe4",
+"adopt gap 0.56->0.27"
+],
+[
+"BNiSe7",
+"adopt gap 0.25->0.26"
+],
+[
+"BNeSi5",
+"adopt gap 0.31->0.00"
+],
+[
+"BTiFe3",
+"adopt gap 0.69->0.36"
+],
+[
+"BTiFe6",
+"adopt gap 0.66->0.35"
+],
+[
+"BTeFi1",
+"reject-rating gap 0.47->0.53"
+],
+[
+"BTeFi2",
+"reject-rating gap 0.50->0.53"
+],
+[
+"BTeFi3",
+"adopt gap 0.57->0.44"
+],
+[
+"BTeFi5",
+"adopt gap 0.49->0.35"
+],
+[
+"BTeFi6",
+"adopt gap 0.46->0.09"
+],
+[
+"BTeFi7",
+"adopt gap 0.71->0.09"
+],
+[
+"BTeFih1",
+"adopt gap 0.50->0.26"
+],
+[
+"BTiFey0",
+"adopt gap 0.85->0.09"
+],
+[
+"BTeFiy0",
+"adopt gap 0.21->0.09"
+],
+[
+"BNeSiz0",
+"adopt gap 0.41->0.09"
+],
+[
+"BTeFiz1",
+"adopt gap 0.39->0.00"
+],
+[
+"BNiSej0",
+"adopt gap 0.36->0.09"
+],
+[
+"BNeSij1",
+"adopt gap 0.31->0.26"
+],
+[
+"BTiFej0",
+"adopt gap 0.70->0.09"
+],
+[
+"BTeFin0",
+"adopt gap 0.36->0.18"
+],
+[
+"BTiFei1",
+"reject-rating gap 0.40->0.36"
+],
+[
+"BTeFii1",
+"adopt gap 0.45->0.26"
+],
+[
+"BTiFeu1",
+"adopt gap 0.99->0.80"
+],
+[
+"BTeFiu0",
+"adopt gap 0.44->0.35"
+],
+[
+"BTiFe9",
+"adopt gap 0.41->0.18"
+],
+[
+"BTiFe11",
+"adopt gap 0.64->0.26"
+],
+[
+"BTeFi9",
+"adopt gap 0.16->0.00"
+],
+[
+"BTeFi10",
+"adopt gap 0.50->0.00"
+],
+[
+"BTiFeb0",
+"adopt gap 0.80->0.27"
+],
+[
+"BTiFev0",
+"adopt gap 0.76->0.44"
+],
+[
+"BTiFed0",
+"adopt gap 0.70->0.62"
+],
+[
+"BTeFia0",
+"adopt gap 0.60->0.17"
+],
+[
+"BTiFet0",
+"adopt gap 0.90->0.18"
+],
+[
+"BTeFiq1",
+"reject-rating gap 0.40->0.44"
+],
+[
+"BNiSex0",
+"adopt gap 0.05->0.18"
+],
+[
+"BNiSex1",
+"adopt gap 0.16->0.27"
+],
+[
+"EIen3",
+"adopt gap 0.45->0.00"
+],
+[
+"EIir4",
+"reject-rating gap 0.41->0.54"
+],
+[
+"EIec4",
+"adopt gap 0.45->0.00"
+],
+[
+"EIeq1",
+"adopt gap 0.37->0.18"
+]
+]

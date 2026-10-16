@@ -1,0 +1,314 @@
+[
+ {
+  "id": "Sex0",
+  "problem": "des 3.9; 'ไม่เสียอารมณ์' is an emotional-stability virtue and there is no cost",
+  "cat": "b",
+  "t": "นัดกับเพื่อนแล้วแผนพัง เช่น ร้านปิด ฉันมักหาอะไรทำแถวนั้นต่อทันที แม้บางคนยังอยากหาร้านแบบเดิม"
+ },
+ {
+  "id": "Sex4",
+  "problem": "Reading how serious a conflict is from a friend's face is mainly Fe attunement",
+  "cat": "a",
+  "t": "ถ้ามีเรื่องไม่เข้าใจกันกับเพื่อน ฉันมักอยากนัดเจอแล้วคุยกันตามที่เกิดตรงนั้น มากกว่าเตรียมไว้ก่อนว่าจะพูดอะไร"
+ },
+ {
+  "id": "Sey2",
+  "problem": "'มากกว่าเรื่องชาติหน้า' implicitly judges a Buddhist belief",
+  "cat": "c",
+  "t": "เรื่องความเชื่อ ฉันอินกับตอนที่ได้ลงมือทำเอง เช่น จุดเทียนหรือรดน้ำ มากกว่าตอนนั่งฟังคำอธิบาย"
+ },
+ {
+  "id": "Sep2",
+  "problem": "Speed, height and risk is sensation seeking or a liking for a topic, not attention to the present",
+  "cat": "a",
+  "t": "เวลาเล่นกีฬา ฉันมักขยับตามช่องว่างที่เห็นตรงหน้าทันที แม้จะไม่ตรงกับแผนของทีม"
+ },
+ {
+  "id": "Ser4",
+  "problem": "des 3.85 with no cost; reads as caring for someone (Fe-flavoured virtue)",
+  "cat": "b",
+  "t": "เวลาคนใกล้ตัวเครียด ฉันมักชวนเขาลุกไปทำอะไรด้วยกันตรงนั้นเลย เช่น ออกไปเดิน แม้บางทีเขาอยากนั่งเล่าให้ฟังมากกว่า"
+ },
+ {
+  "id": "Sex2",
+  "problem": "des 2.6; the cost 'หลุดจากเรื่องที่คุย' reads as not listening to friends",
+  "cat": "b",
+  "t": "ในวงเพื่อน ตาฉันมักจับอยู่กับสิ่งที่เกิดตรงหน้า เช่น อาหารที่เพิ่งมาเสิร์ฟ แล้วหยิบมาพูดต่อ จนเรื่องที่คุยค้างอยู่ต้องพักไปก่อน"
+ },
+ {
+  "id": "Ser0",
+  "problem": "'สีหน้า' brings in reading emotions (Fe); it is also double-barrelled",
+  "cat": "a",
+  "t": "เจอใคร ฉันมักสังเกตเสื้อผ้าหรือทรงผมของเขาเป็นอย่างแรก"
+ },
+ {
+  "id": "Sel0",
+  "problem": "Liking sports or dance is topic liking and activity level, not attention to the senses",
+  "cat": "a",
+  "t": "เวลาว่าง ฉันชอบกิจกรรมที่ได้รู้สึกถึงร่างกายตอนขยับเต็มที่"
+ },
+ {
+  "id": "Sel2",
+  "problem": "Excitement and novelty is sensation seeking or Ne novelty, not attention to the present",
+  "cat": "a",
+  "t": "ไปที่ใหม่ ฉันชอบเดินดูและชิมของจริงก่อน แล้วค่อยรู้ว่าตัวเองชอบอะไร"
+ },
+ {
+  "id": "Seg0",
+  "problem": "Unnatural, redundant Thai ('ขยับตาม…ไปก่อน แล้วค่อยปรับตามที่เห็นหลังจากนั้น')",
+  "cat": "e",
+  "t": "ในเกม ฉันมักกดตอบโต้ตามภาพและเสียงที่โผล่มาทันที แล้วค่อยคิดเรื่องแผนทีหลัง"
+ },
+ {
+  "id": "Seg3",
+  "problem": "The core is changing a plan versus sticking to it (J/P), with no sensory content",
+  "cat": "a",
+  "t": "ในเกม ถ้าสิ่งที่เห็นบนจอไม่เป็นอย่างที่คิด ฉันมักเปลี่ยนวิธีเล่นตามนั้นเลย แม้ทีมจะตกลงแผนกันไว้แล้ว"
+ },
+ {
+  "id": "Sew5",
+  "problem": "Deciding on site versus planning everything ahead mostly measures J/P",
+  "cat": "a",
+  "t": "หน้างาน ฉันมักตัดสินใจจากสิ่งที่เห็นและได้ยินตอนนั้น เช่น สภาพของหรือเสียงเครื่อง แม้จะต่างจากที่วางไว้"
+ },
+ {
+  "id": "Sej4",
+  "problem": "Going off-plan on impulse is P/spontaneity; it has no sensory cue",
+  "cat": "a",
+  "t": "ระหว่างทาง ถ้าได้ยินเสียงดนตรีหรือได้กลิ่นอาหารจากที่ไหน ฉันมักเดินตามไปดู แม้จะต้องตัดบางที่ในแผนออก"
+ },
+ {
+  "id": "Sei2",
+  "problem": "Preferring gold or land is a conservative investing preference (Si or risk aversion, and age-linked), not Se",
+  "cat": "a",
+  "t": "ก่อนซื้อทองหรือของสะสม ฉันมักขอจับของจริง ดูเนื้อและน้ำหนักด้วยตัวเอง แม้จะมีใบรับรองให้แล้ว"
+ },
+ {
+  "id": "Sek0",
+  "problem": "Restates the definition and reads as the Buddhist virtue of living in the present (อยู่กับปัจจุบัน); no cost",
+  "cat": "b",
+  "t": "ฉันมักสนใจสิ่งที่เกิดขึ้นตรงหน้ามากกว่าเรื่องที่ยังมาไม่ถึง จนบางทีลืมเตรียมเรื่องของพรุ่งนี้"
+ },
+ {
+  "id": "Sew2",
+  "problem": "Noticing that things were moved means comparing with memory (Si), not attention to the present",
+  "cat": "a",
+  "t": "ในที่ทำงาน ตาฉันมักหันตามสิ่งที่ขยับรอบตัว เช่น คนเดินผ่าน จนต้องกลับมาหาว่าทำถึงไหน"
+ },
+ {
+  "id": "Sek4",
+  "problem": "Noticing a new haircut or a changed sign means comparing with memory (Si); it also repeats Ser2",
+  "cat": "a",
+  "t": "เดินผ่านที่ไหน ฉันมักเห็นของสะดุดตาตรงนั้น เช่น สีป้ายหรือแมวบนหลังคา จนบางทีเดินเลยทาง"
+ },
+ {
+  "id": "Ser2",
+  "problem": "'ทรงผมหรือเสื้อตัวใหม่' compares with the past (Si); it also reads as an attentive-partner virtue",
+  "cat": "a",
+  "t": "อยู่กับคนใกล้ตัว ฉันมักเห็นสิ่งตรงหน้า เช่น สีเสื้อหรือกลิ่นน้ำหอมของเขา จนบางทีฟังเรื่องที่เล่าไม่ทัน"
+ },
+ {
+  "id": "Tir0",
+  "problem": "'อย่างเป็นเหตุเป็นผล' is a banned virtue pattern (มีเหตุผล); no cost",
+  "cat": "b",
+  "t": "มีปัญหากับคนใกล้ตัว ฉันมักไล่ในหัวว่าเรื่องเริ่มจากตรงไหน แม้เขาอยากให้ปลอบก่อน"
+ },
+ {
+  "id": "Tir1",
+  "problem": "No relationship scene despite the context; the blunt 'ไม่ยอมรับ…ของใคร' reads as stubborn and repeats Tik0",
+  "cat": "e",
+  "t": "คนใกล้ตัวสรุปอะไรให้ฟัง ฉันมักยังไม่ปักใจจนกว่าจะไล่เหตุผลเองได้"
+ },
+ {
+  "id": "Tis1",
+  "problem": "des 3.75 with no cost; it describes good-student note-taking",
+  "cat": "b",
+  "t": "เวลาเรียน ฉันมักจดสรุปด้วยคำของตัวเองให้เหตุผลแต่ละข้อต่อกัน จนบางทีจดตามที่ผู้สอนพูดไม่ทัน"
+ },
+ {
+  "id": "Tis2",
+  "problem": "Spotting contradictions in 'ที่ครูสอน' sets Ti against a teacher (hierarchy)",
+  "cat": "c",
+  "t": "ระหว่างเรียน ฉันมักสะดุดเมื่อสองคำอธิบายในชีตหรือตำราไม่ตรงกัน แล้วค้างใจจนต้องไล่หาเองว่าเพราะอะไร"
+ },
+ {
+  "id": "Tim2",
+  "problem": "des 3.56; checking before sharing is a media-literacy virtue and 'แชร์ช้ากว่าคนอื่น' is not a real cost; it also repeats Tim1",
+  "cat": "b",
+  "t": "ก่อนกดแชร์โพสต์ที่ชอบ ฉันมักไล่ว่าเหตุผลในนั้นต่อกันติดไหม จนบางทีเพื่อนคุยเรื่องนั้นจบไปแล้ว"
+ },
+ {
+  "id": "Tip1",
+  "problem": "'ไม่ใช่ตามที่โค้ชสั่ง' sets Ti against a coach (hierarchy, kreng jai)",
+  "cat": "c",
+  "t": "ฉันมักปรับเทคนิคตามเหตุผลที่ไล่คิดเองได้ แม้จะต่างจากคลิปสอนที่คนส่วนใหญ่ทำตาม"
+ },
+ {
+  "id": "Tia3",
+  "problem": "Looking for where a critic's reasoning contradicts itself reads as จับผิด (fault-finding); des 2.61",
+  "cat": "c",
+  "t": "อ่านคำวิจารณ์งานศิลปะ ฉันมักดูว่าเหตุผลในนั้นไปด้วยกันไหม มากกว่าดูว่าคนเขียนชอบหรือไม่"
+ },
+ {
+  "id": "Tix1",
+  "problem": "des 2.6; 'เพื่อนว่าฉันฟังแบบไม่อิน' is a social-failure cost",
+  "cat": "b",
+  "t": "เวลาเพื่อนเล่าเรื่องที่ได้ยินต่อมา ฉันมักไล่ในหัวว่าแต่ละช่วงต่อกันติดไหม จนบางทีลืมรับมุกตามจังหวะ"
+ },
+ {
+  "id": "Tih3",
+  "problem": "des 3.65; 'เพื่อนมาปรึกษา' is a social-approval anchor (R8) with a helpful frame and no cost",
+  "cat": "b",
+  "t": "เพื่อนเล่าเรื่องหัวใจ ฉันมักแยกในหัวว่าส่วนไหนเป็นข้อเท็จจริง ส่วนไหนคิดไปเอง แม้เขาแค่อยากระบาย"
+ },
+ {
+  "id": "Tiy1",
+  "problem": "Splitting 'คำสอน' into logic and interpretation judges religious teaching",
+  "cat": "c",
+  "t": "เวลาฟังคำทำนายหรือดูดวง ฉันชอบแยกดูว่าส่วนไหนเหตุผลต่อกัน ส่วนไหนเป็นการตีความ แม้จะทำให้ฟังไม่ค่อยสนุก"
+ },
+ {
+  "id": "Tij2",
+  "problem": "The third Ti travel item built on distrust of reviews (Tij1, Tij2, Tij3), so the target is easy to guess",
+  "cat": "d",
+  "t": "เวลามีคนแนะนำเส้นทางเที่ยวมา ฉันชอบไล่คิดเองก่อนว่าทำไมต้องเรียงแบบนั้น แม้จะช้ากว่าทำตามไปเลย"
+ },
+ {
+  "id": "Tin3",
+  "problem": "des 3.61; not taking sides until both are weighed is a fair-mindedness virtue with no cost",
+  "cat": "b",
+  "t": "ในเรื่องที่เถียงกัน ฉันมักยังไม่เลือกข้างจนกว่าจะไล่เหตุผลแต่ละฝั่งครบ แม้คนรอบตัวจะรอฟังฉัน"
+ },
+ {
+  "id": "Tid3",
+  "problem": "Repeats the Ti template 'มีคนบอกว่า “X” → อยากรู้ว่าใช้เกณฑ์อะไรนิยาม' (also Tit3, Tij5, Tiu4, Tiq1, Tii4)",
+  "cat": "d",
+  "t": "ทำอาหารตามสูตรหลายแหล่ง ฉันมักไล่ดูว่าแต่ละสูตรทำต่างกันตรงไหนและเพราะอะไร จนบางทียังไม่ได้เริ่มทำ"
+ },
+ {
+  "id": "Tiu4",
+  "problem": "Same quoted-word definition template ('“ไม่ใช่ร็อกแท้” … ใช้นิยามอะไร'); des 2.65, and it reads as picking an argument",
+  "cat": "d",
+  "t": "ฟังเพลงแนวที่ชอบ ฉันมักแยกในหัวว่าอะไรทำให้เป็นแนวนั้น แล้วสะดุดถ้าเพลงไหนไม่เข้าเกณฑ์"
+ },
+ {
+  "id": "Tiq1",
+  "problem": "Same quoted-word definition template ('“มีรสนิยม” … ใช้เกณฑ์อะไร')",
+  "cat": "d",
+  "t": "เวลาชอบของชิ้นไหน ฉันมักถามตัวเองว่าเหตุผลที่ชอบใช้กับของอื่นแบบเดียวกันได้ไหม จนบางทีตัดสินใจซื้อช้า"
+ },
+ {
+  "id": "Tes2",
+  "problem": "des 3.75 with no cost; it is also one of seven 'แบ่งงาน/แบ่งหน้าที่' Te items",
+  "cat": "b",
+  "t": "ในงานกลุ่มที่มหาวิทยาลัย ฉันมักตั้งเส้นตายย่อยแล้วทักตาม แม้บางคนรู้สึกว่าถูกเร่ง"
+ },
+ {
+  "id": "Tex2",
+  "problem": "des 3.9; the stated reason (fair load) makes it a virtue with no cost, and it repeats 'แบ่งหน้าที่'",
+  "cat": "b",
+  "t": "ทริปกับเพื่อน ฉันมักขอให้ทุกคนตอบให้ชัดว่าใครจองอะไรภายในวันไหน แม้บางคนจะรู้สึกเหมือนโดนตามงาน"
+ },
+ {
+  "id": "Tej2",
+  "problem": "des 3.89 with no cost; the responsible organiser, and it repeats 'แบ่งงาน'",
+  "cat": "b",
+  "t": "ในทริปกับเพื่อน ฉันมักคอยดูเวลาแล้วเร่งไปจุดต่อไปตามแผน แม้บางคนยังอยากอยู่ต่อ"
+ },
+ {
+  "id": "Tef4",
+  "problem": "des 4.05 with no cost; the group-organiser virtue, and it repeats 'แบ่งหน้าที่'",
+  "cat": "b",
+  "t": "ในกลุ่มงานอดิเรก ฉันมักตั้งเป้าให้แต่ละนัดว่าต้องได้อะไร แม้บางคนอยากมาเจอกันแบบชิล ๆ"
+ },
+ {
+  "id": "Tew2",
+  "problem": "des 3.6 with no cost; near-identical to Tes2 and the other 'แบ่งงาน' items",
+  "cat": "d",
+  "t": "ในงานกลุ่ม ฉันมักขอให้ตกลงก่อนว่าใครดูส่วนไหน แม้บางคนอยากเริ่มเลย"
+ },
+ {
+  "id": "Tet0",
+  "problem": "des 3.64 with no cost; the 'แบ่งหน้าที่…ใครทำอะไร เมื่อไร' stem repeats Ter5",
+  "cat": "d",
+  "t": "ฉันมักจดน้ำหนักและอาหารของสัตว์เลี้ยง เพื่อดูว่าวิธีที่ใช้อยู่เห็นผลไหม"
+ },
+ {
+  "id": "Tel0",
+  "problem": "des 3.75 with no cost; setting goals for exercise and learning is a self-discipline virtue (generic C)",
+  "cat": "b",
+  "t": "แม้ในวันหยุด ฉันก็มักตั้งเป้าเป็นตัวเลข เช่น วิ่งกี่กิโล อ่านกี่บท จนบางทีพักได้ไม่เต็มที่"
+ },
+ {
+  "id": "Tel1",
+  "problem": "des 3.85 with no cost; an organised-home virtue, partly J",
+  "cat": "b",
+  "t": "ฉันชอบจัดบ้านให้เป็นระบบที่ใช้งานเร็ว แม้คนในบ้านจะบ่นว่าต้องทำตาม"
+ },
+ {
+  "id": "Tel2",
+  "problem": "des 3.74; liking self-improvement content is topic liking that Si or Se readers would also endorse",
+  "cat": "a",
+  "t": "ฉันเลือกหนังสือหรือคอร์สจากว่าเอาไปใช้ได้แค่ไหน จนข้ามเรื่องอ่านเพลิน ๆ ไป"
+ },
+ {
+  "id": "Tem0",
+  "problem": "des 3.9 with no cost; not doomscrolling reads as self-control",
+  "cat": "b",
+  "t": "ฉันมักเข้าโซเชียลไปหาสิ่งที่ต้องการแล้วออก จนบางทีตกเรื่องที่เพื่อนคุยกันในฟีด"
+ },
+ {
+  "id": "Ted0",
+  "problem": "des 3.8; 'ซื้อของคุ้มและไม่เหลือทิ้ง' is the พอเพียง virtue and 'เบื่อเมนู' is a weak cost",
+  "cat": "b",
+  "t": "ฉันมักวางเมนูทั้งสัปดาห์แล้วซื้อตามลิสต์เท่านั้น จนวันที่อยากกินอย่างอื่นก็ต้องรอไปก่อน"
+ },
+ {
+  "id": "Ted1",
+  "problem": "des 3.6 with no cost; double-barrelled and carries a health virtue ('ประโยชน์ต่อสุขภาพ')",
+  "cat": "b",
+  "t": "เลือกร้าน ฉันมักเทียบราคากับปริมาณ แล้วเอาร้านที่คุ้มสุด แม้ไม่ใช่ร้านที่อยากกิน"
+ },
+ {
+  "id": "Tea0",
+  "problem": "des 3.69 with no cost; 'ทำให้เสร็จตามนั้น' is a discipline or success outcome (R7)",
+  "cat": "b",
+  "t": "ฉันมักตั้งเป้าให้งานศิลปะเป็นตัวเลข เช่น เดือนละกี่ชิ้น จนบางชิ้นต้องรีบปิดทั้งที่ยังอยากเกลาต่อ"
+ },
+ {
+  "id": "Teq5",
+  "problem": "des 3.85 with no cost; making sure the receiver gets what they want is Fe consideration",
+  "cat": "a",
+  "t": "เลือกของขวัญ ฉันมักถามคนรับตรง ๆ ว่าต้องการอะไร แล้วซื้อตามนั้น แม้จะไม่มีเซอร์ไพรส์"
+ },
+ {
+  "id": "Tek3",
+  "problem": "des 3.8 with no cost; 'รับหน้าที่จัดการ…เพื่อให้งานเดินต่อ' is a leadership virtue",
+  "cat": "b",
+  "t": "งานกลุ่มชะงัก ฉันมักบอกเลยว่าใครทำอะไรต่อ แม้บางคนจะไม่ทันตั้งตัว"
+ },
+ {
+  "id": "Tek4",
+  "problem": "Liking a checklist is generic Conscientiousness or J, not a focus on measurable results",
+  "cat": "a",
+  "t": "ฉันมักนับว่าวันนี้ปิดงานได้กี่ข้อ แล้วเทียบกับที่ตั้งไว้"
+ },
+ {
+  "id": "Tek1",
+  "problem": "Near-duplicate of Tew1 (same stem and same 'แม้คนอื่นจะยัง…กับแบบเดิม' cost)",
+  "cat": "d",
+  "t": "ฉันมักจับเวลาเรื่องที่ทำซ้ำทุกวัน แล้วหาทางตัดให้สั้นลง จนคนในบ้านว่าจริงจังเกินเรื่อง"
+ },
+ {
+  "id": "Tey3",
+  "problem": "Defines meaningful belief by usefulness ('ถ้าใช้ไม่ได้ ฉันก็ไม่ค่อยยึด'), which judges religious belief",
+  "cat": "c",
+  "t": "เวลาลองแนวปฏิบัติทางใจ เช่น นั่งสมาธิ ฉันมักจดว่าทำแล้วนอนหลับดีขึ้นไหม ถ้าไม่เห็นผลก็ลองแบบอื่น"
+ },
+ {
+  "id": "Ter3",
+  "problem": "'อะไรควรทำหรือไม่ควรทำ' is moralising (R12) and has no scene; it reads as bossy rather than about efficiency",
+  "cat": "e",
+  "t": "คนใกล้ตัวลังเล ฉันมักบอกตรง ๆ ว่าทางไหนคุ้มกว่า เพื่อให้เรื่องจบเร็ว"
+ }
+]

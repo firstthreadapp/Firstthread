@@ -1,0 +1,278 @@
+[
+ {
+  "id": "Niw2",
+  "problem": "Vision/ideal-future claim ('มีภาพชัด...ควรเป็น') reads as มีวิสัยทัศน์; normative ควร, no cost",
+  "cat": "b",
+  "t": "ฉันมักนึกภาพว่างานที่ทำอยู่จะไปจบที่ไหนในอีกหลายปี จนบางทีงานตรงหน้าก็ช้าลง"
+ },
+ {
+  "id": "Nil2",
+  "problem": "Rated 3.85 with no cost; clear life goals is generic goal-directedness (C/J), not Ni perceiving",
+  "cat": "b",
+  "t": "ฉันมีภาพในหัวว่าชีวิตจะไปทางไหน จนไม่ค่อยฟังทางอื่นที่คนแนะนำ"
+ },
+ {
+  "id": "Nip1",
+  "problem": "Goal-setting / achievement motivation (Conscientiousness), rated 3.7 with no cost",
+  "cat": "a",
+  "t": "ตอนซ้อมกีฬา ฉันมักนึกภาพท่าที่ต้องการทั้งท่าไว้ก่อน แล้วซ้อมตามภาพนั้น จนบางทีข้ามพื้นฐานไป"
+ },
+ {
+  "id": "Nih2",
+  "problem": "'What is this teaching me' is a growth/lesson virtue (Buddhist reflection script), rated 3.65 with no cost",
+  "cat": "b",
+  "t": "พอความรักมีปัญหาหรือจบลง ฉันมักวนคิดจนเห็นแก่นเดียวใต้ปัญหาทั้งหมด แม้บางทีจะคิดไปไกลเกินจริง"
+ },
+ {
+  "id": "Niz3",
+  "problem": "Backward planning from an end goal is Te/J stepwise planning (same issue as audit BNiSez0)",
+  "cat": "a",
+  "t": "ฉันมักเลือกสิ่งที่ทำวันนี้จากภาพปลายทางลาง ๆ ในใจ จนคนรอบตัวงงว่าเลือกทำไม"
+ },
+ {
+  "id": "Nit1",
+  "problem": "Near-duplicate of Nit0 and Nit3 (pet + 'อีกหลายปี' life image); repeated stem makes target obvious",
+  "cat": "d",
+  "t": "เลี้ยงสัตว์ไปนาน ๆ ฉันมักเห็นขึ้นมาเองว่านิสัยหลายอย่างของมันมาจากเรื่องเดียวกัน แม้บางทีจะคิดไปเองเกินจริง"
+ },
+ {
+  "id": "Nik5",
+  "problem": "Duplicates Nik0 and Niy1, and reuses the 'อธิบายเหตุผลไม่ถูก' cost that marks a dozen Ni items",
+  "cat": "d",
+  "t": "เรื่องใหม่ที่เข้ามา ฉันมักเอาไปต่อกับภาพใหญ่ในหัว จนบางทีมองข้ามส่วนที่ไม่เข้ากับภาพนั้น"
+ },
+ {
+  "id": "Niz5",
+  "problem": "Same 'อธิบายเป็นคำไม่ค่อยได้' cost as Niz4 in the same context; repeated Ni giveaway",
+  "cat": "d",
+  "t": "รายละเอียดความฝันของฉันเปลี่ยนได้เรื่อย ๆ แต่แก่นข้างใต้ยังเป็นภาพเดิม จนบางทีคนรอบตัวคิดว่าฉันเปลี่ยนใจบ่อย"
+ },
+ {
+  "id": "Nip3",
+  "problem": "Same 'อธิบาย...ไม่ชัด/ไม่ถูก' cost as Nip2 in the same context; repeated Ni giveaway",
+  "cat": "d",
+  "t": "หลังเล่นหรือดูกีฬามาหลายนัด ฉันมักรู้สึกว่ามีรูปแบบลึก ๆ อย่างหนึ่งวนกลับมา จนบางทีมองข้ามว่าแต่ละนัดต่างกันตรงไหน"
+ },
+ {
+  "id": "Nil4",
+  "problem": "Repeats the 'หลายวัน จนวันหนึ่งเข้าใจ' stem of Nir4/Niy4/Nib3 and duplicates the film context (Niv)",
+  "cat": "d",
+  "t": "ทำงานบ้านหรือเดินเล่นเพลิน ๆ ทีไร คำตอบของเรื่องที่ค้างในใจมักโผล่ขึ้นมาเอง จนบางทีลืมว่ากำลังทำอะไรอยู่"
+ },
+ {
+  "id": "Nin2",
+  "problem": "Topic liking (prefers futurist news) rather than a way of perceiving",
+  "cat": "a",
+  "t": "อ่านข่าวรายวัน ฉันมักนึกเลยไปว่าเรื่องนี้จะพาโลกไปทางไหน จนจำรายละเอียดข่าวไม่ได้"
+ },
+ {
+  "id": "Niu2",
+  "problem": "Music taste/topic liking ('ชอบเพลงที่มีความหมายหลายชั้น'), not a perceiving habit",
+  "cat": "a",
+  "t": "ฉันมักตีความเพลงจนเหลือความหมายเดียวใต้เนื้อร้อง แม้อาจไกลจากที่คนแต่งตั้งใจ"
+ },
+ {
+  "id": "Nik1",
+  "problem": "Ability claim (simplifies complexity to one point), no cost",
+  "cat": "b",
+  "t": "เรื่องซับซ้อน ฉันมักย่อในหัวจนเหลือประเด็นเดียว แม้จะตัดรายละเอียดทิ้ง"
+ },
+ {
+  "id": "Nis2",
+  "problem": "Reads as a study skill (good summariser), rated 3.61 with no cost",
+  "cat": "b",
+  "t": "เวลาสรุปบทเรียน ฉันมักย่อจนเหลือแนวคิดหลักไม่กี่คำ จนบางทีลืมรายละเอียดที่ใช้ตอนสอบ"
+ },
+ {
+  "id": "Ner0",
+  "problem": "Rated 4.0: open-mindedness virtue (เปิดใจ) with no cost; also E-flavoured",
+  "cat": "b",
+  "t": "คุยกับคนใกล้ตัว ฉันมักพาเรื่องแตกไปเป็นมุมใหม่ ๆ แม้เขาแค่อยากเล่าเฉย ๆ"
+ },
+ {
+  "id": "New3",
+  "problem": "Helpful team contributor, rated 3.6 with no cost",
+  "cat": "b",
+  "t": "ก่อนทีมตัดสินใจ ฉันมักเสนอทางเลือกใหม่ แม้ทีมใกล้ได้ข้อสรุปแล้ว"
+ },
+ {
+  "id": "New5",
+  "problem": "'Sees new opportunities' is a valued competence, rated 3.55 with no cost",
+  "cat": "b",
+  "t": "เวลาคุยงานกับเพื่อนร่วมงาน ฉันมักเห็นว่าเรื่องนี้แตกต่อได้อีกหลายทาง จนบางทีคุยเลยจากเรื่องที่ต้องตกลงกันวันนั้น"
+ },
+ {
+  "id": "Nel0",
+  "problem": "Generic Openness/novelty liking and double-barrelled (many hobbies + likes new things)",
+  "cat": "a",
+  "t": "เวลาว่าง งานอดิเรกหนึ่งมักพาฉันไปนึกถึงอีกอย่างที่น่าลอง แม้อุปกรณ์ของอย่างเดิมจะยังใช้ไม่คุ้ม"
+ },
+ {
+  "id": "Nel1",
+  "problem": "Topic liking (audit Nel1 fix not yet applied); generic Openness",
+  "cat": "a",
+  "t": "ดูหนังจบ ฉันมักนึกว่าเรื่องหักไปทางอื่นได้กี่แบบ จนลืมตอนจบจริง"
+ },
+ {
+  "id": "Nel2",
+  "problem": "Unnatural Thai ('ลองสมมติฐาน') and an activity liking rather than a habit",
+  "cat": "e",
+  "t": "เวลาว่าง ฉันชอบเล่นของเดิมไม่ตามคู่มือ ดูว่าออกมาเป็นอะไรได้อีก"
+ },
+ {
+  "id": "Nes1",
+  "problem": "Good test-taking strategy, rated 3.55 with no cost",
+  "cat": "b",
+  "t": "ตอนทำโจทย์ ฉันมักลองคิดวิธีตอบหลายแบบก่อนเลือก จนบางทีทำไม่ทันเวลา"
+ },
+ {
+  "id": "Nev1",
+  "problem": "Topic/taste liking (picks novel films), not a perceiving habit",
+  "cat": "a",
+  "t": "ระหว่างดูหนัง ฉันมักเผลอคิดโยงไปเรื่องอื่น จนบางทีพลาดบทพูดสำคัญไป"
+ },
+ {
+  "id": "Ned2",
+  "problem": "Novelty/sensation seeking (trying new restaurants) fits Se or generic Openness as well as Ne",
+  "cat": "a",
+  "t": "กินอาหารจานไหน ฉันมักนึกต่อว่าเปลี่ยนเครื่องปรุงแล้วจะเป็นเมนูอะไรได้อีก จนลืมตั้งใจกิน"
+ },
+ {
+  "id": "Neh4",
+  "problem": "Rated 3.75: fun, engaged partner with no cost",
+  "cat": "b",
+  "t": "เวลาอีกฝ่ายเล่าเรื่องที่ชอบ ฉันมักต่อยอดเป็นไอเดียที่เราอาจลองทำด้วยกันได้อีกหลายอย่าง จนบางทีเขายังเล่าไม่จบ"
+ },
+ {
+  "id": "Nen3",
+  "problem": "Open-minded listener, rated 3.5 with no cost; repeats the 'มุมมองแปลกใหม่' stem of Nel1/Neh3",
+  "cat": "b",
+  "t": "อ่านข่าว ฉันชอบนึกว่ามองจากฝั่งอื่นจะเล่าได้กี่แบบ จนไม่ได้สรุปความเห็นตัวเอง"
+ },
+ {
+  "id": "Nei0",
+  "problem": "Measures financial risk-taking / exotic-asset liking, not Ne; money-risk content carries Thai ↓ (ฟุ่มเฟือย/ประมาท)",
+  "cat": "a",
+  "t": "เวลาเลือกลงทุน ฉันมักเปิดดูตัวเลือกใหม่ ๆ ไปเรื่อย ๆ ว่ามีทางไหนเป็นไปได้อีก จนบางทีกว่าจะเลือกได้ก็นานกว่าที่ตั้งใจ"
+ },
+ {
+  "id": "Nek7",
+  "problem": "Near-duplicate of Neq2 and Nef3 ('เอาไปใช้แบบอื่นได้อีกหลายอย่าง')",
+  "cat": "d",
+  "t": "ได้ยินประโยคหนึ่ง ฉันมักนึกโยงไปได้อีกหลายความหมาย จนบางทีตอบคนพูดช้าไปจังหวะหนึ่ง"
+ },
+ {
+  "id": "Nei4",
+  "problem": "Repeats the exact 'มักแตกประเด็นไปหลายทาง จน…' stem of Ney5",
+  "cat": "d",
+  "t": "คุยเรื่องลงทุนกับใคร ไอเดียหนึ่งมักพาฉันไปนึกถึงอีกหลายไอเดีย จนสิ่งที่อยากลองมีมากกว่าที่ลงมือจริง"
+ },
+ {
+  "id": "Nek8",
+  "problem": "Keeping options open before choosing is mainly J/P (P), not Ne perceiving",
+  "cat": "a",
+  "t": "เวลาเริ่มเรื่องใหม่ ฉันมักสนุกตอนที่ยังนึกออกว่ามันเป็นไปได้กี่แบบ มากกว่าตอนลงมือทำแบบที่เลือกไว้แล้ว"
+ },
+ {
+  "id": "Nek9",
+  "problem": "'เก็บทางเลือกไว้หลายทาง' is the classic P item; duplicates Nek8",
+  "cat": "a",
+  "t": "แม้จะเลือกทางหนึ่งไปแล้ว หัวฉันก็มักนึกต่อว่าถ้าไปอีกทางจะเป็นยังไง จนบางทีเผลอเทียบไม่จบ"
+ },
+ {
+  "id": "Sir0",
+  "problem": "Rated 4.15: remembering others' likes is Fe-flavoured thoughtfulness with no cost",
+  "cat": "b",
+  "t": "ฉันมักจำได้ว่าคนใกล้ตัวเคยชอบอะไร แล้วเลือกให้แบบเดิม แม้บางทีเขาจะเปลี่ยนไปชอบอย่างอื่นแล้ว"
+ },
+ {
+  "id": "Sir1",
+  "problem": "Rated 4.15: valuing family tradition is a Thai virtue (รักครอบครัว/ประเพณี) and a hierarchy scene; 'ให้คุณค่า' labels a value",
+  "cat": "c",
+  "t": "กับเพื่อนสนิท ฉันชอบไปร้านเดิมทุกวันเกิดแบบที่ทำมาหลายปี แม้บางคนอยากลองร้านใหม่"
+ },
+ {
+  "id": "Sir3",
+  "problem": "Rated 3.85: attachment/loyalty reads as a virtue, no cost",
+  "cat": "b",
+  "t": "ฉันติดที่ประจำที่ไปกับคนใกล้ตัว จนพอที่นั้นปิดก็ใจหาย"
+ },
+ {
+  "id": "Sir4",
+  "problem": "Rated 3.75: attentiveness to loved ones with no cost; uses absolute 'ตลอด'",
+  "cat": "b",
+  "t": "เวลาคนใกล้ตัวทำต่างจากปกติแม้นิดเดียว ฉันมักสะดุดเพราะเทียบกับแบบที่เขาเคยเป็น จนบางทีถามมากไปทั้งที่ไม่มีอะไร"
+ },
+ {
+  "id": "Sia0",
+  "problem": "Ability word 'ชำนาญ' plus a teacher/school hierarchy scene",
+  "cat": "c",
+  "t": "เวลาทำงานศิลปะ ฉันชอบฝึกเทคนิคเดิมซ้ำจนมือจำได้ แม้งานจะออกมาคล้ายชิ้นก่อน ๆ"
+ },
+ {
+  "id": "Sit0",
+  "problem": "Responsible-owner routine rated 3.65 with no cost; near-duplicate of Sit3 (same feeding time / walking route)",
+  "cat": "d",
+  "t": "เวลาให้อาหารสัตว์เลี้ยง ฉันกะปริมาณจากความคุ้นมือแบบที่ทำมา แม้บางทีจะไม่ได้ดูฉลากบนถุง"
+ },
+ {
+  "id": "Sih0",
+  "problem": "Rated 3.8: cherishing romantic memories is a virtue, no cost",
+  "cat": "b",
+  "t": "ฉันชอบนึกย้อนถึงรายละเอียดเล็ก ๆ ของวันสำคัญกับคนที่รัก จนบางทีเผลอเทียบวันนี้กับวันนั้น"
+ },
+ {
+  "id": "Siz0",
+  "problem": "Family/teacher as inspiration brings in the กตัญญู/respect script; rated 3.76, no cost",
+  "cat": "c",
+  "t": "แรงบันดาลใจของฉันมักมาจากสิ่งที่เคยทำแล้วรู้สึกดี เลยมักฝันถึงสิ่งที่ใกล้กับที่เคยทำ มากกว่าทางที่ไม่คุ้นเลย"
+ },
+ {
+  "id": "Siz1",
+  "problem": "Rated 4.05: steady daily discipline toward goals is Conscientiousness/J (มีวินัย, official virtue)",
+  "cat": "a",
+  "t": "ความฝันของฉันมักเป็นชีวิตที่มีกิจวัตรคุ้นเคยลงตัว แม้คนอื่นฟังแล้วจะว่าธรรมดาไป"
+ },
+ {
+  "id": "Sii3",
+  "problem": "Rated 3.7: keeping an investment journal is prudent Conscientiousness with no cost",
+  "cat": "b",
+  "t": "ฉันจดบันทึกการลงทุนไว้ แล้วมักกลับไปใช้วิธีเดิมที่เคยใช้ แม้ตลาดตอนนี้จะไม่เหมือนเดิมแล้ว"
+ },
+ {
+  "id": "Sif2",
+  "problem": "Rated 3.65: looking after old gear reads as thrift (พอเพียง) virtue, no cost",
+  "cat": "b",
+  "t": "อุปกรณ์ที่ใช้จนเข้ามือแล้ว ฉันมักใช้ต่อไปเรื่อย ๆ แม้รุ่นใหม่จะช่วยให้ทำได้ง่ายขึ้น"
+ },
+ {
+  "id": "Sif3",
+  "problem": "Rated 3.7: 'solid fundamentals first' is the sound-learner answer, no cost",
+  "cat": "b",
+  "t": "เริ่มงานอดิเรกใหม่ ฉันชอบฝึกพื้นฐานแบบที่คนทำกันมานานให้แน่นก่อน แม้จะนานกว่าจะได้ลองอะไรสนุก ๆ"
+ },
+ {
+  "id": "Six3",
+  "problem": "Rated 3.61: helpful friend sharing experience, no cost",
+  "cat": "b",
+  "t": "เวลาเพื่อนเจอปัญหา ฉันมักนึกถึงตอนที่ตัวเองเคยเจอเรื่องคล้ายกัน แล้วเล่าว่าตอนนั้นทำยังไง แม้บางทีเพื่อนแค่อยากให้ฟัง"
+ },
+ {
+  "id": "Sik3",
+  "problem": "Near-duplicate of Sik6 and Sik2 (daily routine order) in the same context",
+  "cat": "d",
+  "t": "เวลาต้องเลือกอะไรเร็ว ๆ ฉันมักหยิบแบบเดิมที่เคยเลือก แม้จะไม่ได้ดูว่ามีแบบอื่นที่เหมาะกว่า"
+ },
+ {
+  "id": "Siw2",
+  "problem": "Rated 3.56: reusing lessons from past projects is a work virtue, no cost",
+  "cat": "b",
+  "t": "ฉันมักหยิบวิธีจากโปรเจกต์เก่ามาใช้กับงานใหม่ จนงานออกมาคล้ายงานเดิม"
+ },
+ {
+  "id": "Sip0",
+  "problem": "Outcome word plus absolute ('ได้ผลมาตลอด'); 'ได้ผล' is a repeated Si cue across Siw0/Siw3/Sit1/Sig2",
+  "cat": "d",
+  "t": "ฉันซ้อมด้วยโปรแกรมเดิมที่ทำมานาน แม้จะเริ่มอิ่มตัว"
+ }
+]

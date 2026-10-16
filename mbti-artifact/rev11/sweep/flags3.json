@@ -1,0 +1,356 @@
+[
+ {
+  "id": "Fir0",
+  "problem": "Self-clarity claim ('รู้ชัด') reads as an ability/virtue with no cost; relationship context missing",
+  "cat": "b",
+  "t": "ถึงคนใกล้ตัวจะเห็นต่าง ฉันก็มักยืนตามที่ใจรู้สึก แม้เขาจะยกเหตุผลมาหลายข้อ"
+ },
+ {
+  "id": "Fir5",
+  "problem": "Pits Fi against family expectations; katanyu/respect for elders decides the answer, not Fi",
+  "cat": "c",
+  "t": "ถ้าเพื่อนสนิทหรือแฟนเชียร์ให้ฉันเลือกทางที่ไม่ใช่ตัวฉัน ฉันมักค่อย ๆ ยืนยันทางของตัวเอง แม้เขาจะดูผิดหวังอยู่พักหนึ่ง"
+ },
+ {
+  "id": "Fil0",
+  "problem": "Measures having an artistic hobby (writing, drawing, music) rather than inner valuing",
+  "cat": "a",
+  "t": "เวลาว่าง ฉันมักจดหรือขีดเขียนความรู้สึกส่วนตัวเก็บไว้ โดยไม่ได้ตั้งใจให้ใครเห็น"
+ },
+ {
+  "id": "Fil1",
+  "problem": "Topic liking for 'meaning of being human' stories; Ni/Fe/Openness readers endorse it too",
+  "cat": "a",
+  "t": "ดูหนังจบ ฉันมักถามใจตัวเองว่าถ้าเป็นฉันจะเลือกแบบตัวละครไหม"
+ },
+ {
+  "id": "Fil4",
+  "problem": "Near-duplicate of Fil3 (leisure by heart despite others' view); same cost clause pattern",
+  "cat": "d",
+  "t": "ฉันเลือกทำอะไรในเวลาว่างจากว่ามันมีความหมายกับใจแค่ไหน แม้บางอย่างจะไม่ได้ช่วยให้พักหรือสนุกนัก"
+ },
+ {
+  "id": "Fim2",
+  "problem": "Not posting private feelings is privacy/introversion (E/I), not Fi; repeats the 'too personal to share' idea of Fiu4/Fia3/Fiz5",
+  "cat": "a",
+  "t": "เห็นคนแชร์เรื่องที่ใจฉันรับไม่ได้ ฉันมักเลื่อนผ่านเงียบ ๆ แต่จะจำไว้ว่าเราคิดกันคนละแบบ"
+ },
+ {
+  "id": "Fig3",
+  "problem": "Near-duplicate of Fig1 (play a style that feels like me despite it not being optimal)",
+  "cat": "d",
+  "t": "ถ้าเกมที่ชอบเปลี่ยนไปในทางที่ฉันรู้สึกว่าไม่ใช่แล้ว ฉันมักเลิกเล่นไปเงียบ ๆ แม้เพื่อนในเกมจะยังเล่นกันอยู่"
+ },
+ {
+  "id": "Fid0",
+  "problem": "Virtue words (ความเป็นธรรม, animals, environment) and topic of ethical diet; 3.61 with no cost",
+  "cat": "b",
+  "t": "ถ้าอาหารจานไหนขัดกับความรู้สึกบางอย่างในใจ ฉันมักไม่กิน แม้คนในวงจะสั่งมาแล้ว จนต้องนั่งกินอย่างอื่นอยู่คนเดียว"
+ },
+ {
+  "id": "Fid2",
+  "problem": "Knowing which flavours one likes is Si sensory preference, not personal values",
+  "cat": "a",
+  "t": "ฉันเลือกร้านจากว่ารู้สึกดีกับคนทำหรือวิธีของร้านไหม แม้จะไม่ใช่ร้านที่อร่อยสุด"
+ },
+ {
+  "id": "Fiy1",
+  "problem": "Integrity virtue ('ยึดไว้แน่น ไม่ยอมเปลี่ยนแม้ถูกกดดัน'), 3.6, cost is heroic",
+  "cat": "b",
+  "t": "ฉันมีหลักในใจไม่กี่ข้อที่ไม่ยอมยืดหยุ่น แม้เรื่องนั้นจะเล็กจนคนอื่นงงว่าทำไม"
+ },
+ {
+  "id": "Fiy5",
+  "problem": "Cost 'อธิบายให้คนอื่นเข้าใจได้ยาก' repeated in six Fi items",
+  "cat": "d",
+  "t": "สิ่งที่ฉันเชื่อลึก ๆ มักมาจากความรู้สึกข้างใน มากกว่าสิ่งที่ได้ยินต่อกันมา แม้บางทีจะทำให้เชื่อไม่เหมือนคนรอบตัว"
+ },
+ {
+  "id": "Fit1",
+  "problem": "Cost 'อธิบายให้คนอื่นเข้าใจได้ยาก' repeated in six Fi items; no behaviour",
+  "cat": "d",
+  "t": "ฉันดูแลสัตว์เลี้ยงในแบบที่ใจรู้สึกว่าเป็นความผูกพันของเรา แม้บางอย่างคนอื่นจะมองว่าเกินเหตุ"
+ },
+ {
+  "id": "Fiz1",
+  "problem": "Rated 3.95; heroic cost (less money/praise) makes it the noble answer",
+  "cat": "b",
+  "t": "ฉันเลือกเส้นทางจากความรู้สึกว่า “ใช่” จนคนรอบตัวต้องถามว่าคิดเรื่องเงินหรือยัง"
+ },
+ {
+  "id": "Fiz5",
+  "problem": "Fourth 'too personal to let anyone judge' item (Fim2, Fia3, Fiu4); also E/I privacy",
+  "cat": "d",
+  "t": "ความฝันบางอย่างฉันยังเก็บไว้ แม้ดูแล้วไม่น่าเป็นไปได้ เพราะใจยังรู้สึกว่ามันเป็นของฉันจริง ๆ"
+ },
+ {
+  "id": "Fii0",
+  "problem": "Ethical-investing virtue with absolute 'ต่อให้ผลตอบแทนดีแค่ไหน'; 3.74, no real cost",
+  "cat": "b",
+  "t": "ธุรกิจไหนทำสิ่งที่ใจฉันรับไม่ได้ ฉันมักไม่ลงเงิน แม้จะเสียดายเมื่อเห็นคนอื่นได้กำไร"
+ },
+ {
+  "id": "Fiq4",
+  "problem": "Cost 'แม้จะดูไม่เข้าพวกไปบ้าง' repeated in Fix4",
+  "cat": "d",
+  "t": "เทรนด์ที่ฉันรู้สึกว่าไม่ใช่ตัวเอง ต่อให้คนรอบตัวใส่กันหมด ฉันก็ไม่ค่อยอยากตาม แม้จะถูกถามบ่อยว่าทำไมไม่ลองบ้าง"
+ },
+ {
+  "id": "Fiq5",
+  "problem": "Gift that expresses feelings toward someone is Fe-like (expressing care), not personal taste",
+  "cat": "a",
+  "t": "เวลาซื้อของ ฉันมักถามตัวเองว่าชิ้นนี้ “เป็นฉัน” ไหม มากกว่าดูว่าคุ้มหรือใช้บ่อยแค่ไหน จนบางทีได้ของที่ไม่ค่อยได้ใช้"
+ },
+ {
+  "id": "Fix5",
+  "problem": "Rated 3.8; meaningful gift is a thoughtful-friend virtue, overlaps Fe and repeats Fiq5",
+  "cat": "b",
+  "t": "ถ้าเพื่อนชวนทำอะไรที่กลุ่มเห็นว่าไม่เป็นไร แต่ใจฉันไม่โอเค ฉันมักขอไม่ทำด้วย แม้เพื่อนจะแซวว่าคิดมาก"
+ },
+ {
+  "id": "Fik1",
+  "problem": "Uses banned pattern 'รู้...อะไรถูกอะไรผิด' (moral self-assurance)",
+  "cat": "b",
+  "t": "ฉันใช้ความรู้สึกข้างในตัดสินว่าเรื่องไหนรับได้สำหรับตัวเอง แม้คนส่วนใหญ่จะคิดอีกแบบ"
+ },
+ {
+  "id": "Fik2",
+  "problem": "Normative 'แม้เป็นเรื่องที่ควรทำ' frames Fi as neglecting duty (des 2.65)",
+  "cat": "b",
+  "t": "ถ้าต้องทำสิ่งที่ฝืนใจ ฉันมักทำได้แต่ไม่มีแรง จนคนรอบตัวดูออกว่าฉันไม่ได้อยากทำ"
+ },
+ {
+  "id": "Fik4",
+  "problem": "Generic restatement of Fik3 with the repeated 'อธิบายให้คนอื่นเข้าใจยาก' cost; labels the construct",
+  "cat": "d",
+  "t": "ถ้าทางเลือกดูดีพอ ๆ กัน ฉันมักเลือกทางที่ใจสบายกว่า แม้อีกทางจะได้เปรียบกว่านิดหน่อย"
+ },
+ {
+  "id": "Few3",
+  "problem": "Rated 3.79; heroic cost 'แม้จะเหนื่อย' makes mediating the virtuous answer",
+  "cat": "b",
+  "t": "เวลาเพื่อนร่วมงานไม่ลงรอยกัน ฉันมักเข้าไปคุยกับทั้งสองฝ่ายเอง จนบางทีถูกมองว่ายุ่งเรื่องที่ไม่ใช่ของตัวเอง"
+ },
+ {
+  "id": "Fer2",
+  "problem": "Rated 3.85, no cost; 'ปรับคำพูดหรือท่าที' repeated across Few2/Fek0/Fek8/Feh0",
+  "cat": "b",
+  "t": "ถ้าคนใกล้ตัวเริ่มหงุดหงิด ฉันมักรีบเอาใจเขา จนบางทีเขารำคาญเหมือนถูกมองว่าเปราะบาง"
+ },
+ {
+  "id": "Fel0",
+  "problem": "Rated 4.15; considerate-host answer, cost is token",
+  "cat": "b",
+  "t": "เวลานัดเพื่อน ฉันมักรอจนทุกคนโอเคก่อนค่อยสรุปที่นัด จนบางทีนัดลากไปหลายวันกว่าจะได้เจอกันจริง"
+ },
+ {
+  "id": "Fel2",
+  "problem": "Rated 3.95; 'ไม่อยากให้เขาผิดหวัง' is a น้ำใจ virtue with a light cost",
+  "cat": "b",
+  "t": "ถ้าเพื่อนขอให้ไปเป็นเพื่อน ฉันมักตอบตกลงทันที แล้วค่อยมานึกเสียดายแผนของตัวเองที่ต้องยกเลิกทีหลัง"
+ },
+ {
+  "id": "Fel3",
+  "problem": "Topic liking ('เรื่องที่ทำให้รู้สึกร่วม'), no situation or cost",
+  "cat": "a",
+  "t": "ฉันมักดูซีรีส์ที่เพื่อนดูกัน เพื่อจะได้อินด้วยกัน แม้ไม่ใช่แนวฉัน"
+ },
+ {
+  "id": "Fel4",
+  "problem": "Near-duplicate of Fev0; 'จนตัวเองไม่ได้...เต็มที่' cost repeated in ~7 Fe items",
+  "cat": "d",
+  "t": "ไปเที่ยวเล่นกับคนอื่น ถ้าเขาเงียบไป ฉันมักเผลอคิดว่าเขาไม่สนุกเพราะฉัน แม้จริง ๆ เขาแค่เหนื่อย"
+ },
+ {
+  "id": "Fes0",
+  "problem": "Rated 3.99; self-sacrificing tutor scene (heroic cost)",
+  "cat": "b",
+  "t": "ในกลุ่มติว ฉันมักคอยดูสีหน้าว่าใครเริ่มงง แล้วขอให้วงช้าลง จนคนที่ตามทันแล้วเริ่มหงุดหงิด"
+ },
+ {
+  "id": "Fes1",
+  "problem": "Being distracted by room atmosphere is general sensitivity (Se/N), not attunement to others' feelings",
+  "cat": "a",
+  "t": "ถ้าเพื่อนตอบผิดกลางห้อง ฉันมักเขินแทนจนเรียนต่อไม่ค่อยเข้าหัว"
+ },
+ {
+  "id": "Feb0",
+  "problem": "Recommending books is an E (sharing) behaviour; 3.7, no cost",
+  "cat": "a",
+  "t": "ฉันมักเล่าหนังสือเล่มที่คิดว่าคนฟังจะอิน แม้ไม่ใช่เล่มที่ฉันชอบที่สุด"
+ },
+ {
+  "id": "Feb2",
+  "problem": "Getting more from reading via group discussion is E (external processing)",
+  "cat": "a",
+  "t": "อ่านหนังสือจบ ฉันมักนึกว่าคนใกล้ตัวจะรู้สึกเหมือนกันไหม จนความรู้สึกของตัวเองไม่ค่อยชัด"
+ },
+ {
+  "id": "Feb3",
+  "problem": "Rated 3.79; reading a friend's pick reads as considerate, cost mild",
+  "cat": "b",
+  "t": "ใครแนะนำหนังสือให้ ฉันมักรีบอ่าน เพราะกลัวเขาเก้อถ้าฉันยังไม่ได้อ่าน จนเล่มที่อยากอ่านเองค้างอยู่หลายเล่ม"
+ },
+ {
+  "id": "Fem1",
+  "problem": "Rated 3.95; 'ไม่มีใครรู้สึกแย่' is the good-person answer; duplicates Few4",
+  "cat": "b",
+  "t": "ก่อนโพสต์ ฉันมักนึกว่าใครอ่านแล้วจะคิดมากไหม จนบางทีลบทิ้งทั้งโพสต์ ไม่ได้พูดสิ่งที่อยากพูดเลย"
+ },
+ {
+  "id": "Feg2",
+  "problem": "Rated 3.91; flexible host, cost weak; also reads as Se/P adaptability",
+  "cat": "b",
+  "t": "ปาร์ตี้เกม ถ้าเห็นใครหน้าเสียเพราะแพ้บ่อย ฉันมักแอบออมมือ จนคนที่กำลังสนุกบ่นว่าเกมไม่มัน"
+ },
+ {
+  "id": "Fev2",
+  "problem": "Rated 4.1 with no cost",
+  "cat": "b",
+  "t": "เลือกหนังดูกับกลุ่ม ฉันมักเลือกเรื่องที่ไม่มีใครค้าน แม้จะไม่มีใครอินจริงสักคน"
+ },
+ {
+  "id": "Fev3",
+  "problem": "Rated 3.74 with no cost",
+  "cat": "b",
+  "t": "เวลาดูหนังกับคนอื่น ถ้าเห็นใครเริ่มเบื่อหรือไม่สบายใจกับบางฉาก ฉันมักเสนอให้ข้าม แม้คนที่กำลังดูอยู่จะเสียอารมณ์ไปด้วย"
+ },
+ {
+  "id": "Fep2",
+  "problem": "Playing sport to meet friends is E / social motive, double-barrelled, no cost",
+  "cat": "a",
+  "t": "ทีมขาดตำแหน่งไหน ฉันมักรับไปเล่นเอง แม้จะเป็นตำแหน่งที่ไม่ชอบเลย"
+ },
+ {
+  "id": "Fea1",
+  "problem": "Rated 3.91; enjoying collaborative art is E, double-barrelled, no cost",
+  "cat": "a",
+  "t": "ทำงานศิลปะกับกลุ่ม ฉันมักปรับส่วนของตัวเองตามกลุ่ม จนแทบไม่เหลือลายมือฉัน"
+ },
+ {
+  "id": "Feh0",
+  "problem": "Rated 3.9, no cost; repeats the 'ปรับตัว/ท่าที' stem",
+  "cat": "b",
+  "t": "ถ้าคนที่คบอารมณ์ไม่ดี ฉันมักเดาว่าเพราะฉันหรือเปล่า แล้วระวังตัวทั้งวัน ทั้งที่เป็นเรื่องอื่น"
+ },
+ {
+  "id": "Feh1",
+  "problem": "Rated 3.91, no cost; brings in family (hierarchy) and is double-barrelled",
+  "cat": "b",
+  "t": "ก่อนพาแฟนไปเจอเพื่อนกลุ่มใหญ่ ฉันมักกังวลว่าทุกฝ่ายจะเข้ากันได้ไหม จนไปถึงก็เกร็งเองทั้งงาน"
+ },
+ {
+  "id": "Feh2",
+  "problem": "Rated 3.86; 'เป็นฝ่ายง้อก่อน' reads as mature/virtuous, no cost",
+  "cat": "b",
+  "t": "เวลาผิดใจกับคนที่คบ ฉันมักรีบง้อก่อนเพราะทนบรรยากาศอึมครึมไม่ไหว จนเรื่องที่ตัวเองไม่พอใจก็ไม่ได้พูด"
+ },
+ {
+  "id": "Fey0",
+  "problem": "Rated 4.1; joining family religious rites is a katanyu/religious-duty answer, no cost",
+  "cat": "c",
+  "t": "ถ้าเพื่อนชวนไปงานบุญหรืองานพิธีของบ้านเขา ฉันมักไปเพื่อให้เขารู้สึกว่ามีคนอยู่ด้วย แม้วันนั้นจะมีแผนของตัวเองอยู่แล้ว"
+ },
+ {
+  "id": "Fey2",
+  "problem": "Family merit-making plus admitting disbelief; hierarchy and religious-face risk",
+  "cat": "c",
+  "t": "ไปวัดกับกลุ่มเพื่อน ฉันมักทำตามจังหวะของคนในกลุ่ม แม้จะยังไม่รู้ความหมายของบางขั้นตอน"
+ },
+ {
+  "id": "Fey3",
+  "problem": "Lumps ทำบุญ with fortune-telling and implies disbelief in it; religious judgement risk",
+  "cat": "c",
+  "t": "ถ้าเพื่อนกำลังไม่สบายใจแล้วชวนไปดูดวง ฉันมักไปเป็นเพื่อนและพยักหน้าตามคำทำนาย แม้ในใจจะไม่ได้คิดแบบนั้น"
+ },
+ {
+  "id": "Fez1",
+  "problem": "Rated 4.15, no cost; also duplicates Fez4",
+  "cat": "b",
+  "t": "ความฝันของฉันมักเป็นแผนที่ทำกับคนอื่น ถ้าเขาถอนตัว ฉันก็มักหมดแรงทำต่อคนเดียว"
+ },
+ {
+  "id": "Fez3",
+  "problem": "Rated 3.85, no cost",
+  "cat": "b",
+  "t": "เลือกเส้นทาง ฉันมักนึกถึงสีหน้าคนที่แคร์ก่อน จนตัดบางทางทิ้งทั้งที่ยังไม่ได้ถามเขา"
+ },
+ {
+  "id": "Fej0",
+  "problem": "Rated 3.9; caring for tired friends, cost is the repeated 'ไม่ได้...เต็มที่'",
+  "cat": "b",
+  "t": "เวลาเที่ยวเป็นกลุ่ม ถ้าเห็นใครเริ่มเงียบ ฉันมักเดาว่าเขาเบื่อแล้วรีบชวนย้ายที่ จนคนอื่นงงว่าทำไมต้องรีบ"
+ },
+ {
+  "id": "Fej1",
+  "problem": "Rated 4.1; 'ทริปแฮปปี้ทั้งแก๊ง' is a no-cost harmony answer",
+  "cat": "b",
+  "t": "ระหว่างทริป ถ้าคนส่วนใหญ่อยากเปลี่ยนแผน ฉันมักเออออตาม แล้วค่อยมาเสียดายที่ที่ตั้งใจไว้"
+ },
+ {
+  "id": "Fej3",
+  "problem": "Rated 3.86; respecting locals is a รู้กาลเทศะ virtue",
+  "cat": "b",
+  "t": "ไปที่ใหม่ ฉันมักคอยดูสีหน้าคนแถวนั้นว่าเราทำอะไรแปลกไปไหม จนบางทีเกร็งจนไม่กล้าถ่ายรูปหรือถามทาง"
+ },
+ {
+  "id": "Fen0",
+  "problem": "Rated 3.91; 'พยายาม' (R12), double-barrelled, no cost",
+  "cat": "b",
+  "t": "คุยข่าวที่วงเห็นต่างกันแรง ๆ ฉันมักพูดแค่จุดที่ทุกคนเห็นตรงกัน จนดูเหมือนไม่มีความเห็น"
+ },
+ {
+  "id": "Fen3",
+  "problem": "Forwarding warning news is a habit/topic, not attunement to group feeling",
+  "cat": "a",
+  "t": "มีข่าวร้ายทีไร ฉันมักทักถามเพื่อนว่าโอเคไหม แม้เขาจะไม่ได้รู้สึกอะไรกับข่าวนั้น"
+ },
+ {
+  "id": "Fei0",
+  "problem": "Rated 4.0; family needs first is a katanyu answer",
+  "cat": "c",
+  "t": "เวลาเพื่อนสนิทชวนลงขันทำอะไรด้วยกัน ฉันมักตกลงเพราะไม่อยากให้วงกร่อย แม้เงินก้อนนั้นจะกันไว้ทำเรื่องของตัวเอง"
+ },
+ {
+  "id": "Fei1",
+  "problem": "Rated 3.74; caring about a friend's feelings with no cost",
+  "cat": "b",
+  "t": "ถ้าเพื่อนจะลงทุนอะไรเสี่ยง ๆ ฉันมักไม่กล้าทัก กลัวเขาเสียกำลังใจ แม้จะเห็นว่าตัวเลขไม่ดี"
+ },
+ {
+  "id": "Fei2",
+  "problem": "Rated 3.91; cost (still want to chat) is token; 'เปลี่ยนเรื่อง' stem repeated",
+  "cat": "b",
+  "t": "เวลาวงเพื่อนคุยเรื่องเงิน ฉันมักรีบเปลี่ยนเรื่องทันทีที่คิดว่ามีคนอึดอัด แม้บางทีเขากำลังอยากปรึกษาอยู่พอดี"
+ },
+ {
+  "id": "Feu0",
+  "problem": "Rated 4.06 with no real cost",
+  "cat": "b",
+  "t": "เวลาเปิดเพลงในรถหรือในวง ฉันมักเลือกเพลงที่ทุกคนร้องตามได้ แม้จะเป็นเพลงที่ฉันฟังจนเบื่อแล้ว"
+ },
+ {
+  "id": "Feq4",
+  "problem": "Rated 3.9; weak cost ('ไม่ตรงเต็มร้อย') and duplicates Feq1 home-decor scene",
+  "cat": "b",
+  "t": "ช็อปปิ้งกับเพื่อน ถ้าเขาดูไม่ปลื้มชิ้นที่ฉันหยิบ ฉันมักวางคืน แล้วกลับมาก็ยังคิดถึงชิ้นนั้น"
+ },
+ {
+  "id": "Fex3",
+  "problem": "Rated 3.91; cost is weak",
+  "cat": "b",
+  "t": "ถ้าเพื่อนในกลุ่มคนหนึ่งดูเงียบไปผิดปกติ ฉันมักไม่สบายใจจนต้องทักเขาแยก แม้บางทีเขาแค่อยากอยู่เงียบ ๆ แล้วรู้สึกเหมือนโดนจับตา"
+ },
+ {
+  "id": "Fek0",
+  "problem": "Rated 3.75, no cost; 'ปรับคำพูดและท่าที' stem repeated in Few2/Fer2/Fek8",
+  "cat": "d",
+  "t": "ฉันมักเผลอเปลี่ยนน้ำเสียงตามอารมณ์คนที่คุยด้วย จนบางทีเหนื่อยเอง"
+ },
+ {
+  "id": "Fek1",
+  "problem": "Rated 4.15; heroic inclusion of a left-out person",
+  "cat": "b",
+  "t": "ถ้ามีใครในวงดูเหมือนตามเรื่องไม่ทัน ฉันมักหยุดเล่าย้อนให้เขาฟัง จนเรื่องที่วงกำลังคุยสนุกสะดุดไปหลายรอบ"
+ }
+]
