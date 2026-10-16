@@ -1,8 +1,9 @@
 <!doctype html><html lang="th"><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
 <title>คุณเป็นไทป์ไหน</title>
+<meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;500;600&family=Kanit:wght@500;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700;800&family=IBM+Plex+Sans+Thai:wght@400;500;600;700&display=swap">
 <style>
 /* Layout: one centered column. Three screens: setup (seed, contexts, length) -> one question per screen -> result with function stack. */
 :root {
@@ -307,6 +308,151 @@ details.why .n { font-size: 14px; font-weight: 600; }
 ul.letters { list-style: none; padding: 0; margin: 4px 0 0; display: grid; gap: 4px; font-size: 13px; }
 ul.letters b { display: inline-block; min-width: 1.4em; font-family: var(--font-display); color: var(--hl); }
 .hero { display: block; width: 100%; height: auto; border-radius: 12px; border: 1px solid var(--line); background: var(--track); aspect-ratio: 900 / 672; object-fit: cover; }
+/* ==== rev11 UI: monochrome studio look ====
+   Layout: flat neutral canvas; floating brand bar; hero sits on the canvas, every block below is its own white panel; ink buttons; brand red only on the mark and the hero highlight. */
+:root {
+  --bg: #ECECEA;
+  --surface: #FFFFFF;
+  --fg: #161618;
+  --muted: #66666C;
+  --line: #E3E3E0;
+  --accent: #161618;
+  --accent-fg: #FFFFFF;
+  --accent-soft: #F4F4F2;
+  --track: #E6E6E3;
+  --edge: #C4C4C0;
+  --field: #FFFFFF;
+  --hl: #D42A3C;
+  --glow: transparent;
+  --shadow: 0 1px 2px rgba(22, 22, 24, .05), 0 8px 24px -16px rgba(22, 22, 24, .18);
+  --font-display: "Geist", "IBM Plex Sans Thai", "Noto Sans Thai", system-ui, sans-serif;
+  --font-body: "Geist", "IBM Plex Sans Thai", "Noto Sans Thai", system-ui, sans-serif;
+  --r-panel: 16px;
+  --r-ctl: 10px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0E0E0F; --surface: #19191B; --fg: #F2F2F0; --muted: #A1A1A7; --line: #2A2A2D;
+    --accent: #F2F2F0; --accent-fg: #121214; --accent-soft: #222225; --track: #2A2A2D; --edge: #4A4A50;
+    --field: #141416; --hl: #FF6E7D; --shadow: 0 1px 2px rgba(0, 0, 0, .4); color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0E0E0F; --surface: #19191B; --fg: #F2F2F0; --muted: #A1A1A7; --line: #2A2A2D;
+  --accent: #F2F2F0; --accent-fg: #121214; --accent-soft: #222225; --track: #2A2A2D; --edge: #4A4A50;
+  --field: #141416; --hl: #FF6E7D; --shadow: 0 1px 2px rgba(0, 0, 0, .4); color-scheme: dark;
+}
+body {
+  background: var(--bg); background-image: none;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 16px 48px; font-size: 16px; line-height: 1.65; -webkit-font-smoothing: antialiased;
+}
+.wrap { max-width: 680px; gap: 16px; }
+
+/* brand bar */
+.top { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 8px); z-index: 5; background: var(--surface); border-radius: 14px; padding: 8px 8px 8px 12px; box-shadow: var(--shadow); }
+.brand { color: var(--fg); font-family: var(--font-display); font-weight: 600; font-size: 16px; letter-spacing: -.01em; }
+.brand img { width: 26px; height: 26px; border-radius: 7px; }
+.count { background: var(--accent-soft); color: var(--fg); border-radius: 8px; padding: 5px 12px; font-size: 13px; font-weight: 500; }
+.progress { height: 4px; border-radius: 2px; }
+
+/* panels */
+.card { background: var(--surface); border: 0; border-radius: var(--r-panel); box-shadow: var(--shadow); padding: 28px 24px; gap: 22px; }
+h1.h1 { font-weight: 700; letter-spacing: -.015em; font-size: 26px; line-height: 1.3; }
+h2.sec, .setup-h, .sec2 { font-family: var(--font-display); font-weight: 700; letter-spacing: -.01em; }
+h2.sec { font-size: 18px; margin: 0 0 10px; }
+.setup-h { font-size: 22px; margin: 0; border: 0; padding: 0; }
+.lead { font-size: 15px; }
+.small { font-size: 13px; }
+
+/* hero on the canvas */
+.hero-ft { align-items: center; text-align: center; gap: 14px; padding-block: 28px 8px; }
+.hero-ft .kicker { order: -1; background: var(--surface); color: var(--fg); font-family: var(--font-body); font-weight: 500; font-size: 12px; letter-spacing: .06em; text-transform: uppercase; padding: 4px 12px; border-radius: 4px; }
+.hero-ft h1 { font-weight: 800; font-size: clamp(38px, 10vw, 60px); line-height: 1.08; letter-spacing: -.035em; }
+.hero-ft .sub { font-family: var(--font-body); font-weight: 400; font-size: 18px; color: var(--muted); }
+.hero-ft .notmbti { max-width: 46ch; }
+.steps3 { width: 100%; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; margin-top: 10px; text-align: left; }
+.steps3 li { background: var(--surface); border-radius: 12px; padding: 14px; grid-template-columns: 34px minmax(0, 1fr); gap: 12px; box-shadow: var(--shadow); }
+.steps3 .n { width: 32px; height: 32px; border-radius: 50%; background: var(--surface); color: var(--fg); border: 1.5px solid var(--fg); box-shadow: 2px 2px 0 var(--track); font-weight: 700; font-size: 15px; }
+.steps3 b { font-weight: 600; font-size: 15px; line-height: 1.4; }
+.steps3 span.d { font-size: 13px; line-height: 1.5; }
+.fnchips i { background: var(--accent-soft); color: var(--fg); border-radius: 4px; font-weight: 500; }
+@media (max-width: 640px) { .steps3 { grid-template-columns: 1fr; } }
+
+/* controls */
+.btn { border-radius: var(--r-ctl); border: 0; background: var(--accent-soft); color: var(--fg); font-weight: 600; font-size: 15px; padding: 11px 18px; min-height: 44px; }
+.btn.primary { background: var(--accent); color: var(--accent-fg); box-shadow: none; }
+.btn.block { min-height: 52px; font-size: 16px; }
+.btn.ghost { background: transparent; border: 1px solid var(--line); }
+.btn.small { min-height: 34px; padding: 5px 12px; font-size: 13px; border-radius: 8px; }
+@media (hover: hover) { .btn:not(:disabled):hover { filter: brightness(.94); } .btn.primary:not(:disabled):hover { filter: none; opacity: .88; } }
+input[type="text"] { border: 1px solid var(--line); background: var(--field); border-radius: var(--r-ctl); padding: 11px 14px; }
+input[type="text"]:focus-visible, .btn:focus-visible, .chip input:focus-visible + span, .opt:focus-visible, .na:focus-visible, details > summary:focus-visible { outline: 2px solid var(--fg); outline-offset: 2px; }
+.field > label, .field > legend { font-weight: 600; font-size: 14px; letter-spacing: .01em; }
+.chip span { border-radius: 8px; border: 1px solid var(--line); background: var(--field); padding: 8px 14px; }
+.chip input:checked + span { background: var(--accent); color: var(--accent-fg); border-color: var(--accent); font-weight: 600; }
+.chip input:checked + span small { color: inherit; opacity: .75; }
+.lock { border: 0; background: var(--accent-soft); border-radius: 12px; }
+.lock input[type="checkbox"], .alts input, .opt-line input { accent-color: var(--accent); }
+.resumebox summary { color: var(--fg); text-decoration: underline; text-underline-offset: 3px; font-weight: 500; }
+
+/* question */
+.tag { border: 0; background: var(--accent-soft); color: var(--muted); border-radius: 6px; padding: 3px 10px; font-weight: 500; }
+.q { font-weight: 500; }
+.q.bip { font-size: 17px; gap: 8px; }
+.q.bip .side { border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; background: var(--field); }
+.q.bip .side b { color: var(--fg); font-weight: 700; }
+.ab b { font-weight: 600; }
+.dot { border-width: 1.5px; border-color: var(--edge); }
+.opt[aria-checked="true"] .dot { background: var(--accent); border-color: var(--accent); }
+.undo { border: 0; background: var(--accent-soft); border-radius: 10px; }
+.undo::after { background: var(--fg); }
+
+/* result: each block becomes its own panel */
+.card.result { background: transparent; box-shadow: none; padding: 0; gap: 16px; }
+.card.result > div, .card.result > .eibox { background: var(--surface); border-radius: var(--r-panel); box-shadow: var(--shadow); padding: 24px 22px; min-width: 0; }
+.card.result > .note, .card.result > .warn, .card.result > p.small { margin: 0; padding: 12px 16px; border-radius: 12px; background: var(--surface); }
+.rhead { display: flex; flex-direction: column; gap: 14px; }
+.hero { border: 0; border-radius: 12px; }
+.code { color: var(--fg); font-weight: 800; letter-spacing: -.02em; font-size: clamp(56px, 16vw, 84px); line-height: 1; }
+.code.unclear { font-size: 34px; }
+.tname { font-weight: 600; font-size: 22px; letter-spacing: -.01em; }
+.chips li { background: var(--accent-soft); border-radius: 6px; font-size: 13px; padding: 4px 10px; }
+.stab { border: 0; background: var(--accent-soft); border-radius: 12px; padding: 12px 14px; }
+.stab .dots i { border: 0; background: var(--edge); }
+.stab .dots i.on { background: var(--fg); }
+.note { background: var(--accent-soft); border-radius: 12px; }
+.warn { border: 1px solid var(--line); border-radius: 12px; }
+.eibox { background: var(--surface); }
+.eiscale { color: var(--fg); }
+.eitrack { background: var(--track); border: 0; }
+.eitrack i { background: var(--fg); border-color: var(--surface); box-shadow: none; }
+.eifacets li { background: var(--accent-soft); }
+.bar > i { background: var(--edge); }
+.bar > i.on, .mb .bar i { background: var(--fg); }
+.stack li, .alts li, .lens > div, .probes li { border: 0; background: var(--accent-soft); border-radius: 10px; }
+.alts .c, details.why .c { color: var(--fg); font-weight: 800; letter-spacing: -.01em; }
+.mbti101 { background: var(--accent-soft); border-radius: 12px; padding: 14px 16px; }
+details.why { border: 1px solid var(--line); border-radius: 14px; padding: 14px 16px; }
+details.why[open] { border-color: var(--line); }
+details.why .c { font-size: 26px; }
+.whyl > li { border-left-width: 2px; border-left-color: var(--line); padding-left: 12px; }
+.whyl > li.w-fit { border-left-color: var(--fg); }
+.whyl > li.w-weak { border-left-color: var(--edge); }
+.whyl .wlab { color: var(--fg); letter-spacing: .01em; }
+ul.letters b { color: var(--fg); font-weight: 800; }
+.vchip { border-radius: 6px; }
+.vchip.v-confirm { border-color: var(--fg); background: var(--fg); color: var(--surface); }
+.refs a, .ftcta a, .handle a, .ftcta .cta-h { color: var(--fg); }
+.refs .lv { border-radius: 4px; }
+.codebox, .capbox { background: var(--accent-soft); border-radius: 10px; }
+.share .ftcta, .ftcta { background: var(--accent-soft); }
+.cmp2 > div { background: var(--accent-soft); }
+.cmp2 b { color: var(--fg); }
+.handle { color: var(--muted); }
+details.fold > summary { font-weight: 600; }
+@media (prefers-reduced-motion: reduce) { .btn { transition: none; } }
+@media (max-width: 400px) { .card { padding: 22px 18px; } .card.result > div, .card.result > .eibox { padding: 20px 16px; } }
 </style>
 
 <main class="wrap" id="app" lang="th"></main>
@@ -2454,11 +2600,11 @@ function fix(v) { return Math.abs(v) < 0.05 ? "0.0" : (v >= 0 ? "+" : "−") + M
       app.innerHTML =
         '<div class="top"><span class="brand">' + BRAND + '</span><span class="count">ตั้งค่าชุดคำถาม</span></div>' +
         (msg ? '<p class="warn" role="alert">' + esc(msg) + '</p>' : '') +
-        '<section class="card">' +
-          '<div class="hero-ft"><p class="kicker">รู้จักตัวเองอีกมุม เริ่มจากเรื่องที่เป็นคุณ</p><h1>คุณเป็น<span class="hl">ไทป์ไหน?</span></h1><p class="sub">ลองสำรวจด้วยตัวเอง</p><p class="small notmbti">แบบสะท้อนตัวเองที่เขียนขึ้นใหม่ ไม่ใช่แบบทดสอบ MBTI ทางการ และยังไม่ผ่านการตรวจสอบความตรง</p>' +
+        '<div class="hero-ft"><p class="kicker">รู้จักตัวเองอีกมุม เริ่มจากเรื่องที่เป็นคุณ</p><h1>คุณเป็น<span class="hl">ไทป์ไหน?</span></h1><p class="sub">ลองสำรวจด้วยตัวเอง</p><p class="small notmbti">แบบสะท้อนตัวเองที่เขียนขึ้นใหม่ ไม่ใช่แบบทดสอบ MBTI ทางการ และยังไม่ผ่านการตรวจสอบความตรง</p>' +
             '<ol class="steps3"><li><span class="n">1</span><div><b>เลือกเรื่องที่สนใจ</b><span class="d">เพื่อน งานอดิเรก รสนิยม ความรัก ดนตรี งาน และอีกเพียบ</span></div></li>' +
             '<li><span class="n">2</span><div><b>เลือกข้างที่เป็นคุณมากกว่า</b><span class="d">สำรวจฟังก์ชันการคิดทั้ง 8 แบบ</span><span class="fnchips"><i>Ni</i><i>Ne</i><i>Te</i><i>Ti</i><i>Fi</i><i>Si</i><i>Fe</i><i>Se</i></span></div></li>' +
             '<li><span class="n">3</span><div><b>มองตัวเองหลายมุม แล้วแชร์</b><span class="d">อ่านผล ประเภทที่ใกล้เคียง และชวนเพื่อนมาเทียบ</span></div></li></ol></div>' +
+        '<section class="card">' +
           '<details class="fold resumebox"><summary>มีรหัสหรือลิงก์ทำต่อ?</summary><div class="row"><input id="rcode" type="text" autocomplete="off" placeholder="วางลิงก์หรือรหัสทำต่อตรงนี้" aria-label="ลิงก์หรือรหัสทำต่อ"><button type="button" class="btn" id="rgo">ทำต่อ</button></div></details>' +
           '<h2 class="setup-h">สุ่มชุดคำถามของคุณ</h2>' +
           '<p class="lead">ทุกข้อเป็นแบบ “เลือกข้าง” สองข้อความ ก. กับ ข. ที่เราพยายามเขียนให้น่าเลือกพอ ๆ กัน แต่บางคู่ (โดยเฉพาะฝั่งที่ใส่ใจความรู้สึกคนอื่น หรือฝั่งที่เป็นฝ่ายทักก่อน) อาจยังฟังดูดีกว่า ให้เลือกตามที่คุณทำจริงบ่อยกว่า ไม่ใช่ตามที่อยากเป็น (ความน่าเลือกประเมินโดยโมเดลภาษาสองทีมที่โต้แย้งกัน ยังไม่ได้วัดกับคนไทยจริง) ถ้าจริงทั้งคู่ ให้เลือกข้อที่เกิดกับคุณบ่อยกว่า ทุกชุดมี “ข้อถามตรงเรื่อง I/E” 8 ข้อ จบช่วงที่ 1 ระบบคำนวณผลเบื้องต้นไว้แต่ยังไม่แสดง แล้วถามช่วงที่ 2 อีกราว 13–16 ข้อ ที่จงใจหาจุดค้านของผลเบื้องต้น · คำสุ่มเดิมกับตัวเลือกเดิมจะได้ช่วงที่ 1 ชุดเดิม</p>' +
@@ -2887,11 +3033,11 @@ function fix(v) { return Math.abs(v) < 0.05 ? "0.0" : (v >= 0 ? "+" : "−") + M
           : (pre.styleFlag === "side"
             ? 'คุณเลือกฝั่ง ' + (pre.sideShare1 >= 0.5 ? "ก." : "ข.") + ' เกือบทุกข้อ (' + Math.round(Math.max(pre.sideShare1, 1 - pre.sideShare1) * 100) + '%) ซึ่งตำแหน่ง ก./ข. ถูกสุ่มสลับทุกข้อ ผลจึงน่าจะมาจากตำแหน่งมากกว่าเนื้อหา ลองทำใหม่ โดยอ่านทั้งสองข้อก่อนเลือก'
             : 'คำตอบของคุณใกล้เคียงกันเกือบทุกข้อ แยกหน้าที่เด่นไม่ออก ลองทำใหม่ในวันอื่น' + (V.probeN ? ' (เมื่อรวมช่วงที่ 2 แล้วคะแนนหน้าที่ยังห่างกันน้อยเกินไป)' : ''));
-        head = '<h1 class="code unclear">ผลยังไม่ชัด</h1><p class="desc">' + why + '</p>';
+        head = '<div class="rhead"><h1 class="code unclear">ผลยังไม่ชัด</h1><p class="desc">' + why + '</p></div>';
       } else {
-        head = heroHtml(top.code) +
+        head = '<div class="rhead">' + heroHtml(top.code) +
           '<div class="type-head"><span class="small">ภาพคร่าว ๆ จากแบบสะท้อนตัวเอง ไม่ใช่ MBTI ทางการ และไม่ใช่การวินิจฉัย · ' + (as.borderline ? "ผลก้ำกึ่ง" : (as.mirrorMargin < 0.15 ? "ห่างจากประเภทอื่นพอสมควร ยกเว้น " + as.mirror.code + " ที่ใช้หน้าที่ชุดเดียวกัน" : "ห่างจากประเภทอื่นพอสมควร")) + '</span><div class="code">' + top.code + '</div><h1 class="tname">' + info.n + '</h1></div>' +
-          '<p class="desc">ตามทฤษฎี ประเภทนี้มัก' + info.d + '</p><ul class="chips">' + info.t.map(function (t) { return "<li>" + t + "</li>"; }).join("") + '</ul>' + stabHtml(stabilityOf(rank));
+          '<p class="desc">ตามทฤษฎี ประเภทนี้มัก' + info.d + '</p><ul class="chips">' + info.t.map(function (t) { return "<li>" + t + "</li>"; }).join("") + '</ul>' + stabHtml(stabilityOf(rank)) + '</div>';
         if (!V.probeN && as.borderline) notes += '<p class="note">ผลก้ำกึ่งระหว่าง ' + top.code + ' กับ ' + as.nm.code + ' (' + TYPES[as.nm.code].n + '): อ่านทั้งสองแบบแล้วดูว่าแบบไหนตรงกว่า</p>';
         if (!V.probeN && as.eiUnsure) notes += '<p class="note">ลำดับหน้าที่หลักกับรองยังไม่ชัด: อาจเป็น ' + top.code + ' หรือ ' + as.mirror.code + ' (สองประเภทนี้ใช้หน้าที่ชุดเดียวกัน ต่างกันที่ลำดับ)</p>';
         if (bipN && Math.abs(pre.lean) >= 0.5) notes += '<p class="small">ในข้อเลือกข้างระหว่างฟังก์ชัน คุณเลือกฝั่งฟังก์ชันที่หันเข้าใน (i) ' + (pre.lean > 0 ? "มากกว่า" : "น้อยกว่า") + 'ฝั่งที่หันออก (e) ระบบไม่นับส่วนนี้เป็นคะแนน ตัวอักษร I/E มาจากคะแนนฟังก์ชันรวมกับข้อถามตรงเรื่อง I/E (ดูด้านล่าง)</p>';
