@@ -1,0 +1,26 @@
+const fs = require("fs"), D = "r11/debate/";
+const L = f => JSON.parse(fs.readFileSync(D + f));
+/* rater 1 stretched sheet 1 by 1.4x around 3.2 after rating (reported); undo so both sheets share one scale */
+const un = o => Object.fromEntries(Object.entries(o).map(([k, v]) => [k, 3.2 + (v - 3.2) / 1.4]));
+const r1 = Object.assign({}, un(L("rate_r1_s1.json")), L("rate_r1_s2.json")), r2 = Object.assign({}, L("rate_r2_s1.json"), L("rate_r2_s2.json"));
+const A = require(require("path").resolve("r11/index.app.js"));
+const F = JSON.parse(fs.readFileSync("r11/final_prov.json"));
+const newIds = new Set(F.items.map(x => x.id));
+const m = k => (typeof r1[k] === "number" && typeof r2[k] === "number") ? (r1[k] + r2[k]) / 2 : (r1[k] ?? r2[k]);
+const miss = [], des = {}, fixDes = {}, desEI = {}, desBip = {}, out = { st: [], bip: [], ei: [], disagree: [] };
+A.QUESTIONS.forEach(q => { const v = m(q.id); if (v == null) { miss.push(q.id); return; } (newIds.has(q.id) ? des : fixDes)[q.id] = +v.toFixed(2);
+  if (v > 4.2 || v < 2.6) out.st.push([q.id, q.f, q.c, +v.toFixed(2), q.t]); if (Math.abs(r1[q.id] - r2[q.id]) >= 1.2) out.disagree.push([q.id, r1[q.id], r2[q.id]]); });
+A.BIPS.forEach(b => { const a = m(b.id + "|a"), c = m(b.id + "|b"); if (a == null || c == null) { miss.push(b.id); return; } desBip[b.id] = [+a.toFixed(2), +c.toFixed(2)];
+  if (Math.abs(a - c) > 0.5) out.bip.push([b.id, b.pair, +(a - c).toFixed(2), b.ta, b.tb]); });
+A.EIS.forEach(e => { const a = m(e.id + "|E"), c = m(e.id + "|I"); if (a == null || c == null) { miss.push(e.id); return; } desEI[e.id] = [+a.toFixed(2), +c.toFixed(2)];
+  if (Math.abs(a - c) > 0.5) out.ei.push([e.id, e.g, +(a - c).toFixed(2), e.te, e.ti]); });
+F.des = des; F.fixDes = fixDes; F.desEI = desEI; F.desBip = desBip;
+fs.writeFileSync("r11/final.json", JSON.stringify(F));
+fs.writeFileSync(D + "rating_outliers.json", JSON.stringify(out, null, 1));
+const all = Object.values(des).concat(Object.values(fixDes)), mean = all.reduce((s, v) => s + v, 0) / all.length;
+const keys = Object.keys(r1).filter(k => typeof r2[k] === "number"), mx = keys.reduce((s, k) => s + r1[k], 0) / keys.length, my = keys.reduce((s, k) => s + r2[k], 0) / keys.length;
+let sxy = 0, sxx = 0, syy = 0; keys.forEach(k => { sxy += (r1[k] - mx) * (r2[k] - my); sxx += (r1[k] - mx) ** 2; syy += (r2[k] - my) ** 2; });
+const byF = {}; A.QUESTIONS.forEach(q => { const v = m(q.id); if (v == null) return; (byF[q.f] = byF[q.f] || []).push(v); });
+console.log("missing", miss.length, miss.slice(0, 5), "statement mean", mean.toFixed(2), "inter-rater r", (sxy / Math.sqrt(sxx * syy)).toFixed(2), "rater means", mx.toFixed(2), my.toFixed(2));
+console.log("by function", Object.fromEntries(Object.entries(byF).map(([f, a]) => [f, +(a.reduce((s, v) => s + v, 0) / a.length).toFixed(2)])));
+console.log("outliers: statements", out.st.length, "bips gap>0.5", out.bip.length, "ei gap>0.5", out.ei.length, "rater disagreement>=1.2", out.disagree.length);

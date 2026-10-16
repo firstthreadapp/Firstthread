@@ -1,0 +1,923 @@
+{
+ "ratings": {
+  "Niw4": 3.6,
+  "Niw5": 3.4,
+  "New4": 2.9,
+  "New5": 3.8,
+  "Siw4": 3.9,
+  "Siw5": 3,
+  "Sew4": 3.3,
+  "Sew5": 3.4,
+  "Tiw4": 3.3,
+  "Tiw5": 3.2,
+  "Tew4": 3.3,
+  "Tew5": 3.4,
+  "Fiw4": 2.7,
+  "Fiw5": 3.9,
+  "Few4": 3.5,
+  "Few5": 3.9,
+  "Nir4": 3.4,
+  "Nir5": 3.2,
+  "Ner4": 3.5,
+  "Ner5": 3.7,
+  "Sir4": 3.6,
+  "Sir5": 3.3,
+  "Ser4": 3.6,
+  "Ser5": 3.3,
+  "Tir4": 3,
+  "Tir5": 2.9,
+  "Ter4": 3.5,
+  "Ter5": 3.4,
+  "Fir4": 3.4,
+  "Fir5": 3.3,
+  "Fer4": 3.3,
+  "Fer5": 3,
+  "Nil4": 3.4,
+  "Nil5": 3.4,
+  "Nel4": 3.1,
+  "Nel5": 3.5,
+  "Sil4": 3.3,
+  "Sil5": 3.5,
+  "Sel4": 3.5,
+  "Sel5": 3.2,
+  "Til4": 3.3,
+  "Til5": 3.7,
+  "Tel4": 3.2,
+  "Tel5": 3.2,
+  "Fil4": 3.4,
+  "Fil5": 3.5,
+  "Fel4": 3.2,
+  "Fel5": 3.1,
+  "Nik7": 3.5,
+  "Nik8": 3.1,
+  "Nik9": 3.5,
+  "Nek7": 3.7,
+  "Nek8": 2.8,
+  "Nek9": 3.2,
+  "Sik7": 3.4,
+  "Sik8": 3.2,
+  "Sik9": 3.4,
+  "Sek7": 3.3,
+  "Sek8": 3.3,
+  "Sek9": 3.5,
+  "Tik7": 3.2,
+  "Tik8": 3.5,
+  "Tik9": 3.6,
+  "Tek7": 3.9,
+  "Tek8": 3.5,
+  "Tek9": 3.5,
+  "Fik7": 3.8,
+  "Fik8": 3.3,
+  "Fik9": 3.5,
+  "Fek7": 2.8,
+  "Fek8": 3.7,
+  "Fek9": 3.3,
+  "Nis3": 3.5,
+  "Nes3": 3.2,
+  "Sis3": 3.4,
+  "Ses3": 2.9,
+  "Tis3": 3.2,
+  "Tes3": 3.9,
+  "Fis3": 3.6,
+  "Fes3": 3.9,
+  "Nib3": 3.4,
+  "Neb3": 3.3,
+  "Sib3": 3.3,
+  "Seb3": 3.1,
+  "Tib3": 3.5,
+  "Teb3": 3.6,
+  "Fib3": 3.4,
+  "Feb3": 3.6,
+  "Nim3": 3.5,
+  "Nem3": 3.4,
+  "Sim3": 2.9,
+  "Sem3": 3,
+  "Tim3": 3.3,
+  "Tem3": 3.8,
+  "Fim3": 3.5,
+  "Fem3": 3.8,
+  "Nig3": 3.6,
+  "Neg3": 3.2,
+  "Sig3": 3.2,
+  "Seg3": 3.4,
+  "Tig3": 3.3,
+  "Teg3": 3.3,
+  "Fig3": 3.4,
+  "Feg3": 4,
+  "Niv3": 3.4,
+  "Nev3": 3.4,
+  "Siv3": 3.2,
+  "Sev3": 3.1,
+  "Tiv3": 3.1,
+  "Tev3": 2.8,
+  "Fiv3": 3.3,
+  "Fev3": 3.6,
+  "Nid3": 2.9,
+  "Ned3": 3.5,
+  "Sid3": 3.3,
+  "Sed3": 3.6,
+  "Tid3": 3.2,
+  "Ted3": 3.3,
+  "Fid3": 3.8,
+  "Fed3": 3.3,
+  "Nip3": 3.5,
+  "Nep3": 3.4,
+  "Sip3": 3.4,
+  "Sep3": 3.4,
+  "Tip3": 3.2,
+  "Tep3": 3.3,
+  "Fip3": 3.5,
+  "Fep3": 3.9,
+  "Nia3": 3.5,
+  "Nea3": 3.5,
+  "Sia3": 3.4,
+  "Sea3": 3.4,
+  "Tia3": 3.2,
+  "Tea3": 3.1,
+  "Fia3": 3.2,
+  "Fea3": 3.5,
+  "Nit3": 3.2,
+  "Net3": 3.4,
+  "Sit3": 3.9,
+  "Set3": 3.6,
+  "Tit3": 3.2,
+  "Tet3": 3.6,
+  "Fit3": 3.3,
+  "Fet3": 3.8,
+  "BNiSe8|a": 3.5,
+  "BNiSe8|b": 3.3,
+  "BNiSe9|a": 3.4,
+  "BNiSe9|b": 3.5,
+  "BNiSe10|a": 3.2,
+  "BNiSe10|b": 3.5,
+  "BNiSe11|a": 3.5,
+  "BNiSe11|b": 3.5,
+  "BNeSi8|a": 3.3,
+  "BNeSi8|b": 3.4,
+  "BNeSi9|a": 3.4,
+  "BNeSi9|b": 3.4,
+  "BNeSi10|a": 3.4,
+  "BNeSi10|b": 3.3,
+  "BNeSi11|a": 3.2,
+  "BNeSi11|b": 3.6,
+  "BTiFe8|a": 3.2,
+  "BTiFe8|b": 3.6,
+  "BTiFe9|a": 3.5,
+  "BTiFe9|b": 3.8,
+  "BTiFe10|a": 3.3,
+  "BTiFe10|b": 3.6,
+  "BTiFe11|a": 3.6,
+  "BTiFe11|b": 3.7,
+  "BTeFi8|a": 3.6,
+  "BTeFi8|b": 3.2,
+  "BTeFi9|a": 3.4,
+  "BTeFi9|b": 3.5,
+  "BTeFi10|a": 3.7,
+  "BTeFi10|b": 3,
+  "BTeFi11|a": 3.4,
+  "BTeFi11|b": 3.5,
+  "BNiSes0|a": 3.6,
+  "BNiSes0|b": 3.4,
+  "BNeSis0|a": 3.4,
+  "BNeSis0|b": 3.4,
+  "BTiFes0|a": 3.2,
+  "BTiFes0|b": 3.8,
+  "BTeFis0|a": 3.5,
+  "BTeFis0|b": 3.5,
+  "BNiSeb0|a": 3.4,
+  "BNiSeb0|b": 3.4,
+  "BNeSib0|a": 3.5,
+  "BNeSib0|b": 3.2,
+  "BTiFeb0|a": 3.2,
+  "BTiFeb0|b": 3.6,
+  "BTeFib0|a": 3.5,
+  "BTeFib0|b": 3.4,
+  "BNiSem0|a": 3.6,
+  "BNiSem0|b": 2.9,
+  "BNeSim0|a": 3.4,
+  "BNeSim0|b": 3.1,
+  "BTiFem0|a": 3.1,
+  "BTiFem0|b": 3.8,
+  "BTeFim0|a": 3.5,
+  "BTeFim0|b": 3.2,
+  "BNiSeg0|a": 3.4,
+  "BNiSeg0|b": 3.4,
+  "BNeSig0|a": 3.4,
+  "BNeSig0|b": 3.3,
+  "BTiFeg0|a": 3.4,
+  "BTiFeg0|b": 3.7,
+  "BTeFig0|a": 3.3,
+  "BTeFig0|b": 3.4,
+  "BNiSev0|a": 3.6,
+  "BNiSev0|b": 3.3,
+  "BNeSiv0|a": 3.5,
+  "BNeSiv0|b": 3.3,
+  "BTiFev0|a": 3.4,
+  "BTiFev0|b": 3.5,
+  "BTeFiv0|a": 3.3,
+  "BTeFiv0|b": 3.5,
+  "BNiSed0|a": 3.2,
+  "BNiSed0|b": 3.5,
+  "BNeSid0|a": 3.4,
+  "BNeSid0|b": 3.3,
+  "BTiFed0|a": 3.2,
+  "BTiFed0|b": 3.8,
+  "BTeFid0|a": 3.6,
+  "BTeFid0|b": 3.2,
+  "BNiSep0|a": 3.7,
+  "BNiSep0|b": 3.2,
+  "BNeSip0|a": 3.4,
+  "BNeSip0|b": 3.4,
+  "BTiFep0|a": 3.1,
+  "BTiFep0|b": 3.7,
+  "BTeFip0|a": 3.4,
+  "BTeFip0|b": 3.4,
+  "BNiSea0|a": 3.5,
+  "BNiSea0|b": 3.4,
+  "BNeSia0|a": 3.5,
+  "BNeSia0|b": 3.4,
+  "BTiFea0|a": 3.4,
+  "BTiFea0|b": 3.5,
+  "BTeFia0|a": 3.6,
+  "BTeFia0|b": 3.3,
+  "BNiSet0|a": 3,
+  "BNiSet0|b": 3.7,
+  "BNeSit0|a": 3.4,
+  "BNeSit0|b": 3.5,
+  "BTiFet0|a": 3.3,
+  "BTiFet0|b": 3.6,
+  "BTeFit0|a": 3.6,
+  "BTeFit0|b": 2.9,
+  "EIen4|E": 3.4,
+  "EIen4|I": 3.4,
+  "EIen5|E": 3.3,
+  "EIen5|I": 3.5,
+  "EIir4|E": 3.7,
+  "EIir4|I": 3.2,
+  "EIir5|E": 3.7,
+  "EIir5|I": 3.3,
+  "EIec4|E": 3.4,
+  "EIec4|I": 3.7,
+  "EIec5|E": 3.3,
+  "EIec5|I": 3.4,
+  "EIgi4|E": 3.5,
+  "EIgi4|I": 3.4,
+  "EIgi5|E": 3.6,
+  "EIgi5|I": 3.5,
+  "EIar4|E": 3.4,
+  "EIar4|I": 3.5,
+  "EIar5|E": 3.4,
+  "EIar5|I": 3.5,
+  "EIeq4|E": 3.3,
+  "EIeq4|I": 3.5,
+  "EIeq5|E": 3.4,
+  "EIeq5|I": 3.5
+ },
+ "flags": [
+  {
+   "id": "EIar4",
+   "type": "ei_confound",
+   "sev": 3,
+   "why": "E side \"ลงมือลองเลย แล้วเรียนรู้จากสิ่งที่เกิดขึ้น\" is the same content as Se items Sek8/Ses3/Seb3 and Se sides BNiSe9-B/BNiSeg0-B; I side \"ดูและทำความเข้าใจให้พอก่อน\" is Ni/Ti-style. E/I mean feeds 0.2 of every type score AND the introvert-lean correction, so this item pipes Se/N variance into E/I and back again.",
+   "rewrite": {
+    "E": "เวลาฝึกทักษะใหม่ ฉันชอบถามและคุยกับคนที่ทำเป็นไปด้วย เพราะได้คิดออกมาดัง ๆ ช่วยให้เข้าใจเร็วขึ้น",
+    "I": "เวลาฝึกทักษะใหม่ ฉันชอบค่อย ๆ ทำความเข้าใจในหัวด้วยตัวเองก่อน แล้วค่อยถามคนอื่นเมื่อติดจริง ๆ"
+   }
+  },
+  {
+   "id": "Siw4",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Remembering past failure points and preparing for them reads as the prudent, experienced employee — a Thai workplace virtue (รอบคอบ). No cost; ~3.9, will beat almost any partner statement.",
+   "rewrite": "ฉันมักจำว่างานแบบนี้เคยติดปัญหาตรงไหน แล้วเตรียมเผื่อไว้ทุกครั้ง จนบางทีเตรียมมากกว่าที่งานจริงต้องใช้"
+  },
+  {
+   "id": "Fiw4",
+   "type": "desirability",
+   "sev": 2,
+   "why": "\"ทำได้แต่ใจไม่ไปด้วย แม้จะเป็นงานสำคัญ\" admits low work commitment — embarrassing for a Thai adult (~2.7, below target); Fi respondents will under-endorse it.",
+   "rewrite": "ฉันทำงานได้เต็มที่ที่สุดเมื่องานนั้นตรงกับสิ่งที่ฉันให้คุณค่า ถ้าไม่ตรง ฉันต้องหาความหมายส่วนตัวให้มันก่อนจึงจะมีแรงทำ"
+  },
+  {
+   "id": "Fiw5",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Moral concern for an unfairly treated colleague is a plain virtue (~3.9); the \"cost\" (others think it normal) actually makes the respondent look more principled.",
+   "rewrite": "เวลาเห็นใครในที่ทำงานถูกปฏิบัติอย่างไม่ยุติธรรม ฉันค้างใจจนมองคนที่ทำแบบนั้นไม่เหมือนเดิมไปอีกนาน แม้คนอื่นจะลืมไปแล้ว"
+  },
+  {
+   "id": "Few5",
+   "type": "desirability",
+   "sev": 2,
+   "why": "\"แม้ไม่ใช่หน้าที่ของฉัน\" is a humblebrag cost — going beyond duty to include a newcomer is the textbook มีน้ำใจ answer (~3.9).",
+   "rewrite": "เวลามีคนใหม่เข้าทีม ฉันมักคอยดูว่าเขาเข้ากับทุกคนได้หรือยัง จนบางทีงานของตัวเองเดินช้าลง"
+  },
+  {
+   "id": "Tek7",
+   "type": "desirability",
+   "sev": 2,
+   "why": "The rejected alternative is framed pejoratively (\"นั่งหาว่าใครผิด\"), so the item reads as the mature solution-focused person (~3.9).",
+   "rewrite": "เวลามีปัญหา ฉันข้ามไปที่ “แล้วจะทำอะไรต่อ” ทันที จนบางทีคนอื่นรู้สึกว่าฉันไม่ได้ฟังว่าเขารู้สึกอย่างไร"
+  },
+  {
+   "id": "Fik7",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Authenticity with no cost (~3.8). In Thai self-presentation \"เป็นตัวของตัวเอง/จริงใจ\" is a prized trait.",
+   "rewrite": "ฉันพูดหรือทำในสิ่งที่ไม่ตรงกับใจได้ยากมาก จนบางทีเลือกเงียบแทนการพูดตามมารยาท"
+  },
+  {
+   "id": "Tes3",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Model-student behaviour (analyse errors, change strategy immediately) ~3.9; also partly ability.",
+   "rewrite": "หลังสอบแต่ละครั้ง ฉันสนใจว่าเสียคะแนนตรงไหนมากกว่าเนื้อหาที่ได้เรียน แล้วปรับวิธีอ่านเพื่อให้ได้คะแนนตามเป้า"
+  },
+  {
+   "id": "Fes3",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Encouraging stressed classmates while unprepared is self-sacrifice — virtuous in Thai culture, so the \"cost\" raises desirability (~3.9).",
+   "rewrite": "ก่อนสอบ ถ้าบรรยากาศในห้องตึงเครียด ฉันมักเครียดตามไปด้วย จนต้องชวนทุกคนคุยเรื่องเบา ๆ แม้จะทำให้ตัวเองอ่านได้น้อยลง"
+  },
+  {
+   "id": "Tem3",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Summarising a looping chat and moving to decision = helpful leader (~3.8); also initiating in public chat adds E.",
+   "rewrite": "เวลาในกลุ่มแชตคุยกันวนไปมา ฉันอึดอัดจนต้องพิมพ์สรุปแล้วถามให้ตัดสินใจ แม้บางคนยังอยากคุยต่อ"
+  },
+  {
+   "id": "Fem3",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Peacemaking comment in a flame war is a clear good-citizen answer (~3.8); commenting publicly also loads on E (expressive).",
+   "rewrite": "เวลาเห็นโพสต์ที่คนกำลังเถียงกัน ฉันใส่ใจว่าแต่ละฝ่ายรู้สึกอย่างไรมากกว่าว่าใครถูก จนบางทีไม่กล้าแสดงความเห็นจริงของตัวเอง"
+  },
+  {
+   "id": "Feg3",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Slowing down and praising beginners at the cost of winning = sportsmanship virtue (~4.0); near-duplicate of Fep3.",
+   "rewrite": "เวลาเล่นเกมเป็นทีม อารมณ์ของเพื่อนร่วมทีมมีผลกับฉันมาก ถ้าใครเริ่มหงุดหงิด ฉันก็เล่นไม่สนุกไปด้วย"
+  },
+  {
+   "id": "Fep3",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Same virtuous \"ease up for beginners\" idea as Feg3 (~3.9) with no real cost; duplicate across g/p.",
+   "rewrite": "เวลาเล่นกีฬาเป็นทีม ฉันมักรู้สึกได้ว่าใครเริ่มเสียกำลังใจ แล้วอดไม่ได้ที่จะหันไปดูแลเขา จนบางทีหลุดจังหวะเกมของตัวเอง"
+  },
+  {
+   "id": "Fid3",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Boycotting a restaurant for mistreating staff = ethical-consumer virtue (~3.8).",
+   "rewrite": "ร้านที่ฉันกลับไปซ้ำมักเป็นร้านที่รู้สึกว่า “ใช่” กับใจ แม้คนอื่นจะว่ารสชาติธรรมดาหรือมีที่อร่อยกว่า"
+  },
+  {
+   "id": "Sit3",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Knowing exactly how much the pet eats and noticing tiny changes = responsible owner (~3.9); near-duplicate of Sir4 template.",
+   "rewrite": "ฉันชอบให้กิจวัตรของสัตว์เลี้ยงเป็นแบบเดิมทุกวัน เช่น เวลาให้อาหารและที่นอน ถ้าต้องเปลี่ยน ฉันจะไม่ค่อยสบายใจ"
+  },
+  {
+   "id": "Fet3",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Empathy + \"จนบางทีลืมเรื่องของตัวเอง\" is a self-sacrifice humblebrag (~3.8).",
+   "rewrite": "เวลาเพื่อนเล่าว่าสัตว์เลี้ยงของเขาป่วย ฉันหนักใจตามไปด้วยจนสลัดออกยาก แม้จะเป็นสัตว์ที่ฉันไม่เคยเจอ"
+  },
+  {
+   "id": "Nil5",
+   "type": "theory",
+   "sev": 2,
+   "why": "\"คิดเรื่องเดียวจากหลายมุม จนเห็นว่ามันเชื่อมกับเรื่องอื่น\" = divergent, connection-making language (Ne). Ni converges to one underlying pattern.",
+   "rewrite": "เวลาว่าง ฉันมักกลับไปครุ่นคิดเรื่องเดียวซ้ำ ๆ จนเห็นแก่นเดียวที่อยู่ข้างใต้มัน"
+  },
+  {
+   "id": "Fel5",
+   "type": "theory",
+   "sev": 2,
+   "why": "Reading public comments to see what most people felt is curiosity/conformity, endorsed by almost everyone; weak Fe (no attunement to specific others) and yet another film item in l (overlaps v).",
+   "rewrite": "เวลาว่างที่อยู่กับคนอื่น ฉันมักเลือกทำสิ่งที่คนส่วนใหญ่ในกลุ่มอยากทำ จนบางทีไม่ได้ทำสิ่งที่ตัวเองอยากเอง"
+  },
+  {
+   "id": "Sel5",
+   "type": "ei_confound",
+   "sev": 2,
+   "why": "\"ออกไปข้างนอก\" ties Se to going out (E/activity); brief rule 5 says Se ≠ going out.",
+   "rewrite": "วันว่างที่ไม่มีแผน ฉันตัดสินใจจากสิ่งที่เห็นตรงหน้าตอนนั้น เช่น อากาศดีก็ออกไปเดิน ฝนตกก็หาอะไรทำในบ้าน"
+  },
+  {
+   "id": "Fek7",
+   "type": "culture",
+   "sev": 2,
+   "why": "Difficulty refusing / agreeing to unwanted requests is generic Thai เกรงใจ (and low assertiveness), endorsed across all types; also a mild distress item (~2.8). Measures culture, not Fe.",
+   "rewrite": "ก่อนจะปฏิเสธใคร ฉันมักคิดหาวิธีพูดที่รักษาน้ำใจเขาไว้ได้ จนบางทีใช้เวลานานกว่าจะตอบ"
+  },
+  {
+   "id": "Fek8",
+   "type": "culture",
+   "sev": 2,
+   "why": "Following customs most people hold = Thai normative virtue (~3.7) and traditionalism, which is also Si territory. High base rate, double-loaded.",
+   "rewrite": "ในวงที่มีคนหลายแบบ ฉันมักปรับมารยาทและคำพูดให้เข้ากับคนตรงหน้า แม้ต้องเก็บความเป็นตัวเองไว้บ้าง"
+  },
+  {
+   "id": "Fer5",
+   "type": "culture",
+   "sev": 2,
+   "why": "Saying what family wants to hear first is Thai deference to elders (กตัญญู/เกรงใจผู้ใหญ่), near-universal; it measures culture rather than Fe attunement.",
+   "rewrite": "เวลาครอบครัวคุยเรื่องที่เห็นไม่ตรงกัน ฉันมักสังเกตว่าแต่ละคนรู้สึกอย่างไร แล้วหาคำพูดที่ทุกคนรับได้ จนบางทีความเห็นของตัวเองหายไป"
+  },
+  {
+   "id": "Tir5",
+   "type": "culture",
+   "sev": 2,
+   "why": "Wanting to ask what house rules are \"really for\" reads as talking back to elders (เถียงผู้ใหญ่) for Thai adults (~2.9); Ti people will suppress it.",
+   "rewrite": "ฉันมักสังเกตว่ากฎหรือธรรมเนียมในบ้านบางข้อขัดกันเอง แล้วเก็บมาคิดว่าเหตุผลจริง ๆ ของมันคืออะไร"
+  },
+  {
+   "id": "Ses3",
+   "type": "theory",
+   "sev": 2,
+   "why": "Another \"act before reading the steps\" Se item (also Sek8, Seb3, BNiSe9-B, BNiSeg0-B, EIar4-E): defines Se as impulsivity/P/E rather than sensory attention; in a lab it also sounds careless (~2.9).",
+   "rewrite": "เวลาทำแล็บหรือฝึกปฏิบัติ ความสนใจของฉันอยู่กับสิ่งที่เปลี่ยนไปตรงหน้า เช่น สี กลิ่น หรือเสียง แล้วปรับตามนั้นทันที"
+  },
+  {
+   "id": "Nid3",
+   "type": "unclear",
+   "sev": 2,
+   "why": "\"แก่นเรื่องหรือความหมายซ่อนอยู่\" behind a dish is odd/pretentious for Thai eaters (~2.9) and not a recognisable Ni behaviour; few will endorse regardless of type.",
+   "rewrite": "พอได้กินอาหารแนวเดียวกันหลายร้าน ฉันมักรู้สึกได้ว่ามีหลักเดียวที่ทำให้ร้านที่อร่อยจริงต่างจากร้านอื่น"
+  },
+  {
+   "id": "Nit3",
+   "type": "theory",
+   "sev": 2,
+   "why": "\"รู้สึกลึก ๆ ว่าตัวไหน ใช่ สำหรับชีวิตเรา\" is a value/gut-fit judgement (Fi), not pattern convergence.",
+   "rewrite": "จากพฤติกรรมเล็ก ๆ หลายอย่าง ฉันมักปะติดปะต่อได้ว่าสัตว์เลี้ยงกำลังจะเปลี่ยนไปทางไหน ก่อนจะมีอาการชัด ๆ ให้เห็น"
+  },
+  {
+   "id": "BTiFe8",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Ti side \"ห้วน\" vs Fe side \"คิดถึงความรู้สึกคนฟัง\" — in Thai culture the Fe side is the polite answer (3.2 vs 3.6).",
+   "rewrite": {
+    "a": "เวลาถูกถามความเห็น ฉันให้น้ำหนักกับการตอบให้ตรงตามเหตุผลที่คิดไว้ แม้คนฟังอาจไม่ชอบใจ",
+    "b": "เวลาถูกถามความเห็น ฉันให้น้ำหนักกับการตอบให้คนฟังรับได้ แม้จะต้องพูดไม่ตรงกับที่คิดทั้งหมด"
+   }
+  },
+  {
+   "id": "BTiFe9",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Reconciling estranged people (b) is a moral good (3.8); tidy logic (a) is a private satisfaction (3.5).",
+   "rewrite": {
+    "a": "ฉันรู้สึกพอใจเมื่อเรื่องที่สับสนถูกจัดให้มีเหตุผลต่อกันครบทุกส่วน แม้จะไม่มีใครถามหาคำอธิบายนั้น",
+    "b": "ฉันรู้สึกพอใจเมื่อบรรยากาศในวงที่ตึงอยู่กลับมาผ่อนคลาย แม้เรื่องที่ค้างจะยังไม่ได้ข้อสรุป"
+   }
+  },
+  {
+   "id": "BTiFe10",
+   "type": "culture",
+   "sev": 2,
+   "why": "Demanding reasons before obeying a rule is face-threatening in Thai hierarchy; following for harmony is the good-citizen answer. Side b is also Si/conformity rather than Fe attunement.",
+   "rewrite": {
+    "a": "เวลาเจอกฎที่ฉันไม่เข้าใจ ฉันทำตามได้ แต่ในใจจะค้างจนกว่าจะเข้าใจเหตุผลของมัน",
+    "b": "เวลาเจอกฎที่ฉันไม่เข้าใจ ฉันทำตามได้สบายใจ ถ้าเห็นว่าคนรอบตัวยอมรับและอยู่ร่วมกันได้ราบรื่น"
+   }
+  },
+  {
+   "id": "BTeFi10",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Fi side \"ถามใจตัวเองก่อนว่าเต็มใจจริงไหม\" when asked for help reads as ไม่มีน้ำใจ (3.0) vs effective helper (3.7). Gap 0.7.",
+   "rewrite": {
+    "a": "เวลามีคนขอให้ช่วย ฉันถามก่อนว่าเขาต้องการผลลัพธ์อะไร แล้วช่วยแบบที่ได้ผลเร็วที่สุด แม้จะดูเป็นงานเป็นการไปหน่อย",
+    "b": "เวลามีคนขอให้ช่วย ฉันช่วยในแบบที่ตรงกับใจและสิ่งที่ฉันเชื่อ แม้จะไม่ใช่วิธีที่เร็วที่สุด"
+   }
+  },
+  {
+   "id": "BTiFes0",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Ti side slows the whole tutoring group with questions (Thai: holding up the group is bad form) vs Fe side caring that everyone keeps up (3.2 vs 3.8).",
+   "rewrite": {
+    "a": "ในกลุ่มติว ฉันสนใจว่าเหตุผลของแต่ละขั้นต่อกันไม่ขัด มากกว่าว่าวงจะเดินเร็วแค่ไหน",
+    "b": "ในกลุ่มติว ฉันสนใจว่าทุกคนรู้สึกโอเคกับจังหวะการติว มากกว่าว่าเนื้อหาจะละเอียดแค่ไหน"
+   }
+  },
+  {
+   "id": "BNiSem0",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Ni side = trend-spotter (3.6); Se side \"เพลินไปกับภาพ เสียง จังหวะ\" = mindless scrolling (2.9). Gap 0.7.",
+   "rewrite": {
+    "a": "เวลาเลื่อนดูวิดีโอสั้น ฉันมักคิดเลยไปว่าคลิปเหล่านั้นสะท้อนอะไรเกี่ยวกับผู้คนตอนนี้",
+    "b": "เวลาเลื่อนดูวิดีโอสั้น ฉันมักสังเกตรายละเอียดในคลิป เช่น มุมกล้อง สี หรือจังหวะตัดต่อ"
+   }
+  },
+  {
+   "id": "BTiFem0",
+   "type": "culture",
+   "sev": 2,
+   "why": "Publicly pointing out a friend's illogical share = making them lose face (3.1) vs face-saving (3.8). Gap 0.7, purely cultural.",
+   "rewrite": {
+    "a": "เมื่อเห็นเพื่อนแชร์ข่าวที่เหตุผลไม่ต่อกัน ฉันติดอยู่กับคำถามว่าตรงไหนไม่สมเหตุสมผล จนอยากไล่ให้ชัด",
+    "b": "เมื่อเห็นเพื่อนแชร์ข่าวที่เหตุผลไม่ต่อกัน ฉันคิดก่อนว่าเขาจะรู้สึกอย่างไรถ้ามีคนทัก จนบางทีปล่อยผ่านไป"
+   }
+  },
+  {
+   "id": "BTiFed0",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Critiquing a friend's cooking (a, 3.2) vs encouraging words (b, 3.8) — b is the Thai polite default for nearly everyone.",
+   "rewrite": {
+    "a": "เวลาเพื่อนถามความเห็นเรื่องอาหารที่เขาทำ ฉันบอกตามที่วิเคราะห์ว่ารสไหนยังไม่สมดุล เพราะคิดว่าเขาอยากรู้จริง",
+    "b": "เวลาเพื่อนถามความเห็นเรื่องอาหารที่เขาทำ ฉันเลือกพูดสิ่งที่ทำให้เขาสบายใจไว้ก่อน แม้ยังไม่ได้บอกจุดที่ควรปรับ"
+   }
+  },
+  {
+   "id": "BNiSep0",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Ni side \"เห็นภาพหลายจังหวะข้างหน้า\" sounds like an elite player (ability, 3.7) vs reactive play (3.2).",
+   "rewrite": {
+    "a": "ระหว่างแข่ง ฉันมักเล่นตามภาพในหัวว่าเกมจะไปทางไหน แม้บางทีจะพลาดสิ่งที่เกิดขึ้นตรงหน้า",
+    "b": "ระหว่างแข่ง ฉันมักเล่นตามสิ่งที่เกิดขึ้นตรงหน้าทีละจังหวะ แม้บางทีจะไม่ได้คิดเผื่อไปข้างหน้า"
+   }
+  },
+  {
+   "id": "BTiFep0",
+   "type": "culture",
+   "sev": 2,
+   "why": "Ti side \"เถียงกันต่อ\" vs Fe side consensus — Thai group-harmony norm makes b the obvious answer (3.1 vs 3.7).",
+   "rewrite": {
+    "a": "เวลาทีมเถียงกันเรื่องแผน ฉันอยากได้แผนที่เหตุผลแน่นที่สุด แม้ต้องใช้เวลาคุยกันนานขึ้น",
+    "b": "เวลาทีมเถียงกันเรื่องแผน ฉันอยากได้แผนที่ทุกคนยอมรับร่วมกัน แม้บางจุดจะยังไม่สมเหตุสมผลนัก"
+   }
+  },
+  {
+   "id": "BNiSet0",
+   "type": "theory",
+   "sev": 2,
+   "why": "Ni side \"พาไปสู่ภาพชีวิตที่อยากได้ในระยะยาว\" is long-range planning (Te/J) and sounds odd for pet play (3.0); Se side = attentive owner (3.7). Gap 0.7.",
+   "rewrite": {
+    "a": "เวลาเลือกกิจกรรมกับสัตว์เลี้ยง ฉันมักมีภาพในใจอยู่แล้วว่าอยากให้มันเติบโตไปเป็นแบบไหน แล้วเลือกตามภาพนั้น",
+    "b": "เวลาเลือกกิจกรรมกับสัตว์เลี้ยง ฉันดูจากอารมณ์ของมันตอนนั้น แล้วเล่นตามที่มันตอบสนอง"
+   }
+  },
+  {
+   "id": "BTeFit0",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Fi side overrides the vet's data on an important pet decision — sounds irresponsible (2.9) vs 3.6. Stakes too high for a neutral item.",
+   "rewrite": {
+    "a": "เวลาเลือกของใช้หรือกิจกรรมให้สัตว์เลี้ยง ฉันยึดสิ่งที่วัดผลได้ เช่น น้ำหนักหรือสุขภาพที่ดีขึ้น",
+    "b": "เวลาเลือกของใช้หรือกิจกรรมให้สัตว์เลี้ยง ฉันยึดสิ่งที่รู้สึกว่าตรงกับนิสัยและความผูกพันระหว่างเรา"
+   }
+  },
+  {
+   "id": "BNiSe10",
+   "type": "theory",
+   "sev": 2,
+   "why": "Ni side \"นึกถึงคนทำหรือที่มาของมัน\" is backstory/association (Ne/Si), not convergent insight.",
+   "rewrite": {
+    "a": "เวลากินอาหารอร่อย ๆ ฉันมักคิดเลยไปว่ามันสื่อถึงอะไร มากกว่าจดจ่อกับรสในคำนั้น",
+    "b": "เวลากินอาหารอร่อย ๆ ฉันมักจดจ่อกับรส กลิ่น และสัมผัสในคำนั้นอย่างเต็มที่"
+   }
+  },
+  {
+   "id": "EIir4",
+   "type": "desirability",
+   "sev": 2,
+   "why": "E side \"เดินไปทักก่อนเลย\" = social confidence (3.7) vs I side waiting (3.2): measures social skill/boldness, which the brief excludes.",
+   "rewrite": {
+    "E": "ถ้าเห็นคนในกลุ่มงานอดิเรกที่ยังไม่รู้จัก ฉันมักทักก่อน เพราะคุยไปเดี๋ยวก็รู้จักกันเอง",
+    "I": "ถ้าเห็นคนในกลุ่มงานอดิเรกที่ยังไม่รู้จัก ฉันมักรู้จักเขาผ่านการทำกิจกรรมด้วยกันก่อน แล้วบทสนทนาก็ตามมาเอง"
+   }
+  },
+  {
+   "id": "New5",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Seeing many new opportunities with clients sounds entrepreneurial (~3.8)."
+  },
+  {
+   "id": "Ner5",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Helpful-friend framing (~3.7)."
+  },
+  {
+   "id": "Niw5",
+   "type": "theory",
+   "sev": 1,
+   "why": "\"จริง ๆ เรื่องนี้คือเรื่องอะไร\" can read as Ti (definition-seeking)."
+  },
+  {
+   "id": "Sew5",
+   "type": "theory",
+   "sev": 1,
+   "why": "Contrasts with \"planned in advance\" → measures P vs J as much as Se."
+  },
+  {
+   "id": "Fir5",
+   "type": "culture",
+   "sev": 1,
+   "why": "Asserting own path against family expectation splits Thai respondents by generation/filial norms, not only by Fi."
+  },
+  {
+   "id": "Nil4",
+   "type": "duplicate",
+   "sev": 1,
+   "why": "Same \"lingers for days, then I understand\" template as Nir4, Nib3, Nis3, Niv3; Ni is reduced to delayed insight."
+  },
+  {
+   "id": "Sel4",
+   "type": "context",
+   "sev": 1,
+   "why": "Cooking-sensory item duplicates Sed3 (d context); l already leans on film/music (Nil4, Sil4, Til4, Fel4, Fel5)."
+  },
+  {
+   "id": "Til5",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Critical thinking about social-media tips is currently a valued trait (~3.7); also m-context content."
+  },
+  {
+   "id": "Fil5",
+   "type": "unclear",
+   "sev": 1,
+   "why": "\"Favourite songs match a feeling that is hard to explain\" is near-universal; low discrimination."
+  },
+  {
+   "id": "Fel4",
+   "type": "duplicate",
+   "sev": 1,
+   "why": "Near-duplicate of Fev3 (watching with others, monitoring their reaction)."
+  },
+  {
+   "id": "Nik8",
+   "type": "theory",
+   "sev": 1,
+   "why": "Cutting options once a goal is set is as much Te/J decisiveness as Ni."
+  },
+  {
+   "id": "Nek7",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Creative re-use of objects sounds inventive (~3.7)."
+  },
+  {
+   "id": "Nek8",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Admits not finishing things (~2.8)."
+  },
+  {
+   "id": "Sik9",
+   "type": "unclear",
+   "sev": 1,
+   "why": "Learning by analogy to known things is universal; low discrimination."
+  },
+  {
+   "id": "Sek8",
+   "type": "ei_confound",
+   "sev": 1,
+   "why": "\"Act now, adjust later\" duplicates EIar4 E side; Se loads on E."
+  },
+  {
+   "id": "Tik9",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Separating fact from interpretation sounds like a critical thinker (~3.6)."
+  },
+  {
+   "id": "Fik9",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Reads as strong independence; others may read stubborn — unstable rating across raters."
+  },
+  {
+   "id": "Seb3",
+   "type": "ei_confound",
+   "sev": 1,
+   "why": "Another learn-by-doing Se item; overlaps EIar4 E."
+  },
+  {
+   "id": "Teb3",
+   "type": "theory",
+   "sev": 1,
+   "why": "Basics-first sequencing is also Si-style ordering."
+  },
+  {
+   "id": "Nem3",
+   "type": "ei_confound",
+   "sev": 1,
+   "why": "Commenting publicly adds expressive E."
+  },
+  {
+   "id": "Sim3",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Habitual app-checking order sounds like phone habit (~2.9)."
+  },
+  {
+   "id": "Sem3",
+   "type": "theory",
+   "sev": 1,
+   "why": "Following live updates online is FOMO/news-following, not concrete physical-present Se."
+  },
+  {
+   "id": "Nig3",
+   "type": "ability",
+   "sev": 1,
+   "why": "\"เห็นขึ้นมาเองว่ามีจุดเดียวที่เป็นต้นเหตุ\" implies diagnostic skill."
+  },
+  {
+   "id": "Tev3",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Turning series into a schedule \"เหมือนทำงาน\" is slightly unflattering (~2.8)."
+  },
+  {
+   "id": "Fev3",
+   "type": "duplicate",
+   "sev": 1,
+   "why": "Near-duplicate of Fel4."
+  },
+  {
+   "id": "Sid3",
+   "type": "unclear",
+   "sev": 1,
+   "why": "Comfort-food craving when ill is near-universal in Thailand; low discrimination."
+  },
+  {
+   "id": "Sed3",
+   "type": "ability",
+   "sev": 1,
+   "why": "Cooking by smell/sound without a recipe implies skill (~3.6)."
+  },
+  {
+   "id": "Fed3",
+   "type": "culture",
+   "sev": 1,
+   "why": "Praising a host's food regardless is a Thai courtesy norm; high base rate."
+  },
+  {
+   "id": "Sep3",
+   "type": "ei_confound",
+   "sev": 1,
+   "why": "Stadium atmosphere/crowd adds E."
+  },
+  {
+   "id": "Fia3",
+   "type": "ei_confound",
+   "sev": 1,
+   "why": "Keeping art private reads as I (privacy)."
+  },
+  {
+   "id": "Fea3",
+   "type": "unclear",
+   "sev": 1,
+   "why": "\"เสมอ\" absolute; also Thai courtesy norm."
+  },
+  {
+   "id": "Fit3",
+   "type": "unclear",
+   "sev": 1,
+   "why": "\"วิธีเลี้ยงตรงกับความรู้สึกจริง\" is vague — what behaviour?"
+  },
+  {
+   "id": "Set3",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Acting immediately when the pet panics = competent owner (~3.6)."
+  },
+  {
+   "id": "Tet3",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Evidence-based pet care (~3.6)."
+  },
+  {
+   "id": "BNeSi11",
+   "type": "desirability",
+   "sev": 1,
+   "why": "\"Many possible lives\" (3.2) vs building on what one has (3.6, Thai stability value)."
+  },
+  {
+   "id": "BTeFi8",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Comparing specs/price/reviews is the prudent shopper (3.6) vs emotional buying (3.2)."
+  },
+  {
+   "id": "BNeSi9",
+   "type": "duplicate",
+   "sev": 1,
+   "why": "Same scenario as BNeSid0 (modify vs repeat recipe)."
+  },
+  {
+   "id": "BNeSib0",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Open-minded new genres (3.5) vs familiar (3.2)."
+  },
+  {
+   "id": "BTiFeb0",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Pointing out flaws (3.2) vs asking how each person felt (3.6)."
+  },
+  {
+   "id": "BNeSim0",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Trying new formats (3.4) vs same format (3.1)."
+  },
+  {
+   "id": "BTeFim0",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Useful info (3.5) vs echo-chamber framing (3.2)."
+  },
+  {
+   "id": "BTiFeg0",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Fe side caring for teammates (3.7) vs fault analysis (3.4)."
+  },
+  {
+   "id": "BNiSev0",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Deep-meaning films (3.6) vs excitement (3.3, sounds shallow)."
+  },
+  {
+   "id": "BNiSed0",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Restaurant \"concept\" (3.2, pretentious) vs taste (3.5)."
+  },
+  {
+   "id": "BTeFid0",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Budget/health goals are virtuous (3.6) vs mood (3.2)."
+  },
+  {
+   "id": "BTeFia0",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Deadline/someone waiting = responsible (3.6) vs heart (3.3)."
+  },
+  {
+   "id": "BTiFet0",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Family consensus (3.6) vs logic (3.3)."
+  },
+  {
+   "id": "EIir5",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Reaching out first = good friend (3.7); I side reads passive (3.3)."
+  },
+  {
+   "id": "EIec4",
+   "type": "desirability",
+   "sev": 1,
+   "why": "I side \"ตั้งใจฟังเงียบ ๆ\" = good-listener virtue (3.7)."
+  },
+  {
+   "id": "EIar5",
+   "type": "ei_confound",
+   "sev": 1,
+   "why": "\"แตกประเด็น\" (Ne) vs \"ตกตะกอน\" (Ni) wording."
+  },
+  {
+   "id": "EIeq5",
+   "type": "ei_confound",
+   "sev": 1,
+   "why": "E side \"มีอะไรให้ทำ มีเสียงและความเคลื่อนไหว\" is Se sensory stimulation."
+  }
+ ],
+ "design": [
+  "1 All-forced-choice + fully ipsative: removing every Likert item removes the only normative anchor. Function totals become a fixed-sum vector (mean inter-scale r ≈ −1/7 by construction), so 'rank among the 8' and cross-person comparison are artefacts and no reliability/validity coefficient can be computed honestly. Fix: keep a 12–16-item normative Likert block, or score MFC with a Thurstonian IRT model and report only within-person ranks with error bands.",
+  "2 Opposite-pair bipolars (Ni–Se, Ne–Si, Ti–Fe, Te–Fi) hard-wire the Myers 'dominant vs inferior' axis into the data: Ni and Se can never both score high, so results confirm the stack theory by construction. Fix: make bipolars a minority (≤20% of items) and analyse whether opposite functions are actually negatively correlated in pilot data before using them to type.",
+  "3 Side order is fixed (side a = Ni/Ne/Ti/Te, always the N and T function). Any primacy or position bias (Thai respondents commonly pick the first acceptable option) inflates NT types, and the '≥95% same position' flag will miss 70–90% A-leaners. Fix: randomise display side per respondent for every bipolar and MFC item; score by function, not position.",
+  "4 Desirability matching is too loose and uses the wrong ratings: the 0.5→0.75→1.0 ladder on a 1–5 scale allows pairs a full point apart, and writer self-ratings are compressed (3.0–3.7) and underrate Fe/Te/'responsible' items. My independent ratings put 15 statements at ≥3.8 (6 of them Fe with self-sacrifice 'costs'). Fix: Thai rater panel (n≥30, mixed age), cap tolerance at 0.3–0.4, drop items whose rater SD is large.",
+  "5 Cultural direction of bias: Fe costs are Thai virtues ('แม้ไม่ใช่หน้าที่', 'จนลืมเรื่องตัวเอง', 'แม้ทีมชนะยากขึ้น') while Ti/Te sides carry face-threatening wording ('ห้วน', 'ชี้ว่าไม่สมเหตุสมผล', 'เถียงต่อ'). Under ipsative scoring this systematically pushes Thai respondents toward xxFJ results. Fix: costs must be real costs (e.g. 'พูดไม่ตรงกับที่คิด', 'ความเห็นตัวเองหายไป'); avoid public correction/arguing scenarios on the Ti side.",
+  "6 Style flags: 5-point scale with a 'พอ ๆ กัน' midpoint plus documented East/Southeast-Asian midpoint preference and เกรงใจ-style indecision means '≥60% midpoint → hide' will hide many genuine Thai results. Fix: never hide; show the result with a low-confidence banner and the % of middle answers; add speed (<1.5 s/item) and alternation checks; set thresholds from pilot distribution (e.g. top 5%).",
+  "7 Introvert-lean removal + 0.2·E/I mean double-counts and is contaminated: E/I items overlap Se content (EIar4 E side = Se 'ลงมือเลย'; EIeq5 E = sensory stimulation), so the correction subtracts real Ni/Ti/Fi signal and adds Se to E. Fix: rewrite E/I items to be function-free, then residualise only on those, and verify on simulated respondents that a pure INTJ profile is recovered.",
+  "8 Type formula weights (1 / 0.7 / 0.3 tertiary averaged over both attitudes / 0.2 E/I) are arbitrary and averaging both attitudes for the tertiary contradicts the attitude-alternation model it claims to implement. Mirror types (e.g. INTJ vs ENTJ) differ only by the 1 vs 0.7 weighting, so near-ties will be frequent. Fix: declare a tie when the score gap < bootstrap SE and present both types as co-equal.",
+  "9 Phase 2 is confirmatory: items target the leader vs its nearest rival, so early noise is amplified (rich-get-richer), and unequal exposure of functions breaks the ipsative balance. Fix: score phase 2 as a separate tie-breaker only; balance exposure across all 8 functions; include items where the leader should lose (e.g. vs its inferior) as consistency checks.",
+  "10 Top-3 'reasons' report invites Barnum/over-interpretation: 'picked this side n of m' from 6–10 comparisons and a rank among 8 look precise but have large error; quoting one chosen-vs-rejected pair is single-item evidence; if the engine picks the 'best' example it will pick the most flattering, high-desirability item. Fix: choose the quoted example by a fixed rule (median-strength or random among consistent items), show an uncertainty band, use 'คำตอบของคุณเอนไปทาง…' not 'เพราะคุณเป็น…'.",
+  "11 Counter-evidence (d) must be as prominent as supporting evidence and selected by an objective rule (largest opposite-direction response weighted by item strength), not hidden below; also show an explicit 'how consistent were you' index (e.g. % of item pairs agreeing with your final ranking). MBTI-101 box: explain that for introverts J/P describes the auxiliary, else INFJ users will think their dominant is judging.",
+  "12 Item bank structure: templates are reused across contexts (Ni = 'ค้างในใจหลายวันแล้วเข้าใจ' ×5; Se = 'ลงมือเลยแล้วค่อยปรับ' ×6; Fe = 'ผ่อนให้มือใหม่' ×2; Si = 'สังเกตความต่างจากปกติ' ×3), narrowing each construct to one facet. Fix: write a facet map per function (e.g. Se: sensory noticing / real-time adaptation / physical enjoyment) with ≤2 uses per template, then pilot (n≥200) with test-retest and TIRT reliability before launch."
+ ]
+}

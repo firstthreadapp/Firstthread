@@ -1,0 +1,1670 @@
+[
+ {
+  "id": "BNeSi0",
+  "action": "rewrite",
+  "text": {
+   "a": "เวลาต้องทำเรื่องเดิมอีกรอบ ฉันมักลองเปลี่ยนวิธีดู แม้บางทีจะเสียเวลากว่าเดิม",
+   "b": "เวลาต้องทำเรื่องเดิมอีกรอบ ฉันมักใช้วิธีที่รู้ว่าเวิร์ก แม้จะไม่ได้ลองอะไรใหม่"
+  },
+  "rules": [
+   "R3",
+   "R4",
+   "R5",
+   "R10"
+  ],
+  "argument": "Removes the absolute ไม่เคย and adopts the Thai-research template: shared stem, mirrored mild costs (time lost vs nothing new), so neither Ne nor Si reads as the sensible answer.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BNeSi6",
+  "action": "rewrite",
+  "text": {
+   "a": "เวลานึกย้อนเรื่องเก่า ฉันมักนึกถึงไอเดียที่ผุดขึ้นตอนนั้น และมันโยงไปเรื่องไหนได้อีก",
+   "b": "เวลานึกย้อนเรื่องเก่า ฉันมักนึกถึงว่าตอนนั้นอยู่ที่ไหน มีใคร และบรรยากาศเป็นแบบไหน"
+  },
+  "rules": [
+   "R5",
+   "R10",
+   "R13"
+  ],
+  "argument": "Accepts CON's clarity point: a shared stem replaces the confusing mirror wording; Ne side = ideas branching outward, Si side = vivid stored scene, both neutral recall habits.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BNeSi8",
+  "action": "rewrite",
+  "text": {
+   "a": "เวลาจัดห้องหรือโต๊ะทำงาน ฉันชอบลองย้ายของไปไว้แบบใหม่เป็นระยะ เพื่อดูว่าจะออกมาเป็นยังไง",
+   "b": "เวลาจัดห้องหรือโต๊ะทำงาน ฉันชอบให้ของอยู่ที่เดิมนาน ๆ เพื่อจะหยิบใช้ได้โดยไม่ต้องคิด"
+  },
+  "rules": [
+   "R4",
+   "R10"
+  ],
+  "argument": "Only the absolute เสมอ is removed; both sides already give a practical, non-moral reason and are parallel in length.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BNeSib0",
+  "action": "rewrite",
+  "text": {
+   "a": "เวลาเลือกหนังสือเล่มต่อไป ฉันมักหยิบแนวหรือผู้เขียนที่ยังไม่ได้ลองอ่าน เพื่อดูว่าจะเจออะไรใหม่",
+   "b": "เวลาเลือกหนังสือเล่มต่อไป ฉันมักหยิบแนวหรือผู้เขียนที่เคยอ่านแล้วถูกใจ เพราะรู้ว่าจะได้อะไร"
+  },
+  "rules": [
+   "R4",
+   "R10"
+  ],
+  "argument": "ไม่เคยอ่าน becomes ยังไม่ได้ลองอ่าน (no absolute); content was otherwise uncontested and balanced.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BNeSig0",
+  "action": "rewrite",
+  "text": {
+   "a": "ในเกมที่เล่นมานาน ฉันชอบหาวิธีเล่นแบบใหม่ เพื่อให้มันยังมีอะไรให้ลองอยู่",
+   "b": "ในเกมที่เล่นมานาน ฉันชอบเล่นด้วยวิธีที่คุ้นมือ แล้วค่อย ๆ เก็บรายละเอียดเพิ่ม"
+  },
+  "rules": [
+   "R4",
+   "R10"
+  ],
+  "argument": "Drops the absolute เสมอ; sides stay parallel and equally ordinary gaming habits.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BNeSij0",
+  "action": "rewrite",
+  "text": {
+   "a": "เวลาเลือกที่เที่ยว ฉันมักเลือกที่ที่ยังไม่ได้ไป แม้จะไม่แน่ใจว่าจะชอบไหม",
+   "b": "เวลาเลือกที่เที่ยว ฉันมักกลับไปที่ที่เคยไปแล้วชอบ แม้จะไม่ได้เห็นอะไรใหม่"
+  },
+  "rules": [
+   "R3",
+   "R4",
+   "R5",
+   "R10"
+  ],
+  "argument": "Fixes the 0.71 length ratio and the implied absolute ทุกทริป; shared stem with matched small costs.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BNeSiq0",
+  "action": "rewrite",
+  "text": {
+   "a": "เวลาซื้อเสื้อผ้าใหม่ ฉันมักลองแนวที่ยังไม่ได้ใส่ แม้บางชุดจะไม่ค่อยได้หยิบมาใส่",
+   "b": "เวลาซื้อเสื้อผ้าใหม่ ฉันมักเลือกแนวที่ใส่แล้วรู้ว่าเข้ากับตัว แม้ตู้จะดูคล้าย ๆ เดิม"
+  },
+  "rules": [
+   "R3",
+   "R4",
+   "R5",
+   "R10"
+  ],
+  "argument": "Removes ไม่เคย, adds a concrete shared stem, and gives each side an equal, realistic downside (unworn pieces vs samey wardrobe).",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BNeSix0",
+  "action": "rewrite",
+  "text": {
+   "a": "คุยกับเพื่อน ฉันชอบเปิดเรื่องใหม่ที่ยังไม่ได้คุยกัน แล้วต่อยอดไปเรื่อย ๆ",
+   "b": "คุยกับเพื่อน ฉันชอบเล่าย้อนเรื่องที่เคยผ่านมาด้วยกัน แล้วขำกันอีกรอบ"
+  },
+  "rules": [
+   "R4",
+   "R10"
+  ],
+  "argument": "Only ไม่เคย is replaced; both sides are warm, ordinary friend-talk habits of equal appeal.",
+  "des": {
+   "a": 3.5,
+   "b": 3.5
+  }
+ },
+ {
+  "id": "BNiSe10",
+  "action": "rewrite",
+  "text": {
+   "a": "เวลากินอาหารอร่อย ๆ ฉันมักคิดเลยไปว่าจานนี้กำลังสื่อถึงอะไร มากกว่ารสในคำนั้น",
+   "b": "เวลากินอาหารอร่อย ๆ ฉันมักจดจ่อกับรส กลิ่น และสัมผัสในคำนั้น มากกว่าคิดเลยไปเรื่องอื่น"
+  },
+  "rules": [
+   "R5",
+   "R10",
+   "R13"
+  ],
+  "argument": "Accepts CON's theory point: the Ni side is now convergent meaning (what it signifies), not backstory; both use the same มากกว่า contrast and drop the positive อย่างเต็มที่.",
+  "des": {
+   "a": 3.3,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BNiSe6",
+  "action": "rewrite",
+  "text": {
+   "a": "เวลาอ่านหรือดูเรื่องราว ฉันมักมองหาความหมายที่ซ่อนอยู่ใต้เรื่องที่เห็น",
+   "b": "เวลาอ่านหรือดูเรื่องราว ฉันมักอินกับภาพ เสียง และฉากที่อยู่ตรงหน้า"
+  },
+  "rules": [
+   "R10",
+   "R6"
+  ],
+  "argument": "Brings the length ratio inside ±20% and removes ลึกกว่า/เชิงสัญลักษณ์ (depth-flattery) from the Ni side.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BNiSei1",
+  "action": "rewrite",
+  "text": {
+   "a": "เวลาราคาแกว่งแรงช่วงสั้น ๆ ฉันมักถือต่อตามภาพในหัวว่าอีกไกล ๆ มันจะไปทางไหน แม้จะพลาดจังหวะตรงหน้า",
+   "b": "เวลาราคาแกว่งแรงช่วงสั้น ๆ ฉันมักดูว่าตลาดตอนนี้กำลังเกิดอะไรขึ้น แล้วขยับตามทันที แม้จะไม่ได้ถือยาว"
+  },
+  "rules": [
+   "R3",
+   "R10",
+   "R11"
+  ],
+  "argument": "Fixes length ratio and the พระ false-positive (ภาพระยะ); long-term holding (มองการณ์ไกล ↑) now carries a cost mirrored on the Se side.",
+  "des": {
+   "a": 3.4,
+   "b": 3.3
+  }
+ },
+ {
+  "id": "BNiSep0",
+  "action": "rewrite",
+  "text": {
+   "a": "ระหว่างแข่ง ฉันมักเล่นตามภาพในหัวว่าเกมจะไปทางไหน แม้บางทีจะพลาดสิ่งที่เกิดขึ้นตรงหน้า",
+   "b": "ระหว่างแข่ง ฉันมักเล่นตามสิ่งที่เกิดขึ้นตรงหน้าทีละจังหวะ แม้บางทีจะไม่ได้คิดเผื่อไปข้างหน้า"
+  },
+  "rules": [
+   "R1",
+   "R3",
+   "R10"
+  ],
+  "argument": "Adopts CON's rewrite (both teams flagged the playmaker-ability tone): 'several moves ahead' removed and symmetric costs added.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BNiSet0",
+  "action": "rewrite",
+  "text": {
+   "a": "เวลาเลือกกิจกรรมกับสัตว์เลี้ยง ฉันมักมีภาพในใจอยู่แล้วว่าอะไรเข้ากับนิสัยลึก ๆ ของมัน แล้วเลือกตามภาพนั้น",
+   "b": "เวลาเลือกกิจกรรมกับสัตว์เลี้ยง ฉันมักดูจากท่าทางของมันตอนนั้นว่ากระตือรือร้นกับอะไร แล้วเล่นตามนั้น"
+  },
+  "rules": [
+   "R5",
+   "R10",
+   "R13"
+  ],
+  "argument": "Removes the Te-like life-planning; Ni = one settled inner picture of the pet's nature, Se = reading its live cues; both pet-centred, closing the 0.55 gap.",
+  "des": {
+   "a": 3.4,
+   "b": 3.5
+  }
+ },
+ {
+  "id": "BNiSez1",
+  "action": "rewrite",
+  "text": {
+   "a": "แรงบันดาลใจของฉันมักมาจากภาพอนาคตภาพหนึ่งที่ค้างอยู่ในหัวมานาน",
+   "b": "แรงบันดาลใจของฉันมักมาจากสิ่งที่ได้เห็นและได้ลองทำในวันนั้น"
+  },
+  "rules": [
+   "R4",
+   "R10"
+  ],
+  "argument": "Fixes the 0.69 length ratio; Ni side now explicitly a single long-held image, Se side the day's concrete experience.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTeFi10",
+  "action": "rewrite",
+  "text": {
+   "a": "เวลามีคนขอให้ช่วย ฉันมักถามก่อนว่าเขาต้องการผลแบบไหน แล้วเลือกวิธีที่ตรงเป้าที่สุด แม้จะดูเป็นงานเป็นการไปหน่อย",
+   "b": "เวลามีคนขอให้ช่วย ฉันมักช่วยในแบบที่ตรงกับสิ่งที่ฉันเชื่อว่าใช่ แม้จะไม่ใช่วิธีที่ตรงเป้าที่สุด"
+  },
+  "rules": [
+   "R2",
+   "R3",
+   "R7",
+   "R10"
+  ],
+  "argument": "Both sides now help (no ไม่มีน้ำใจ reading for Fi); Te pays a coldness cost, Fi pays an efficiency cost, closing the 0.55 gap.",
+  "des": {
+   "a": 3.4,
+   "b": 3.3
+  }
+ },
+ {
+  "id": "BTeFi4",
+  "action": "rewrite",
+  "text": {
+   "a": "เวลาประเมินงานของตัวเอง ฉันมักดูจากตัวเลขหรือผลที่คนอื่นเห็นได้ แม้ใจตัวเองจะยังไม่อิน",
+   "b": "เวลาประเมินงานของตัวเอง ฉันมักดูว่ามันตรงกับสิ่งที่ฉันให้ค่าไหม แม้คนอื่นจะยังไม่เห็นผล"
+  },
+  "rules": [
+   "R2",
+   "R3",
+   "R7",
+   "R10"
+  ],
+  "argument": "Removes สำเร็จ and จริงใจ (both lint hits); outcome-vs-values contrast kept with matched costs.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTeFid0",
+  "action": "rewrite",
+  "text": {
+   "a": "เวลาเลือกว่าวันนี้จะกินอะไร ฉันยึดเงื่อนไขที่ตั้งไว้ก่อน เช่น งบ เวลา หรือระยะทางที่ไปไหว เป็นหลัก",
+   "b": "เวลาเลือกว่าวันนี้จะกินอะไร ฉันยึดสิ่งที่รู้สึกว่าเป็นตัวเอง เช่น ร้านที่ผูกพันหรือของที่ตั้งใจงด เป็นหลัก"
+  },
+  "rules": [
+   "R2",
+   "R10",
+   "R11"
+  ],
+  "argument": "Removes virtuous สุขภาพ from Te and craving from Fi; Te = set constraints, Fi = personal identity/commitment, without ethical-consumer heroics.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTeFii0",
+  "action": "rewrite",
+  "text": {
+   "a": "เวลาเลือกลงทุน ฉันมักดูตัวเลขและผลตอบแทนเป็นหลัก แม้จะไม่ได้อินกับกิจการนั้น",
+   "b": "เวลาเลือกลงทุน ฉันมักเลือกสิ่งที่ตรงกับใจฉัน แม้ตัวเลขอาจไม่ได้เด่นที่สุด"
+  },
+  "rules": [
+   "R3",
+   "R10"
+  ],
+  "argument": "Fixes the 0.73 length ratio; ethical-investing virtue (คุณค่าที่ฉันเชื่อ) softened and both sides carry a cost.",
+  "des": {
+   "a": 3.4,
+   "b": 3.3
+  }
+ },
+ {
+  "id": "BTeFij0",
+  "action": "rewrite",
+  "text": {
+   "a": "เวลาวางแผนทริป ฉันมักจัดให้คุ้มเวลาและงบที่สุด แม้บางที่ที่อยากไปจะต้องตัดออก",
+   "b": "เวลาวางแผนทริป ฉันมักจัดตามที่ใจอยากไป แม้บางวันจะไม่คุ้มเวลาและงบนัก"
+  },
+  "rules": [
+   "R3",
+   "R10"
+  ],
+  "argument": "Fixes the length ratio and the one-sided cost; each side now gives up what the other values.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTeFit0",
+  "action": "rewrite",
+  "text": {
+   "a": "เวลาเลือกของใช้หรือของเล่นให้สัตว์เลี้ยง ฉันมักดูจากรีวิวและข้อมูลที่เทียบกันได้เป็นหลัก",
+   "b": "เวลาเลือกของใช้หรือของเล่นให้สัตว์เลี้ยง ฉันมักเลือกสิ่งที่รู้สึกว่าเข้ากับมันและเข้ากับเรา"
+  },
+  "rules": [
+   "R11",
+   "R14",
+   "R10"
+  ],
+  "argument": "Accepts both teams' objection: the high-stakes 'override the vet' frame is gone; a low-stakes choice lets evidence-led and resonance-led owners both answer honestly.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTeFix0",
+  "action": "rewrite",
+  "text": {
+   "a": "จะช่วยเพื่อนสักเรื่อง ฉันมักดูก่อนว่าวิธีไหนเห็นผลเร็วที่สุด",
+   "b": "จะช่วยเพื่อนสักเรื่อง ฉันมักดูก่อนว่าวิธีไหนตรงกับใจฉันที่สุด"
+  },
+  "rules": [
+   "R2",
+   "R10"
+  ],
+  "argument": "Adopts CON's rewrite: removes จริงใจ; identical frame, one word of difference.",
+  "des": {
+   "a": 3.5,
+   "b": 3.3
+  }
+ },
+ {
+  "id": "BTeFiz0",
+  "action": "rewrite",
+  "text": {
+   "a": "ถ้าต้องเลือกทางไปสู่ฝัน ฉันมักเอาทางที่ถึงเป้าเร็วและแน่นอนกว่า แม้จะไม่ค่อยเป็นตัวเอง",
+   "b": "ถ้าต้องเลือกทางไปสู่ฝัน ฉันมักเอาทางที่เป็นตัวเองมากกว่า แม้จะไปถึงช้าและไม่แน่นอน"
+  },
+  "rules": [
+   "R1",
+   "R3",
+   "R10"
+  ],
+  "argument": "Removes ได้เร็ว lint hit and gives Te the mirror cost the Fi side already had.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTiFe1",
+  "action": "rewrite",
+  "text": {
+   "a": "ก่อนจะเห็นด้วยกับข้อสรุปในวง ฉันมักต้องไล่เหตุผลในหัวให้ลงตัวก่อน แม้จะใช้เวลานาน",
+   "b": "ก่อนจะเห็นด้วยกับข้อสรุปในวง ฉันมักดูก่อนว่าคนในวงรู้สึกร่วมกันแบบไหน แม้เหตุผลจะยังไม่ครบ"
+  },
+  "rules": [
+   "R3",
+   "R5",
+   "R10"
+  ],
+  "argument": "Fixes length ratio with a shared stem; Ti kept internal (Thai rule), each side pays a matched cost.",
+  "des": {
+   "a": 3.4,
+   "b": 3.3
+  }
+ },
+ {
+  "id": "BTiFe2",
+  "action": "rewrite",
+  "text": {
+   "a": "เวลาอธิบายอะไรให้คนอื่นฟัง ฉันเน้นให้เหตุผลทุกขั้นต่อกันครบ แม้จะยาวไปหน่อย",
+   "b": "เวลาอธิบายอะไรให้คนอื่นฟัง ฉันเน้นคำและตัวอย่างที่คนฟังเข้าถึง แม้บางขั้นจะข้ามไป"
+  },
+  "rules": [
+   "R3",
+   "R7",
+   "R10"
+  ],
+  "argument": "Removes ถูกต้อง; adds symmetric costs (too long vs skipped steps).",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTiFe5",
+  "action": "rewrite",
+  "text": {
+   "a": "ระหว่างประชุม ใจฉันมักอยู่กับว่าข้อสรุปสมเหตุสมผลไหม จนบางทีไม่ทันสังเกตบรรยากาศ",
+   "b": "ระหว่างประชุม ใจฉันมักอยู่กับว่าบรรยากาศในห้องเป็นยังไง จนบางทีไม่ทันฟังเหตุผลครบ"
+  },
+  "rules": [
+   "R2",
+   "R3",
+   "R8",
+   "R10"
+  ],
+  "argument": "Accepts CON: 'everyone included, nobody overlooked' (inclusive-leader virtue) replaced by plain attention to atmosphere, with mirrored costs.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTiFe9",
+  "action": "rewrite",
+  "text": {
+   "a": "ฉันรู้สึกโล่งเมื่อเรื่องที่ค้างในหัวถูกไล่จนเหตุผลต่อกันครบ แม้ไม่มีใครถามหาคำตอบนั้น",
+   "b": "ฉันรู้สึกโล่งเมื่อบรรยากาศในวงที่ตึงอยู่กลับมาสบาย แม้เรื่องที่ค้างจะยังไม่ได้ข้อสรุป"
+  },
+  "rules": [
+   "R2",
+   "R3",
+   "R10",
+   "R14"
+  ],
+  "argument": "Removes the saintly reconciliation and the มีเหตุผล lint; both are private relief with a matched 'unresolved' cost.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTiFef0",
+  "action": "rewrite",
+  "text": {
+   "a": "เข้ากลุ่มงานอดิเรกใหม่ ฉันมักสนใจก่อนว่าทำไมวิธีที่กลุ่มใช้ถึงเวิร์ก",
+   "b": "เข้ากลุ่มงานอดิเรกใหม่ ฉันมักสนใจก่อนว่าคนในกลุ่มเข้ากันแบบไหน"
+  },
+  "rules": [
+   "R2",
+   "R10",
+   "R13"
+  ],
+  "argument": "Replaces 'want everyone to have fun' (host virtue + E flavour) with neutral attention to group fit; both are what I notice first.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTiFeg0",
+  "action": "rewrite",
+  "text": {
+   "a": "เวลาทีมแพ้ ฉันอยากไล่ดูก่อนว่าวิธีเล่นของทีมไม่สมเหตุสมผลตรงไหน แม้บางคนยังไม่อยากคุยเรื่องนี้",
+   "b": "เวลาทีมแพ้ ฉันอยากให้ทุกคนในทีมยังโอเคกันก่อน แม้จะยังไม่ได้คุยว่าแพ้เพราะอะไร"
+  },
+  "rules": [
+   "R3",
+   "R10"
+  ],
+  "argument": "Fe caretaking now carries a cost (cause left undiscussed), mirrored by a social cost on Ti.",
+  "des": {
+   "a": 3.3,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTiFei1",
+  "action": "rewrite",
+  "text": {
+   "a": "เพื่อนชวนลงทุน ฉันมักถามก่อนว่ากลไกของมันทำงานยังไง แม้เพื่อนจะอยากได้คำตอบเลย",
+   "b": "เพื่อนชวนลงทุน ฉันมักนึกถึงความสัมพันธ์กับเพื่อนก่อน แม้ยังไม่เข้าใจว่ามันทำงานยังไง"
+  },
+  "rules": [
+   "R3",
+   "R10"
+  ],
+  "argument": "Fixes length ratio and adds symmetric costs.",
+  "des": {
+   "a": 3.4,
+   "b": 3.3
+  }
+ },
+ {
+  "id": "BTiFem0",
+  "action": "rewrite",
+  "text": {
+   "a": "เมื่อเห็นเพื่อนแชร์ข่าวที่เหตุผลไม่ต่อกัน ฉันอยากไล่ให้รู้ก่อนว่าตรงไหนไม่สมเหตุสมผล แม้สุดท้ายอาจไม่ได้ทักเขา",
+   "b": "เมื่อเห็นเพื่อนแชร์ข่าวที่เหตุผลไม่ต่อกัน ฉันคิดก่อนว่าถ้าทักไปเขาจะรู้สึกอย่างไร แม้สุดท้ายอาจไม่ได้ทักเขา"
+  },
+  "rules": [
+   "R9",
+   "R11",
+   "R3",
+   "R10"
+  ],
+  "argument": "Both sides are now internal (Thai private-beats-public rule), เสียหน้า is gone, and the closing clause is identical, removing the 0.6 face-saving gap.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTiFeq0",
+  "action": "rewrite",
+  "text": {
+   "a": "เพื่อนถามเรื่องชุด ฉันมักตอบตามหลักที่ฉันใช้เองว่าสัดส่วนกับสีเข้ากันไหม",
+   "b": "เพื่อนถามเรื่องชุด ฉันมักตอบตามที่ดูว่าคนในงานน่าจะมองชุดนี้ยังไง"
+  },
+  "rules": [
+   "R2",
+   "R10"
+  ],
+  "argument": "Adopts CON's rewrite: Fe side becomes shared-norms reading (not confidence-boosting kindness); Ti side keeps an own framework without bluntness.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTiFes0",
+  "action": "rewrite",
+  "text": {
+   "a": "ในกลุ่มติว ฉันมักไล่ในหัวจนกว่าเหตุผลแต่ละขั้นจะต่อกันไม่ขัด แม้จะตามวงไม่ทันบ้าง",
+   "b": "ในกลุ่มติว ฉันมักคอยดูว่าบรรยากาศในวงยังสบาย ๆ อยู่ไหม แม้เรื่องที่ยังสงสัยจะเก็บไว้ไม่ถาม"
+  },
+  "rules": [
+   "R3",
+   "R11",
+   "R10"
+  ],
+  "argument": "Ti no longer holds up the group (Thai ↓); each side's cost falls only on the speaker, so the gap closes.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTiFey0",
+  "action": "rewrite",
+  "text": {
+   "a": "คุยเรื่องความเชื่อกับเพื่อน ฉันมักสนใจว่าแนวคิดของแต่ละความเชื่อเชื่อมกันภายในยังไง แม้วงจะเริ่มเงียบ",
+   "b": "คุยเรื่องความเชื่อกับเพื่อน ฉันมักดูว่าทุกคนในวงยังสบายใจกันอยู่ไหม แม้จะคุยกันไม่ลึกเท่าไร"
+  },
+  "rules": [
+   "R2",
+   "R8",
+   "R3",
+   "R10"
+  ],
+  "argument": "Removes มีเหตุผล and the approval anchor ได้รับการเคารพ; symmetric costs.",
+  "des": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "EIar4",
+  "action": "rewrite",
+  "text": {
+   "E": "เวลาฝึกทักษะใหม่ ฉันมักเข้าใจขึ้นตอนได้พูดหรือถามออกมาระหว่างทำ",
+   "I": "เวลาฝึกทักษะใหม่ ฉันมักเข้าใจขึ้นตอนได้ทบทวนในหัวเงียบ ๆ ก่อนพูด"
+  },
+  "rules": [
+   "R10",
+   "R13"
+  ],
+  "argument": "Both teams agree the old item was Se-vs-N; now it is the ar facet proper (think aloud vs reflect first), with no act-first/understand-first content.",
+  "des": {
+   "E": 3.4,
+   "I": 3.4
+  }
+ },
+ {
+  "id": "EIgi2",
+  "action": "rewrite",
+  "text": {
+   "E": "ใครคุยถูกคอ ฉันมักนับเป็นเพื่อนได้เลยตั้งแต่เจอกันไม่กี่ครั้ง",
+   "I": "ใครคุยถูกคอ ฉันมักค่อย ๆ รู้จักกันไปนานพอก่อนจะนับเป็นเพื่อน"
+  },
+  "rules": [
+   "R4",
+   "R10"
+  ],
+  "argument": "Fixes the 0.75 length ratio with parallel มัก on both sides.",
+  "des": {
+   "E": 3.4,
+   "I": 3.4
+  }
+ },
+ {
+  "id": "EIir2",
+  "action": "rewrite",
+  "text": {
+   "E": "ถ้าอยากรู้จักใคร ฉันมักเป็นฝ่ายทักไปก่อน",
+   "I": "ถ้าอยากรู้จักใคร ฉันมักรอให้มีโอกาสได้คุยกันเอง"
+  },
+  "rules": [
+   "R9",
+   "R10"
+  ],
+  "argument": "Adopts CON's rewrite: drops tactless ไม่ค่อยรอจังหวะ and graceful เป็นธรรมชาติ, leaving plain initiate vs receive.",
+  "des": {
+   "E": 3.4,
+   "I": 3.3
+  }
+ },
+ {
+  "id": "EIir4",
+  "action": "rewrite",
+  "text": {
+   "E": "ถ้าเห็นคนในกลุ่มงานอดิเรกที่ยังไม่รู้จัก ฉันมักเป็นฝ่ายทักก่อน แล้วค่อยรู้จักกันไประหว่างคุย",
+   "I": "ถ้าเห็นคนในกลุ่มงานอดิเรกที่ยังไม่รู้จัก ฉันมักทำกิจกรรมด้วยกันไปก่อน แล้วค่อยรู้จักกันไประหว่างทำ"
+  },
+  "rules": [
+   "R10",
+   "R14"
+  ],
+  "argument": "Removes the bold 'walk over first' image; both sides are a route to the same outcome, so it measures initiating, not social confidence.",
+  "des": {
+   "E": 3.4,
+   "I": 3.4
+  }
+ },
+ {
+  "id": "Fea3",
+  "action": "rewrite",
+  "text": "เวลาเพื่อนให้ดูงานศิลปะของเขา ฉันมักพูดถึงจุดที่ชอบก่อน จนจุดที่อยากติจริง ๆ ไม่ได้พูดออกไป",
+  "rules": [
+   "R4",
+   "R3"
+  ],
+  "argument": "Drops เสมอ; the cost is now a realistic lost comment, not a heroic restraint.",
+  "des": 3.3
+ },
+ {
+  "id": "Fef2",
+  "action": "rewrite",
+  "text": "เพื่อนชวนลองงานอดิเรกที่เขากำลังอิน ฉันมักตอบตกลงไปตามบรรยากาศ ทั้งที่ใจยังไม่ได้อยากลองนัก",
+  "rules": [
+   "R2",
+   "R14"
+  ],
+  "argument": "Replaces model etiquette (praise then gentle advice, ~4.0) and avoids duplicating Fea3/Feq3; Fe going along with the mood at a mild cost to own wish.",
+  "des": 3.3
+ },
+ {
+  "id": "Fef4",
+  "action": "rewrite",
+  "text": "ทำงานอดิเรกกับคนอื่น ฉันมักปรับจังหวะตามคนที่มาด้วย จนบางทีกลับบ้านมาแล้วรู้สึกว่ายังไม่ได้ทำเต็มที่",
+  "rules": [
+   "R3",
+   "R14"
+  ],
+  "argument": "Adopts CON's rewrite: the considerate 'so everyone can come along' is replaced by an honest unsatisfying cost.",
+  "des": 3.4
+ },
+ {
+  "id": "Feg3",
+  "action": "rewrite",
+  "text": "เวลาเล่นเกมเป็นทีม อารมณ์ของเพื่อนร่วมทีมมักติดมาถึงฉันง่าย ถ้าใครเริ่มหงุดหงิด ฉันก็เล่นไม่ค่อยสนุกไปด้วย",
+  "rules": [
+   "R2",
+   "R14"
+  ],
+  "argument": "Removes the sportsmanship virtue and the Fep3 duplicate; Fe = attunement to the group's mood, with a cost to own enjoyment.",
+  "des": 3.2
+ },
+ {
+  "id": "Feh4",
+  "action": "rewrite",
+  "text": "ถ้าคนที่คบอารมณ์ไม่ดี ฉันมักเปลี่ยนแผนของเราตามเขาทันที จนเขาเองแทบไม่รู้ว่าฉันอยากทำอะไร",
+  "rules": [
+   "R3",
+   "R14"
+  ],
+  "argument": "Adopts CON: the self-sacrifice clause (which raises Fe desirability) is replaced by the awkward cost that my own wishes disappear.",
+  "des": 3.3
+ },
+ {
+  "id": "Fei3",
+  "action": "rewrite",
+  "text": "ก่อนลงทุนอะไร ฉันมักนึกถึงว่าคนใกล้ตัวจะรู้สึกยังไงกับการตัดสินใจนี้ จนบางทีเลือกตามที่เขาสบายใจมากกว่าที่ตัวเองคิด",
+  "rules": [
+   "R2",
+   "R11",
+   "R14"
+  ],
+  "argument": "Ethical-company concern (Fi/ESG virtue) becomes Fe attunement to close people's feelings, with a 'my own view lost' cost and no elders.",
+  "des": 3.2
+ },
+ {
+  "id": "Fej3",
+  "action": "rewrite",
+  "text": "ไปที่ใหม่ ฉันมักคอยดูว่าคนท้องถิ่นทำกันยังไงแล้วทำตาม จนบางทีเที่ยวแบบที่ตัวเองอยากไม่ค่อยได้",
+  "rules": [
+   "R2",
+   "R3"
+  ],
+  "argument": "Removes ใส่ใจ and the good-tourist motive; adds a realistic cost.",
+  "des": 3.4
+ },
+ {
+  "id": "Fek7",
+  "action": "rewrite",
+  "text": "ถ้าต้องปฏิเสธใคร ฉันมักหาวิธีพูดให้เขาไม่เสียความรู้สึก จนบางทีลังเลนานกว่าจะพูดออกไป",
+  "rules": [
+   "R11",
+   "R14"
+  ],
+  "argument": "Both teams agreed: removes people-pleasing distress (2.7) and generic เกรงใจ; Fe care for the other's feelings with a time cost.",
+  "des": 3.4
+ },
+ {
+  "id": "Fel1",
+  "action": "rewrite",
+  "text": "เวลาออกไปทำอะไรกับคนอื่น ความสนุกของฉันขึ้นกับว่าคนที่ไปด้วยสนุกไหม ถ้าเขาเบื่อ ฉันก็พลอยหมดสนุก",
+  "rules": [
+   "R14"
+  ],
+  "argument": "Accepts CON's E-confound point: gregariousness replaced by Fe's dependence on others' enjoyment.",
+  "des": 3.3
+ },
+ {
+  "id": "Fem3",
+  "action": "rewrite",
+  "text": "เวลาเห็นโพสต์ที่คนเห็นต่างกันแรง ๆ ฉันมักดูก่อนว่าแต่ละฝ่ายรู้สึกยังไง จนความเห็นจริงของตัวเองไม่ได้พิมพ์ออกไป",
+  "rules": [
+   "R2",
+   "R9",
+   "R14"
+  ],
+  "argument": "Public peacemaking (good-citizen, E) replaced by private attunement with the 'own view lost' cost; avoids ใส่ใจ/เถียง/ไม่กล้า.",
+  "des": 3.3
+ },
+ {
+  "id": "Fen5",
+  "action": "rewrite",
+  "text": "พอมีข่าวร้ายเกี่ยวกับคนรู้จัก ใจฉันมักไปค้างอยู่กับความรู้สึกของคนที่เกี่ยวข้อง จนทำเรื่องอื่นไม่ค่อยลง",
+  "rules": [
+   "R13",
+   "R14"
+  ],
+  "argument": "Removes the double-barrelled rallying (Te) and the hero image; single Fe absorption with a mild cost.",
+  "des": 3.5
+ },
+ {
+  "id": "Fep3",
+  "action": "rewrite",
+  "text": "เวลาเล่นกีฬากับเพื่อน ฉันมักคอยดูว่าทุกคนยังสนุกอยู่ไหม จนบางทีเล่นไม่เต็มที่เท่าคนอื่นในทีม",
+  "rules": [
+   "R3",
+   "R14"
+  ],
+  "argument": "Removes the beginner-kindness duplicate of Feg3; Fe atmosphere-tending with a cost to own play.",
+  "des": 3.4
+ },
+ {
+  "id": "Feq1",
+  "action": "rewrite",
+  "text": "จัดบ้าน ฉันมักเลือกสไตล์ที่คนมาเยี่ยมเห็นแล้วคุ้นและสบายใจ แม้ใจจริงจะอยากลองอะไรที่แปลกกว่านี้",
+  "rules": [
+   "R3",
+   "R14"
+  ],
+  "argument": "Adopts CON: hospitality virtue gets the trade-off of muted personal taste, which fits ctx q.",
+  "des": 3.3
+ },
+ {
+  "id": "Feq3",
+  "action": "rewrite",
+  "text": "เพื่อนถามว่าชุดนี้โอเคไหม ฉันมักดูก่อนว่าเขาอยากได้ยินแบบไหน แล้วตอบไปทางนั้น จนบางทีความเห็นจริงของฉันหายไป",
+  "rules": [
+   "R2",
+   "R14"
+  ],
+  "argument": "Ideal tact (~4.0) replaced by Fe reading what the friend wants to hear, with the 'own view lost' cost; avoids the harsher พูดไม่ตรงกับใจ.",
+  "des": 3.2
+ },
+ {
+  "id": "Fer1",
+  "action": "rewrite",
+  "text": "ถ้าคนใกล้ตัวดูไม่โอเค ฉันมักอึดอัดตามไปด้วย จนต้องหาเรื่องชวนคุยให้บรรยากาศเบาลง",
+  "rules": [
+   "R3",
+   "R14"
+  ],
+  "argument": "Removes the heroic 'put my own things aside'; Fe as discomfort with others' mood plus a mood-lifting move.",
+  "des": 3.4
+ },
+ {
+  "id": "Fer5",
+  "action": "rewrite",
+  "text": "เวลาคนใกล้ตัวสองคนเห็นไม่ตรงกัน ฉันมักหาคำพูดที่ทั้งคู่รับได้ จนบางทีความเห็นของตัวเองหายไป",
+  "rules": [
+   "R11",
+   "R14"
+  ],
+  "argument": "Takes family elders out of the scene (hierarchy rule) while keeping Fe putting harmony before self-expression at an honest cost.",
+  "des": 3.4
+ },
+ {
+  "id": "Fes3",
+  "action": "rewrite",
+  "text": "ก่อนสอบ ถ้าบรรยากาศในห้องเริ่มตึง ฉันมักอดไม่ได้ที่จะชวนคุยเรื่องเบา ๆ จนวงอ่านหนังสือกลายเป็นวงคุยเล่น",
+  "rules": [
+   "R3",
+   "R14"
+  ],
+  "argument": "Removes the self-sacrifice 'even though I hadn't finished reading' (raises Fe desirability per Thai research); the cost is now a slightly awkward outcome.",
+  "des": 3.3
+ },
+ {
+  "id": "Fev0",
+  "action": "rewrite",
+  "text": "เวลาดูหนังกับคนอื่น ฉันมักเหลือบดูว่าเขาชอบไหม จนบางทีตัวเองก็ไม่ได้อินกับหนังเต็มที่",
+  "rules": [
+   "R14"
+  ],
+  "argument": "Adopts CON's rewrite: sociability (E) replaced by Fe attunement with a cost.",
+  "des": 3.2
+ },
+ {
+  "id": "Fex0",
+  "action": "rewrite",
+  "text": "ถ้าเพื่อนเล่าเรื่องสำคัญในแชทกลุ่มแล้วเงียบ ฉันมักอึดอัดแทนเขา จนต้องรีบพิมพ์อะไรสักอย่าง แม้ยังไม่รู้จะพูดอะไรดี",
+  "rules": [
+   "R3",
+   "R14"
+  ],
+  "argument": "Adopts CON: the virtuous 'reply even when busy' becomes the discomfort-driven, slightly awkward reply.",
+  "des": 3.3
+ },
+ {
+  "id": "Fex3",
+  "action": "rewrite",
+  "text": "ถ้าเพื่อนในกลุ่มคนหนึ่งดูเงียบไปผิดปกติ ฉันมักไม่สบายใจจนต้องหาจังหวะทักเขาแยก แม้อาจเป็นเรื่องที่ฉันคิดไปเอง",
+  "rules": [
+   "R14"
+  ],
+  "argument": "Adopts CON: removes the Fek1 duplicate and the E 'pull into conversation' act; private, with an over-reading cost.",
+  "des": 3.4
+ },
+ {
+  "id": "Fey4",
+  "action": "rewrite",
+  "text": "เวลาคนในวงเชื่อต่างกัน ฉันมักหยิบจุดร่วมมาพูดให้ทุกคนสบายใจ จนบางทีไม่ได้บอกว่าตัวเองเชื่ออะไรจริง ๆ",
+  "rules": [
+   "R8",
+   "R14"
+  ],
+  "argument": "Removes the approval anchor ได้รับการเคารพ and adds the 'own belief unspoken' cost, pulling it from 4.05 into band.",
+  "des": 3.4
+ },
+ {
+  "id": "Fez0",
+  "action": "rewrite",
+  "text": "ความฝันของฉันมักผูกอยู่กับคนรอบตัว เช่น อยากทำอะไรที่คนใกล้ตัวได้สนุกไปด้วย จนฝันที่เป็นของฉันคนเดียวมีไม่ค่อยมาก",
+  "rules": [
+   "R11",
+   "R14"
+  ],
+  "argument": "Removes the กตัญญู 'family comfortable' anchor (~4.4) and the hierarchy; Fe orientation toward others with a mild cost.",
+  "des": 3.4
+ },
+ {
+  "id": "Fez4",
+  "action": "rewrite",
+  "text": "ฉันมีแรงทำตามฝันมากขึ้นเมื่อมีคนรอบตัวเชียร์อยู่ ถ้าบรรยากาศรอบตัวเงียบ ๆ แรงของฉันก็มักลดลงตาม",
+  "rules": [
+   "R14"
+  ],
+  "argument": "Removes the altruistic 'everyone reach their dream together'; Fe drive depends on the social climate, with an honest downside.",
+  "des": 3.3
+ },
+ {
+  "id": "Fia0",
+  "action": "rewrite",
+  "text": "งานศิลปะที่ฉันทำมักมาจากความรู้สึกส่วนตัว ถ้าใจไม่ได้อินกับมัน ฉันก็ทำต่อไม่ค่อยลง",
+  "rules": [
+   "R2"
+  ],
+  "argument": "Removes จริงใจ; Fi line is now a felt need, not a virtue claim.",
+  "des": 3.4
+ },
+ {
+  "id": "Fid3",
+  "action": "rewrite",
+  "text": "ร้านที่ฉันกลับไปซ้ำมักเป็นร้านที่รู้สึกว่า “ใช่” กับใจ แม้คนอื่นจะว่ารสชาติธรรมดาหรือมีที่อร่อยกว่า",
+  "rules": [
+   "R2",
+   "R14"
+  ],
+  "argument": "Both teams agreed the boycott was moral heroism; now Fi personal resonance with a mild cost.",
+  "des": 3.4
+ },
+ {
+  "id": "Fif5",
+  "action": "rewrite",
+  "text": "งานอดิเรกบางอย่างมีความหมายกับฉันมาก จนถ้ามีคนพูดถึงมันแบบเล่น ๆ ฉันมักรู้สึกเหมือนโดนแตะเรื่องส่วนตัว",
+  "rules": [
+   "R14"
+  ],
+  "argument": "Adopts CON: secrecy (EI ec) replaced by Fi value-sensitivity.",
+  "des": 3.2
+ },
+ {
+  "id": "Fii1",
+  "action": "rewrite",
+  "text": "เวลาเลือกว่าจะลงเงินกับอะไร ฉันมักเลือกสิ่งที่ใจรู้สึกผูกพัน แม้บางทีจะไม่ใช่ทางที่คุ้มที่สุด",
+  "rules": [
+   "R2",
+   "R3",
+   "R14"
+  ],
+  "argument": "Generic goodness (~4.2) replaced by Fi attachment with a cost.",
+  "des": 3.3
+ },
+ {
+  "id": "Fik3",
+  "action": "rewrite",
+  "text": "เวลาต้องตัดสินใจเรื่องส่วนตัว ฉันมักถามตัวเองว่าแบบไหนที่ “ใช่” กับฉัน แม้จะอธิบายให้คนอื่นเข้าใจได้ยาก",
+  "rules": [
+   "R14"
+  ],
+  "argument": "Containment (EI ec) replaced by Fi's inner 'is this me' test, with a communication cost.",
+  "des": 3.4
+ },
+ {
+  "id": "Fil0",
+  "action": "rewrite",
+  "text": "เวลาว่าง ฉันมักใช้การเขียน วาด หรือเล่นดนตรีเป็นที่ระบายความรู้สึกส่วนตัว",
+  "rules": [
+   "R1"
+  ],
+  "argument": "Removes สร้างสรรค์ (ability lint); the habit itself is neutral.",
+  "des": 3.4
+ },
+ {
+  "id": "Fim1",
+  "action": "rewrite",
+  "text": "สิ่งที่ฉันโพสต์ต้องตรงกับที่รู้สึกจริง ถ้าไม่ใช่ ฉันยอมไม่โพสต์ แม้จะเป็นช่วงที่ใคร ๆ ก็โพสต์กัน",
+  "rules": [
+   "R2",
+   "R3"
+  ],
+  "argument": "Removes จริงใจ; Fi standard expressed as behaviour with a social cost.",
+  "des": 3.4
+ },
+ {
+  "id": "Fir2",
+  "action": "rewrite",
+  "text": "ถ้าคนใกล้ตัวพูดอย่างทำอย่างกับสิ่งที่เขาเชื่อเอง ฉันมักรู้สึกห่างจากเขาไปเงียบ ๆ แม้เขาจะยังดีกับฉัน",
+  "rules": [
+   "R1",
+   "R2",
+   "R14"
+  ],
+  "argument": "Removes the lie-detection ability and จริงใจ; Fi = private value reaction, quiet (Thai rule), with a relational cost.",
+  "des": 3.3
+ },
+ {
+  "id": "Fiv2",
+  "action": "rewrite",
+  "text": "หนังที่กระทบใจ ฉันมักต้องใช้เวลาอยู่กับความรู้สึกนั้นก่อน ถึงจะบอกได้ว่ามันหมายถึงอะไรกับฉัน",
+  "rules": [
+   "R14"
+  ],
+  "argument": "Adopts CON: removes the solitude (I) confound.",
+  "des": 3.4
+ },
+ {
+  "id": "Fiw4",
+  "action": "rewrite",
+  "text": "ถ้างานไหนยังไม่มีความหมายกับฉันเอง ฉันมักต้องหามุมที่ตัวเองเห็นคุณค่าก่อน ถึงจะมีแรงลงมือ",
+  "rules": [
+   "R14",
+   "R1"
+  ],
+  "argument": "Lifts it from 2.7 (low commitment) without CON's ability-like 'work at my best'; Fi needs personal meaning before engaging.",
+  "des": 3.4
+ },
+ {
+  "id": "Fix0",
+  "action": "rewrite",
+  "text": "ถ้าเพื่อนสนิททำสิ่งที่ขัดกับหลักในใจฉัน ความรู้สึกที่ฉันมีต่อเขามักเปลี่ยนไป แม้ปากจะยังไม่ได้พูดอะไร",
+  "rules": [
+   "R14",
+   "R11"
+  ],
+  "argument": "Adopts CON: the textbook 'loyal but honest' ideal (~4.1) becomes a private shift in feeling.",
+  "des": 3.3
+ },
+ {
+  "id": "Fix4",
+  "action": "rewrite",
+  "text": "ถ้าวงเพื่อนคุยเรื่องที่ขัดกับหลักในใจฉัน ฉันมักนิ่งไปหรือขอตัว แม้เพื่อนจะมองว่าฉันจริงจังเกินไป",
+  "rules": [
+   "R2",
+   "R3",
+   "R14"
+  ],
+  "argument": "Removes the anti-gossip moral virtue (~4.2); generic value clash with a social cost, distinct from Fix0.",
+  "des": 3.4
+ },
+ {
+  "id": "Fiz0",
+  "action": "rewrite",
+  "text": "ความฝันของฉันต้องรู้สึกว่าเป็นของฉันจริง ๆ ถ้าเป็นแค่สิ่งที่คนรอบตัวคาดหวัง ฉันก็ไม่ค่อยมีแรงทำ",
+  "rules": [
+   "R11"
+  ],
+  "argument": "Removes พ่อแม่ (never pit Fi against parents); keeps the authenticity test.",
+  "des": 3.4
+ },
+ {
+  "id": "Nek0",
+  "action": "rewrite",
+  "text": "เจอเรื่องอะไร ฉันมักเห็นทางเลือกหลายแบบผุดขึ้นมาพร้อมกัน จนบางทีเลือกไม่ถูกว่าจะเอาทางไหน",
+  "rules": [
+   "R4",
+   "R8",
+   "R3"
+  ],
+  "argument": "Removes เสมอ and the superiority clause (คนอื่นเห็นทางเดียว); adds a realistic cost.",
+  "des": 3.3
+ },
+ {
+  "id": "Ner2",
+  "action": "rewrite",
+  "text": "ฉันมักนึกเล่น ๆ ว่าคนใกล้ตัวน่าจะลองเป็นหรือทำอะไรได้อีกหลายแบบ แม้เขาเองจะไม่ได้คิดแบบนั้น",
+  "rules": [
+   "R1",
+   "R8"
+  ],
+  "argument": "Adopts CON: removes the 'see what others can't' superiority (~4.4).",
+  "des": 3.4
+ },
+ {
+  "id": "New0",
+  "action": "rewrite",
+  "text": "ในการระดมสมอง ฉันมักโยนไอเดียออกมาหลายทาง จนบางทีทีมต้องช่วยดึงกลับมาที่โจทย์",
+  "rules": [
+   "R1",
+   "R3"
+  ],
+  "argument": "Adopts CON: fluency claim replaced by habit with a cost.",
+  "des": 3.3
+ },
+ {
+  "id": "Nex0",
+  "action": "rewrite",
+  "text": "ฉันชอบนึกเล่น ๆ ว่าเพื่อนจากต่างกลุ่มถ้าได้รู้จักกันจะคลิกกันแบบไหน แม้ส่วนใหญ่จะไม่ได้แนะนำให้เจอกันจริง",
+  "rules": [
+   "R14"
+  ],
+  "argument": "Adopts CON: the networking act (EI gi) is removed, leaving Ne imagining connections.",
+  "des": 3.4
+ },
+ {
+  "id": "Ney1",
+  "action": "rewrite",
+  "text": "ถ้ามีคนเล่าความเชื่อที่ฉันเพิ่งเคยได้ยิน ฉันมักอยากรู้ต่อว่ามันมาจากไหนและโยงกับอะไรได้บ้าง จนบางทีคุยออกนอกเรื่องไปไกล",
+  "rules": [
+   "R4",
+   "R3"
+  ],
+  "argument": "Removes ไม่เคย; adds a cost so ใฝ่รู้ does not read as pure virtue.",
+  "des": 3.4
+ },
+ {
+  "id": "Nib1",
+  "action": "rewrite",
+  "text": "เวลาอ่าน ฉันมักสนใจความหมายที่อาจซ่อนอยู่ระหว่างบรรทัด มากกว่าสิ่งที่ผู้เขียนพูดตรง ๆ",
+  "rules": [
+   "R1",
+   "R7"
+  ],
+  "argument": "Adopts CON: no longer presupposes the reading is correct.",
+  "des": 3.4
+ },
+ {
+  "id": "Nif0",
+  "action": "rewrite",
+  "text": "ฉันมักเลือกงานอดิเรกจากความรู้สึกลึก ๆ ว่ามันกำลังพาไปสู่อะไรบางอย่าง แม้ตอนเริ่มยังบอกไม่ได้ว่าอะไร",
+  "rules": [
+   "R6",
+   "R14"
+  ],
+  "argument": "Removes Fi identity language (who I become) per CON, but avoids CON's ลางสังหรณ์ which risks the งมงาย reading.",
+  "des": 3.3
+ },
+ {
+  "id": "Nil5",
+  "action": "rewrite",
+  "text": "เวลาว่าง ฉันมักกลับไปครุ่นคิดเรื่องเดียวซ้ำ ๆ จนเห็นว่าแก่นจริง ๆ ของมันคืออะไร แม้จะไม่ได้ข้อสรุปที่เอาไปใช้ได้ทันที",
+  "rules": [
+   "R3"
+  ],
+  "argument": "Both teams agreed: divergent branching (Ne) becomes convergence on one core.",
+  "des": 3.3
+ },
+ {
+  "id": "Nip3",
+  "action": "rewrite",
+  "text": "หลังเล่นหรือดูกีฬามาหลายนัด ฉันมักรู้สึกว่ามีรูปแบบลึก ๆ อย่างหนึ่งวนกลับมา แม้จะอธิบายเป็นคำได้ไม่ชัด",
+  "rules": [
+   "R4",
+   "R1"
+  ],
+  "argument": "Removes เสมอ and the skill verb จับได้; adds a process cost.",
+  "des": 3.3
+ },
+ {
+  "id": "Niq5",
+  "action": "rewrite",
+  "text": "เลือกของให้ตัวเอง ฉันมักนึกภาพว่าตัวเองกำลังเปลี่ยนไปทางไหน แล้วเลือกของที่เข้ากับตัวฉันในอีกไม่กี่ปีข้างหน้า",
+  "rules": [
+   "R14"
+  ],
+  "argument": "Adopts CON: removes the thoughtful-gift-giver frame and restores ctx q (personal taste).",
+  "des": 3.4
+ },
+ {
+  "id": "Niv0",
+  "action": "rewrite",
+  "text": "เวลาดูหนังหรือซีรีส์ ฉันมักมีความรู้สึกบางอย่างว่าเรื่องกำลังจะไปจบตรงไหน แล้วดูต่อเพื่อเช็กว่าใช่ไหม",
+  "rules": [
+   "R1",
+   "R8"
+  ],
+  "argument": "Adopts CON: removes 'guess before others'.",
+  "des": 3.4
+ },
+ {
+  "id": "Nix2",
+  "action": "rewrite",
+  "text": "พอมองย้อนมิตรภาพแต่ละช่วง ฉันมักเห็นเส้นเรื่องเดียวที่ร้อยเพื่อนแต่ละกลุ่มเข้ากับช่วงชีวิตตอนนั้น",
+  "rules": [
+   "R10",
+   "R14"
+  ],
+  "argument": "Adopts CON: removes the fate/บุพเพ reading and shortens.",
+  "des": 3.3
+ },
+ {
+  "id": "Niz4",
+  "action": "rewrite",
+  "text": "ฉันมักรู้สึกว่าเรื่องที่ผ่านมาทั้งดีและร้าย ค่อย ๆ ชี้ไปทางเดียวกัน แม้จะอธิบายเป็นเหตุผลทีละข้อไม่ค่อยได้",
+  "rules": [
+   "R12",
+   "R3"
+  ],
+  "argument": "Removes the modal ฉันควร; Ni convergence with the Thai-research Ni cost.",
+  "des": 3.3
+ },
+ {
+  "id": "Sea1",
+  "action": "rewrite",
+  "text": "ฉันมักหยุดดูสี แสง และพื้นผิวของสิ่งรอบตัว จนบางทีเดินช้ากว่าคนที่มาด้วย",
+  "rules": [
+   "R1",
+   "R3"
+  ],
+  "argument": "Adopts CON: perceptual-ability claim becomes a habit with a cost.",
+  "des": 3.4
+ },
+ {
+  "id": "Seg0",
+  "action": "rewrite",
+  "text": "ในเกม ฉันมักขยับตามสิ่งที่เกิดตรงหน้าไปก่อน แล้วค่อยปรับตามที่เห็นหลังจากนั้น",
+  "rules": [
+   "R1"
+  ],
+  "argument": "Removes the reflex-skill claim; avoids CON's 'think afterwards if I should have' which reads as ประมาท.",
+  "des": 3.4
+ },
+ {
+  "id": "Sel1",
+  "action": "rewrite",
+  "text": "เวลาว่าง ฉันชอบทำอะไรที่ได้ใช้ประสาทสัมผัสเต็มที่ เช่น ว่ายน้ำหรือเดินตลาด จนลืมเรื่องอื่นไปชั่วขณะ",
+  "rules": [
+   "R10",
+   "R13"
+  ],
+  "argument": "Shortened per CON; examples swapped to non-thrill everyday ones so Se is not a sensation-seeking stereotype.",
+  "des": 3.4
+ },
+ {
+  "id": "Ser3",
+  "action": "rewrite",
+  "text": "เวลาอยู่กับคนใกล้ตัว ฉันกับเขามักเปลี่ยนแผนตามสิ่งที่เจอตรงหน้า เช่น แวะร้านที่เพิ่งเห็นว่าเปิดใหม่",
+  "rules": [
+   "R2",
+   "R14"
+  ],
+  "argument": "Removes กล้า and the initiating (EI ir) act; Se responsiveness to the immediate.",
+  "des": 3.4
+ },
+ {
+  "id": "Set2",
+  "action": "rewrite",
+  "text": "ตอนอยู่กับสัตว์เลี้ยง ตาและหูฉันมักจับอยู่กับสิ่งที่เกิดรอบตัวมัน เช่น เสียงแปลก ๆ หรือกลิ่นที่ลอยมา",
+  "rules": [
+   "R2"
+  ],
+  "argument": "Removes ใส่ใจ and the Si baseline-comparison (ผิดที่); pure present-moment sensing.",
+  "des": 3.4
+ },
+ {
+  "id": "Sew1",
+  "action": "rewrite",
+  "text": "เมื่อเกิดเหตุไม่คาดฝัน ฉันมักขยับลงมือตามสิ่งที่เห็นตรงหน้าเลย แม้บางทีจะยังไม่ได้คิดให้รอบ",
+  "rules": [
+   "R1",
+   "R7"
+  ],
+  "argument": "Adopts CON: pure competence claim removed.",
+  "des": 3.3
+ },
+ {
+  "id": "Sex2",
+  "action": "rewrite",
+  "text": "ในวงเพื่อน ตาฉันมักจับอยู่กับสิ่งที่เกิดตรงหน้า เช่น อาหารที่เพิ่งมาเสิร์ฟหรือใครเดินเข้าร้าน จนบางทีหลุดจากเรื่องที่คุยกันอยู่",
+  "rules": [
+   "R14"
+  ],
+  "argument": "Adopts CON: host courtesy (Fe) removed; plain sensory capture with a cost.",
+  "des": 3.3
+ },
+ {
+  "id": "Sey1",
+  "action": "rewrite",
+  "text": "ฉันเข้าถึงความเชื่อผ่านสิ่งที่ได้เห็นและได้ทำในงานพิธีจริง มากกว่าการอ่านคำอธิบาย",
+  "rules": [
+   "R11",
+   "R2"
+  ],
+  "argument": "Removes ไหว้พระ/ทำบุญ (hierarchy and merit-virtue); keeps embodied Se access.",
+  "des": 3.4
+ },
+ {
+  "id": "Sif1",
+  "action": "rewrite",
+  "text": "ฉันมักเก็บความรู้สึกในมือตอนที่ทำได้ครั้งแรกไว้ แล้วใช้มันเป็นหลักเทียบเวลาฝึกรอบต่อ ๆ ไป",
+  "rules": [
+   "R7",
+   "R1"
+  ],
+  "argument": "Removes สำเร็จ and the 'remember in detail' ability tone.",
+  "des": 3.4
+ },
+ {
+  "id": "Sii1",
+  "action": "rewrite",
+  "text": "ฉันมักเลือกลงทุนในของที่คุ้นเคยหรือใช้อยู่ทุกวัน มากกว่ากิจการที่ยังไม่รู้จัก แม้จะพลาดโอกาสใหม่บางอย่าง",
+  "rules": [
+   "R4",
+   "R3"
+  ],
+  "argument": "Removes ไม่เคย; the prudence (↑) gets a cost.",
+  "des": 3.4
+ },
+ {
+  "id": "Sim3",
+  "action": "rewrite",
+  "text": "ฉันชอบเปิดดูโพสต์หรือรูปเก่าที่ระบบเตือนว่า “วันนี้เมื่อปีก่อน” แล้วนึกย้อนว่าตอนนั้นเป็นอย่างไร",
+  "rules": [
+   "R14"
+  ],
+  "argument": "Compulsive app ritual (2.8) replaced by neutral Si recall.",
+  "des": 3.4
+ },
+ {
+  "id": "Siq2",
+  "action": "rewrite",
+  "text": "ฉันมักเลือกของใช้จากความรู้สึกตอนใช้ที่จำได้ เช่น ผ้าแบบนี้ใส่แล้วคันไหม แก้วทรงนี้จับแล้วเข้ามือหรือเปล่า",
+  "rules": [
+   "R1"
+  ],
+  "argument": "Removes ถนัด lint.",
+  "des": 3.4
+ },
+ {
+  "id": "Sit3",
+  "action": "rewrite",
+  "text": "ฉันชอบให้กิจวัตรของสัตว์เลี้ยงเป็นแบบเดิมทุกวัน เช่น กินเวลาเดิม เดินเส้นทางเดิม เพราะรู้สึกว่าทุกอย่างเข้าที่",
+  "rules": [
+   "R14"
+  ],
+  "argument": "Both teams agreed: responsible-owner virtue becomes a routine preference.",
+  "des": 3.4
+ },
+ {
+  "id": "Siv0",
+  "action": "rewrite",
+  "text": "ฉันชอบดูหนังหรือซีรีส์เรื่องโปรดซ้ำหลายรอบ เพราะได้ความสุขแบบคุ้นเคยกลับมาอีก",
+  "rules": [
+   "R4"
+  ],
+  "argument": "Removes ทุกครั้ง.",
+  "des": 3.4
+ },
+ {
+  "id": "Siw4",
+  "action": "rewrite",
+  "text": "ฉันมักจำว่างานแต่ละแบบเคยติดปัญหาตรงไหน แล้วเตรียมเผื่อไว้แบบเดิม แม้บางครั้งงานรอบใหม่จะไม่ได้เป็นแบบนั้นแล้ว",
+  "rules": [
+   "R3",
+   "R14"
+  ],
+  "argument": "Model-employee (~3.9) gets the realistic Si cost of over-applying past templates.",
+  "des": 3.4
+ },
+ {
+  "id": "Six4",
+  "action": "rewrite",
+  "text": "มุกเก่าของกลุ่มที่เล่าซ้ำมาหลายปี ฉันก็ยังขำได้อีก เพราะมันพาความรู้สึกตอนนั้นกลับมา",
+  "rules": [
+   "R4"
+  ],
+  "argument": "Removes ทุกครั้ง.",
+  "des": 3.5
+ },
+ {
+  "id": "Siy2",
+  "action": "rewrite",
+  "text": "ก่อนเรื่องสำคัญ ฉันมีพิธีเล็ก ๆ ของตัวเองที่ทำแบบเดิมซ้ำ ๆ เช่น ใส่เสื้อตัวเดิม หรือไปที่เดิม",
+  "rules": [
+   "R4"
+  ],
+  "argument": "Removes ทุกครั้ง.",
+  "des": 3.3
+ },
+ {
+  "id": "Siz5",
+  "action": "rewrite",
+  "text": "ก่อนลงมือทำสิ่งที่ฝัน ฉันมีเพลงหรือของประจำที่หยิบมาใช้ซ้ำ ๆ เพราะมันทำให้ใจเข้าที่",
+  "rules": [
+   "R4"
+  ],
+  "argument": "Removes ทุกครั้ง.",
+  "des": 3.4
+ },
+ {
+  "id": "Tef3",
+  "action": "rewrite",
+  "text": "ฉันมักตั้งเป้าการฝึกเป็นขั้น ๆ แล้วซื้ออุปกรณ์ตามขั้นนั้นเท่านั้น จนบางทีต้องไปซื้อเพิ่มอีกหลายรอบ",
+  "rules": [
+   "R11",
+   "R3"
+  ],
+  "argument": "Removes the พอเพียง frugality virtue and Si flavour; Te staged-goal logic with a cost.",
+  "des": 3.4
+ },
+ {
+  "id": "Tej4",
+  "action": "rewrite",
+  "text": "พอทริปมีปัญหา เช่น เที่ยวบินดีเลย์ ฉันมักรีบเลือกทางใหม่แล้วจัดการต่อเลย แม้บางคนในกลุ่มยังอยากรอดูก่อน",
+  "rules": [
+   "R1",
+   "R3"
+  ],
+  "argument": "Removes the competent-crisis-manager framing (least time wasted); decisive Te with a group cost.",
+  "des": 3.4
+ },
+ {
+  "id": "Tek2",
+  "action": "rewrite",
+  "text": "ฉันเชื่อตัวเลขและหลักฐานมากกว่าคำบอกเล่า จนบางทีคนที่เล่าให้ฟังรู้สึกว่าฉันไม่ค่อยเชื่อเขา",
+  "rules": [
+   "R9"
+  ],
+  "argument": "Removes the one-sided label เย็นชา; the cost is now a described consequence.",
+  "des": 3.4
+ },
+ {
+  "id": "Tem2",
+  "action": "rewrite",
+  "text": "เมื่อเห็นข้อมูลผิดในกลุ่มแชท ฉันมักส่งลิงก์ข้อมูลที่ตรวจได้ไปเลย แม้บางคนจะรู้สึกว่าจริงจังไป",
+  "rules": [
+   "R7",
+   "R3",
+   "R11"
+  ],
+  "argument": "Removes ถูกต้อง and the public 'correct immediately' hero image; Te with a social cost.",
+  "des": 3.4
+ },
+ {
+  "id": "Tep0",
+  "action": "rewrite",
+  "text": "ฉันบันทึกตัวเลขการซ้อมแทบทุกรอบ เช่น ระยะหรือเวลา จนบางทีสนุกน้อยลงเพราะคิดแต่ตัวเลข",
+  "rules": [
+   "R4"
+  ],
+  "argument": "Removes ทุกครั้ง; the cost was already present.",
+  "des": 3.4
+ },
+ {
+  "id": "Teq0",
+  "action": "rewrite",
+  "text": "ฉันจัดตู้เสื้อผ้าเป็นระบบ มีชิ้นหลักไม่กี่ชิ้นที่จับคู่กันได้หมด จนบางทีแต่งตัวออกมาคล้าย ๆ เดิม",
+  "rules": [
+   "R1",
+   "R3"
+  ],
+  "argument": "Removes ได้เร็ว; adds a cost so organisation is not a pure virtue.",
+  "des": 3.4
+ },
+ {
+  "id": "Ter1",
+  "action": "rewrite",
+  "text": "ฉันมักเป็นคนวางแผนเรื่องที่ทำร่วมกับคนใกล้ตัว เช่น ทริปหรือกิจกรรม ให้มีตารางชัด แม้บางคนอยากไปแบบสบาย ๆ",
+  "rules": [
+   "R2",
+   "R3"
+  ],
+  "argument": "Removes ส่วนรวม (↑) and adds a cost.",
+  "des": 3.4
+ },
+ {
+  "id": "Tes3",
+  "action": "rewrite",
+  "text": "หลังสอบแต่ละครั้ง ฉันดูว่าเสียคะแนนตรงไหนมากที่สุด แล้วเปลี่ยนวิธีอ่านตามนั้น จนบางทีอ่านแค่สิ่งที่น่าจะออกสอบ",
+  "rules": [
+   "R3",
+   "R14"
+  ],
+  "argument": "Both teams agreed: ideal-student answer gets the Te cost of studying to the test.",
+  "des": 3.4
+ },
+ {
+  "id": "Teu5",
+  "action": "rewrite",
+  "text": "เวลาต้องจัดเพลงให้งานหรือกิจกรรม ฉันมักรับเป็นคนวางลำดับ แบ่งช่วงเวลา และแจกว่าใครดูแลส่วนไหน แม้บางคนอยากเปิดตามอารมณ์",
+  "rules": [
+   "R2",
+   "R3"
+  ],
+  "argument": "Removes รับผิดชอบ; adds a cost.",
+  "des": 3.4
+ },
+ {
+  "id": "Tew1",
+  "action": "rewrite",
+  "text": "เมื่อเห็นขั้นตอนที่เสียเวลาโดยไม่จำเป็น ฉันมักอยากรีบปรับทันที แม้คนอื่นจะยังคุ้นกับแบบเดิม",
+  "rules": [
+   "R7",
+   "R3"
+  ],
+  "argument": "Removes มีประสิทธิภาพ; adds a cost.",
+  "des": 3.4
+ },
+ {
+  "id": "Tey3",
+  "action": "rewrite",
+  "text": "สำหรับฉัน ความเชื่อที่มีความหมายคือสิ่งที่เอามาจัดชีวิตให้เป็นระเบียบได้จริง ถ้าใช้ไม่ได้ ฉันก็ไม่ค่อยยึด",
+  "rules": [
+   "R2"
+  ],
+  "argument": "Removes วินัย; Te pragmatic test of belief with a mildly uncomfortable implication.",
+  "des": 3.3
+ },
+ {
+  "id": "Tia2",
+  "action": "rewrite",
+  "text": "เวลาดูงานศิลปะ ฉันมักดูว่าแนวคิดของงานต่อกันลงตัวในตัวมันเองไหม",
+  "rules": [
+   "R6"
+  ],
+  "argument": "Removes the construct label ตรรกะ.",
+  "des": 3.4
+ },
+ {
+  "id": "Tid1",
+  "action": "rewrite",
+  "text": "เวลาชิมอาหาร ฉันชอบแยกรสในหัวเป็นเปรี้ยว เค็ม หวาน แล้วคิดว่าแต่ละรสทำหน้าที่อะไรในจาน",
+  "rules": [
+   "R1"
+  ],
+  "argument": "Adopts CON: palate-skill claim removed.",
+  "des": 3.4
+ },
+ {
+  "id": "Tih4",
+  "action": "rewrite",
+  "text": "เจอคำแนะนำเรื่องความรักแบบสูตรตายตัว ฉันชอบคิดเองก่อนว่ามันจริงแค่ไหน และใช้ได้ในกรณีไหน",
+  "rules": [
+   "R7"
+  ],
+  "argument": "สูตรสำเร็จ → สูตรตายตัว to clear the lint hit; content unchanged.",
+  "des": 3.5
+ },
+ {
+  "id": "Tij2",
+  "action": "rewrite",
+  "text": "เวลาวางทริป ฉันชอบคิดเองว่าทำไมเส้นทางหนึ่งถึงสมเหตุสมผลกว่า มากกว่าเชื่อตามรีวิว แม้จะใช้เวลานานขึ้น",
+  "rules": [
+   "R10",
+   "R3"
+  ],
+  "argument": "Shortened per CON while keeping the cost.",
+  "des": 3.4
+ },
+ {
+  "id": "Tik3",
+  "action": "rewrite",
+  "text": "ฉันมักติดใจถ้าคำหรือนิยามที่ใช้คุยกันยังไม่ชัด จนบางทีคุยต่อไม่ลงจนกว่าจะชัด",
+  "rules": [
+   "R1",
+   "R3"
+  ],
+  "argument": "Removes แม่น; Ti precision as a need with a cost.",
+  "des": 3.3
+ },
+ {
+  "id": "Til5",
+  "action": "rewrite",
+  "text": "เวลาเห็นเคล็ดลับหรือคำแนะนำในโซเชียล ฉันมักลองคิดเองก่อนว่ามันสมเหตุสมผลจริงไหม จนบางทีไม่ได้ลองทำสักที",
+  "rules": [
+   "R2",
+   "R3"
+  ],
+  "argument": "Removes มีเหตุผล and adds a cost so media literacy is not a free virtue.",
+  "des": 3.4
+ },
+ {
+  "id": "Tim2",
+  "action": "rewrite",
+  "text": "ก่อนกดแชร์อะไร ฉันมักไล่เช็กว่าเหตุผลในโพสต์ต่อกันติดไหม จนบางทีแชร์ช้ากว่าคนอื่น",
+  "rules": [
+   "R1",
+   "R3"
+  ],
+  "argument": "Adopts CON: removes แม่นยำ and the non-posting (I) confound.",
+  "des": 3.4
+ },
+ {
+  "id": "Tin4",
+  "action": "rewrite",
+  "text": "อ่านข่าวทีไร ฉันอดไม่ได้ที่จะแยกว่าประโยคไหนเป็นข้อเท็จจริง ประโยคไหนเป็นความเห็น จนอ่านข่าวสบาย ๆ ไม่ค่อยได้",
+  "rules": [
+   "R3",
+   "R14"
+  ],
+  "argument": "Adopts CON: media-literacy ideal (~4.1) becomes a compulsion with a cost.",
+  "des": 3.5
+ },
+ {
+  "id": "Tir2",
+  "action": "rewrite",
+  "text": "เวลาอธิบายความคิดให้คนใกล้ตัวฟัง ฉันมักอยากใช้คำให้ตรงกับที่คิดเป๊ะ ๆ แม้เขาไม่ได้ต้องการละเอียดขนาดนั้น",
+  "rules": [
+   "R1",
+   "R7"
+  ],
+  "argument": "Removes แม่นยำ/ถูกต้อง; cost retained.",
+  "des": 3.3
+ },
+ {
+  "id": "Tir5",
+  "action": "rewrite",
+  "text": "ฉันมักสังเกตว่าข้อตกลงเล็ก ๆ ระหว่างฉันกับคนใกล้ตัวบางข้อขัดกันเอง แล้วอดคิดในใจไม่ได้ว่าเหตุผลจริง ๆ ของมันคืออะไร",
+  "rules": [
+   "R11"
+  ],
+  "argument": "House rules imply elders; now peer agreements and kept internal, so Ti is not 'talking back'.",
+  "des": 3.3
+ },
+ {
+  "id": "Tiu2",
+  "action": "rewrite",
+  "text": "เวลาคุยกันว่าเพลงไหนดี ฉันอยากอธิบายได้ว่าดีตรงไหนเพราะอะไร ไม่ใช่แค่บอกว่าชอบ",
+  "rules": [
+   "R2",
+   "R9"
+  ],
+  "argument": "Removes มีเหตุผล and เถียง.",
+  "des": 3.4
+ },
+ {
+  "id": "Tiw2",
+  "action": "rewrite",
+  "text": "ก่อนเริ่มถกประเด็นในงาน ฉันชอบนิยามคำและแนวคิดให้ชัดก่อน แม้บางคนอยากข้ามไปคุยเรื่องหลักเลย",
+  "rules": [
+   "R1",
+   "R3"
+  ],
+  "argument": "Removes แม่นยำ; adds a cost.",
+  "des": 3.4
+ },
+ {
+  "id": "Tix0",
+  "action": "rewrite",
+  "text": "เวลาเพื่อนขอคำแนะนำ ฉันมักถามไล่ให้ชัดก่อนว่าปัญหาจริง ๆ คืออะไร จนบางทีเพื่อนรู้สึกเหมือนโดนสัมภาษณ์",
+  "rules": [
+   "R2",
+   "R3"
+  ],
+  "argument": "Adopts CON: helping motive removed, cost added.",
+  "des": 3.3
+ },
+ {
+  "id": "Tix2",
+  "action": "rewrite",
+  "text": "ถ้ากติกาในกลุ่มเพื่อนขัดกันเอง เช่น เรื่องใครได้เลือกร้าน ฉันมักค้างใจจนอยากไล่ให้รู้ว่าหลักที่ลงตัวจริง ๆ คือแบบไหน",
+  "rules": [
+   "R4",
+   "R11"
+  ],
+  "argument": "Removes ทุกครั้ง, the Te standardisation, and money-splitting (คิดเล็กคิดน้อย) content; Ti internal consistency.",
+  "des": 3.3
+ },
+ {
+  "id": "Tiy1",
+  "action": "rewrite",
+  "text": "เวลาเจอคำทำนายหรือคำสอน ฉันชอบแยกดูว่าส่วนไหนเป็นเหตุและผลที่ต่อกัน ส่วนไหนเป็นการตีความ",
+  "rules": [
+   "R6"
+  ],
+  "argument": "Removes the construct label ตรรกะ.",
+  "des": 3.4
+ },
+ {
+  "id": "Tiz4",
+  "action": "rewrite",
+  "text": "ก่อนตั้งเป้าตามคนอื่น ฉันชอบถามตัวเองว่าคำว่า “ชีวิตที่ดี” ที่คนพูดกัน หมายถึงอะไรกันแน่",
+  "rules": [
+   "R7"
+  ],
+  "argument": "Removes สำเร็จ lint hit; Ti definitional questioning kept.",
+  "des": 3.4
+ }
+]

@@ -1,0 +1,979 @@
+[
+ {
+  "id": "BNeSi0",
+  "verdict": "accept",
+  "why": "Absolute removed; shared stem, mirrored mild costs; Ne novelty vs Si known-method intact.",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BNeSi6",
+  "verdict": "accept",
+  "why": "Clearer than rev10; a = idea branching (Ne), b = recalled place/people/atmosphere (Si). Parallel.",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BNeSi8",
+  "verdict": "accept",
+  "why": "เสมอ removed with no meaning loss; both sides keep a neutral reason.",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BNeSib0",
+  "verdict": "accept",
+  "why": "Minimal fix; novelty vs known-liked, both reasons neutral.",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BNeSig0",
+  "verdict": "accept",
+  "why": "Absolute dropped; reads fine. Minor: 'ให้ยังมีอะไรใหม่ให้ลอง' would flow slightly better, not worth a change.",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BNeSij0",
+  "verdict": "accept",
+  "why": "Length fixed, mirrored costs, Ne/Si clear.",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BNeSiq0",
+  "verdict": "object",
+  "why": "Ne side's cost 'บางชุดไม่ค่อยได้หยิบมาใส่' = clothes bought and unworn, reads ฟุ่มเฟือย (anti-พอเพียง) in Thai, pulling a below b. Swap for a non-money cost.",
+  "proDes": {
+   "a": 3.2,
+   "b": 3.4
+  },
+  "counter": {
+   "a": "เวลาซื้อเสื้อผ้าใหม่ ฉันมักลองแนวที่ยังไม่ได้ใส่ แม้บางชุดใส่แล้วจะยังไม่ค่อยชินตัว",
+   "b": "เวลาซื้อเสื้อผ้าใหม่ ฉันมักเลือกแนวที่ใส่แล้วรู้ว่าเข้ากับตัว แม้ตู้จะดูคล้าย ๆ เดิม"
+  },
+  "counterDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BNeSix0",
+  "verdict": "accept",
+  "why": "Minimal absolute fix; both sides warm and natural.",
+  "proDes": {
+   "a": 3.5,
+   "b": 3.5
+  }
+ },
+ {
+  "id": "BNiSe10",
+  "verdict": "accept",
+  "why": "Ni now meaning-oriented, Se fully sensory. 'จานนี้กำลังสื่อถึงอะไร' is a bit food-critic for ordinary Thai, nudging a down slightly, but gap stays within tolerance.",
+  "proDes": {
+   "a": 3.2,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BNiSe6",
+  "verdict": "accept",
+  "why": "Length fixed; Ni hidden meaning vs Se in-the-moment sensory. 'ความหมายที่ซ่อนอยู่' sounds a touch deeper, small gap only.",
+  "proDes": {
+   "a": 3.5,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BNiSei1",
+  "verdict": "object",
+  "why": "Imbalance remains: long-term holding is the financially 'wise' Thai answer while 'ขยับตามทันที' reads as speculation; b's cost 'ไม่ได้ถือยาว' is no cost to a Se trader. Also 'ภาพในหัวว่าอีกไกล ๆ' is awkward Thai. Give both real costs and neutral Se wording.",
+  "proDes": {
+   "a": 3.6,
+   "b": 3.1
+  },
+  "counter": {
+   "a": "เวลาราคาแกว่งแรงช่วงสั้น ๆ ฉันมักถือตามภาพในใจว่าระยะยาวมันจะไปทางไหน แม้บางช่วงต้องทนเห็นพอร์ตติดลบ",
+   "b": "เวลาราคาแกว่งแรงช่วงสั้น ๆ ฉันมักดูว่าตลาดตอนนี้เกิดอะไรขึ้นจริง แล้วปรับตามที่เห็น แม้บางทีจะปรับบ่อยจนเหนื่อย"
+  },
+  "counterDes": {
+   "a": 3.4,
+   "b": 3.3
+  }
+ },
+ {
+  "id": "BNiSep0",
+  "verdict": "accept",
+  "why": "CON's round-1 fix adopted; mirrored costs remove the playmaker-skill tilt.",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BNiSet0",
+  "verdict": "accept",
+  "why": "Ni no longer Te planning; a = sense of the pet's deeper nature, b = reading current body language. b slightly more 'attentive owner' but gap ~0.3, acceptable.",
+  "proDes": {
+   "a": 3.3,
+   "b": 3.6
+  }
+ },
+ {
+  "id": "BNiSez1",
+  "verdict": "accept",
+  "why": "Length balanced; Ni single lingering future image vs Se today's experience. 'ในวันนั้น' slightly odd but understandable.",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTeFi10",
+  "verdict": "object",
+  "why": "Imbalance persists: b now helps 'in the way I believe is right' even if it misses the target, which reads as imposing one's own way on the person asking (เอาแต่ใจ); a still gets the effective-helper halo and its cost 'ดูเป็นงานเป็นการ' is weak. Make both sides selective helpers for their own reason.",
+  "proDes": {
+   "a": 3.6,
+   "b": 3.0
+  },
+  "counter": {
+   "a": "เวลามีคนขอให้ช่วย ฉันมักดูก่อนว่าต้องใช้เวลาและแรงเท่าไร แล้วรับเฉพาะส่วนที่จัดการไหว แม้บางทีจะดูคิดเยอะ",
+   "b": "เวลามีคนขอให้ช่วย ฉันมักดูก่อนว่าเรื่องนั้นสำคัญกับใจฉันแค่ไหน แล้วรับเฉพาะเรื่องที่รู้สึกว่าใช่ แม้บางทีจะดูเลือกช่วย"
+  },
+  "counterDes": {
+   "a": 3.3,
+   "b": 3.2
+  }
+ },
+ {
+  "id": "BTeFi4",
+  "verdict": "accept",
+  "why": "Virtue word จริงใจ and สำเร็จ gone; mirrored costs, Te visible metrics vs Fi personal worth.",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTeFid0",
+  "verdict": "object",
+  "why": "b is double-barrelled and drifts: 'ร้านที่ผูกพัน' is Si attachment to the familiar, while 'ของที่ตั้งใจงด' is Fi values. Keep only values-based examples.",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.3
+  },
+  "counter": {
+   "a": "เวลาเลือกว่าวันนี้จะกินอะไร ฉันยึดเงื่อนไขที่ตั้งไว้ก่อน เช่น งบ เวลา หรือระยะทางที่ไปไหว เป็นหลัก",
+   "b": "เวลาเลือกว่าวันนี้จะกินอะไร ฉันยึดสิ่งที่ตรงกับใจตัวเอง เช่น ของที่ตั้งใจงดหรือร้านที่อยากสนับสนุน เป็นหลัก"
+  },
+  "counterDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTeFii0",
+  "verdict": "object",
+  "why": "'เลือกสิ่งที่ตรงกับใจฉัน' in investing reads as gut/whim (imprudent) rather than Fi values, so b loses to a's numbers. Original values framing was clearer Fi; restore it and give a a values-indifference cost.",
+  "proDes": {
+   "a": 3.6,
+   "b": 3.1
+  },
+  "counter": {
+   "a": "เวลาเลือกลงทุน ฉันมักดูตัวเลขและผลตอบแทนเป็นหลัก แม้กิจการนั้นจะทำเรื่องที่ฉันไม่ได้อินด้วย",
+   "b": "เวลาเลือกลงทุน ฉันมักเลือกกิจการที่ทำเรื่องที่ฉันเห็นค่า แม้ตัวเลขอาจไม่ได้เด่นที่สุด"
+  },
+  "counterDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTeFij0",
+  "verdict": "accept",
+  "why": "Mirrored costs, same stem, balanced.",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTeFit0",
+  "verdict": "accept",
+  "why": "Stakes lowered from vet decisions to choosing toys/supplies; Fi side no longer irresponsible. Te = comparable data, Fi = felt fit.",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTeFix0",
+  "verdict": "object",
+  "why": "Helping a friend 'in the way that suits MY heart' reads self-centred in Thai friendship (เห็นแก่ตัว); a 'fastest result' has no cost. Fi should be a personal line the method must not cross, and both sides need a cost.",
+  "proDes": {
+   "a": 3.6,
+   "b": 3.1
+  },
+  "counter": {
+   "a": "จะช่วยเพื่อนสักเรื่อง ฉันมักดูก่อนว่าวิธีไหนเห็นผลเร็วที่สุด แม้บางทางที่เพื่อนอยากลองจะถูกตัดไป",
+   "b": "จะช่วยเพื่อนสักเรื่อง ฉันมักดูก่อนว่าวิธีไหนไม่ขัดกับสิ่งที่ฉันยึดถือ แม้จะช่วยได้ช้าลง"
+  },
+  "counterDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTeFiz0",
+  "verdict": "accept",
+  "why": "Ability word removed; mirrored costs (not myself vs slow/uncertain) are well balanced.",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTiFe1",
+  "verdict": "object",
+  "why": "b 'agree based on group feeling even though reasons are incomplete' reads as ตามน้ำ/conformist, while a 'think it through first' carries the มีเหตุผล halo; costs aren't symmetric in weight. Give Ti a group cost and Fe a self cost.",
+  "proDes": {
+   "a": 3.6,
+   "b": 3.1
+  },
+  "counter": {
+   "a": "ก่อนจะเห็นด้วยกับข้อสรุปในวง ฉันมักต้องไล่เหตุผลในหัวให้ลงตัวก่อน แม้วงจะต้องรอฉันอยู่",
+   "b": "ก่อนจะเห็นด้วยกับข้อสรุปในวง ฉันมักดูก่อนว่าทุกคนในวงโอเคกับมันไหม แม้ตัวเองจะยังติดใจบางจุด"
+  },
+  "counterDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTiFe2",
+  "verdict": "accept",
+  "why": "Outcome word removed; mirrored costs (too long vs skipped steps).",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTiFe5",
+  "verdict": "accept",
+  "why": "Inclusive-leader virtue removed; symmetric 'จนบางทีไม่ทัน…' costs. Good.",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTiFe9",
+  "verdict": "accept",
+  "why": "Reconciliation saint removed; both 'relief' framings. a's clause is not much of a cost, but b's relief-at-ease is not heroic either; close.",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.5
+  }
+ },
+ {
+  "id": "BTiFef0",
+  "verdict": "accept",
+  "why": "Fe now group dynamics rather than hosting fun; both are 'what I notice first'. Balanced.",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTiFeg0",
+  "verdict": "accept",
+  "why": "Mirror costs added; Ti analysis vs Fe team morale, both legitimate after a loss.",
+  "proDes": {
+   "a": 3.3,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTiFei1",
+  "verdict": "object",
+  "why": "Fe side now invests on relationship 'แม้ยังไม่เข้าใจว่ามันทำงานยังไง' = gullible/imprudent (research map: don't frame the alternative to Ti as gullibility). Fe should be about handling the friend's feelings, not about investing blindly.",
+  "proDes": {
+   "a": 3.6,
+   "b": 3.0
+  },
+  "counter": {
+   "a": "เพื่อนชวนลงทุน ฉันมักขอไล่ดูก่อนว่ากลไกของมันทำงานยังไง แม้เพื่อนจะรู้สึกว่าฉันไม่ค่อยเชื่อใจ",
+   "b": "เพื่อนชวนลงทุน ฉันมักคิดก่อนว่าจะตอบยังไงให้เพื่อนไม่เสียความรู้สึก แม้ตัวเองจะยังไม่ได้ตัดสินใจ"
+  },
+  "counterDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTiFem0",
+  "verdict": "accept",
+  "why": "Public face-loss removed; both internal with identical outcome clause. 'อยากไล่ให้รู้' is colloquial but ok.",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTiFeq0",
+  "verdict": "accept",
+  "why": "Ti own aesthetic rule vs Fe how others at the event will see it; neither is the kind/tactless side now.",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTiFes0",
+  "verdict": "accept",
+  "why": "Ti now internal (no holding up the group); Fe pays by not asking. Good symmetry.",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "BTiFey0",
+  "verdict": "accept",
+  "why": "Virtue word removed; mirrored costs (quiet circle vs shallow talk).",
+  "proDes": {
+   "a": 3.4,
+   "b": 3.4
+  }
+ },
+ {
+  "id": "EIar4",
+  "verdict": "accept",
+  "why": "Function confound removed: talk-to-understand vs reflect-before-speaking is the clean ar facet.",
+  "proDes": {
+   "E": 3.4,
+   "I": 3.4
+  }
+ },
+ {
+  "id": "EIgi2",
+  "verdict": "accept",
+  "why": "Length fixed; I side 'นานพอ' slightly prudent-sounding but fine.",
+  "proDes": {
+   "E": 3.4,
+   "I": 3.5
+  }
+ },
+ {
+  "id": "EIir2",
+  "verdict": "accept",
+  "why": "'ไม่ค่อยรอจังหวะ' tactlessness removed; plain initiate vs wait.",
+  "proDes": {
+   "E": 3.4,
+   "I": 3.3
+  }
+ },
+ {
+  "id": "EIir4",
+  "verdict": "accept",
+  "why": "Boldness tilt removed; both get acquainted, via talk vs via doing. Good.",
+  "proDes": {
+   "E": 3.5,
+   "I": 3.4
+  }
+ },
+ {
+  "id": "Fea3",
+  "verdict": "accept",
+  "why": "Fe with a real cost (true critique unsaid); not saintly.",
+  "proDes": 3.2
+ },
+ {
+  "id": "Fef2",
+  "verdict": "accept",
+  "why": "Fe accommodating with honest cost; a bit 'เกรงใจ'-generic and low (~3.1), still in band and expresses Fe going-along.",
+  "proDes": 3.1
+ },
+ {
+  "id": "Fef4",
+  "verdict": "accept",
+  "why": "Virtue cost replaced by a mild self cost; Fe pacing to others.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Feg3",
+  "verdict": "accept",
+  "why": "Duplicate removed; Fe emotional attunement to team mood, mildly below midpoint, fine.",
+  "proDes": 3.2
+ },
+ {
+  "id": "Feh4",
+  "verdict": "accept",
+  "why": "Sacrifice tone replaced by self-erasure cost; Fe clear.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Fei3",
+  "verdict": "accept",
+  "why": "Now clearly Fe (others' feelings weigh in), not ESG Fi; cost realistic.",
+  "proDes": 3.2
+ },
+ {
+  "id": "Fej3",
+  "verdict": "object",
+  "why": "Function drift: with the motive removed, 'watch what locals do and copy it' reads as Se observing/adapting (or Si) rather than Fe. Put the other-people's-comfort motive back without the virtue word.",
+  "proDes": 3.4,
+  "counter": "ไปที่ใหม่ ฉันมักระวังไม่ทำอะไรที่คนท้องถิ่นเห็นแล้วไม่สบายใจ จนบางทีเที่ยวแบบที่ตัวเองอยากไม่ค่อยได้",
+  "counterDes": 3.5
+ },
+ {
+  "id": "Fek7",
+  "verdict": "accept",
+  "why": "Pushover/mental-health tone removed; Fe face-saving refusal with hesitation cost.",
+  "proDes": 3.5
+ },
+ {
+  "id": "Fel1",
+  "verdict": "accept",
+  "why": "E-confound gone; enjoyment tied to companions' enjoyment = Fe.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Fem3",
+  "verdict": "accept",
+  "why": "Not a public peacemaker any more; attunement with suppressed opinion cost.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Fen5",
+  "verdict": "accept",
+  "why": "Organising (Te) removed; pure attunement. Empathy still reads warm (~3.6) but within band.",
+  "proDes": 3.6
+ },
+ {
+  "id": "Fep3",
+  "verdict": "accept",
+  "why": "Duplicate removed; Fe monitoring fun with performance cost.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Feq1",
+  "verdict": "accept",
+  "why": "Hospitality virtue reduced by own-taste cost.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Feq3",
+  "verdict": "object",
+  "why": "'ดูว่าเขาอยากได้ยินแบบไหน แล้วตอบไปทางนั้น' = พูดไม่ตรงกับใจ, the ↓ side of Fe in the Thai map (~3.0), and repeats the 'my real opinion disappears' template already used in Fea3/Fem3/Fer5/Fey4, pushing Fe toward low assertiveness. Use Fe attunement with a softer cost.",
+  "proDes": 3.0,
+  "counter": "เพื่อนถามว่าชุดนี้โอเคไหม ฉันมักดูสีหน้าเขาก่อนว่ามั่นใจแค่ไหน แล้วเลือกคำตามนั้น จนบางทีตอบอ้อม ๆ ไปหน่อย",
+  "counterDes": 3.4
+ },
+ {
+  "id": "Fer1",
+  "verdict": "accept",
+  "why": "Heroic cost removed; Fe discomfort-driven smoothing.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Fer5",
+  "verdict": "accept",
+  "why": "Elder deference removed; peer mediation with own-view cost.",
+  "proDes": 3.5
+ },
+ {
+  "id": "Fes3",
+  "verdict": "accept",
+  "why": "Self-sacrifice removed; cost (study circle derailed) is real. Slight expressive flavour but anchored by 'บรรยากาศตึง'.",
+  "proDes": 3.2
+ },
+ {
+  "id": "Fev0",
+  "verdict": "accept",
+  "why": "E-confound removed; Fe watching others' enjoyment.",
+  "proDes": 3.2
+ },
+ {
+  "id": "Fex0",
+  "verdict": "accept",
+  "why": "Sacrifice virtue replaced by vicarious discomfort; Fe.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Fex3",
+  "verdict": "accept",
+  "why": "Not a duplicate of Fek1 now; caring-friend tone keeps it at the high end (~3.6) but cost 'คิดไปเอง' helps.",
+  "proDes": 3.6
+ },
+ {
+  "id": "Fey4",
+  "verdict": "accept",
+  "why": "Religious-harmony ideal tempered by own-belief cost.",
+  "proDes": 3.5
+ },
+ {
+  "id": "Fez0",
+  "verdict": "accept",
+  "why": "กตัญญู removed; Fe dreams tied to others with a mild cost.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Fez4",
+  "verdict": "object",
+  "why": "E/I confound: drawing energy from people cheering around me and losing it when surroundings are quiet is the E 'en' facet (outer stimulation), not Fe judgment. Fe = others' feelings weighing in the decision.",
+  "proDes": 3.3,
+  "counter": "ฉันมักมีแรงทำตามฝันมากขึ้นเมื่อรู้ว่ามันทำให้คนที่ฉันห่วงสบายใจไปด้วย ถ้าเขาไม่ค่อยเห็นด้วย แรงของฉันก็หายไปเยอะ",
+  "counterDes": 3.3
+ },
+ {
+  "id": "Fia0",
+  "verdict": "accept",
+  "why": "Virtue word removed; Fi personal resonance with mild cost.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Fid3",
+  "verdict": "object",
+  "why": "'ร้านที่ฉันกลับไปซ้ำ' cues Si (return to the familiar) and will collide with Si statements in context d. Drop the repeat-visit cue so the item rests on Fi resonance vs others' opinion.",
+  "proDes": 3.4,
+  "counter": "ร้านที่ฉันเลือกไปมักเป็นร้านที่รู้สึกว่า “ใช่” กับใจ แม้คนอื่นจะว่ารสชาติธรรมดาหรือมีที่อร่อยกว่า",
+  "counterDes": 3.4
+ },
+ {
+  "id": "Fif5",
+  "verdict": "accept",
+  "why": "Secrecy (I) removed; Fi private meaning, slightly touchy (~3.2).",
+  "proDes": 3.2
+ },
+ {
+  "id": "Fii1",
+  "verdict": "accept",
+  "why": "Generic goodness removed; Fi attachment with cost.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Fik3",
+  "verdict": "accept",
+  "why": "E/I confound removed; Fi inner 'ใช่' check with explanation cost.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Fil0",
+  "verdict": "accept",
+  "why": "Ability word removed; Fi personal expression.",
+  "proDes": 3.5
+ },
+ {
+  "id": "Fim1",
+  "verdict": "accept",
+  "why": "Virtue word removed; authenticity still reads slightly ↑ but within band.",
+  "proDes": 3.5
+ },
+ {
+  "id": "Fir2",
+  "verdict": "object",
+  "why": "Function and balance fine, but 'พูดอย่างทำอย่างกับสิ่งที่เขาเชื่อเอง' is awkward Thai (idiom + dangling กับ-phrase). Rephrase.",
+  "proDes": 3.3,
+  "counter": "ถ้าคนใกล้ตัวทำไม่ตรงกับสิ่งที่เขาเองบอกว่าเชื่อ ฉันมักรู้สึกห่างจากเขาไปเงียบ ๆ แม้เขาจะยังดีกับฉัน",
+  "counterDes": 3.3
+ },
+ {
+  "id": "Fiv2",
+  "verdict": "accept",
+  "why": "Solitude confound removed; Fi processing personal meaning.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Fiw4",
+  "verdict": "accept",
+  "why": "Low-commitment admission removed; Fi needs personal meaning to engage.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Fix0",
+  "verdict": "accept",
+  "why": "Ideal-friend tone removed; Fi values shift felt privately.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Fix4",
+  "verdict": "object",
+  "why": "Near-duplicate of Fix0 in the same context (both 'ถ้าเพื่อน…สิ่งที่ขัดกับหลักในใจฉัน'), violating the novel-content rule; 'นิ่งไปหรือขอตัว' is also double-barrelled. Use a different Fi facet: not faking shared enthusiasm.",
+  "proDes": 3.5,
+  "counter": "ถ้าวงเพื่อนพากันชอบอะไรที่ฉันไม่ได้รู้สึกด้วย ฉันมักไม่ทำเป็นชอบตาม แม้จะดูไม่เข้าพวกไปบ้าง",
+  "counterDes": 3.4
+ },
+ {
+  "id": "Fiz0",
+  "verdict": "accept",
+  "why": "Parents removed; Fi ownership of dreams.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Nek0",
+  "verdict": "accept",
+  "why": "Absolute removed; Ne with indecision cost (~3.2, slight โลเล) still in band.",
+  "proDes": 3.2
+ },
+ {
+  "id": "Ner2",
+  "verdict": "accept",
+  "why": "Superiority removed; playful Ne possibilities in people.",
+  "proDes": 3.4
+ },
+ {
+  "id": "New0",
+  "verdict": "accept",
+  "why": "Fluency claim removed; Ne with group cost.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Nex0",
+  "verdict": "accept",
+  "why": "Networking (E) confound removed; Ne imagining connections.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Ney1",
+  "verdict": "accept",
+  "why": "Absolute removed; Ne branching with digression cost. Long but under 130.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Nib1",
+  "verdict": "accept",
+  "why": "Accuracy claim removed; Ni subtext interest.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Nif0",
+  "verdict": "accept",
+  "why": "Fi identity language removed; vague hunch is Ni.",
+  "proDes": 3.2
+ },
+ {
+  "id": "Nil5",
+  "verdict": "accept",
+  "why": "Now convergent (core of one thing), Ni proper.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Nip3",
+  "verdict": "accept",
+  "why": "Absolute removed; Ni single recurring pattern.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Niq5",
+  "verdict": "accept",
+  "why": "Gift (relational) removed; Ni future-self trajectory in taste. 'เวลาซื้อของให้ตัวเอง' would be slightly more natural.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Niv0",
+  "verdict": "accept",
+  "why": "Superiority removed; Ni sense of ending with check.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Nix2",
+  "verdict": "accept",
+  "why": "Fate/karma tone removed; single through-line = Ni.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Niz4",
+  "verdict": "accept",
+  "why": "Normative ควร removed; Ni convergence with explanation cost.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Sea1",
+  "verdict": "accept",
+  "why": "Ability removed; Se with pace cost.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Seg0",
+  "verdict": "accept",
+  "why": "Reflex-skill claim removed; Se act-then-adjust.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Sel1",
+  "verdict": "accept",
+  "why": "Shortened, thrill stereotype removed.",
+  "proDes": 3.5
+ },
+ {
+  "id": "Ser3",
+  "verdict": "object",
+  "why": "'ฉันกับเขามักเปลี่ยนแผน' describes the pair, not my own habit, so a respondent with a planner partner can't answer for themselves. Make it first-person.",
+  "proDes": 3.4,
+  "counter": "เวลาอยู่กับคนใกล้ตัว ฉันมักเปลี่ยนแผนไปตามสิ่งที่เจอตรงหน้า เช่น แวะร้านที่เพิ่งเห็นว่าเปิดใหม่",
+  "counterDes": 3.4
+ },
+ {
+  "id": "Set2",
+  "verdict": "accept",
+  "why": "Virtue word removed; Se sensory attention.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Sew1",
+  "verdict": "accept",
+  "why": "Competence removed; Se with 'ยังไม่ได้คิดให้รอบ' cost (~3.2), acceptable.",
+  "proDes": 3.2
+ },
+ {
+  "id": "Sex2",
+  "verdict": "accept",
+  "why": "Host courtesy (Fe) removed; pure Se attention with conversation cost.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Sey1",
+  "verdict": "accept",
+  "why": "Monk/hierarchy cue removed; Se concrete participation. Neutral on religion.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Sif1",
+  "verdict": "accept",
+  "why": "Outcome word removed; Si stored bodily reference.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Sii1",
+  "verdict": "accept",
+  "why": "Absolute removed; Si familiar with cost.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Sim3",
+  "verdict": "accept",
+  "why": "Compulsive tone removed; Si nostalgic recall.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Siq2",
+  "verdict": "accept",
+  "why": "Ability removed; Si remembered bodily feel.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Sit3",
+  "verdict": "accept",
+  "why": "Responsible-owner virtue reduced; Si routine preference. 'ทุกวัน' is intrinsic to routine; still mildly ↑.",
+  "proDes": 3.5
+ },
+ {
+  "id": "Siv0",
+  "verdict": "accept",
+  "why": "Absolute removed cleanly.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Siw4",
+  "verdict": "accept",
+  "why": "Model-employee tone reduced by over-applying-template cost; Si.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Six4",
+  "verdict": "accept",
+  "why": "Absolute removed; Si nostalgia.",
+  "proDes": 3.5
+ },
+ {
+  "id": "Siy2",
+  "verdict": "accept",
+  "why": "Absolute removed; Si ritual.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Siz5",
+  "verdict": "accept",
+  "why": "Absolute removed; Si familiar anchors.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Tef3",
+  "verdict": "accept",
+  "why": "Frugal virtue reduced; Te staged goals with cost.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Tej4",
+  "verdict": "accept",
+  "why": "Crisis-manager competence reduced by group cost; Te decisive.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Tek2",
+  "verdict": "accept",
+  "why": "Neg label removed; Te evidence with social cost.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Tem2",
+  "verdict": "accept",
+  "why": "Outcome word removed; Te evidence-correcting with cost.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Tep0",
+  "verdict": "accept",
+  "why": "Absolute softened; Te metrics with fun cost.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Teq0",
+  "verdict": "object",
+  "why": "Function drift: with the efficiency purpose removed and cost 'แต่งออกมาคล้าย ๆ เดิม', a capsule wardrobe now reads as Si sameness. Restore the Te purpose (cut decision time) without the ability word ได้เร็ว.",
+  "proDes": 3.3,
+  "counter": "ฉันจัดตู้เสื้อผ้าเป็นระบบ มีชิ้นหลักไม่กี่ชิ้นที่จับคู่กันได้หมด เพื่อตัดเวลาเลือกตอนเช้า แม้จะแต่งออกมาคล้าย ๆ เดิม",
+  "counterDes": 3.4
+ },
+ {
+  "id": "Ter1",
+  "verdict": "accept",
+  "why": "ส่วนรวม removed; Te scheduling with cost.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Tes3",
+  "verdict": "accept",
+  "why": "Ideal-student tone reduced; Te results-focus with cost.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Teu5",
+  "verdict": "accept",
+  "why": "Virtue word removed; Te structuring with cost.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Tew1",
+  "verdict": "accept",
+  "why": "Outcome word removed; Te process-fixing with cost.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Tey3",
+  "verdict": "accept",
+  "why": "Discipline virtue removed; Te pragmatic beliefs. 'ไม่ค่อยยึด' mildly ↓ but fine.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Tia2",
+  "verdict": "accept",
+  "why": "Label removed; Ti internal coherence.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Tid1",
+  "verdict": "accept",
+  "why": "Palate skill removed; Ti analysing function of components.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Tih4",
+  "verdict": "accept",
+  "why": "Outcome word removed; Ti independent check.",
+  "proDes": 3.5
+ },
+ {
+  "id": "Tij2",
+  "verdict": "accept",
+  "why": "Shortened; Ti independent reasoning with time cost.",
+  "proDes": 3.5
+ },
+ {
+  "id": "Tik3",
+  "verdict": "accept",
+  "why": "Ability removed; Ti definitional precision with cost. 'จน…จนกว่า' repetitive but fine.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Til5",
+  "verdict": "accept",
+  "why": "Virtue word removed; Ti with inaction cost.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Tim2",
+  "verdict": "accept",
+  "why": "E/I and ability removed; Ti check with cost.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Tin4",
+  "verdict": "accept",
+  "why": "Media-literacy ideal tempered by enjoyment cost; still ~3.6, in band.",
+  "proDes": 3.6
+ },
+ {
+  "id": "Tir2",
+  "verdict": "accept",
+  "why": "Ability/outcome removed; Ti precision with cost.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Tir5",
+  "verdict": "accept",
+  "why": "Elders removed; Ti internal contradiction noticing. Slightly abstract but clear.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Tiu2",
+  "verdict": "accept",
+  "why": "Virtue word removed; Ti explain-why.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Tiw2",
+  "verdict": "accept",
+  "why": "Ability removed; Ti definitions with cost.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Tix0",
+  "verdict": "accept",
+  "why": "Helper motive removed; Ti clarifying with interview cost.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Tix2",
+  "verdict": "accept",
+  "why": "Te standardisation and money removed; Ti internal consistency. 'ไล่ให้รู้' colloquial, ok.",
+  "proDes": 3.3
+ },
+ {
+  "id": "Tiy1",
+  "verdict": "accept",
+  "why": "Label removed; Ti logic vs interpretation.",
+  "proDes": 3.4
+ },
+ {
+  "id": "Tiz4",
+  "verdict": "accept",
+  "why": "Outcome word removed; Ti definitional questioning.",
+  "proDes": 3.4
+ }
+]

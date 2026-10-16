@@ -1,0 +1,1340 @@
+{
+ "ratings": {
+  "Nih4": 3.5,
+  "Nih5": 3.0,
+  "Neh4": 3.7,
+  "Neh5": 3.1,
+  "Sih4": 3.0,
+  "Sih5": 3.6,
+  "Seh4": 3.8,
+  "Seh5": 3.6,
+  "Tih4": 3.5,
+  "Tih5": 3.5,
+  "Teh4": 3.3,
+  "Teh5": 3.4,
+  "Fih4": 3.4,
+  "Fih5": 3.8,
+  "Feh4": 4.1,
+  "Feh5": 3.7,
+  "Niy4": 3.0,
+  "Niy5": 3.3,
+  "Ney4": 3.5,
+  "Ney5": 3.0,
+  "Siy4": 3.5,
+  "Siy5": 3.3,
+  "Sey4": 3.6,
+  "Sey5": 3.3,
+  "Tiy4": 3.0,
+  "Tiy5": 3.5,
+  "Tey4": 3.3,
+  "Tey5": 3.9,
+  "Fiy4": 2.6,
+  "Fiy5": 3.3,
+  "Fey4": 4.2,
+  "Fey5": 4.2,
+  "Niz4": 3.5,
+  "Niz5": 3.6,
+  "Nez4": 3.4,
+  "Nez5": 3.7,
+  "Siz4": 3.6,
+  "Siz5": 3.2,
+  "Sez4": 3.6,
+  "Sez5": 3.5,
+  "Tiz4": 3.5,
+  "Tiz5": 3.5,
+  "Tez4": 3.4,
+  "Tez5": 3.6,
+  "Fiz4": 3.8,
+  "Fiz5": 3.0,
+  "Fez4": 4.0,
+  "Fez5": 4.1,
+  "Nij4": 3.5,
+  "Nij5": 3.3,
+  "Nej4": 3.2,
+  "Nej5": 3.4,
+  "Sij4": 3.2,
+  "Sij5": 3.6,
+  "Sej4": 3.4,
+  "Sej5": 3.5,
+  "Tij4": 3.3,
+  "Tij5": 3.1,
+  "Tej4": 4.0,
+  "Tej5": 3.5,
+  "Fij4": 3.4,
+  "Fij5": 2.9,
+  "Fej4": 3.9,
+  "Fej5": 4.0,
+  "Nin4": 3.4,
+  "Nin5": 3.8,
+  "Nen4": 3.1,
+  "Nen5": 3.4,
+  "Sin4": 3.3,
+  "Sin5": 3.1,
+  "Sen4": 3.3,
+  "Sen5": 3.1,
+  "Tin4": 4.1,
+  "Tin5": 3.4,
+  "Ten4": 3.2,
+  "Ten5": 3.3,
+  "Fin4": 3.2,
+  "Fin5": 3.6,
+  "Fen4": 3.7,
+  "Fen5": 4.2,
+  "Nii4": 3.3,
+  "Nii5": 3.5,
+  "Nei4": 3.0,
+  "Nei5": 3.4,
+  "Sii4": 3.5,
+  "Sii5": 3.4,
+  "Sei4": 3.0,
+  "Sei5": 3.5,
+  "Tii4": 3.5,
+  "Tii5": 3.2,
+  "Tei4": 3.5,
+  "Tei5": 3.8,
+  "Fii4": 3.4,
+  "Fii5": 3.3,
+  "Fei4": 3.6,
+  "Fei5": 2.7,
+  "Niu4": 3.4,
+  "Niu5": 3.4,
+  "Neu4": 3.5,
+  "Neu5": 3.0,
+  "Siu4": 3.4,
+  "Siu5": 3.1,
+  "Seu4": 3.5,
+  "Seu5": 3.4,
+  "Tiu4": 3.0,
+  "Tiu5": 3.4,
+  "Teu4": 3.5,
+  "Teu5": 3.6,
+  "Fiu4": 3.0,
+  "Fiu5": 3.6,
+  "Feu4": 3.8,
+  "Feu5": 3.2,
+  "Nif0": 3.5,
+  "Nif1": 3.6,
+  "Nif2": 3.3,
+  "Nif3": 3.3,
+  "Nif4": 2.9,
+  "Nif5": 3.4,
+  "Nef0": 3.5,
+  "Nef1": 2.9,
+  "Nef2": 3.2,
+  "Nef3": 3.5,
+  "Nef4": 3.4,
+  "Nef5": 3.2,
+  "Sif0": 3.7,
+  "Sif1": 3.4,
+  "Sif2": 3.7,
+  "Sif3": 3.8,
+  "Sif4": 3.6,
+  "Sif5": 3.5,
+  "Sef0": 3.5,
+  "Sef1": 3.5,
+  "Sef2": 3.4,
+  "Sef3": 3.3,
+  "Sef4": 3.4,
+  "Sef5": 3.4,
+  "Tif0": 3.3,
+  "Tif1": 3.4,
+  "Tif2": 3.2,
+  "Tif3": 3.3,
+  "Tif4": 3.1,
+  "Tif5": 3.6,
+  "Tef0": 3.5,
+  "Tef1": 3.6,
+  "Tef2": 3.2,
+  "Tef3": 3.9,
+  "Tef4": 3.7,
+  "Tef5": 3.6,
+  "Fif0": 3.8,
+  "Fif1": 3.4,
+  "Fif2": 4.0,
+  "Fif3": 3.6,
+  "Fif4": 3.2,
+  "Fif5": 3.0,
+  "Fef0": 3.3,
+  "Fef1": 4.1,
+  "Fef2": 4.0,
+  "Fef3": 4.0,
+  "Fef4": 4.0,
+  "Fef5": 3.2,
+  "Niq0": 3.4,
+  "Niq1": 3.5,
+  "Niq2": 3.8,
+  "Niq3": 3.5,
+  "Niq4": 3.3,
+  "Niq5": 3.9,
+  "Neq0": 3.5,
+  "Neq1": 3.2,
+  "Neq2": 3.5,
+  "Neq3": 3.5,
+  "Neq4": 3.2,
+  "Neq5": 3.6,
+  "Siq0": 3.3,
+  "Siq1": 3.5,
+  "Siq2": 3.4,
+  "Siq3": 3.6,
+  "Siq4": 3.6,
+  "Siq5": 4.0,
+  "Seq0": 3.5,
+  "Seq1": 3.4,
+  "Seq2": 3.5,
+  "Seq3": 3.4,
+  "Seq4": 3.5,
+  "Seq5": 3.5,
+  "Tiq0": 3.6,
+  "Tiq1": 3.1,
+  "Tiq2": 3.2,
+  "Tiq3": 3.6,
+  "Tiq4": 3.3,
+  "Tiq5": 3.0,
+  "Teq0": 3.6,
+  "Teq1": 3.9,
+  "Teq2": 3.4,
+  "Teq3": 3.6,
+  "Teq4": 3.5,
+  "Teq5": 3.6,
+  "Fiq0": 3.6,
+  "Fiq1": 3.3,
+  "Fiq2": 3.7,
+  "Fiq3": 3.3,
+  "Fiq4": 3.3,
+  "Fiq5": 3.3,
+  "Feq0": 3.9,
+  "Feq1": 4.0,
+  "Feq2": 4.1,
+  "Feq3": 4.0,
+  "Feq4": 3.8,
+  "Feq5": 3.0,
+  "Nix0": 3.4,
+  "Nix1": 3.2,
+  "Nix2": 3.3,
+  "Nix3": 3.2,
+  "Nix4": 3.6,
+  "Nix5": 3.3,
+  "Nex0": 3.6,
+  "Nex1": 3.0,
+  "Nex2": 2.9,
+  "Nex3": 3.9,
+  "Nex4": 3.5,
+  "Nex5": 3.3,
+  "Six0": 3.7,
+  "Six1": 3.3,
+  "Six2": 4.0,
+  "Six3": 3.7,
+  "Six4": 3.4,
+  "Six5": 3.3,
+  "Sex0": 3.8,
+  "Sex1": 4.2,
+  "Sex2": 4.2,
+  "Sex3": 3.2,
+  "Sex4": 3.2,
+  "Sex5": 3.1,
+  "Tix0": 3.9,
+  "Tix1": 4.2,
+  "Tix2": 3.0,
+  "Tix3": 2.9,
+  "Tix4": 4.2,
+  "Tix5": 3.2,
+  "Tex0": 3.4,
+  "Tex1": 4.1,
+  "Tex2": 3.8,
+  "Tex3": 2.9,
+  "Tex4": 3.7,
+  "Tex5": 3.6,
+  "Fix0": 4.1,
+  "Fix1": 3.3,
+  "Fix2": 3.7,
+  "Fix3": 4.0,
+  "Fix4": 4.2,
+  "Fix5": 3.6,
+  "Fex0": 4.1,
+  "Fex1": 3.9,
+  "Fex2": 3.3,
+  "Fex3": 4.0,
+  "Fex4": 3.5,
+  "Fex5": 3.1,
+  "BNiSef0|a": 3.5,
+  "BNiSef0|b": 3.5,
+  "BNiSef1|a": 3.4,
+  "BNiSef1|b": 3.4,
+  "BNeSif0|a": 3.1,
+  "BNeSif0|b": 3.9,
+  "BNeSif1|a": 3.4,
+  "BNeSif1|b": 3.6,
+  "BTiFef0|a": 3.4,
+  "BTiFef0|b": 3.9,
+  "BTiFef1|a": 3.2,
+  "BTiFef1|b": 3.9,
+  "BTeFif0|a": 3.4,
+  "BTeFif0|b": 3.7,
+  "BTeFif1|a": 3.3,
+  "BTeFif1|b": 3.5,
+  "BNiSeq0|a": 3.5,
+  "BNiSeq0|b": 3.4,
+  "BNiSeq1|a": 3.3,
+  "BNiSeq1|b": 3.5,
+  "BNeSiq0|a": 3.5,
+  "BNeSiq0|b": 3.3,
+  "BNeSiq1|a": 3.4,
+  "BNeSiq1|b": 3.4,
+  "BTiFeq0|a": 3.3,
+  "BTiFeq0|b": 3.9,
+  "BTiFeq1|a": 3.3,
+  "BTiFeq1|b": 3.9,
+  "BTeFiq0|a": 3.5,
+  "BTeFiq0|b": 3.4,
+  "BTeFiq1|a": 3.6,
+  "BTeFiq1|b": 3.8,
+  "BNiSex0|a": 3.6,
+  "BNiSex0|b": 4.0,
+  "BNiSex1|a": 3.7,
+  "BNiSex1|b": 3.6,
+  "BNeSix0|a": 3.5,
+  "BNeSix0|b": 3.5,
+  "BNeSix1|a": 3.7,
+  "BNeSix1|b": 3.7,
+  "BTiFex0|a": 3.4,
+  "BTiFex0|b": 4.1,
+  "BTiFex1|a": 3.7,
+  "BTiFex1|b": 3.6,
+  "BTeFix0|a": 3.6,
+  "BTeFix0|b": 3.9,
+  "BTeFix1|a": 3.5,
+  "BTeFix1|b": 3.5
+ },
+ "flags": [
+  {
+   "id": "Fex1",
+   "type": "duplicate",
+   "sev": 3,
+   "why": "Near-verbatim copy of v10 Fel0 (เวลานัดเพื่อน ฉันเลือกวันและที่ที่ทุกคนสะดวก แม้ไม่ใช่ที่ที่ฉันอยากไปที่สุด). Same respondent sees the same idea twice; also accommodating-host = Thai มีน้ำใจ virtue, ~3.9.",
+   "rewrite": "ในแชทกลุ่ม ฉันมักเลือกคำและสติกเกอร์ให้เข้ากับอารมณ์ของวงตอนนั้น จนบางทีไม่ได้พูดสิ่งที่อยากพูดจริง ๆ"
+  },
+  {
+   "id": "Fex3",
+   "type": "duplicate",
+   "sev": 2,
+   "why": "Duplicates v10 Fek1 (ดึงคนที่ถูกทิ้งเข้าวง). Drawing people into talk is also an E/initiating behaviour, and in Thai culture being the inclusive host is clearly the 'good person' answer (~4.0).",
+   "rewrite": "ถ้าเพื่อนในกลุ่มคนหนึ่งดูเงียบไปผิดปกติ ฉันจะไม่สบายใจจนต้องหาจังหวะทักเขาแยก แม้อาจเป็นเรื่องที่ฉันคิดไปเอง"
+  },
+  {
+   "id": "Fex0",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Replying so a friend isn't left hanging (แม้ยุ่งอยู่) reads as the model good friend in Thai group-chat culture (~4.1). The 'cost' is itself a virtue signal (sacrifice), so it raises rather than lowers desirability.",
+   "rewrite": "ถ้าเพื่อนเล่าเรื่องสำคัญในแชทกลุ่มแล้วเงียบ ฉันจะอึดอัดแทนเขาจนต้องรีบพิมพ์อะไรสักอย่าง แม้ยังไม่รู้จะพูดอะไรดี"
+  },
+  {
+   "id": "Fex2",
+   "type": "duplicate",
+   "sev": 1,
+   "why": "Topic-switching to defuse tension already exists in v10 Fen0/Fei2/Fek2; adds little new Fe variance."
+  },
+  {
+   "id": "Fex4",
+   "type": "culture",
+   "sev": 1,
+   "why": "In Thai norms (เกรงใจ, รักษาน้ำใจ) comforting first is the default polite script for almost everyone, so it discriminates Fe poorly; endorsement reflects culture more than function."
+  },
+  {
+   "id": "Fex5",
+   "type": "theory",
+   "sev": 1,
+   "why": "Over-promising then burning out is low assertiveness / people-pleasing, not Fe's attunement to shared values; risks scoring conflict-avoidant Fi/Si users as Fe."
+  },
+  {
+   "id": "Sex1",
+   "type": "desirability",
+   "sev": 3,
+   "why": "Rushing to physically help a friend in an emergency is heroic (~4.2) and would beat almost any partner in an MFC pair; helping-a-friend is also virtuous independent of Se.",
+   "rewrite": "ถ้าเพื่อนเจอเรื่องด่วน ฉันมักขยับลงมือตรงหน้าไปก่อน เช่น ขับรถไปหา แม้บางทีจะยังไม่ได้ถามว่าเขาอยากได้แบบนั้นไหม"
+  },
+  {
+   "id": "Sex2",
+   "type": "theory",
+   "sev": 2,
+   "why": "Noticing whose glass is empty / who is sitting uncomfortably and fixing it is Thai host courtesy (Fe care for others' comfort), not just sensing; very desirable (~4.2).",
+   "rewrite": "ในวงเพื่อน ตาฉันมักจับอยู่กับสิ่งที่เกิดตรงหน้า เช่น อาหารที่เพิ่งมาเสิร์ฟหรือใครเดินเข้าร้าน จนบางทีหลุดจากเรื่องที่คุยกันอยู่"
+  },
+  {
+   "id": "Sex4",
+   "type": "ei_confound",
+   "sev": 2,
+   "why": "Wanting to meet face-to-face immediately rather than text or cool down is E (outer engagement) plus confrontation style; Se is about concrete sensory data, not urgency of social contact.",
+   "rewrite": "ถ้ามีเรื่องไม่เข้าใจกันกับเพื่อน ฉันดูจากสีหน้าท่าทางของเขาตอนเจอกันจริง มากกว่าตัวหนังสือในแชท ว่าเรื่องหนักแค่ไหน"
+  },
+  {
+   "id": "Sex5",
+   "type": "ei_confound",
+   "sev": 1,
+   "why": "Frequent sharing of live photos to the group chat is expressive/E behaviour more than Se perception."
+  },
+  {
+   "id": "Sex3",
+   "type": "ei_confound",
+   "sev": 1,
+   "why": "Being the one who riffs jokes on the spot overlaps E expressiveness."
+  },
+  {
+   "id": "Six2",
+   "type": "ability",
+   "sev": 2,
+   "why": "'มักสังเกตได้ว่าเพื่อนดูต่างไป' is perceptiveness (ability) and caring attentiveness (Fe-adjacent); ~4.0.",
+   "rewrite": "ฉันจำได้ว่าเพื่อนแต่ละคนปกติตอบแชทแบบไหน พอเขาเปลี่ยนไปนิดเดียว ฉันก็สะดุดและคิดวนอยู่หลายรอบ"
+  },
+  {
+   "id": "Six0",
+   "type": "ability",
+   "sev": 1,
+   "why": "'จำ…ได้เป็นฉาก ๆ' is a memory-accuracy claim; mildly ability-laden."
+  },
+  {
+   "id": "Six3",
+   "type": "theory",
+   "sev": 1,
+   "why": "Telling a friend how you handled a similar case is advice-giving (Te/Fe flavour); the Si part is only the recall step. ~3.7."
+  },
+  {
+   "id": "Tix4",
+   "type": "theory",
+   "sev": 3,
+   "why": "Trying to understand why a friend thinks that 'instead of judging first' is perspective-taking / non-judgment — a moral virtue (~4.2) with Fe/Ne flavour, not Ti's internal consistency.",
+   "rewrite": "เวลาเพื่อนทำอะไรที่ฉันไม่เข้าใจ ฉันมักไล่หาเหตุผลในหัวจนกว่ามันจะต่อกันติด แม้เพื่อนจะไม่ได้อยากให้วิเคราะห์"
+  },
+  {
+   "id": "Tix1",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Hearing both sides fully before taking sides is the fairness ideal (~4.2); Fe/Fi users will endorse it too.",
+   "rewrite": "ถ้าเพื่อนสองคนผิดใจกัน ฉันมักไล่ลำดับเหตุการณ์ในหัวว่าเพี้ยนตรงไหน จนบางทีลืมไปว่าทั้งคู่แค่อยากให้มีคนฟัง"
+  },
+  {
+   "id": "Tix0",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Clarifying the real problem 'เพราะอยากช่วยให้ตรงจุด' adds a helping motive; reads as the wise friend (~3.9).",
+   "rewrite": "เวลาเพื่อนขอคำแนะนำ ฉันมักถามจี้ให้ชัดก่อนว่าปัญหาจริง ๆ คืออะไร จนบางทีเพื่อนรู้สึกเหมือนโดนสัมภาษณ์"
+  },
+  {
+   "id": "Tix2",
+   "type": "theory",
+   "sev": 2,
+   "why": "'เสนอหลักที่ใช้ได้ทุกครั้ง' for the group is Te standardisation of the outer world; money-splitting talk also reads คิดเล็กคิดน้อย in Thai (~3.0).",
+   "rewrite": "ถ้ากติกาในกลุ่มเพื่อนขัดกันเอง เช่น ครั้งก่อนหารเท่า ครั้งนี้หารตามที่กิน ฉันจะค้างใจจนอยากรู้ว่าหลักที่สมเหตุสมผลจริง ๆ คือแบบไหน"
+  },
+  {
+   "id": "Tix3",
+   "type": "culture",
+   "sev": 1,
+   "why": "Grading friends by a personal definition and behaving differently reads calculating in Thai culture (~2.9), below target."
+  },
+  {
+   "id": "Tex1",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Researching contacts and making a to-do list for a friend who lost a job is exemplary friendship (~4.1).",
+   "rewrite": "เวลาเพื่อนเจอเรื่องใหญ่ เช่น ตกงาน ฉันมักรีบลิสต์สิ่งที่เขาต้องทำต่อให้ แม้เขาอาจยังไม่พร้อมคิดเรื่องนั้น"
+  },
+  {
+   "id": "Tex3",
+   "type": "culture",
+   "sev": 1,
+   "why": "Direct confrontation of a flaky friend is face-threatening in Thai culture (~2.9), slightly below the target band."
+  },
+  {
+   "id": "Nex3",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Helping a friend brainstorm solutions incl. ones they never thought of = resourceful helper (~3.9).",
+   "rewrite": "เวลาเพื่อนปรึกษา ฉันมักโยนทางออกแปลก ๆ มาหลายแบบ จนบางทีเพื่อนต้องบอกว่าขอแค่ทางเดียวที่ทำได้จริง"
+  },
+  {
+   "id": "Nex0",
+   "type": "ei_confound",
+   "sev": 2,
+   "why": "Actually introducing friends from different groups is networking / gregarious (EI facet gi), not just Ne seeing possibilities.",
+   "rewrite": "ฉันชอบนึกเล่น ๆ ว่าเพื่อนจากต่างกลุ่มถ้าได้รู้จักกันจะคลิกกันแบบไหน แม้ส่วนใหญ่จะไม่ได้แนะนำให้เจอกันจริง"
+  },
+  {
+   "id": "Nix1",
+   "type": "ability",
+   "sev": 1,
+   "why": "'รู้สึกได้ก่อน' presupposes the premonition is correct (prescience)."
+  },
+  {
+   "id": "Nix5",
+   "type": "ability",
+   "sev": 1,
+   "why": "Predicting which friends will last implies foresight accuracy."
+  },
+  {
+   "id": "Nix2",
+   "type": "unclear",
+   "sev": 2,
+   "why": "'เพื่อนกลุ่มนั้นเข้ามาในชีวิตในจังหวะนั้นเพราะอะไร' evokes บุพเพ/กรรม fate beliefs; measures religiosity/fatalism as much as Ni, and is long (~100 chars).",
+   "rewrite": "พอมองย้อนมิตรภาพแต่ละช่วง ฉันมักเห็นเส้นเรื่องเดียวที่ร้อยเพื่อนแต่ละกลุ่มเข้ากับช่วงชีวิตตอนนั้น"
+  },
+  {
+   "id": "Fix4",
+   "type": "desirability",
+   "sev": 3,
+   "why": "Refusing to join harsh gossip is a moral virtue (~4.2) that every function will claim; it measures conscientious morality, not Fi.",
+   "rewrite": "ถ้าวงเพื่อนคุยเรื่องที่ขัดกับสิ่งที่ฉันให้ค่า ฉันจะรู้สึกห่างจากวงนั้นขึ้นมาทันที แม้ภายนอกจะยังคุยต่อตามปกติ"
+  },
+  {
+   "id": "Fix0",
+   "type": "desirability",
+   "sev": 2,
+   "why": "'Loyal but honest when they're wrong' is the textbook ideal friend (~4.1).",
+   "rewrite": "ถ้าเพื่อนสนิททำสิ่งที่ขัดกับหลักในใจฉัน ความรู้สึกที่ฉันมีต่อเขาจะเปลี่ยนไป แม้ปากจะยังไม่ได้พูดอะไร"
+  },
+  {
+   "id": "Fix3",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Asking what the friend truly wants deep down is good-counsellor behaviour (~4.0) and is about the friend's values, which Fe can claim too.",
+   "rewrite": "เวลาเพื่อนมาปรึกษา ฉันมักตอบจากสิ่งที่ใจฉันเองให้ค่า จนบางทีเพื่อนรู้สึกว่ามันเป็นทางของฉันมากกว่าของเขา"
+  },
+  {
+   "id": "Fix5",
+   "type": "duplicate",
+   "sev": 1,
+   "why": "Same idea as Fiq5 (meaningful gift over trendy one) in the new q context."
+  },
+  {
+   "id": "BNiSex0",
+   "type": "desirability",
+   "sev": 2,
+   "why": "B 'what can I do to help right now' (~4.0) beats A's abstract long-range musing (~3.6); both sides are 'helping', and B wins on virtue.",
+   "rewrite": {
+    "a": "เวลาเพื่อนเล่าปัญหา ฉันมักนึกว่าเบื้องลึกแล้วเรื่องนี้กำลังพาเขาไปทางไหน",
+    "b": "เวลาเพื่อนเล่าปัญหา ฉันมักสังเกตสีหน้าท่าทางของเขาตอนเล่าว่าหนักแค่ไหน"
+   }
+  },
+  {
+   "id": "BTiFex0",
+   "type": "desirability",
+   "sev": 2,
+   "why": "B (want both to reconcile, ~4.1) is the Thai harmony ideal; A (judge whose reasoning holds, ~3.4) sounds like taking sides. 0.7 gap.",
+   "rewrite": {
+    "a": "เพื่อนสองคนทะเลาะกัน ฉันอยากรู้ก่อนว่าเหตุผลฝั่งไหนฟังขึ้นกว่า แม้จะเสี่ยงโดนมองว่าเข้าข้าง",
+    "b": "เพื่อนสองคนทะเลาะกัน ฉันอยากให้ทั้งคู่ดีกันก่อน แม้ต้นเรื่องจะยังไม่ได้เคลียร์"
+   }
+  },
+  {
+   "id": "BTeFix0",
+   "type": "desirability",
+   "sev": 2,
+   "why": "B uses the virtue word 'จริงใจที่สุด' (sincerity) against A's efficiency; B ~3.9 vs A ~3.6.",
+   "rewrite": {
+    "a": "จะช่วยเพื่อนสักเรื่อง ฉันดูก่อนว่าวิธีไหนเห็นผลเร็วที่สุด",
+    "b": "จะช่วยเพื่อนสักเรื่อง ฉันดูก่อนว่าวิธีไหนตรงกับใจฉันที่สุด"
+   }
+  },
+  {
+   "id": "BNeSix1",
+   "type": "duplicate",
+   "sev": 1,
+   "why": "Sides restate Nex3 and Six3 almost verbatim; repeated content invites consistency responding."
+  },
+  {
+   "id": "BTiFex1",
+   "type": "duplicate",
+   "sev": 1,
+   "why": "B restates Fex4; A restates Tix0. Roughly balanced but redundant."
+  },
+  {
+   "id": "Nif0",
+   "type": "theory",
+   "sev": 2,
+   "why": "'จะพาฉันไปเป็นคนแบบไหน' is identity/authenticity (Fi) language; Ni here should be a hunch about where it leads, not who I become.",
+   "rewrite": "ฉันมักเลือกงานอดิเรกจากลางสังหรณ์ว่ามันจะเชื่อมไปสู่อะไรบางอย่างในอนาคต แม้ตอนเริ่มยังบอกไม่ได้ว่าอะไร"
+  },
+  {
+   "id": "Nif2",
+   "type": "theory",
+   "sev": 1,
+   "why": "A clear endpoint goal in a hobby is easily read as Te goal-setting."
+  },
+  {
+   "id": "Nif4",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Quitting while still enjoying it reads fickle (~2.9), slightly below band."
+  },
+  {
+   "id": "Nef1",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Dropping hobbies once they settle reads ไม่จริงจัง/จับจด (~2.9) in Thai culture."
+  },
+  {
+   "id": "Sif3",
+   "type": "desirability",
+   "sev": 1,
+   "why": "'พื้นฐานแน่นก่อน' is praised as the proper way to learn (~3.8)."
+  },
+  {
+   "id": "Sef2",
+   "type": "duplicate",
+   "sev": 2,
+   "why": "Restates Sef0/Sef1 in the same context and v10 Sek2/Sew0 (learn by doing rather than theory).",
+   "rewrite": "ระหว่างทำงานอดิเรก ฉันจดจ่อกับเสียง กลิ่น และสัมผัสตรงหน้า จนลืมดูเวลาไปเลย"
+  },
+  {
+   "id": "Sef3",
+   "type": "duplicate",
+   "sev": 1,
+   "why": "Same idea as Seu5 (try instruments/speakers by hand rather than specs)."
+  },
+  {
+   "id": "Sef5",
+   "type": "ei_confound",
+   "sev": 1,
+   "why": "Handing things to friends to try is sharing/E behaviour."
+  },
+  {
+   "id": "Tif4",
+   "type": "unclear",
+   "sev": 1,
+   "why": "Defining 'ทำเป็น' is abstract; many readers won't know what behaviour it describes."
+  },
+  {
+   "id": "Tef3",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Buying only what is needed = พอเพียง/frugal virtue in Thai (~3.9); also reads Si-practical as much as Te.",
+   "rewrite": "ฉันซื้ออุปกรณ์ตามขั้นที่ฝึกถึงจริง ๆ ไม่ซื้อเผื่อ จนบางทีต้องเสียเวลาไปซื้อเพิ่มทีหลังหลายรอบ"
+  },
+  {
+   "id": "Tef4",
+   "type": "ei_confound",
+   "sev": 1,
+   "why": "Being the group organiser overlaps E/leadership."
+  },
+  {
+   "id": "Fif0",
+   "type": "desirability",
+   "sev": 1,
+   "why": "'ใช่ตัวเองจริง ๆ' authenticity is now a strongly approved value among Thai young adults (~3.8)."
+  },
+  {
+   "id": "Fif2",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Judging progress by inner fulfilment 'rather than likes' is the anti-vanity ideal (~4.0); also duplicates BTeFif0 side b.",
+   "rewrite": "ฉันดูความก้าวหน้าในงานอดิเรกจากความอิ่มใจของตัวเอง จนบางทีไม่รู้เลยว่าฝีมือจริง ๆ ขยับไปถึงไหน"
+  },
+  {
+   "id": "Fif5",
+   "type": "ei_confound",
+   "sev": 2,
+   "why": "Not telling anyone, even close friends, is privacy/contained expression (EI facet ec); Fi is about values, not secrecy.",
+   "rewrite": "งานอดิเรกบางอย่างมีความหมายกับฉันมาก จนถ้ามีคนพูดถึงมันแบบเล่น ๆ ฉันจะรู้สึกเหมือนโดนแตะเรื่องส่วนตัว"
+  },
+  {
+   "id": "Fef0",
+   "type": "ei_confound",
+   "sev": 1,
+   "why": "Starting hobbies because others invite + enjoying doing them together is sociability (E), not Fe judgment."
+  },
+  {
+   "id": "Fef1",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Making newcomers feel included even at the cost of own practice is exemplary เสียสละ (~4.1); the cost clause reads as virtue in Thai culture.",
+   "rewrite": "ในกลุ่มงานอดิเรก ฉันมักทำตามธรรมเนียมของกลุ่ม เช่น วิธีทักทายหรือมารยาทในวง แม้บางข้อจะดูไม่จำเป็นสำหรับฉัน"
+  },
+  {
+   "id": "Fef2",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Praise first then gentle advice 'if they want' is model etiquette (~4.0); duplicates Feq3 pattern.",
+   "rewrite": "เพื่อนเอางานอดิเรกมาให้ดู ฉันมักชมไปก่อนตามบรรยากาศ แม้ในใจจะเห็นจุดที่ควรแก้อยู่หลายจุด"
+  },
+  {
+   "id": "Fef3",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Being the peacemaker who gets everyone having fun again (~4.0); mediator idea already in v10 Few3/Fek2 and new Fej5.",
+   "rewrite": "ถ้าคนในกลุ่มเห็นไม่ตรงกันเรื่องวิธีเล่น ฉันมักเอนตามแบบที่คนส่วนใหญ่ในกลุ่มสบายใจ แม้จะชอบอีกแบบมากกว่า"
+  },
+  {
+   "id": "Fef4",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Slowing down so everyone can keep up is considerate (~4.0); no real cost stated.",
+   "rewrite": "ทำงานอดิเรกกับคนอื่น ฉันมักปรับจังหวะตามคนที่มาด้วย จนบางทีกลับบ้านมาแล้วรู้สึกว่ายังไม่ได้ทำเต็มที่เลย"
+  },
+  {
+   "id": "BNiSef1",
+   "type": "unclear",
+   "sev": 2,
+   "why": "A 'พาชีวิตไปในทางของมัน' is vague; B 'รู้สึกถึงตัวเต็มที่' is odd Thai. Readers will guess rather than recognise themselves.",
+   "rewrite": {
+    "a": "งานอดิเรกที่ใช่ คือสิ่งที่ฉันรู้สึกว่ามันเชื่อมไปสู่อะไรบางอย่างในชีวิตข้างหน้า",
+    "b": "งานอดิเรกที่ใช่ คือสิ่งที่ทำแล้วได้จดจ่ออยู่กับมือและตาตรงหน้าเต็มที่"
+   }
+  },
+  {
+   "id": "BNeSif0",
+   "type": "desirability",
+   "sev": 2,
+   "why": "A 'move on when something more interesting appears' = fickle (~3.1); B 'stay and deepen' = perseverance virtue (~3.9). Gap 0.8.",
+   "rewrite": {
+    "a": "ฉันชอบมีงานอดิเรกหลายอย่างหมุนเวียนกัน เพราะแต่ละอย่างจุดไอเดียให้อีกอย่าง",
+    "b": "ฉันชอบมีงานอดิเรกหลักอย่างเดียว แล้วทำซ้ำจนกลายเป็นส่วนหนึ่งของกิจวัตร"
+   }
+  },
+  {
+   "id": "BTiFef0",
+   "type": "desirability",
+   "sev": 2,
+   "why": "B wants everyone to feel fun and welcome (~3.9) vs A technical talk (~3.4); B also has E/sociable flavour.",
+   "rewrite": {
+    "a": "เข้ากลุ่มงานอดิเรก ฉันสนใจว่าทำไมแต่ละวิธีถึงได้ผล",
+    "b": "เข้ากลุ่มงานอดิเรก ฉันสนใจว่าคนในกลุ่มเข้ากันไหม และบรรยากาศเป็นยังไง"
+   }
+  },
+  {
+   "id": "BTiFef1",
+   "type": "desirability",
+   "sev": 2,
+   "why": "A 'explain the principle so they understand' can read as lecturing (~3.2); B 'check how deep they want' is considerate (~3.9).",
+   "rewrite": {
+    "a": "เพื่อนถามเรื่องงานอดิเรกของฉัน ฉันมักอธิบายว่าทำไมมันถึงทำงานแบบนั้น",
+    "b": "เพื่อนถามเรื่องงานอดิเรกของฉัน ฉันมักเล่าในมุมที่เขาน่าจะอินด้วย"
+   }
+  },
+  {
+   "id": "BTeFif0",
+   "type": "duplicate",
+   "sev": 1,
+   "why": "Sides restate Tef0 and Fif2."
+  },
+  {
+   "id": "Niq2",
+   "type": "ability",
+   "sev": 2,
+   "why": "Sensing whether a trend will last is trend-forecasting; endorsing it claims taste foresight (~3.8).",
+   "rewrite": "เห็นเทรนด์ใหม่ ฉันมักรู้สึกลึก ๆ ว่ามันกำลังสะท้อนอะไรบางอย่างของยุคนี้ จนบางทีคิดไปไกลเกินกว่าแค่เสื้อผ้า"
+  },
+  {
+   "id": "Niq5",
+   "type": "context",
+   "sev": 2,
+   "why": "Six of 48 q statements are gift-choosing (Niq5 Neq5 Siq5 Teq5 Fiq5 Feq2). Gifts are interpersonal (relationship context), not personal taste, and push every function toward 'thoughtful giver' answers (~3.9 here).",
+   "rewrite": "เลือกของให้ตัวเอง ฉันมักนึกภาพว่าตัวเองกำลังเปลี่ยนไปทางไหน แล้วเลือกของที่เข้ากับตัวฉันในอีกไม่กี่ปีข้างหน้า"
+  },
+  {
+   "id": "Siq5",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Recalling exactly what the recipient said/used is the model thoughtful giver (~4.0) and Fe-adjacent attentiveness; also gift context drift.",
+   "rewrite": "เลือกของขวัญ ฉันมักเลือกแบบเดียวกับที่เคยให้แล้วคนรับชอบ จนบางทีของขวัญปีนี้หน้าตาคล้ายปีก่อน"
+  },
+  {
+   "id": "Feq2",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Imagining the recipient's face and wanting them to feel understood (~4.1); gift context drift.",
+   "rewrite": "เลือกของใช้ส่วนตัว ฉันมักนึกว่าคนรอบตัวจะมองว่ามันเหมาะกับฉันไหม จนบางทีไม่ได้เลือกชิ้นที่ชอบที่สุด"
+  },
+  {
+   "id": "Teq5",
+   "type": "context",
+   "sev": 1,
+   "why": "Gift item; fine on function but part of the gift cluster."
+  },
+  {
+   "id": "Neq5",
+   "type": "context",
+   "sev": 1,
+   "why": "Gift item; part of the gift cluster."
+  },
+  {
+   "id": "Fiq5",
+   "type": "context",
+   "sev": 1,
+   "why": "Gift item; part of the gift cluster and duplicates Fix5."
+  },
+  {
+   "id": "Seq4",
+   "type": "theory",
+   "sev": 1,
+   "why": "'สัมผัสได้ถึงความตั้งใจ' infers the maker's intent (Ni/Fi), not pure sensation."
+  },
+  {
+   "id": "Tiq1",
+   "type": "culture",
+   "sev": 1,
+   "why": "Questioning the criteria behind someone's compliment is mildly rude in Thai conversation (~3.1)."
+  },
+  {
+   "id": "Teq1",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Outcome clause 'ได้ชิ้นที่ทั้งสวยและใช้งานได้จริง' makes it the smart-shopper success story (~3.9).",
+   "rewrite": "ก่อนซื้อของแต่งบ้าน ฉันวัดพื้นที่ เช็กรีวิว และเทียบตัวเลือกเป็นตาราง จนบางทีคนที่ไปด้วยเบื่อรอ"
+  },
+  {
+   "id": "Feq0",
+   "type": "culture",
+   "sev": 2,
+   "why": "Dressing appropriately for the host's event is a strong Thai social obligation (แต่งกายให้เหมาะกับงาน) almost everyone endorses (~3.9); low Fe discrimination.",
+   "rewrite": "ไปงานไหน ฉันแต่งตัวตามธีมที่เจ้าภาพตั้งไว้เป๊ะ ๆ แม้ทั้งงานจะรู้สึกไม่ค่อยเป็นตัวเองเลย"
+  },
+  {
+   "id": "Feq1",
+   "type": "desirability",
+   "sev": 2,
+   "why": "A home where everyone feels comfortable and welcome is pure hospitality virtue (~4.0).",
+   "rewrite": "จัดบ้าน ฉันมักเลือกสไตล์ที่คนมาเยี่ยมเห็นแล้วคุ้นและสบายใจ แม้ใจจริงจะอยากลองอะไรที่แปลกกว่านี้"
+  },
+  {
+   "id": "Feq3",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Building a friend's confidence first then suggesting tweaks is ideal tact (~4.0); duplicates Fef2.",
+   "rewrite": "เพื่อนถามว่าชุดนี้โอเคไหม ฉันมักตอบตามบรรยากาศว่าเขาอยากได้ยินอะไร แม้ในใจจะคิดอีกแบบ"
+  },
+  {
+   "id": "BNiSeq0",
+   "type": "duplicate",
+   "sev": 1,
+   "why": "Sides restate Niq1 and Seq3 almost verbatim."
+  },
+  {
+   "id": "BNiSeq1",
+   "type": "unclear",
+   "sev": 2,
+   "why": "'ภาพลักษณ์ที่ฉันกำลังจะเป็น' implies public image management (impression management), not Ni vision; wording awkward.",
+   "rewrite": {
+    "a": "ฉันเลือกเสื้อผ้าจากภาพรวมสไตล์ที่ฉันค่อย ๆ มุ่งไปในระยะยาว",
+    "b": "ฉันเลือกเสื้อผ้าจากความรู้สึกตอนได้ลองใส่จริงตรงหน้า"
+   }
+  },
+  {
+   "id": "BTiFeq0",
+   "type": "desirability",
+   "sev": 2,
+   "why": "B gauging how much confidence the friend needs is tactful kindness (~3.9) vs A blunt principle (~3.3).",
+   "rewrite": {
+    "a": "เพื่อนถามเรื่องชุด ฉันบอกตามหลักที่ฉันใช้ ว่าสัดส่วนกับสีเข้ากันไหม",
+    "b": "เพื่อนถามเรื่องชุด ฉันบอกตามที่ดูว่าคนในงานน่าจะมองชุดนี้ยังไง"
+   }
+  },
+  {
+   "id": "BTiFeq1",
+   "type": "desirability",
+   "sev": 2,
+   "why": "B defines good taste as making others comfortable (~3.9) — a virtue definition; A (~3.3) sounds snobbish.",
+   "rewrite": {
+    "a": "ฉันว่ารสนิยมดีคือมีหลักที่อธิบายได้ว่าทำไมถึงลงตัว",
+    "b": "ฉันว่ารสนิยมดีคือรู้ว่าแต่ละงานคนส่วนใหญ่มองว่าอะไรเหมาะ"
+   }
+  },
+  {
+   "id": "BTeFiq1",
+   "type": "desirability",
+   "sev": 1,
+   "why": "'สื่อใจ' side slightly more virtuous (~3.8 vs 3.6) and both duplicate Teq5/Fiq5."
+  },
+  {
+   "id": "Feh4",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Changing plans for a tired partner despite own wishes is the caring-partner ideal (~4.1); the sacrifice clause raises desirability.",
+   "rewrite": "ถ้าคนที่คบอารมณ์ไม่ดี ฉันมักเปลี่ยนแผนของเราตามเขาทันที จนเขาเองแทบไม่รู้ว่าฉันอยากทำอะไร"
+  },
+  {
+   "id": "Feh5",
+   "type": "ei_confound",
+   "sev": 1,
+   "why": "Restraining public displays of affection is expressiveness (ec) and Thai decorum, not attunement per se."
+  },
+  {
+   "id": "Sih4",
+   "type": "culture",
+   "sev": 1,
+   "why": "Vivid nostalgia about an ex ('คนที่เคยรัก') can feel embarrassing to admit (~3.0)."
+  },
+  {
+   "id": "Fih5",
+   "type": "desirability",
+   "sev": 1,
+   "why": "'not just looking good to others' is the authenticity ideal (~3.8)."
+  },
+  {
+   "id": "Niy4",
+   "type": "culture",
+   "sev": 2,
+   "why": "Dreams and odd coincidences having hidden meaning maps onto Thai folk belief (ฝันบอกเหตุ, ลาง); measures superstition/religiosity rather than Ni.",
+   "rewrite": "บางประโยคจากคำสอนหรือหนังสือติดอยู่ในใจฉันหลายวัน จนวันหนึ่งความหมายของมันก็ชัดขึ้นมาเองกับชีวิตตอนนั้น"
+  },
+  {
+   "id": "Siy4",
+   "type": "culture",
+   "sev": 1,
+   "why": "'สวดบทเดิม' assumes a Buddhist chanting practice; non-practitioners can't map it."
+  },
+  {
+   "id": "Siy5",
+   "type": "unclear",
+   "sev": 1,
+   "why": "'จากความรู้สึกในตัวที่เกิดขึ้นทุกครั้งที่ทำ' is clumsy Thai."
+  },
+  {
+   "id": "Tiy4",
+   "type": "culture",
+   "sev": 1,
+   "why": "Asking what 'กรรม' really means can read as challenging religion (~3.0)."
+  },
+  {
+   "id": "Tey5",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Organising the family merit ceremony so all finishes on time = responsible, กตัญญู child (~3.9).",
+   "rewrite": "เวลาครอบครัวเตรียมงานบุญ ฉันมักเข้าไปจัดลำดับงานและแบ่งหน้าที่ จนบางทีผู้ใหญ่รู้สึกว่าฉันรวบรัดเกินไป"
+  },
+  {
+   "id": "Fiy4",
+   "type": "culture",
+   "sev": 2,
+   "why": "Refusing a tradition even when elders are displeased violates Thai respect for elders (~2.6); far below band and Fi users may hold the line privately instead.",
+   "rewrite": "ถ้าธรรมเนียมไหนขัดกับสิ่งที่ฉันรู้สึกว่าถูก ฉันอาจยังทำตาม แต่ในใจจะรู้ชัดว่ามันไม่ใช่ตัวฉัน"
+  },
+  {
+   "id": "Fey4",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Finding common ground so everyone's beliefs feel respected is the religious-harmony ideal (~4.2).",
+   "rewrite": "เวลาคนในวงเชื่อต่างกัน ฉันมักเลี่ยงพูดสิ่งที่ตัวเองเชื่อ แล้วหยิบเรื่องที่ทุกคนเห็นตรงกันมาคุยแทน"
+  },
+  {
+   "id": "Fey5",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Following the host's customs at another faith's place is courtesy everyone endorses (~4.2); overlaps v10 Fej3.",
+   "rewrite": "ไปงานของคนที่เชื่อต่างจากฉัน ฉันทำตามทุกขั้นตอนเหมือนคนอื่น ๆ ในงาน แม้ในใจจะรู้สึกแปลก ๆ อยู่บ้าง"
+  },
+  {
+   "id": "Fez4",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Wanting the whole group to reach their dreams together is altruistic (~4.0) and has E/group energy flavour.",
+   "rewrite": "ฉันมีแรงทำตามฝันมากขึ้นเมื่อรู้ว่าคนรอบตัวคาดหวังและเชียร์อยู่ จนบางทีลืมถามว่าฝันนั้นเป็นของฉันเองแค่ไหน"
+  },
+  {
+   "id": "Fez5",
+   "type": "culture",
+   "sev": 2,
+   "why": "Pausing your own dream to help family = กตัญญู/เสียสละ, a top Thai virtue (~4.1).",
+   "rewrite": "บางครั้งฉันปรับความฝันของตัวเองให้เข้ากับที่ครอบครัวอยากเห็น แม้ใจจริงจะอยากไปอีกทาง"
+  },
+  {
+   "id": "Fiz5",
+   "type": "ei_confound",
+   "sev": 1,
+   "why": "Keeping dreams to oneself is privacy (I), not values."
+  },
+  {
+   "id": "Fiz4",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Checking if others' success is what I truly want reads mature (~3.8)."
+  },
+  {
+   "id": "Tej4",
+   "type": "ability",
+   "sev": 2,
+   "why": "Quickly finding the least time-wasting alternative and handling it = competent crisis manager (~4.0).",
+   "rewrite": "พอทริปมีปัญหา เช่น เที่ยวบินดีเลย์ ฉันรีบตัดสินใจเลือกทางใหม่ทันที แม้บางคนในกลุ่มยังอยากรอดูสถานการณ์"
+  },
+  {
+   "id": "Fij5",
+   "type": "culture",
+   "sev": 1,
+   "why": "Splitting from the group trip reads ไม่เข้าพวก (~2.9)."
+  },
+  {
+   "id": "Fej4",
+   "type": "duplicate",
+   "sev": 1,
+   "why": "Same as v10 Fev2 (think what each friend would like before choosing)."
+  },
+  {
+   "id": "Fej5",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Smoothing conflict so the trip continues = peacemaker ideal (~4.0); mediator idea is already heavily represented.",
+   "rewrite": "ถ้าในทริปเริ่มมีคนไม่พอใจกัน ฉันจะรู้สึกตึงไปด้วยจนเที่ยวไม่ค่อยสนุก แม้เรื่องนั้นจะไม่เกี่ยวกับฉัน"
+  },
+  {
+   "id": "Tin4",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Separating fact from opinion is the media-literacy ideal (~4.1); everyone will claim it.",
+   "rewrite": "อ่านข่าวทีไร ฉันอดไม่ได้ที่จะแยกว่าประโยคไหนเป็นข้อเท็จจริง ประโยคไหนเป็นความเห็น จนอ่านข่าวสบาย ๆ ไม่ค่อยได้"
+  },
+  {
+   "id": "Nin5",
+   "type": "desirability",
+   "sev": 1,
+   "why": "'สะท้อนอะไรลึก ๆ ของสังคม' sounds like the thoughtful reader (~3.8)."
+  },
+  {
+   "id": "Fen5",
+   "type": "double",
+   "sev": 2,
+   "why": "Checking on the person AND rallying others to help (Te-style organising); very desirable (~4.2).",
+   "rewrite": "พอมีข่าวร้ายเกี่ยวกับคนรู้จัก ใจฉันจะไปอยู่กับความรู้สึกของเขาและครอบครัวทั้งวัน จนทำเรื่องอื่นไม่ค่อยลง"
+  },
+  {
+   "id": "Fei5",
+   "type": "theory",
+   "sev": 2,
+   "why": "Investing because family/friends do is herding/social proof (FOMO), not Fe's attunement; low desirability (~2.7).",
+   "rewrite": "ถ้าคนในบ้านกำลังตัดสินใจเรื่องเงินก้อนใหญ่ ฉันมักเลือกทางที่ทุกคนในบ้านสบายใจร่วมกัน แม้จะไม่ใช่ทางที่ได้ผลตอบแทนดีที่สุด"
+  },
+  {
+   "id": "Sii5",
+   "type": "culture",
+   "sev": 1,
+   "why": "'ใจเต้นหรือมือเย็น' are anxiety symptoms; brief bars mental-health wording."
+  },
+  {
+   "id": "Sei4",
+   "type": "desirability",
+   "sev": 1,
+   "why": "Reacting to the day's market swings reads like risky trading (~3.0)."
+  },
+  {
+   "id": "Seu4",
+   "type": "ability",
+   "sev": 1,
+   "why": "Improvising while playing presupposes musical skill; non-musicians cannot answer."
+  },
+  {
+   "id": "Fiu4",
+   "type": "ei_confound",
+   "sev": 1,
+   "why": "Not wanting to play favourite songs for others is privacy (I), not values."
+  },
+  {
+   "id": "Feu5",
+   "type": "culture",
+   "sev": 1,
+   "why": "Singing along/praising songs you dislike is a common Thai politeness script; weak Fe discrimination."
+  }
+ ],
+ "existing": [
+  {
+   "id": "Sew1",
+   "type": "ability",
+   "sev": 3,
+   "why": "'ตอบสนองได้ไวและมักเหมาะกับสถานการณ์' is a pure competence claim; in a pair it beats almost anything.",
+   "rewrite": "เมื่อเกิดเหตุไม่คาดฝัน ฉันมักขยับลงมือตามสิ่งที่เห็นตรงหน้าเลย แม้บางทีจะยังไม่ได้คิดให้รอบ"
+  },
+  {
+   "id": "Ner2",
+   "type": "ability",
+   "sev": 3,
+   "why": "'มองเห็นศักยภาพของคนที่คนอื่นยังมองไม่เห็น' = superiority + virtue (~4.4).",
+   "rewrite": "ฉันมักนึกเล่น ๆ ว่าคนใกล้ตัวน่าจะลองเป็นหรือทำอะไรได้อีกหลายแบบ แม้เขาเองจะไม่ได้คิดแบบนั้น"
+  },
+  {
+   "id": "Niv0",
+   "type": "ability",
+   "sev": 3,
+   "why": "'เดาตอนจบได้ก่อนคนอื่น' is an explicit superiority/accuracy claim.",
+   "rewrite": "เวลาดูหนังหรือซีรีส์ ฉันมักมีความรู้สึกบางอย่างว่าเรื่องกำลังจะไปจบตรงไหน แล้วดูต่อเพื่อเช็กว่าใช่ไหม"
+  },
+  {
+   "id": "Fig1",
+   "type": "desirability",
+   "sev": 3,
+   "why": "'ฉันไม่โกงหรือเล่นสกปรก' is honesty, not Fi; nearly everyone endorses (~4.6).",
+   "rewrite": "ในเกม ฉันเลือกเล่นแบบที่รู้สึกว่าเป็นตัวเอง แม้จะไม่ใช่วิธีที่ชนะง่ายที่สุด"
+  },
+  {
+   "id": "Fip1",
+   "type": "desirability",
+   "sev": 3,
+   "why": "'ไม่ยอมชนะด้วยวิธีเอาเปรียบคู่แข่ง' = sportsmanship virtue (~4.5), not Fi.",
+   "rewrite": "ถ้าวิธีเล่นที่ทีมใช้ทำให้ฉันรู้สึกไม่เป็นตัวเอง ฉันจะเล่นต่อแบบไม่เต็มใจ แม้มันจะได้ผลก็ตาม"
+  },
+  {
+   "id": "BTiFez1",
+   "type": "desirability",
+   "sev": 3,
+   "why": "B 'อยากเป็นคนที่ทำให้คนรอบตัวอุ่นใจ' is pure virtue (~4.4) vs A esoteric study (~3.3); also sides are not parallel.",
+   "rewrite": {
+    "a": "ความฝันของฉันคือได้ไล่ทำความเข้าใจเรื่องที่สนใจจนครบทุกส่วน",
+    "b": "ความฝันของฉันคือได้ทำสิ่งที่คนรอบตัวเห็นคุณค่าร่วมกัน"
+   }
+  },
+  {
+   "id": "BTiFeh1",
+   "type": "desirability",
+   "sev": 3,
+   "why": "'รับฟังความรู้สึกเขาก่อน' is the universally taught right answer (~4.3) vs 'analyse the cause' (~3.4).",
+   "rewrite": {
+    "a": "เวลาคนที่รักเล่าปัญหา ฉันมักช่วยไล่ดูว่าต้นเหตุจริง ๆ อยู่ตรงไหน",
+    "b": "เวลาคนที่รักเล่าปัญหา ฉันมักพูดเห็นด้วยไปก่อนให้เขาสบายใจ แม้ในใจจะคิดอีกแบบ"
+   }
+  },
+  {
+   "id": "New0",
+   "type": "ability",
+   "sev": 2,
+   "why": "'โยนไอเดียได้หลายทางในเวลาสั้น ๆ' is a fluency/performance claim.",
+   "rewrite": "ในการระดมสมอง ฉันมักโยนไอเดียออกมาหลายทาง จนบางทีทีมต้องช่วยดึงกลับมาที่โจทย์"
+  },
+  {
+   "id": "New1",
+   "type": "ability",
+   "sev": 2,
+   "why": "'แล้วนำมาต่อยอดงานได้' adds a success outcome.",
+   "rewrite": "ในงาน ฉันมักโยงเรื่องที่ดูไม่เกี่ยวกันเข้าหากัน จนบางทีไอเดียไปไกลกว่าที่งานต้องการ"
+  },
+  {
+   "id": "Seg0",
+   "type": "ability",
+   "sev": 2,
+   "why": "'ตอบสนองได้ไวโดยแทบไม่ต้องคิด' = reflex skill claim.",
+   "rewrite": "ในเกม ฉันมักกดตอบสนองสิ่งที่เกิดตรงหน้าไปก่อน แล้วค่อยคิดว่าควรทำแบบนั้นไหม"
+  },
+  {
+   "id": "Sea1",
+   "type": "ability",
+   "sev": 2,
+   "why": "'สังเกต…ได้ละเอียด' is a perceptual-ability claim.",
+   "rewrite": "ฉันมักหยุดดูสี แสง และพื้นผิวของสิ่งรอบตัว จนบางทีเดินช้ากว่าคนที่มาด้วย"
+  },
+  {
+   "id": "Nib1",
+   "type": "ability",
+   "sev": 2,
+   "why": "'ได้ความหมายที่ผู้เขียนไม่ได้พูดตรง ๆ' presupposes the reading is correct (literary skill).",
+   "rewrite": "เวลาอ่าน ฉันมักสนใจความหมายที่อาจซ่อนอยู่ระหว่างบรรทัด มากกว่าสิ่งที่ผู้เขียนพูดตรง ๆ"
+  },
+  {
+   "id": "Fir2",
+   "type": "ability",
+   "sev": 2,
+   "why": "'สัมผัสได้ว่าคนตรงหน้าจริงใจหรือไม่' = lie-detection ability; also person-reading is not Fi's value judgment.",
+   "rewrite": "ฉันให้น้ำหนักมากกับว่าคนตรงหน้าดูจริงใจกับสิ่งที่เขาเชื่อแค่ไหน มากกว่าว่าเขาเชื่ออะไร"
+  },
+  {
+   "id": "Nig2",
+   "type": "ability",
+   "sev": 2,
+   "why": "'…โดยบอกไม่ได้ว่าทำไมถึงรู้' asserts the prediction is right.",
+   "rewrite": "ในเกม ฉันมักมีความรู้สึกว่าคู่ต่อสู้กำลังจะทำอะไร แล้วเล่นตามความรู้สึกนั้น แม้บอกเหตุผลไม่ได้"
+  },
+  {
+   "id": "Nip0",
+   "type": "ability",
+   "sev": 2,
+   "why": "'เห็นล่วงหน้าว่าเกมจะพลิก ก่อนมันเกิดขึ้น' = accurate foresight.",
+   "rewrite": "เวลาเล่นกีฬา ฉันมักมีความรู้สึกว่าเกมกำลังจะพลิกไปทางไหน แล้วเล่นเผื่อทางนั้นไว้ก่อน"
+  },
+  {
+   "id": "Tid1",
+   "type": "ability",
+   "sev": 2,
+   "why": "'บอกได้ว่าขาดหรือเกินอะไร' is a palate-skill claim; 94 chars.",
+   "rewrite": "เวลาชิมอาหาร ฉันชอบแยกรสในหัวเป็นเปรี้ยว เค็ม หวาน แล้วคิดว่าแต่ละรสทำหน้าที่อะไรในจาน"
+  },
+  {
+   "id": "Fil3",
+   "type": "desirability",
+   "sev": 2,
+   "why": "'งานอาสา…เรื่องที่ฉันห่วงใย' = altruism signal (~4.3), also Fe-flavoured helping.",
+   "rewrite": "เวลาว่าง ฉันชอบทำเรื่องที่ใจฉันผูกพันเป็นพิเศษ แม้คนอื่นจะมองว่าไม่เห็นได้อะไร"
+  },
+  {
+   "id": "Fiw0",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Refusing value-violating work despite good pay = integrity ideal (~4.2).",
+   "rewrite": "ในงาน ถ้าต้องทำสิ่งที่ขัดกับค่านิยมของตัวเอง ฉันจะทำต่อได้ยากมาก แม้มันจะเป็นงานที่ดูดีในสายตาคนอื่น"
+  },
+  {
+   "id": "Fii1",
+   "type": "desirability",
+   "sev": 2,
+   "why": "'ให้เงินไปสนับสนุนสิ่งที่ใจเชื่อว่าดี' is generic goodness (~4.2) with no cost.",
+   "rewrite": "ฉันเลือกใช้เงินกับสิ่งที่ใจรู้สึกผูกพัน แม้บางทีจะไม่ใช่ทางที่คุ้มที่สุด"
+  },
+  {
+   "id": "Fei3",
+   "type": "theory",
+   "sev": 2,
+   "why": "Caring whether a company treats staff/customers well is ethical-values (Fi/ESG) more than Fe; virtuous (~4.1).",
+   "rewrite": "ก่อนลงทุน ฉันมักนึกว่าคนในบ้านหรือคนใกล้ตัวจะรู้สึกยังไงกับการตัดสินใจนี้ แม้มันจะเป็นเงินของฉันเอง"
+  },
+  {
+   "id": "Fen1",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Empathising with victims' families is universal compassion (~4.3).",
+   "rewrite": "เวลาอ่านข่าวเศร้า ฉันมักรู้สึกหนักตามคนในเหตุการณ์ไปทั้งวัน จนทำเรื่องอื่นไม่ค่อยลง"
+  },
+  {
+   "id": "Fez0",
+   "type": "culture",
+   "sev": 2,
+   "why": "'อยากให้ครอบครัวสบาย' = กตัญญู, a near-mandatory Thai value (~4.4); 89 chars.",
+   "rewrite": "ความฝันของฉันมักถูกปรับไปตามสิ่งที่ครอบครัวหรือคนรอบตัวอยากเห็น จนบางทีไม่แน่ใจว่าฝันไหนเป็นของฉันเอง"
+  },
+  {
+   "id": "Fez2",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Inspired by people who improve the community = civic virtue (~4.2).",
+   "rewrite": "ฉันมีแรงทำตามฝันมากขึ้นเมื่อมีคนรอบตัวอินไปด้วย พอไม่มีใครสนใจ ฉันก็มักแผ่วลง"
+  },
+  {
+   "id": "Ter2",
+   "type": "theory",
+   "sev": 2,
+   "why": "Expecting people to keep agreements is universal (~4.0), not Te-specific.",
+   "rewrite": "ถ้าคนรอบตัวไม่ทำตามที่ตกลงกันไว้ ฉันจะทวงตรง ๆ ทันที แม้บรรยากาศจะเสียไปบ้าง"
+  },
+  {
+   "id": "Tir3",
+   "type": "ei_confound",
+   "sev": 2,
+   "why": "'มักเงียบ' = quietness/introversion; Ti ≠ quiet (brief rule 5).",
+   "rewrite": "ระหว่างคุย ฉันมักไล่เช็กในหัวว่าเหตุผลของแต่ละคนต่อกันติดไหม จนบางทีหลุดจากอารมณ์ของวง"
+  },
+  {
+   "id": "Fik3",
+   "type": "ei_confound",
+   "sev": 2,
+   "why": "'เก็บไว้กับตัวมากกว่าแสดงออก' is the EI ec facet (contained), not Fi values.",
+   "rewrite": "ความรู้สึกของฉันลึกและซับซ้อน จนบางทีฉันเองต้องใช้เวลานานกว่าจะรู้ว่ามันคืออะไร"
+  },
+  {
+   "id": "Fiv2",
+   "type": "ei_confound",
+   "sev": 2,
+   "why": "'มักดูคนเดียว' = solitude preference (I).",
+   "rewrite": "หนังที่กระทบใจ ฉันมักต้องใช้เวลาอยู่กับความรู้สึกนั้นก่อน ถึงจะบอกได้ว่ามันหมายถึงอะไรกับฉัน"
+  },
+  {
+   "id": "Tim2",
+   "type": "ei_confound",
+   "sev": 2,
+   "why": "Not posting opinions = low expressiveness (I); also 'แม่นยำพอ' is a quality claim.",
+   "rewrite": "ก่อนกดแชร์อะไร ฉันมักไล่เช็กว่าเหตุผลในโพสต์ต่อกันติดไหม จนบางทีแชร์ช้ากว่าคนอื่น"
+  },
+  {
+   "id": "Ser3",
+   "type": "ei_confound",
+   "sev": 2,
+   "why": "'กล้าชวนใคร…ทันที' = initiating (EI ir) plus courage virtue word กล้า.",
+   "rewrite": "เวลาอยู่กับคนใกล้ตัว ฉันมักชวนทำสิ่งที่เห็นอยู่ตรงหน้าเลย เช่น ร้านที่เพิ่งเปิดตรงหัวมุม"
+  },
+  {
+   "id": "Fel1",
+   "type": "ei_confound",
+   "sev": 2,
+   "why": "'สนุกที่สุดเมื่อได้แบ่งปันกับกลุ่มคน' is gregariousness (E), Fe ≠ outgoing.",
+   "rewrite": "ฉันสนุกกับกิจกรรมมากขึ้นเมื่อรู้ว่าคนที่ไปด้วยก็สนุก ถ้าเขาไม่สนุก ฉันก็พลอยหมดสนุกไปด้วย"
+  },
+  {
+   "id": "Fev0",
+   "type": "ei_confound",
+   "sev": 2,
+   "why": "Enjoying watching with others and post-film chat is sociability (E).",
+   "rewrite": "เวลาดูหนังกับคนอื่น ฉันมักเหลือบดูว่าเขาชอบไหม จนบางทีตัวเองก็ไม่ได้อินกับหนังเต็มที่"
+  },
+  {
+   "id": "Sel1",
+   "type": "double",
+   "sev": 2,
+   "why": "121 chars, three activities (tasting, loud music, sport); too long for a two-option pair and Se = thrill stereotype.",
+   "rewrite": "เวลาว่าง ฉันชอบทำอะไรที่ได้ใช้ประสาทสัมผัสเต็มที่ เช่น ลองชิมของแปลก ๆ จนลืมเรื่องอื่นไปชั่วขณะ"
+  },
+  {
+   "id": "Tij2",
+   "type": "unclear",
+   "sev": 2,
+   "why": "121 chars with two clauses; in a pair the long side gets read less carefully.",
+   "rewrite": "เวลาวางทริป ฉันชอบคิดเองว่าทำไมเส้นทางหนึ่งถึงสมเหตุสมผลกว่า มากกว่าเชื่อตามรีวิว"
+  },
+  {
+   "id": "Fes2",
+   "type": "desirability",
+   "sev": 2,
+   "why": "112 chars; 'ทุกคนมีส่วนร่วม ไม่น้อยกว่าคุณภาพงาน' is an inclusive-teamwork virtue.",
+   "rewrite": "ในงานกลุ่มที่เรียน ฉันห่วงว่าทุกคนรู้สึกได้มีส่วนร่วมไหม จนบางทีงานเสร็จช้าลง"
+  },
+  {
+   "id": "BTiFe5",
+   "type": "desirability",
+   "sev": 2,
+   "why": "B 'ทุกคนรู้สึกมีส่วนร่วมและไม่ถูกมองข้าม' is inclusive-leader virtue (~4.0) vs A (~3.5).",
+   "rewrite": {
+    "a": "ในการประชุม ฉันสนใจว่าข้อสรุปสมเหตุสมผลหรือไม่",
+    "b": "ในการประชุม ฉันสนใจว่าบรรยากาศในห้องเป็นยังไง และทุกคนยังโอเคกันไหม"
+   }
+  },
+  {
+   "id": "BTiFej1",
+   "type": "desirability",
+   "sev": 2,
+   "why": "A 'ไล่หาว่าพลาดตรงไหน' sounds like blaming (~3.2); B cheering everyone up (~3.9).",
+   "rewrite": {
+    "a": "ทริปมีปัญหา ฉันอยากเข้าใจก่อนว่ามันเกิดจากอะไร",
+    "b": "ทริปมีปัญหา ฉันอยากให้บรรยากาศในกลุ่มกลับมาก่อน"
+   }
+  },
+  {
+   "id": "BTeFi4",
+   "type": "desirability",
+   "sev": 2,
+   "why": "B 'รู้สึกจริงใจกับสิ่งที่ทำ' uses the sincerity virtue word (~4.0) vs A (~3.5).",
+   "rewrite": {
+    "a": "ฉันวัดความสำเร็จจากผลลัพธ์ที่คนอื่นเห็นและตรวจสอบได้",
+    "b": "ฉันวัดความสำเร็จจากว่าสิ่งที่ทำตรงกับใจฉันแค่ไหน"
+   }
+  },
+  {
+   "id": "BNeSi6",
+   "type": "unclear",
+   "sev": 2,
+   "why": "Mirror-worded 'ไอเดียที่เคยคิดไว้ vs เมื่อไร ที่ไหน' is confusing; readers must parse it twice.",
+   "rewrite": {
+    "a": "เวลานึกย้อนเรื่องเก่า ฉันมักนึกถึงไอเดียที่ผุดขึ้นตอนนั้น มากกว่าว่าเกิดที่ไหน เมื่อไร",
+    "b": "เวลานึกย้อนเรื่องเก่า ฉันมักนึกถึงว่าเกิดที่ไหน เมื่อไร มากกว่าไอเดียที่ผุดขึ้นตอนนั้น"
+   }
+  },
+  {
+   "id": "EIeq3",
+   "type": "desirability",
+   "sev": 2,
+   "why": "I side 'พูดน้อย ฟังมากกว่า' = good-listener virtue in Thai; E side 'พูดเยอะ' reads พูดมาก (negative).",
+   "rewrite": {
+    "E": "ในวงคุยกับเพื่อน ฉันมักเป็นคนเล่าเรื่องและชวนคุยให้วงคึกคัก",
+    "I": "ในวงคุยกับเพื่อน ฉันมักพูดน้อยและสนุกอยู่เงียบ ๆ ให้วงสบาย ๆ"
+   }
+  },
+  {
+   "id": "EIir2",
+   "type": "desirability",
+   "sev": 2,
+   "why": "E 'ไม่ค่อยรอจังหวะ' sounds tactless; I 'รอจังหวะที่เป็นธรรมชาติ' sounds graceful — unbalanced.",
+   "rewrite": {
+    "E": "ถ้าอยากรู้จักใคร ฉันมักเป็นฝ่ายทักไปก่อน",
+    "I": "ถ้าอยากรู้จักใคร ฉันมักรอให้มีโอกาสได้คุยกันเอง"
+   }
+  }
+ ]
+}

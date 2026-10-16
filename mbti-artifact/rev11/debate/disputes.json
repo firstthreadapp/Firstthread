@@ -1,0 +1,3235 @@
+{
+ "disputes": [
+  {
+   "id": "Siw4",
+   "kind": "st",
+   "ctx": "w",
+   "fn": "Si",
+   "text": "ฉันมักจำว่างานแต่ละแบบเคยติดปัญหาตรงไหน แล้วเตรียมเผื่อไว้เมื่อเจองานคล้ายกันอีก",
+   "ratings": [
+    "Siw4 pro 3.8 con 3.9"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Remembering past failure points and preparing for them reads as the prudent, experienced employee — a Thai workplace virtue (รอบคอบ). No cost; ~3.9, will beat almost any partner statement.",
+     "rewrite": "ฉันมักจำว่างานแบบนี้เคยติดปัญหาตรงไหน แล้วเตรียมเผื่อไว้ทุกครั้ง จนบางทีเตรียมมากกว่าที่งานจริงต้องใช้"
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 2,
+     "why": "Reads as the model-employee answer (remembers past problems and pre-empts them) ~3.8; it will win most MFC pairs for non-Si types. Keep the Si core (referencing stored experience) but add the realistic cost of over-applying past templates.",
+     "rewrite": "ฉันมักจำว่างานแต่ละแบบเคยติดปัญหาตรงไหน แล้วเตรียมเผื่อไว้แบบเดิม แม้บางครั้งงานรอบใหม่จะไม่ได้เป็นแบบนั้นแล้ว"
+    }
+   ]
+  },
+  {
+   "id": "Fiw4",
+   "kind": "st",
+   "ctx": "w",
+   "fn": "Fi",
+   "text": "ถ้างานไหนไม่มีความหมายกับฉันเอง ฉันทำได้แต่ใจไม่ไปด้วย แม้จะเป็นงานสำคัญ",
+   "ratings": [
+    "Fiw4 pro 2.9 con 2.7"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "\"ทำได้แต่ใจไม่ไปด้วย แม้จะเป็นงานสำคัญ\" admits low work commitment — embarrassing for a Thai adult (~2.7, below target); Fi respondents will under-endorse it.",
+     "rewrite": "ฉันทำงานได้เต็มที่ที่สุดเมื่องานนั้นตรงกับสิ่งที่ฉันให้คุณค่า ถ้าไม่ตรง ฉันต้องหาความหมายส่วนตัวให้มันก่อนจึงจะมีแรงทำ"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Fiw5",
+   "kind": "st",
+   "ctx": "w",
+   "fn": "Fi",
+   "text": "เวลาเห็นเพื่อนร่วมงานถูกปฏิบัติอย่างไม่ยุติธรรม ฉันค้างใจลึก ๆ แม้คนอื่นจะมองว่าเป็นเรื่องปกติของที่ทำงาน",
+   "ratings": [
+    "Fiw5 pro 3.8 con 3.9"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Moral concern for an unfairly treated colleague is a plain virtue (~3.9); the \"cost\" (others think it normal) actually makes the respondent look more principled.",
+     "rewrite": "เวลาเห็นใครในที่ทำงานถูกปฏิบัติอย่างไม่ยุติธรรม ฉันค้างใจจนมองคนที่ทำแบบนั้นไม่เหมือนเดิมไปอีกนาน แม้คนอื่นจะลืมไปแล้ว"
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 2,
+     "why": "Moral outrage on a colleague's behalf is near-heroic (~3.8) and blends Fe empathy/Ti fairness. Make it about an inner principle vs the group norm, with a social cost.",
+     "rewrite": "ถ้าวิธีทำงานที่ทุกคนถือเป็นเรื่องปกติขัดกับหลักในใจฉัน ฉันจะค้างใจอยู่นาน จนบางทีทำตัวกลมกลืนกับทีมได้ยาก"
+    }
+   ]
+  },
+  {
+   "id": "Few5",
+   "kind": "st",
+   "ctx": "w",
+   "fn": "Fe",
+   "text": "เวลามีคนใหม่เข้าทีม ฉันมักคอยดูว่าเขาเข้ากับทุกคนได้หรือยัง แม้ไม่ใช่หน้าที่ของฉัน",
+   "ratings": [
+    "Few5 pro 3.9 con 3.9"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "\"แม้ไม่ใช่หน้าที่ของฉัน\" is a humblebrag cost — going beyond duty to include a newcomer is the textbook มีน้ำใจ answer (~3.9).",
+     "rewrite": "เวลามีคนใหม่เข้าทีม ฉันมักคอยดูว่าเขาเข้ากับทุกคนได้หรือยัง จนบางทีงานของตัวเองเดินช้าลง"
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 2,
+     "why": "'Looking after the newcomer even though it's not my job' is the good-colleague answer (~3.9). Add the cost of over-involvement so Fe users can pick it honestly and others are not shamed.",
+     "rewrite": "เวลามีคนใหม่เข้าทีม ฉันคอยดูว่าเขาเข้ากับคนอื่นได้หรือยัง จนบางทีเข้าไปช่วยเชื่อมมากกว่าที่เขาต้องการ"
+    }
+   ]
+  },
+  {
+   "id": "Tir5",
+   "kind": "st",
+   "ctx": "r",
+   "fn": "Ti",
+   "text": "ฉันมักสังเกตว่ากฎในบ้านบางข้อขัดกันเอง แล้วอยากถามว่ามันมีไว้เพื่ออะไรจริง ๆ",
+   "ratings": [
+    "Tir5 pro 2.9 con 2.9"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "culture",
+     "sev": 2,
+     "why": "Wanting to ask what house rules are \"really for\" reads as talking back to elders (เถียงผู้ใหญ่) for Thai adults (~2.9); Ti people will suppress it.",
+     "rewrite": "ฉันมักสังเกตว่ากฎหรือธรรมเนียมในบ้านบางข้อขัดกันเอง แล้วเก็บมาคิดว่าเหตุผลจริง ๆ ของมันคืออะไร"
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "culture",
+     "sev": 1,
+     "why": "Questioning house rules can read as disrespect toward elders (~2.9) and 'มีไว้เพื่ออะไร' leans to Te purpose. Soften to internal noticing of contradiction.",
+     "rewrite": "ฉันมักสังเกตว่ากฎในบ้านบางข้อขัดกันเอง แล้วอดคิดในใจไม่ได้ว่าเหตุผลจริง ๆ ของมันคืออะไร"
+    }
+   ]
+  },
+  {
+   "id": "Fer5",
+   "kind": "st",
+   "ctx": "r",
+   "fn": "Fe",
+   "text": "ฉันมักพูดในสิ่งที่คนในครอบครัวอยากได้ยินก่อน แล้วค่อยหาจังหวะบอกสิ่งที่ตัวเองคิดจริง",
+   "ratings": [
+    "Fer5 pro 3 con 3"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "culture",
+     "sev": 2,
+     "why": "Saying what family wants to hear first is Thai deference to elders (กตัญญู/เกรงใจผู้ใหญ่), near-universal; it measures culture rather than Fe attunement.",
+     "rewrite": "เวลาครอบครัวคุยเรื่องที่เห็นไม่ตรงกัน ฉันมักสังเกตว่าแต่ละคนรู้สึกอย่างไร แล้วหาคำพูดที่ทุกคนรับได้ จนบางทีความเห็นของตัวเองหายไป"
+    }
+   ],
+   "pro": [
+    {
+     "v": "strong",
+     "type": null,
+     "sev": 0,
+     "why": "Fe prioritises the relational atmosphere before self-expression; honest cost (true view delayed). Mildly below midpoint, good counterweight to virtuous Fe items.",
+     "rewrite": ""
+    }
+   ]
+  },
+  {
+   "id": "Nil5",
+   "kind": "st",
+   "ctx": "l",
+   "fn": "Ni",
+   "text": "เวลาว่าง ฉันมักกลับไปคิดเรื่องเดียวซ้ำ ๆ จากหลายมุม จนเห็นว่ามันเชื่อมกับเรื่องอื่นในชีวิตอย่างไร",
+   "ratings": [
+    "Nil5 pro 3.3 con 3.4"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix"
+   ],
+   "con": [
+    {
+     "type": "theory",
+     "sev": 2,
+     "why": "\"คิดเรื่องเดียวจากหลายมุม จนเห็นว่ามันเชื่อมกับเรื่องอื่น\" = divergent, connection-making language (Ne). Ni converges to one underlying pattern.",
+     "rewrite": "เวลาว่าง ฉันมักกลับไปครุ่นคิดเรื่องเดียวซ้ำ ๆ จนเห็นแก่นเดียวที่อยู่ข้างใต้มัน"
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "theory",
+     "sev": 2,
+     "why": "'จากหลายมุม…เชื่อมกับเรื่องอื่น' is divergent branching (Ne). Ni is convergence on one core; rewrite to the narrowing movement.",
+     "rewrite": "เวลาว่าง ฉันมักกลับไปครุ่นคิดเรื่องเดียวซ้ำ ๆ จนเห็นว่าแก่นจริง ๆ ของมันคืออะไร แม้จะไม่ได้ข้อสรุปที่เอาไปใช้ได้ทันที"
+    }
+   ]
+  },
+  {
+   "id": "Sel5",
+   "kind": "st",
+   "ctx": "l",
+   "fn": "Se",
+   "text": "วันว่างที่ไม่มีแผน ฉันมักออกไปข้างนอกแล้วดูว่าเจออะไรตรงหน้าก็เอาตามนั้น",
+   "ratings": [
+    "Sel5 pro 3.3 con 3.2"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "ei_confound",
+     "sev": 2,
+     "why": "\"ออกไปข้างนอก\" ties Se to going out (E/activity); brief rule 5 says Se ≠ going out.",
+     "rewrite": "วันว่างที่ไม่มีแผน ฉันตัดสินใจจากสิ่งที่เห็นตรงหน้าตอนนั้น เช่น อากาศดีก็ออกไปเดิน ฝนตกก็หาอะไรทำในบ้าน"
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "ei_confound",
+     "sev": 1,
+     "why": "'ออกไปข้างนอก' carries E energy; acceptable but don't pair against an I-loaded statement.",
+     "rewrite": ""
+    }
+   ]
+  },
+  {
+   "id": "Fel5",
+   "kind": "st",
+   "ctx": "l",
+   "fn": "Fe",
+   "text": "ฉันชอบอ่านความเห็นของคนอื่นต่อหนังที่เพิ่งดู เพื่อรู้ว่าคนส่วนใหญ่รู้สึกกับมันอย่างไร",
+   "ratings": [
+    "Fel5 pro 3 con 3.1"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "theory",
+     "sev": 2,
+     "why": "Reading public comments to see what most people felt is curiosity/conformity, endorsed by almost everyone; weak Fe (no attunement to specific others) and yet another film item in l (overlaps v).",
+     "rewrite": "เวลาว่างที่อยู่กับคนอื่น ฉันมักเลือกทำสิ่งที่คนส่วนใหญ่ในกลุ่มอยากทำ จนบางทีไม่ได้ทำสิ่งที่ตัวเองอยากเอง"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Tek7",
+   "kind": "st",
+   "ctx": "k",
+   "fn": "Te",
+   "text": "เวลามีปัญหา ฉันมักถามก่อนว่า “แล้วจะทำอะไรต่อ” มากกว่านั่งหาว่าใครผิด",
+   "ratings": [
+    "Tek7 pro 3.9 con 3.9"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "The rejected alternative is framed pejoratively (\"นั่งหาว่าใครผิด\"), so the item reads as the mature solution-focused person (~3.9).",
+     "rewrite": "เวลามีปัญหา ฉันข้ามไปที่ “แล้วจะทำอะไรต่อ” ทันที จนบางทีคนอื่นรู้สึกว่าฉันไม่ได้ฟังว่าเขารู้สึกอย่างไร"
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 2,
+     "why": "'Solutions not blame' is the textbook virtuous answer (~3.9). Keep Te's action-orientation, add the cost that fits Te (skipping feelings).",
+     "rewrite": "เวลามีปัญหา ฉันมักข้ามไปที่ “แล้วจะทำอะไรต่อ” ทันที จนบางทีคนอื่นรู้สึกว่าฉันไม่ได้ฟังว่าเขารู้สึกอย่างไร"
+    }
+   ]
+  },
+  {
+   "id": "Fik7",
+   "kind": "st",
+   "ctx": "k",
+   "fn": "Fi",
+   "text": "ฉันอยากให้สิ่งที่พูดและทำตรงกับที่รู้สึกข้างใน ถ้าไม่ตรง ฉันจะรู้สึกไม่เป็นตัวเอง",
+   "ratings": [
+    "Fik7 pro 3.7 con 3.8"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Authenticity with no cost (~3.8). In Thai self-presentation \"เป็นตัวของตัวเอง/จริงใจ\" is a prized trait.",
+     "rewrite": "ฉันพูดหรือทำในสิ่งที่ไม่ตรงกับใจได้ยากมาก จนบางทีเลือกเงียบแทนการพูดตามมารยาท"
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 2,
+     "why": "Authenticity without cost reads ~3.7. A Thai-specific cost (struggling with polite formulas one doesn't feel) makes it a real Fi-vs-Fe discriminator.",
+     "rewrite": "ฉันอยากให้สิ่งที่พูดตรงกับที่รู้สึกข้างใน จนบางทีพูดคำตามมารยาทที่ไม่ได้รู้สึกจริงไม่ค่อยออก"
+    }
+   ]
+  },
+  {
+   "id": "Fek7",
+   "kind": "st",
+   "ctx": "k",
+   "fn": "Fe",
+   "text": "ฉันมักรู้สึกไม่สบายใจถ้าต้องปฏิเสธใคร จนบางทีรับปากเรื่องที่ไม่ได้อยากทำ",
+   "ratings": [
+    "Fek7 pro 2.7 con 2.8"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix",
+    "des_out_of_range 2.75"
+   ],
+   "con": [
+    {
+     "type": "culture",
+     "sev": 2,
+     "why": "Difficulty refusing / agreeing to unwanted requests is generic Thai เกรงใจ (and low assertiveness), endorsed across all types; also a mild distress item (~2.8). Measures culture, not Fe.",
+     "rewrite": "ก่อนจะปฏิเสธใคร ฉันมักคิดหาวิธีพูดที่รักษาน้ำใจเขาไว้ได้ จนบางทีใช้เวลานานกว่าจะตอบ"
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 2,
+     "why": "Saying yes to unwanted things is a people-pleasing weakness (~2.7) and edges toward a mental-health trope. Keep Fe's discomfort with refusing, but frame it as care for the other's feelings with a time cost.",
+     "rewrite": "ถ้าต้องปฏิเสธใคร ฉันมักหาวิธีพูดให้เขาไม่เสียความรู้สึก จนบางทีลังเลนานกว่าจะพูดออกไป"
+    }
+   ]
+  },
+  {
+   "id": "Fek8",
+   "kind": "st",
+   "ctx": "k",
+   "fn": "Fe",
+   "text": "ฉันมักทำตามมารยาทหรือธรรมเนียมที่คนส่วนใหญ่ถือ เพราะไม่อยากให้ใครรู้สึกไม่ดี",
+   "ratings": [
+    "Fek8 pro 3.6 con 3.7"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "culture",
+     "sev": 2,
+     "why": "Following customs most people hold = Thai normative virtue (~3.7) and traditionalism, which is also Si territory. High base rate, double-loaded.",
+     "rewrite": "ในวงที่มีคนหลายแบบ ฉันมักปรับมารยาทและคำพูดให้เข้ากับคนตรงหน้า แม้ต้องเก็บความเป็นตัวเองไว้บ้าง"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "BNiSe10",
+   "kind": "bip",
+   "ctx": "o",
+   "fn": "Ni-Se",
+   "text": {
+    "a": "เวลากินอาหารอร่อย ๆ ฉันมักนึกเลยไปถึงว่ามันบอกอะไรเกี่ยวกับคนทำหรือที่มาของมัน",
+    "b": "เวลากินอาหารอร่อย ๆ ฉันมักจดจ่อกับรส กลิ่น และสัมผัสในคำนั้นอย่างเต็มที่"
+   },
+   "ratings": [
+    "BNiSe10|a pro 3.2 con 3.2",
+    "BNiSe10|b pro 3.5 con 3.5"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "theory",
+     "sev": 2,
+     "why": "Ni side \"นึกถึงคนทำหรือที่มาของมัน\" is backstory/association (Ne/Si), not convergent insight.",
+     "rewrite": {
+      "a": "เวลากินอาหารอร่อย ๆ ฉันมักคิดเลยไปว่ามันสื่อถึงอะไร มากกว่าจดจ่อกับรสในคำนั้น",
+      "b": "เวลากินอาหารอร่อย ๆ ฉันมักจดจ่อกับรส กลิ่น และสัมผัสในคำนั้นอย่างเต็มที่"
+     }
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "BTiFe8",
+   "kind": "bip",
+   "ctx": "o",
+   "fn": "Ti-Fe",
+   "text": {
+    "a": "เวลาถูกถามความเห็น ฉันตอบตามที่คิดว่าถูกต้องตามเหตุผล แม้คำตอบอาจฟังห้วนไปบ้าง",
+    "b": "เวลาถูกถามความเห็น ฉันตอบโดยคิดถึงความรู้สึกของคนฟังด้วย แม้คำตอบอาจอ้อมไปบ้าง"
+   },
+   "ratings": [
+    "BTiFe8|a pro 3.2 con 3.2",
+    "BTiFe8|b pro 3.5 con 3.6"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Ti side \"ห้วน\" vs Fe side \"คิดถึงความรู้สึกคนฟัง\" — in Thai culture the Fe side is the polite answer (3.2 vs 3.6).",
+     "rewrite": {
+      "a": "เวลาถูกถามความเห็น ฉันให้น้ำหนักกับการตอบให้ตรงตามเหตุผลที่คิดไว้ แม้คนฟังอาจไม่ชอบใจ",
+      "b": "เวลาถูกถามความเห็น ฉันให้น้ำหนักกับการตอบให้คนฟังรับได้ แม้จะต้องพูดไม่ตรงกับที่คิดทั้งหมด"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "v": "strong",
+     "type": null,
+     "sev": 0,
+     "why": "Both sides carry a symmetric cost (ห้วน vs อ้อม) — the ideal way to equalise desirability in a Ti–Fe item.",
+     "rewrite": ""
+    }
+   ]
+  },
+  {
+   "id": "BTiFe9",
+   "kind": "bip",
+   "ctx": "o",
+   "fn": "Ti-Fe",
+   "text": {
+    "a": "ฉันรู้สึกพอใจเมื่อเรื่องที่สับสนถูกจัดให้มีเหตุผลต่อกันครบทุกส่วน",
+    "b": "ฉันรู้สึกพอใจเมื่อคนที่เคยห่างเหินกลับมาคุยกันได้อย่างสบายใจ"
+   },
+   "ratings": [
+    "BTiFe9|a pro 3.4 con 3.5",
+    "BTiFe9|b pro 3.8 con 3.8"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Reconciling estranged people (b) is a moral good (3.8); tidy logic (a) is a private satisfaction (3.5).",
+     "rewrite": {
+      "a": "ฉันรู้สึกพอใจเมื่อเรื่องที่สับสนถูกจัดให้มีเหตุผลต่อกันครบทุกส่วน แม้จะไม่มีใครถามหาคำอธิบายนั้น",
+      "b": "ฉันรู้สึกพอใจเมื่อบรรยากาศในวงที่ตึงอยู่กลับมาผ่อนคลาย แม้เรื่องที่ค้างจะยังไม่ได้ข้อสรุป"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 2,
+     "why": "B (reconciling estranged people) is near-saintly (~3.8) vs A (~3.4). Recast both as 'relief' and make B less heroic.",
+     "rewrite": "A: ฉันรู้สึกโล่งเมื่อเรื่องที่ค้างคาในหัวถูกไล่จนเหตุผลต่อกันครบทุกส่วน ‖ B: ฉันรู้สึกโล่งเมื่อคนรอบตัวที่เคยตึงใส่กันกลับมาคุยกันได้ตามปกติ"
+    }
+   ]
+  },
+  {
+   "id": "BTiFe10",
+   "kind": "bip",
+   "ctx": "o",
+   "fn": "Ti-Fe",
+   "text": {
+    "a": "เวลาเจอกฎที่ฉันไม่เข้าใจ ฉันอยากรู้ก่อนว่ามันมีเหตุผลอะไร ถึงจะยอมทำตามเต็มใจ",
+    "b": "เวลาเจอกฎที่ฉันไม่เข้าใจ ฉันมักทำตามไปก่อน เพราะเห็นว่ามันช่วยให้คนอยู่ร่วมกันราบรื่น"
+   },
+   "ratings": [
+    "BTiFe10|a pro 3.3 con 3.3",
+    "BTiFe10|b pro 3.5 con 3.6"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "culture",
+     "sev": 2,
+     "why": "Demanding reasons before obeying a rule is face-threatening in Thai hierarchy; following for harmony is the good-citizen answer. Side b is also Si/conformity rather than Fe attunement.",
+     "rewrite": {
+      "a": "เวลาเจอกฎที่ฉันไม่เข้าใจ ฉันทำตามได้ แต่ในใจจะค้างจนกว่าจะเข้าใจเหตุผลของมัน",
+      "b": "เวลาเจอกฎที่ฉันไม่เข้าใจ ฉันทำตามได้สบายใจ ถ้าเห็นว่าคนรอบตัวยอมรับและอยู่ร่วมกันได้ราบรื่น"
+     }
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "BTeFi8",
+   "kind": "bip",
+   "ctx": "o",
+   "fn": "Te-Fi",
+   "text": {
+    "a": "เวลาเลือกซื้อของ ฉันดูสเปก ราคา และรีวิวเทียบกันให้ชัดก่อนตัดสินใจ",
+    "b": "เวลาเลือกซื้อของ ฉันดูว่ามันใช่ตัวฉันและรู้สึกผูกพันกับมันไหมก่อนตัดสินใจ"
+   },
+   "ratings": [
+    "BTeFi8|a pro 3.6 con 3.6",
+    "BTeFi8|b pro 3.2 con 3.2"
+   ],
+   "why": [
+    "pro_fix"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 1,
+     "why": "Comparing specs/price/reviews is the prudent shopper (3.6) vs emotional buying (3.2)."
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 2,
+     "why": "A (specs, price, reviews) is the smart-consumer answer (~3.6); B 'รู้สึกผูกพันกับมัน' before buying is odd (~3.2).",
+     "rewrite": "A: เวลาเลือกซื้อของ ฉันดูสเปก ราคา และรีวิวเทียบกันให้ชัดก่อน แม้จะใช้เวลานาน ‖ B: เวลาเลือกซื้อของ ฉันดูว่ามันเข้ากับตัวฉันและสิ่งที่ฉันชอบจริง ๆ ไหมก่อนตัดสินใจ"
+    }
+   ]
+  },
+  {
+   "id": "BTeFi10",
+   "kind": "bip",
+   "ctx": "o",
+   "fn": "Te-Fi",
+   "text": {
+    "a": "เวลามีคนขอให้ช่วย ฉันมักถามก่อนว่าเขาต้องการผลลัพธ์อะไร แล้วหาวิธีที่ได้ผลที่สุด",
+    "b": "เวลามีคนขอให้ช่วย ฉันมักถามใจตัวเองก่อนว่าเรื่องนี้ฉันเต็มใจและเห็นด้วยจริงไหม"
+   },
+   "ratings": [
+    "BTeFi10|a pro 3.5 con 3.7",
+    "BTeFi10|b pro 3.1 con 3"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix",
+    "side_gap 0.55"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Fi side \"ถามใจตัวเองก่อนว่าเต็มใจจริงไหม\" when asked for help reads as ไม่มีน้ำใจ (3.0) vs effective helper (3.7). Gap 0.7.",
+     "rewrite": {
+      "a": "เวลามีคนขอให้ช่วย ฉันถามก่อนว่าเขาต้องการผลลัพธ์อะไร แล้วช่วยแบบที่ได้ผลเร็วที่สุด แม้จะดูเป็นงานเป็นการไปหน่อย",
+      "b": "เวลามีคนขอให้ช่วย ฉันช่วยในแบบที่ตรงกับใจและสิ่งที่ฉันเชื่อ แม้จะไม่ใช่วิธีที่เร็วที่สุด"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 2,
+     "why": "In Thai culture B ('ask my heart whether I'm willing' before helping) sounds reluctant/selfish (~3.1) against A's helpful efficiency (~3.5). Give Fi a values check followed by commitment.",
+     "rewrite": "A: เวลามีคนขอให้ช่วย ฉันมักถามก่อนว่าเขาต้องการผลลัพธ์อะไร แล้วหาวิธีที่ได้ผลที่สุด ‖ B: เวลามีคนขอให้ช่วย ฉันมักดูก่อนว่าเรื่องนี้ตรงกับสิ่งที่ฉันเห็นว่าควรทำไหม ถ้าใช่ฉันจะช่วยเต็มที่"
+    }
+   ]
+  },
+  {
+   "id": "Ses3",
+   "kind": "st",
+   "ctx": "s",
+   "fn": "Se",
+   "text": "เวลาฝึกปฏิบัติหรือทำแล็บ ฉันมักลงมือเลยแล้วปรับตามสิ่งที่เห็นตรงหน้า มากกว่าอ่านขั้นตอนให้ครบก่อน",
+   "ratings": [
+    "Ses3 pro 3.1 con 2.9"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "theory",
+     "sev": 2,
+     "why": "Another \"act before reading the steps\" Se item (also Sek8, Seb3, BNiSe9-B, BNiSeg0-B, EIar4-E): defines Se as impulsivity/P/E rather than sensory attention; in a lab it also sounds careless (~2.9).",
+     "rewrite": "เวลาทำแล็บหรือฝึกปฏิบัติ ความสนใจของฉันอยู่กับสิ่งที่เปลี่ยนไปตรงหน้า เช่น สี กลิ่น หรือเสียง แล้วปรับตามนั้นทันที"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Tes3",
+   "kind": "st",
+   "ctx": "s",
+   "fn": "Te",
+   "text": "หลังสอบแต่ละครั้ง ฉันดูว่าเสียคะแนนตรงไหนมากที่สุด แล้วเปลี่ยนวิธีอ่านตามนั้นทันที",
+   "ratings": [
+    "Tes3 pro 3.9 con 3.9"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Model-student behaviour (analyse errors, change strategy immediately) ~3.9; also partly ability.",
+     "rewrite": "หลังสอบแต่ละครั้ง ฉันสนใจว่าเสียคะแนนตรงไหนมากกว่าเนื้อหาที่ได้เรียน แล้วปรับวิธีอ่านเพื่อให้ได้คะแนนตามเป้า"
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 2,
+     "why": "Post-exam error analysis is the ideal-student answer (~3.9). Add a Te-typical cost (studying only what will be tested).",
+     "rewrite": "หลังสอบแต่ละครั้ง ฉันดูว่าเสียคะแนนตรงไหนมากที่สุด แล้วเปลี่ยนวิธีอ่านตามนั้น จนบางทีอ่านแค่สิ่งที่น่าจะออกสอบ"
+    }
+   ]
+  },
+  {
+   "id": "Fes3",
+   "kind": "st",
+   "ctx": "s",
+   "fn": "Fe",
+   "text": "เวลาเพื่อนในห้องดูเครียดก่อนสอบ ฉันมักพูดให้กำลังใจหรือชวนคุยเรื่องเบา ๆ แม้ตัวเองก็ยังอ่านไม่จบ",
+   "ratings": [
+    "Fes3 pro 4 con 3.9"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix",
+    "des_out_of_range 3.95"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Encouraging stressed classmates while unprepared is self-sacrifice — virtuous in Thai culture, so the \"cost\" raises desirability (~3.9).",
+     "rewrite": "ก่อนสอบ ถ้าบรรยากาศในห้องตึงเครียด ฉันมักเครียดตามไปด้วย จนต้องชวนทุกคนคุยเรื่องเบา ๆ แม้จะทำให้ตัวเองอ่านได้น้อยลง"
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 2,
+     "why": "Comforting stressed friends while unprepared yourself is self-sacrificing virtue (~4.0), the highest in the set. Keep Fe group-climate tending but give it a real cost.",
+     "rewrite": "ในกลุ่มอ่านหนังสือ ฉันมักคอยดูให้ทุกคนสบายใจและไม่มีใครถูกทิ้ง จนบางทีวงคุยกันเพลินมากกว่าอ่านจริง"
+    }
+   ]
+  },
+  {
+   "id": "Sim3",
+   "kind": "st",
+   "ctx": "m",
+   "fn": "Si",
+   "text": "ฉันมีลำดับการเช็กโซเชียลที่ทำเป็นประจำ เช่น เปิดแอปไหนก่อนหลัง จนทำไปโดยไม่ต้องคิด",
+   "ratings": [
+    "Sim3 pro 2.8 con 2.9"
+   ],
+   "why": [
+    "pro_fix"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 1,
+     "why": "Habitual app-checking order sounds like phone habit (~2.9)."
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 2,
+     "why": "An automatic app-checking ritual sounds compulsive (~2.8). Replace with Si recall in social media.",
+     "rewrite": "ฉันชอบเปิดดูโพสต์หรือรูปเก่าที่ระบบเตือนว่า “วันนี้เมื่อปีก่อน” แล้วนึกย้อนว่าตอนนั้นเป็นอย่างไร"
+    }
+   ]
+  },
+  {
+   "id": "Tem3",
+   "kind": "st",
+   "ctx": "m",
+   "fn": "Te",
+   "text": "เวลาในกลุ่มแชตออนไลน์คุยกันวนไปมา ฉันมักสรุปประเด็นแล้วเสนอให้ตัดสินใจว่าจะเอาอย่างไร",
+   "ratings": [
+    "Tem3 pro 3.6 con 3.8"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Summarising a looping chat and moving to decision = helpful leader (~3.8); also initiating in public chat adds E.",
+     "rewrite": "เวลาในกลุ่มแชตคุยกันวนไปมา ฉันอึดอัดจนต้องพิมพ์สรุปแล้วถามให้ตัดสินใจ แม้บางคนยังอยากคุยต่อ"
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "ei_confound",
+     "sev": 1,
+     "why": "Summarising and calling a decision in a group chat is also an E/leadership act; acceptable for Te but avoid pairing against an I-loaded Fi/Ni line.",
+     "rewrite": ""
+    }
+   ]
+  },
+  {
+   "id": "Fem3",
+   "kind": "st",
+   "ctx": "m",
+   "fn": "Fe",
+   "text": "เวลาคอมเมนต์ในโพสต์ที่คนกำลังเถียงกัน ฉันมักเลือกคำที่ช่วยให้บรรยากาศเย็นลง มากกว่าบอกว่าใครถูก",
+   "ratings": [
+    "Fem3 pro 3.7 con 3.8"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Peacemaking comment in a flame war is a clear good-citizen answer (~3.8); commenting publicly also loads on E (expressive).",
+     "rewrite": "เวลาเห็นโพสต์ที่คนกำลังเถียงกัน ฉันใส่ใจว่าแต่ละฝ่ายรู้สึกอย่างไรมากกว่าว่าใครถูก จนบางทีไม่กล้าแสดงความเห็นจริงของตัวเอง"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Feg3",
+   "kind": "st",
+   "ctx": "g",
+   "fn": "Fe",
+   "text": "เวลาเล่นกับคนที่เพิ่งเริ่มเล่น ฉันมักเล่นช้าลงและคอยชมให้เขาสนุก แม้ทีมจะชนะยากขึ้น",
+   "ratings": [
+    "Feg3 pro 3.9 con 4"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix",
+    "des_out_of_range 3.95"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Slowing down and praising beginners at the cost of winning = sportsmanship virtue (~4.0); near-duplicate of Fep3.",
+     "rewrite": "เวลาเล่นเกมเป็นทีม อารมณ์ของเพื่อนร่วมทีมมีผลกับฉันมาก ถ้าใครเริ่มหงุดหงิด ฉันก็เล่นไม่สนุกไปด้วย"
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "duplicate",
+     "sev": 2,
+     "why": "Near-identical to Fep3 (slow down for beginners) and very virtuous (~3.9). Shift to Fe mood-regulation with a cost.",
+     "rewrite": "เวลาเล่นเกมเป็นทีม ฉันคอยฟังอารมณ์ในวงแชตเสียง ถ้าเริ่มตึงฉันจะหาทางพูดให้บรรยากาศดีขึ้น แม้ต้องเสียสมาธิกับเกมไปบ้าง"
+    }
+   ]
+  },
+  {
+   "id": "BTiFes0",
+   "kind": "bip",
+   "ctx": "s",
+   "fn": "Ti-Fe",
+   "text": {
+    "a": "ในกลุ่มติว ฉันมักถามจนกว่าเหตุผลของแต่ละขั้นจะต่อกันไม่ขัด แม้วงจะเดินช้าลง",
+    "b": "ในกลุ่มติว ฉันมักคอยดูว่าทุกคนในวงตามทันและสบายใจ แม้เนื้อหาจะเดินช้าลง"
+   },
+   "ratings": [
+    "BTiFes0|a pro 3.2 con 3.2",
+    "BTiFes0|b pro 3.8 con 3.8"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix",
+    "side_gap -0.60"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Ti side slows the whole tutoring group with questions (Thai: holding up the group is bad form) vs Fe side caring that everyone keeps up (3.2 vs 3.8).",
+     "rewrite": {
+      "a": "ในกลุ่มติว ฉันสนใจว่าเหตุผลของแต่ละขั้นต่อกันไม่ขัด มากกว่าว่าวงจะเดินเร็วแค่ไหน",
+      "b": "ในกลุ่มติว ฉันสนใจว่าทุกคนรู้สึกโอเคกับจังหวะการติว มากกว่าว่าเนื้อหาจะละเอียดแค่ไหน"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 2,
+     "why": "B 'make sure everyone keeps up' (~3.8) vs A 'slows the group' (~3.2) — gap ~0.6. Give B the mirror cost (holding back own questions for harmony), the classic Fe-over-Ti trade.",
+     "rewrite": "A: ในกลุ่มติว ฉันมักถามจนกว่าเหตุผลของแต่ละขั้นจะต่อกันไม่ขัด แม้วงจะเดินช้าลง ‖ B: ในกลุ่มติว ฉันมักคอยดูบรรยากาศให้ทุกคนสบายใจ แม้บางเรื่องที่ยังสงสัยฉันจะเก็บไว้ไม่ถาม"
+    }
+   ]
+  },
+  {
+   "id": "BNiSem0",
+   "kind": "bip",
+   "ctx": "m",
+   "fn": "Ni-Se",
+   "text": {
+    "a": "เวลาเลื่อนดูวิดีโอสั้น ฉันมักคิดว่าคลิปเหล่านั้นสะท้อนแนวโน้มอะไรที่กำลังจะมา",
+    "b": "เวลาเลื่อนดูวิดีโอสั้น ฉันมักเพลินไปกับภาพ เสียง และจังหวะของคลิปตรงหน้า"
+   },
+   "ratings": [
+    "BNiSem0|a pro 3.5 con 3.6",
+    "BNiSem0|b pro 3 con 2.9"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix",
+    "side_gap 0.60"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Ni side = trend-spotter (3.6); Se side \"เพลินไปกับภาพ เสียง จังหวะ\" = mindless scrolling (2.9). Gap 0.7.",
+     "rewrite": {
+      "a": "เวลาเลื่อนดูวิดีโอสั้น ฉันมักคิดเลยไปว่าคลิปเหล่านั้นสะท้อนอะไรเกี่ยวกับผู้คนตอนนี้",
+      "b": "เวลาเลื่อนดูวิดีโอสั้น ฉันมักสังเกตรายละเอียดในคลิป เช่น มุมกล้อง สี หรือจังหวะตัดต่อ"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 2,
+     "why": "B 'เพลินไปกับ' short videos implies mindless doom-scrolling (~3.0) while A sounds like trend foresight (~3.5).",
+     "rewrite": "A: เวลาเลื่อนดูวิดีโอสั้น ฉันมักคิดว่าคลิปที่เห็นซ้ำ ๆ กำลังบอกอะไรเกี่ยวกับสิ่งที่ผู้คนรู้สึกกันอยู่ ‖ B: เวลาเลื่อนดูวิดีโอสั้น ฉันมักสังเกตภาพ เสียง และจังหวะตัดต่อของคลิปตรงหน้า"
+    }
+   ]
+  },
+  {
+   "id": "BTiFem0",
+   "kind": "bip",
+   "ctx": "m",
+   "fn": "Ti-Fe",
+   "text": {
+    "a": "เมื่อเห็นเพื่อนแชร์ข่าวที่เหตุผลไม่ต่อกัน ฉันอยากชี้ให้เห็นว่าตรงไหนไม่สมเหตุสมผล",
+    "b": "เมื่อเห็นเพื่อนแชร์ข่าวที่เหตุผลไม่ต่อกัน ฉันคิดก่อนว่าจะทักอย่างไรไม่ให้เขาเสียหน้า"
+   },
+   "ratings": [
+    "BTiFem0|a pro 3.2 con 3.1",
+    "BTiFem0|b pro 3.7 con 3.8"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix",
+    "side_gap -0.60"
+   ],
+   "con": [
+    {
+     "type": "culture",
+     "sev": 2,
+     "why": "Publicly pointing out a friend's illogical share = making them lose face (3.1) vs face-saving (3.8). Gap 0.7, purely cultural.",
+     "rewrite": {
+      "a": "เมื่อเห็นเพื่อนแชร์ข่าวที่เหตุผลไม่ต่อกัน ฉันติดอยู่กับคำถามว่าตรงไหนไม่สมเหตุสมผล จนอยากไล่ให้ชัด",
+      "b": "เมื่อเห็นเพื่อนแชร์ข่าวที่เหตุผลไม่ต่อกัน ฉันคิดก่อนว่าเขาจะรู้สึกอย่างไรถ้ามีคนทัก จนบางทีปล่อยผ่านไป"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "culture",
+     "sev": 2,
+     "why": "Publicly pointing out a friend's illogic (A ~3.2) vs saving face (B ~3.7) — in Thai culture face-saving wins by default and A also smuggles E/Te confrontation. Make both internal and parallel.",
+     "rewrite": "A: เมื่อเห็นเพื่อนแชร์ข่าวที่เหตุผลไม่ต่อกัน ฉันอยากไล่ให้รู้ก่อนว่าตรงไหนที่ไม่สมเหตุสมผล แม้สุดท้ายอาจไม่ได้ทักเขา ‖ B: เมื่อเห็นเพื่อนแชร์ข่าวที่เหตุผลไม่ต่อกัน ฉันคิดก่อนว่าถ้าทักไปเขาจะรู้สึกอย่างไร แม้สุดท้ายอาจไม่ได้ทักเขา"
+    }
+   ]
+  },
+  {
+   "id": "BTiFeg0",
+   "kind": "bip",
+   "ctx": "g",
+   "fn": "Ti-Fe",
+   "text": {
+    "a": "เวลาทีมแพ้ ฉันอยากไล่ดูว่าจุดไหนในวิธีเล่นของทีมที่ไม่สมเหตุสมผล",
+    "b": "เวลาทีมแพ้ ฉันอยากดูให้แน่ใจว่าไม่มีเพื่อนร่วมทีมคนไหนรู้สึกแย่เกินไป"
+   },
+   "ratings": [
+    "BTiFeg0|a pro 3.3 con 3.4",
+    "BTiFeg0|b pro 3.7 con 3.7"
+   ],
+   "why": [
+    "pro_fix"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 1,
+     "why": "Fe side caring for teammates (3.7) vs fault analysis (3.4)."
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 2,
+     "why": "B (no teammate feels too bad) ~3.7 vs A ~3.3; add the mirror cost to B.",
+     "rewrite": "A: เวลาทีมแพ้ ฉันอยากไล่ดูว่าจุดไหนในวิธีเล่นของทีมที่ไม่สมเหตุสมผล ‖ B: เวลาทีมแพ้ ฉันอยากให้ทุกคนในทีมยังโอเคกันอยู่ก่อน แม้จะยังไม่ได้คุยว่าแพ้เพราะอะไร"
+    }
+   ]
+  },
+  {
+   "id": "Nid3",
+   "kind": "st",
+   "ctx": "d",
+   "fn": "Ni",
+   "text": "เวลากินอาหารจานเด่น ฉันมักสนใจว่าเบื้องหลังมันมีแก่นเรื่องหรือความหมายอะไรซ่อนอยู่",
+   "ratings": [
+    "Nid3 pro 3.2 con 2.9"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix"
+   ],
+   "con": [
+    {
+     "type": "unclear",
+     "sev": 2,
+     "why": "\"แก่นเรื่องหรือความหมายซ่อนอยู่\" behind a dish is odd/pretentious for Thai eaters (~2.9) and not a recognisable Ni behaviour; few will endorse regardless of type.",
+     "rewrite": "พอได้กินอาหารแนวเดียวกันหลายร้าน ฉันมักรู้สึกได้ว่ามีหลักเดียวที่ทำให้ร้านที่อร่อยจริงต่างจากร้านอื่น"
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "unclear",
+     "sev": 2,
+     "why": "'แก่นเรื่องหรือความหมายซ่อนอยู่' in a dish sounds pretentious/unnatural to Thai readers, so few will pick it regardless of type. Ground it in meaning about a way of life.",
+     "rewrite": "เวลากินอาหารจากถิ่นอื่น ฉันมักรู้สึกว่ารสชาติของมันบอกอะไรลึก ๆ เกี่ยวกับวิถีชีวิตของคนที่นั่น"
+    }
+   ]
+  },
+  {
+   "id": "Fid3",
+   "kind": "st",
+   "ctx": "d",
+   "fn": "Fi",
+   "text": "ถ้าร้านไหนปฏิบัติกับพนักงานหรือลูกค้าแบบที่ฉันรับไม่ได้ ฉันเลิกไปเลย แม้อาหารจะถูกปาก",
+   "ratings": [
+    "Fid3 pro 3.8 con 3.8"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Boycotting a restaurant for mistreating staff = ethical-consumer virtue (~3.8).",
+     "rewrite": "ร้านที่ฉันกลับไปซ้ำมักเป็นร้านที่รู้สึกว่า “ใช่” กับใจ แม้คนอื่นจะว่ารสชาติธรรมดาหรือมีที่อร่อยกว่า"
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 2,
+     "why": "Boycotting a place for mistreating staff is moral heroism (~3.8). Fi is about personal resonance, not public ethics; reframe.",
+     "rewrite": "ฉันมักเลือกร้านจากความรู้สึกผูกพันกับร้าน เช่น ร้านเล็ก ๆ ที่รู้สึกว่ามีตัวตน แม้ร้านอื่นจะอร่อยหรือสะดวกกว่า"
+    }
+   ]
+  },
+  {
+   "id": "Fep3",
+   "kind": "st",
+   "ctx": "p",
+   "fn": "Fe",
+   "text": "เวลาเล่นกีฬาแบบสบาย ๆ กับคนที่เพิ่งหัดเล่น ฉันผ่อนแรงลงเพื่อให้ทุกคนสนุกด้วยกัน",
+   "ratings": [
+    "Fep3 pro 3.8 con 3.9"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Same virtuous \"ease up for beginners\" idea as Feg3 (~3.9) with no real cost; duplicate across g/p.",
+     "rewrite": "เวลาเล่นกีฬาเป็นทีม ฉันมักรู้สึกได้ว่าใครเริ่มเสียกำลังใจ แล้วอดไม่ได้ที่จะหันไปดูแลเขา จนบางทีหลุดจังหวะเกมของตัวเอง"
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 2,
+     "why": "Easing off for beginners is the nice-person answer (~3.8) and duplicates Feg3. Keep Fe atmosphere-tending with a team cost.",
+     "rewrite": "เวลาเล่นกีฬากับเพื่อน ฉันมักคอยดูว่าทุกคนยังสนุกอยู่ไหม จนบางทีเล่นไม่เต็มที่เท่าคนอื่นในทีม"
+    }
+   ]
+  },
+  {
+   "id": "Nit3",
+   "kind": "st",
+   "ctx": "t",
+   "fn": "Ni",
+   "text": "ก่อนรับสัตว์เลี้ยงสักตัว ฉันมักรู้สึกลึก ๆ ว่าตัวไหน “ใช่” สำหรับชีวิตเรา ก่อนจะเห็นข้อมูลครบ",
+   "ratings": [
+    "Nit3 pro 3.4 con 3.2"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix"
+   ],
+   "con": [
+    {
+     "type": "theory",
+     "sev": 2,
+     "why": "\"รู้สึกลึก ๆ ว่าตัวไหน ใช่ สำหรับชีวิตเรา\" is a value/gut-fit judgement (Fi), not pattern convergence.",
+     "rewrite": "จากพฤติกรรมเล็ก ๆ หลายอย่าง ฉันมักปะติดปะต่อได้ว่าสัตว์เลี้ยงกำลังจะเปลี่ยนไปทางไหน ก่อนจะมีอาการชัด ๆ ให้เห็น"
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "theory",
+     "sev": 2,
+     "why": "'รู้สึกลึก ๆ ว่าตัวไหน “ใช่” สำหรับชีวิตเรา' is a values/heart verdict (Fi) as much as Ni. Make it the long-range image that guides the choice.",
+     "rewrite": "ก่อนรับสัตว์เลี้ยงสักตัว ฉันมักเห็นภาพในหัวว่าอีกหลายปีข้างหน้าชีวิตกับมันจะเป็นอย่างไร แล้วใช้ภาพนั้นตัดสินใจ"
+    }
+   ]
+  },
+  {
+   "id": "Sit3",
+   "kind": "st",
+   "ctx": "t",
+   "fn": "Si",
+   "text": "ฉันจำได้ว่าปกติสัตว์เลี้ยงกินเท่าไร นอนตรงไหน พอมีอะไรต่างจากเดิมนิดเดียวฉันก็รู้สึกได้",
+   "ratings": [
+    "Sit3 pro 3.8 con 3.9"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Knowing exactly how much the pet eats and noticing tiny changes = responsible owner (~3.9); near-duplicate of Sir4 template.",
+     "rewrite": "ฉันชอบให้กิจวัตรของสัตว์เลี้ยงเป็นแบบเดิมทุกวัน เช่น เวลาให้อาหารและที่นอน ถ้าต้องเปลี่ยน ฉันจะไม่ค่อยสบายใจ"
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 2,
+     "why": "Attentive pet-owner answer (~3.8) — wins against any pet statement. Keep Si baseline/routine but make it a preference, not a virtue.",
+     "rewrite": "ฉันชอบให้กิจวัตรของสัตว์เลี้ยงเป็นแบบเดิมทุกวัน เช่น กินเวลาเดิม เดินเส้นทางเดิม เพราะรู้สึกว่าทุกอย่างเข้าที่"
+    }
+   ]
+  },
+  {
+   "id": "Fet3",
+   "kind": "st",
+   "ctx": "t",
+   "fn": "Fe",
+   "text": "เวลาเพื่อนเล่าว่าสัตว์เลี้ยงของเขาป่วย ฉันรู้สึกตามและหาทางให้เขาสบายใจ จนบางทีลืมเรื่องของตัวเอง",
+   "ratings": [
+    "Fet3 pro 3.7 con 3.8"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Empathy + \"จนบางทีลืมเรื่องของตัวเอง\" is a self-sacrifice humblebrag (~3.8).",
+     "rewrite": "เวลาเพื่อนเล่าว่าสัตว์เลี้ยงของเขาป่วย ฉันหนักใจตามไปด้วยจนสลัดออกยาก แม้จะเป็นสัตว์ที่ฉันไม่เคยเจอ"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "BTiFed0",
+   "kind": "bip",
+   "ctx": "d",
+   "fn": "Ti-Fe",
+   "text": {
+    "a": "เวลาเพื่อนถามความเห็นเรื่องอาหารที่เขาทำ ฉันบอกตามที่วิเคราะห์ว่ารสไหนยังไม่สมดุล",
+    "b": "เวลาเพื่อนถามความเห็นเรื่องอาหารที่เขาทำ ฉันเลือกคำที่ทำให้เขามีกำลังใจทำต่อ"
+   },
+   "ratings": [
+    "BTiFed0|a pro 3.2 con 3.2",
+    "BTiFed0|b pro 3.7 con 3.8"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix",
+    "side_gap -0.55"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Critiquing a friend's cooking (a, 3.2) vs encouraging words (b, 3.8) — b is the Thai polite default for nearly everyone.",
+     "rewrite": {
+      "a": "เวลาเพื่อนถามความเห็นเรื่องอาหารที่เขาทำ ฉันบอกตามที่วิเคราะห์ว่ารสไหนยังไม่สมดุล เพราะคิดว่าเขาอยากรู้จริง",
+      "b": "เวลาเพื่อนถามความเห็นเรื่องอาหารที่เขาทำ ฉันเลือกพูดสิ่งที่ทำให้เขาสบายใจไว้ก่อน แม้ยังไม่ได้บอกจุดที่ควรปรับ"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 2,
+     "why": "A 'analyse what's unbalanced' (~3.2) vs B 'words that encourage' (~3.7) — gap 0.5. Give A a caring motive and B an honesty cost.",
+     "rewrite": "A: เวลาเพื่อนถามความเห็นเรื่องอาหารที่เขาทำ ฉันบอกตามที่วิเคราะห์ว่ารสไหนยังไม่สมดุล เพราะคิดว่าแบบนั้นช่วยเขาได้จริง ‖ B: เวลาเพื่อนถามความเห็นเรื่องอาหารที่เขาทำ ฉันเน้นพูดส่วนที่ดีก่อน แม้จะมีจุดที่อยากติอยู่บ้าง"
+    }
+   ]
+  },
+  {
+   "id": "BTeFid0",
+   "kind": "bip",
+   "ctx": "d",
+   "fn": "Te-Fi",
+   "text": {
+    "a": "เวลาเลือกว่าวันนี้จะกินอะไร ฉันยึดเป้าที่วางไว้ เช่น งบหรือสุขภาพ เป็นหลัก",
+    "b": "เวลาเลือกว่าวันนี้จะกินอะไร ฉันยึดสิ่งที่ใจรู้สึกว่าใช่สำหรับวันนั้นเป็นหลัก"
+   },
+   "ratings": [
+    "BTeFid0|a pro 3.6 con 3.6",
+    "BTeFid0|b pro 3.2 con 3.2"
+   ],
+   "why": [
+    "pro_fix"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 1,
+     "why": "Budget/health goals are virtuous (3.6) vs mood (3.2)."
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "theory",
+     "sev": 2,
+     "why": "B 'ใจรู้สึกว่าใช่สำหรับวันนั้น' is craving (Se/Si bodily want), not Fi values; A 'สุขภาพ' is virtuous (~3.6). Re-anchor both.",
+     "rewrite": "A: เวลาเลือกว่าวันนี้จะกินอะไร ฉันยึดเงื่อนไขที่ตั้งไว้ เช่น งบหรือเวลาที่มี เป็นหลัก ‖ B: เวลาเลือกว่าวันนี้จะกินอะไร ฉันยึดสิ่งที่ตรงกับตัวเอง เช่น ของที่ตั้งใจไม่กินหรือร้านที่อยากสนับสนุน เป็นหลัก"
+    }
+   ]
+  },
+  {
+   "id": "BNiSep0",
+   "kind": "bip",
+   "ctx": "p",
+   "fn": "Ni-Se",
+   "text": {
+    "a": "ระหว่างแข่ง ฉันมักเล่นตามภาพว่าเกมกำลังจะไปทางไหนในอีกหลายจังหวะข้างหน้า",
+    "b": "ระหว่างแข่ง ฉันมักเล่นตามสิ่งที่เห็นและเกิดขึ้นในสนามตรงหน้าทีละจังหวะ"
+   },
+   "ratings": [
+    "BNiSep0|a pro 3.6 con 3.7",
+    "BNiSep0|b pro 3.3 con 3.2"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Ni side \"เห็นภาพหลายจังหวะข้างหน้า\" sounds like an elite player (ability, 3.7) vs reactive play (3.2).",
+     "rewrite": {
+      "a": "ระหว่างแข่ง ฉันมักเล่นตามภาพในหัวว่าเกมจะไปทางไหน แม้บางทีจะพลาดสิ่งที่เกิดขึ้นตรงหน้า",
+      "b": "ระหว่างแข่ง ฉันมักเล่นตามสิ่งที่เกิดขึ้นตรงหน้าทีละจังหวะ แม้บางทีจะไม่ได้คิดเผื่อไปข้างหน้า"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "ability",
+     "sev": 1,
+     "why": "A 'reading several moves ahead' sounds like playmaker skill (~3.6) vs B (~3.3). Consider adding 'แม้บางทีจะพลาดสิ่งที่เกิดตรงหน้า' to A.",
+     "rewrite": ""
+    }
+   ]
+  },
+  {
+   "id": "BTiFep0",
+   "kind": "bip",
+   "ctx": "p",
+   "fn": "Ti-Fe",
+   "text": {
+    "a": "เวลาทีมเถียงกันเรื่องแผน ฉันอยากได้แผนที่เหตุผลแน่นที่สุด แม้ต้องเถียงกันต่ออีกพัก",
+    "b": "เวลาทีมเถียงกันเรื่องแผน ฉันอยากได้แผนที่ทุกคนยอมรับร่วมกัน แม้จะไม่สมบูรณ์ที่สุด"
+   },
+   "ratings": [
+    "BTiFep0|a pro 3.3 con 3.1",
+    "BTiFep0|b pro 3.5 con 3.7"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "culture",
+     "sev": 2,
+     "why": "Ti side \"เถียงกันต่อ\" vs Fe side consensus — Thai group-harmony norm makes b the obvious answer (3.1 vs 3.7).",
+     "rewrite": {
+      "a": "เวลาทีมเถียงกันเรื่องแผน ฉันอยากได้แผนที่เหตุผลแน่นที่สุด แม้ต้องใช้เวลาคุยกันนานขึ้น",
+      "b": "เวลาทีมเถียงกันเรื่องแผน ฉันอยากได้แผนที่ทุกคนยอมรับร่วมกัน แม้บางจุดจะยังไม่สมเหตุสมผลนัก"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "v": "strong",
+     "type": null,
+     "sev": 0,
+     "why": "Both sides carry a symmetric cost (more arguing vs imperfect plan) — model Ti–Fe bipolar.",
+     "rewrite": ""
+    }
+   ]
+  },
+  {
+   "id": "BNiSet0",
+   "kind": "bip",
+   "ctx": "t",
+   "fn": "Ni-Se",
+   "text": {
+    "a": "เวลาเลือกกิจกรรมกับสัตว์เลี้ยง ฉันคิดว่ามันพาเราไปสู่ภาพชีวิตที่อยากได้ในระยะยาวไหม",
+    "b": "เวลาเลือกกิจกรรมกับสัตว์เลี้ยง ฉันดูว่าตอนนี้มันกระตือรือร้นหรืออยากเล่นอะไรตรงหน้า"
+   },
+   "ratings": [
+    "BNiSet0|a pro 3.2 con 3",
+    "BNiSet0|b pro 3.6 con 3.7"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix",
+    "side_gap -0.55"
+   ],
+   "con": [
+    {
+     "type": "theory",
+     "sev": 2,
+     "why": "Ni side \"พาไปสู่ภาพชีวิตที่อยากได้ในระยะยาว\" is long-range planning (Te/J) and sounds odd for pet play (3.0); Se side = attentive owner (3.7). Gap 0.7.",
+     "rewrite": {
+      "a": "เวลาเลือกกิจกรรมกับสัตว์เลี้ยง ฉันมักมีภาพในใจอยู่แล้วว่าอยากให้มันเติบโตไปเป็นแบบไหน แล้วเลือกตามภาพนั้น",
+      "b": "เวลาเลือกกิจกรรมกับสัตว์เลี้ยง ฉันดูจากอารมณ์ของมันตอนนั้น แล้วเล่นตามที่มันตอบสนอง"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 2,
+     "why": "A 'leads to the life picture we want' sounds owner-centred (~3.2) vs B pet-centred (~3.6). Make A a vision of the shared future.",
+     "rewrite": "A: เวลาเลือกกิจกรรมกับสัตว์เลี้ยง ฉันนึกถึงภาพว่าอีกหลายปีข้างหน้าเรากับมันจะเป็นอย่างไร แล้วเลือกตามภาพนั้น ‖ B: เวลาเลือกกิจกรรมกับสัตว์เลี้ยง ฉันดูว่าตอนนี้มันกระตือรือร้นหรืออยากเล่นอะไร แล้วเล่นตามนั้น"
+    }
+   ]
+  },
+  {
+   "id": "BTeFit0",
+   "kind": "bip",
+   "ctx": "t",
+   "fn": "Te-Fi",
+   "text": {
+    "a": "เวลาตัดสินใจเรื่องสำคัญของสัตว์เลี้ยง ฉันยึดข้อมูลจากหมอและผลที่วัดได้ แม้ใจจะลังเล",
+    "b": "เวลาตัดสินใจเรื่องสำคัญของสัตว์เลี้ยง ฉันยึดความรู้สึกข้างในว่าอะไรใช่สำหรับมัน แม้ข้อมูลจะชี้อีกทาง"
+   },
+   "ratings": [
+    "BTeFit0|a pro 3.7 con 3.6",
+    "BTeFit0|b pro 2.8 con 2.9"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix",
+    "side_gap 0.80"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Fi side overrides the vet's data on an important pet decision — sounds irresponsible (2.9) vs 3.6. Stakes too high for a neutral item.",
+     "rewrite": {
+      "a": "เวลาเลือกของใช้หรือกิจกรรมให้สัตว์เลี้ยง ฉันยึดสิ่งที่วัดผลได้ เช่น น้ำหนักหรือสุขภาพที่ดีขึ้น",
+      "b": "เวลาเลือกของใช้หรือกิจกรรมให้สัตว์เลี้ยง ฉันยึดสิ่งที่รู้สึกว่าตรงกับนิสัยและความผูกพันระหว่างเรา"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 3,
+     "why": "B 'follow inner feeling even when the vet's data points the other way' on an important pet decision reads as irresponsible (~2.8) vs A (~3.7): gap ~0.9, Fi users will bend to A. Move to a situation where the data genuinely conflict.",
+     "rewrite": "A: เวลาข้อมูลเรื่องการเลี้ยงจากหลายแหล่งขัดกัน ฉันเลือกวิธีที่มีผลวัดได้ชัด เช่น น้ำหนักหรือผลตรวจ ‖ B: เวลาข้อมูลเรื่องการเลี้ยงจากหลายแหล่งขัดกัน ฉันเลือกวิธีที่ตรงกับหลักที่ฉันยึดในการดูแลชีวิตหนึ่งชีวิต"
+    }
+   ]
+  },
+  {
+   "id": "EIir4",
+   "kind": "ei",
+   "ctx": "ir",
+   "fn": "E-I",
+   "text": {
+    "E": "ถ้าเห็นคนในกลุ่มงานอดิเรกที่ยังไม่รู้จัก ฉันมักเป็นฝ่ายเดินไปทักและชวนคุยก่อนเลย",
+    "I": "ถ้าเห็นคนในกลุ่มงานอดิเรกที่ยังไม่รู้จัก ฉันมักรอจังหวะที่ได้ทำอะไรด้วยกัน แล้วค่อยคุยกันไป"
+   },
+   "ratings": [
+    "EIir4|E pro 3.7 con 3.7",
+    "EIir4|I pro 3.3 con 3.2"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "E side \"เดินไปทักก่อนเลย\" = social confidence (3.7) vs I side waiting (3.2): measures social skill/boldness, which the brief excludes.",
+     "rewrite": {
+      "E": "ถ้าเห็นคนในกลุ่มงานอดิเรกที่ยังไม่รู้จัก ฉันมักทักก่อน เพราะคุยไปเดี๋ยวก็รู้จักกันเอง",
+      "I": "ถ้าเห็นคนในกลุ่มงานอดิเรกที่ยังไม่รู้จัก ฉันมักรู้จักเขาผ่านการทำกิจกรรมด้วยกันก่อน แล้วบทสนทนาก็ตามมาเอง"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "desirability",
+     "sev": 1,
+     "why": "E 'walk over and greet first' is the friendly-Thai ideal (~3.7) vs I (~3.3); acceptable since I side is dignified, but watch side-choice rates.",
+     "rewrite": ""
+    }
+   ]
+  },
+  {
+   "id": "EIar4",
+   "kind": "ei",
+   "ctx": "ar",
+   "fn": "E-I",
+   "text": {
+    "E": "เวลาฝึกทักษะใหม่ ฉันชอบลงมือลองเลย แล้วเรียนรู้จากสิ่งที่เกิดขึ้น",
+    "I": "เวลาฝึกทักษะใหม่ ฉันชอบดูและทำความเข้าใจให้พอก่อน แล้วค่อยลงมือ"
+   },
+   "ratings": [
+    "EIar4|E pro 3.4 con 3.4",
+    "EIar4|I pro 3.5 con 3.5"
+   ],
+   "why": [
+    "con_flag",
+    "pro_fix"
+   ],
+   "con": [
+    {
+     "type": "ei_confound",
+     "sev": 3,
+     "why": "E side \"ลงมือลองเลย แล้วเรียนรู้จากสิ่งที่เกิดขึ้น\" is the same content as Se items Sek8/Ses3/Seb3 and Se sides BNiSe9-B/BNiSeg0-B; I side \"ดูและทำความเข้าใจให้พอก่อน\" is Ni/Ti-style. E/I mean feeds 0.2 of every type score AND the introvert-lean correction, so this item pipes Se/N variance into E/I and back again.",
+     "rewrite": {
+      "E": "เวลาฝึกทักษะใหม่ ฉันชอบถามและคุยกับคนที่ทำเป็นไปด้วย เพราะได้คิดออกมาดัง ๆ ช่วยให้เข้าใจเร็วขึ้น",
+      "I": "เวลาฝึกทักษะใหม่ ฉันชอบค่อย ๆ ทำความเข้าใจในหัวด้วยตัวเองก่อน แล้วค่อยถามคนอื่นเมื่อติดจริง ๆ"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "v": "fix",
+     "type": "ei_confound",
+     "sev": 2,
+     "why": "'ลงมือลองเลย vs ดูให้เข้าใจก่อน' is the Se-vs-Ni/Ti axis (same as BNiSe9, Ses3, Seb3, Sek8), not E/I; it will leak function into the E/I score. Rewrite to social vs solitary practice.",
+     "rewrite": "E: เวลาฝึกทักษะใหม่ ฉันชอบฝึกกับคนอื่น แล้วถามหรือคุยกันไประหว่างทำ ‖ I: เวลาฝึกทักษะใหม่ ฉันชอบฝึกเงียบ ๆ ด้วยตัวเองให้คล่องก่อน แล้วค่อยไปทำกับคนอื่น"
+    }
+   ]
+  },
+  {
+   "id": "Feh4",
+   "kind": "st",
+   "ctx": "h",
+   "fn": "Fe",
+   "text": "ถ้ารู้ว่าคนที่คบเหนื่อยมาทั้งวัน ฉันมักเปลี่ยนแผนของเราให้เข้ากับอารมณ์เขา แม้ตัวเองจะอยากทำอย่างอื่น",
+   "ratings": [
+    "Feh4 pro 3.8 con 4.1"
+   ],
+   "why": [
+    "con_flag",
+    "des_out_of_range 3.95"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Changing plans for a tired partner despite own wishes is the caring-partner ideal (~4.1); the sacrifice clause raises desirability.",
+     "rewrite": "ถ้าคนที่คบอารมณ์ไม่ดี ฉันมักเปลี่ยนแผนของเราตามเขาทันที จนเขาเองแทบไม่รู้ว่าฉันอยากทำอะไร"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Niy4",
+   "kind": "st",
+   "ctx": "y",
+   "fn": "Ni",
+   "text": "เวลาฝันหรือเจอเรื่องบังเอิญแปลก ๆ ฉันมักรู้สึกว่ามันมีความหมายซ่อนอยู่ และเก็บไว้คิดต่อหลายวัน",
+   "ratings": [
+    "Niy4 pro 3.2 con 3"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "culture",
+     "sev": 2,
+     "why": "Dreams and odd coincidences having hidden meaning maps onto Thai folk belief (ฝันบอกเหตุ, ลาง); measures superstition/religiosity rather than Ni.",
+     "rewrite": "บางประโยคจากคำสอนหรือหนังสือติดอยู่ในใจฉันหลายวัน จนวันหนึ่งความหมายของมันก็ชัดขึ้นมาเองกับชีวิตตอนนั้น"
+    }
+   ],
+   "pro": [
+    {
+     "type": "cultural_confound",
+     "rewrite": "เวลาหลายเรื่องเล็ก ๆ ในชีวิตเกิดขึ้นช่วงเดียวกัน ฉันมักรู้สึกว่ามันโยงไปที่ความหมายเดียว และเก็บไว้คิดต่อหลายวัน"
+    }
+   ]
+  },
+  {
+   "id": "Tey5",
+   "kind": "st",
+   "ctx": "y",
+   "fn": "Te",
+   "text": "เวลาครอบครัวเตรียมงานบุญหรือพิธี ฉันมักเป็นคนจัดลำดับงานและแบ่งหน้าที่ ให้ทุกอย่างเสร็จทันเวลา",
+   "ratings": [
+    "Tey5 pro 3.8 con 3.9"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Organising the family merit ceremony so all finishes on time = responsible, กตัญญู child (~3.9).",
+     "rewrite": "เวลาครอบครัวเตรียมงานบุญ ฉันมักเข้าไปจัดลำดับงานและแบ่งหน้าที่ จนบางทีผู้ใหญ่รู้สึกว่าฉันรวบรัดเกินไป"
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_high"
+    }
+   ]
+  },
+  {
+   "id": "Fiy4",
+   "kind": "st",
+   "ctx": "y",
+   "fn": "Fi",
+   "text": "ถ้าธรรมเนียมไหนขัดกับสิ่งที่ฉันรู้สึกว่าถูก ฉันเลือกไม่ทำ แม้จะทำให้ผู้ใหญ่บางคนไม่พอใจ",
+   "ratings": [
+    "Fiy4 pro 2.8 con 2.6"
+   ],
+   "why": [
+    "con_flag",
+    "des_out_of_range 2.70"
+   ],
+   "con": [
+    {
+     "type": "culture",
+     "sev": 2,
+     "why": "Refusing a tradition even when elders are displeased violates Thai respect for elders (~2.6); far below band and Fi users may hold the line privately instead.",
+     "rewrite": "ถ้าธรรมเนียมไหนขัดกับสิ่งที่ฉันรู้สึกว่าถูก ฉันอาจยังทำตาม แต่ในใจจะรู้ชัดว่ามันไม่ใช่ตัวฉัน"
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_low",
+     "rewrite": "ถ้าธรรมเนียมไหนขัดกับสิ่งที่ฉันรู้สึกว่าถูก ฉันจะร่วมเท่าที่ไม่ฝืนใจตัวเอง แม้ผู้ใหญ่บางคนจะมองว่าฉันทำไม่ครบ"
+    }
+   ]
+  },
+  {
+   "id": "Fey4",
+   "kind": "st",
+   "ctx": "y",
+   "fn": "Fe",
+   "text": "เวลาคนในวงเชื่อต่างกัน ฉันมักหยิบจุดร่วมมาพูด เพื่อให้ทุกคนรู้สึกว่าความเชื่อของตัวเองได้รับการเคารพ",
+   "ratings": [
+    "Fey4 pro 3.9 con 4.2"
+   ],
+   "why": [
+    "con_flag",
+    "des_out_of_range 4.05"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Finding common ground so everyone's beliefs feel respected is the religious-harmony ideal (~4.2).",
+     "rewrite": "เวลาคนในวงเชื่อต่างกัน ฉันมักเลี่ยงพูดสิ่งที่ตัวเองเชื่อ แล้วหยิบเรื่องที่ทุกคนเห็นตรงกันมาคุยแทน"
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_high",
+     "rewrite": "เวลาคนในวงเชื่อต่างกัน ฉันมักหยิบจุดร่วมมาพูดให้ทุกคนสบายใจ จนบางทีไม่ได้บอกว่าตัวเองเชื่ออะไรจริง ๆ"
+    }
+   ]
+  },
+  {
+   "id": "Fey5",
+   "kind": "st",
+   "ctx": "y",
+   "fn": "Fe",
+   "text": "ไปสถานที่ของคนที่เชื่อต่างจากฉัน ฉันทำตามธรรมเนียมของที่นั่นให้เจ้าบ้านสบายใจ แม้ยังไม่เข้าใจความหมายทั้งหมด",
+   "ratings": [
+    "Fey5 pro 3.8 con 4.2"
+   ],
+   "why": [
+    "con_flag",
+    "des_out_of_range 4.00"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Following the host's customs at another faith's place is courtesy everyone endorses (~4.2); overlaps v10 Fej3.",
+     "rewrite": "ไปงานของคนที่เชื่อต่างจากฉัน ฉันทำตามทุกขั้นตอนเหมือนคนอื่น ๆ ในงาน แม้ในใจจะรู้สึกแปลก ๆ อยู่บ้าง"
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_high"
+    }
+   ]
+  },
+  {
+   "id": "Fez4",
+   "kind": "st",
+   "ctx": "z",
+   "fn": "Fe",
+   "text": "ฉันมีแรงทำตามฝันมากขึ้นเมื่อมีคนร่วมทางที่เชียร์กัน และอยากให้ทุกคนในกลุ่มไปถึงฝันไปด้วยกัน",
+   "ratings": [
+    "Fez4 pro 3.8 con 4"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Wanting the whole group to reach their dreams together is altruistic (~4.0) and has E/group energy flavour.",
+     "rewrite": "ฉันมีแรงทำตามฝันมากขึ้นเมื่อรู้ว่าคนรอบตัวคาดหวังและเชียร์อยู่ จนบางทีลืมถามว่าฝันนั้นเป็นของฉันเองแค่ไหน"
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_high"
+    }
+   ]
+  },
+  {
+   "id": "Fez5",
+   "kind": "st",
+   "ctx": "z",
+   "fn": "Fe",
+   "text": "บางครั้งฉันพักความฝันของตัวเองไว้ก่อน เพื่อช่วยให้คนในครอบครัวหรือในทีมไปถึงเป้าของเขา",
+   "ratings": [
+    "Fez5 pro 3.8 con 4.1"
+   ],
+   "why": [
+    "con_flag",
+    "des_out_of_range 3.95"
+   ],
+   "con": [
+    {
+     "type": "culture",
+     "sev": 2,
+     "why": "Pausing your own dream to help family = กตัญญู/เสียสละ, a top Thai virtue (~4.1).",
+     "rewrite": "บางครั้งฉันปรับความฝันของตัวเองให้เข้ากับที่ครอบครัวอยากเห็น แม้ใจจริงจะอยากไปอีกทาง"
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_high"
+    }
+   ]
+  },
+  {
+   "id": "Tej4",
+   "kind": "st",
+   "ctx": "j",
+   "fn": "Te",
+   "text": "พอทริปมีปัญหา เช่น เที่ยวบินดีเลย์ ฉันรีบหาทางเลือกที่เสียเวลาน้อยที่สุด แล้วจัดการต่อทันที",
+   "ratings": [
+    "Tej4 pro 3.8 con 4"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "ability",
+     "sev": 2,
+     "why": "Quickly finding the least time-wasting alternative and handling it = competent crisis manager (~4.0).",
+     "rewrite": "พอทริปมีปัญหา เช่น เที่ยวบินดีเลย์ ฉันรีบตัดสินใจเลือกทางใหม่ทันที แม้บางคนในกลุ่มยังอยากรอดูสถานการณ์"
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_high",
+     "rewrite": "พอทริปมีปัญหา เช่น เที่ยวบินดีเลย์ ฉันรีบหาทางเลือกที่เสียเวลาน้อยที่สุดแล้วสรุปให้ทุกคน แม้บางคนยังอยากบ่นกันก่อน"
+    }
+   ]
+  },
+  {
+   "id": "Fej5",
+   "kind": "st",
+   "ctx": "j",
+   "fn": "Fe",
+   "text": "ถ้าในทริปเริ่มมีคนไม่พอใจกัน ฉันมักหาทางคลี่คลาย เช่น เปลี่ยนเรื่องหรือเสนอทางกลาง ให้ทริปไปต่อได้",
+   "ratings": [
+    "Fej5 pro 3.8 con 4"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Smoothing conflict so the trip continues = peacemaker ideal (~4.0); mediator idea is already heavily represented.",
+     "rewrite": "ถ้าในทริปเริ่มมีคนไม่พอใจกัน ฉันจะรู้สึกตึงไปด้วยจนเที่ยวไม่ค่อยสนุก แม้เรื่องนั้นจะไม่เกี่ยวกับฉัน"
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_high",
+     "rewrite": "ถ้าในทริปเริ่มมีคนไม่พอใจกัน ฉันมักรีบเปลี่ยนเรื่องหรือเสนอทางกลาง แม้ตัวเองจะต้องยอมไปในแบบที่ไม่ได้อยากนัก"
+    }
+   ]
+  },
+  {
+   "id": "Tin4",
+   "kind": "st",
+   "ctx": "n",
+   "fn": "Ti",
+   "text": "ฉันชอบแยกให้ชัดว่าตรงไหนในข่าวเป็นข้อเท็จจริง ตรงไหนเป็นความเห็นของคนเขียน",
+   "ratings": [
+    "Tin4 pro 3.9 con 4.1"
+   ],
+   "why": [
+    "con_flag",
+    "des_out_of_range 4.00"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Separating fact from opinion is the media-literacy ideal (~4.1); everyone will claim it.",
+     "rewrite": "อ่านข่าวทีไร ฉันอดไม่ได้ที่จะแยกว่าประโยคไหนเป็นข้อเท็จจริง ประโยคไหนเป็นความเห็น จนอ่านข่าวสบาย ๆ ไม่ค่อยได้"
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_high",
+     "rewrite": "ฉันชอบแยกให้ชัดว่าตรงไหนในข่าวเป็นข้อเท็จจริง ตรงไหนเป็นความเห็น จนบางทีอ่านข่าวเดียวนานกว่าคนอื่นมาก"
+    }
+   ]
+  },
+  {
+   "id": "Fen5",
+   "kind": "st",
+   "ctx": "n",
+   "fn": "Fe",
+   "text": "พอมีข่าวร้ายที่เกี่ยวกับคนรู้จัก ฉันรีบทักไปถามไถ่และชวนคนอื่นช่วยกันดูแล จนเรื่องของตัวเองต้องพักไว้ก่อน",
+   "ratings": [
+    "Fen5 pro 3.8 con 4.2"
+   ],
+   "why": [
+    "con_flag",
+    "des_out_of_range 4.00"
+   ],
+   "con": [
+    {
+     "type": "double",
+     "sev": 2,
+     "why": "Checking on the person AND rallying others to help (Te-style organising); very desirable (~4.2).",
+     "rewrite": "พอมีข่าวร้ายเกี่ยวกับคนรู้จัก ใจฉันจะไปอยู่กับความรู้สึกของเขาและครอบครัวทั้งวัน จนทำเรื่องอื่นไม่ค่อยลง"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Fei5",
+   "kind": "st",
+   "ctx": "i",
+   "fn": "Fe",
+   "text": "ถ้าคนในบ้านหรือเพื่อนสนิทลงทุนอะไรอยู่ ฉันมักอยากลงด้วยบ้าง เพราะรู้สึกได้ร่วมเรื่องเดียวกัน",
+   "ratings": [
+    "Fei5 pro 2.8 con 2.7"
+   ],
+   "why": [
+    "con_flag",
+    "des_out_of_range 2.75"
+   ],
+   "con": [
+    {
+     "type": "theory",
+     "sev": 2,
+     "why": "Investing because family/friends do is herding/social proof (FOMO), not Fe's attunement; low desirability (~2.7).",
+     "rewrite": "ถ้าคนในบ้านกำลังตัดสินใจเรื่องเงินก้อนใหญ่ ฉันมักเลือกทางที่ทุกคนในบ้านสบายใจร่วมกัน แม้จะไม่ใช่ทางที่ได้ผลตอบแทนดีที่สุด"
+    }
+   ],
+   "pro": [
+    {
+     "type": "function_contamination",
+     "rewrite": "ถ้าคนในบ้านลงทุนอะไรด้วยกัน ฉันมักเข้าร่วมด้วยเพราะอยากให้ทุกคนรู้สึกว่าเป็นทีมเดียวกัน แม้จะไม่ใช่ทางที่ฉันเลือกเอง"
+    }
+   ]
+  },
+  {
+   "id": "Nif0",
+   "kind": "st",
+   "ctx": "f",
+   "fn": "Ni",
+   "text": "ฉันมักเลือกงานอดิเรกจากความรู้สึกลึก ๆ ว่ามันจะพาฉันไปเป็นคนแบบไหน แม้ตอนเริ่มยังอธิบายไม่ได้ว่าทำไม",
+   "ratings": [
+    "Nif0 pro 3.3 con 3.5"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "theory",
+     "sev": 2,
+     "why": "'จะพาฉันไปเป็นคนแบบไหน' is identity/authenticity (Fi) language; Ni here should be a hunch about where it leads, not who I become.",
+     "rewrite": "ฉันมักเลือกงานอดิเรกจากลางสังหรณ์ว่ามันจะเชื่อมไปสู่อะไรบางอย่างในอนาคต แม้ตอนเริ่มยังบอกไม่ได้ว่าอะไร"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Sef2",
+   "kind": "st",
+   "ctx": "f",
+   "fn": "Se",
+   "text": "ฉันพัฒนางานอดิเรกจากการลงมือจริงบ่อย ๆ แล้วปรับตามสิ่งที่เกิดขึ้นตอนนั้น มากกว่าการนั่งอ่านทฤษฎี",
+   "ratings": [
+    "Sef2 pro 3.4 con 3.4"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "duplicate",
+     "sev": 2,
+     "why": "Restates Sef0/Sef1 in the same context and v10 Sek2/Sew0 (learn by doing rather than theory).",
+     "rewrite": "ระหว่างทำงานอดิเรก ฉันจดจ่อกับเสียง กลิ่น และสัมผัสตรงหน้า จนลืมดูเวลาไปเลย"
+    }
+   ],
+   "pro": [
+    {
+     "type": "redundancy"
+    }
+   ]
+  },
+  {
+   "id": "Tef3",
+   "kind": "st",
+   "ctx": "f",
+   "fn": "Te",
+   "text": "ฉันซื้ออุปกรณ์เท่าที่จำเป็นในแต่ละขั้น เทียบกับการใช้งานจริง ไม่ซื้อเผื่อไว้ก่อน",
+   "ratings": [
+    "Tef3 pro 3.6 con 3.9"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Buying only what is needed = พอเพียง/frugal virtue in Thai (~3.9); also reads Si-practical as much as Te.",
+     "rewrite": "ฉันซื้ออุปกรณ์ตามขั้นที่ฝึกถึงจริง ๆ ไม่ซื้อเผื่อ จนบางทีต้องเสียเวลาไปซื้อเพิ่มทีหลังหลายรอบ"
+    }
+   ],
+   "pro": [
+    {}
+   ]
+  },
+  {
+   "id": "Fif2",
+   "kind": "st",
+   "ctx": "f",
+   "fn": "Fi",
+   "text": "ฉันดูความก้าวหน้าในงานอดิเรกจากว่าตัวเองอิ่มใจกับมันแค่ไหน มากกว่ายอดไลก์หรือคำชม",
+   "ratings": [
+    "Fif2 pro 3.7 con 4"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Judging progress by inner fulfilment 'rather than likes' is the anti-vanity ideal (~4.0); also duplicates BTeFif0 side b.",
+     "rewrite": "ฉันดูความก้าวหน้าในงานอดิเรกจากความอิ่มใจของตัวเอง จนบางทีไม่รู้เลยว่าฝีมือจริง ๆ ขยับไปถึงไหน"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Fif5",
+   "kind": "st",
+   "ctx": "f",
+   "fn": "Fi",
+   "text": "งานอดิเรกบางอย่างมีความหมายกับฉันมากจนไม่ค่อยอยากเล่าให้ใครฟัง จนบางทีเพื่อนสนิทยังไม่รู้ว่าฉันทำอยู่",
+   "ratings": [
+    "Fif5 pro 3 con 3"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "ei_confound",
+     "sev": 2,
+     "why": "Not telling anyone, even close friends, is privacy/contained expression (EI facet ec); Fi is about values, not secrecy.",
+     "rewrite": "งานอดิเรกบางอย่างมีความหมายกับฉันมาก จนถ้ามีคนพูดถึงมันแบบเล่น ๆ ฉันจะรู้สึกเหมือนโดนแตะเรื่องส่วนตัว"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Fef1",
+   "kind": "st",
+   "ctx": "f",
+   "fn": "Fe",
+   "text": "ในกลุ่มงานอดิเรก ฉันคอยดูให้มือใหม่รู้สึกเป็นส่วนหนึ่ง แม้จะต้องเลื่อนการฝึกของตัวเองออกไป",
+   "ratings": [
+    "Fef1 pro 3.8 con 4.1"
+   ],
+   "why": [
+    "con_flag",
+    "des_out_of_range 3.95"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Making newcomers feel included even at the cost of own practice is exemplary เสียสละ (~4.1); the cost clause reads as virtue in Thai culture.",
+     "rewrite": "ในกลุ่มงานอดิเรก ฉันมักทำตามธรรมเนียมของกลุ่ม เช่น วิธีทักทายหรือมารยาทในวง แม้บางข้อจะดูไม่จำเป็นสำหรับฉัน"
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_high"
+    }
+   ]
+  },
+  {
+   "id": "Fef2",
+   "kind": "st",
+   "ctx": "f",
+   "fn": "Fe",
+   "text": "เพื่อนเอางานอดิเรกมาให้ดู ฉันชมและให้กำลังใจก่อน แล้วค่อยแนะนำเบา ๆ ถ้าเขาอยากฟัง",
+   "ratings": [
+    "Fef2 pro 3.7 con 4"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Praise first then gentle advice 'if they want' is model etiquette (~4.0); duplicates Feq3 pattern.",
+     "rewrite": "เพื่อนเอางานอดิเรกมาให้ดู ฉันมักชมไปก่อนตามบรรยากาศ แม้ในใจจะเห็นจุดที่ควรแก้อยู่หลายจุด"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Fef3",
+   "kind": "st",
+   "ctx": "f",
+   "fn": "Fe",
+   "text": "ถ้าคนในกลุ่มเห็นไม่ตรงกันเรื่องวิธีเล่น ฉันมักเป็นคนหาทางให้ทุกคนกลับมาสนุกด้วยกันได้",
+   "ratings": [
+    "Fef3 pro 3.7 con 4"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Being the peacemaker who gets everyone having fun again (~4.0); mediator idea already in v10 Few3/Fek2 and new Fej5.",
+     "rewrite": "ถ้าคนในกลุ่มเห็นไม่ตรงกันเรื่องวิธีเล่น ฉันมักเอนตามแบบที่คนส่วนใหญ่ในกลุ่มสบายใจ แม้จะชอบอีกแบบมากกว่า"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Fef4",
+   "kind": "st",
+   "ctx": "f",
+   "fn": "Fe",
+   "text": "ทำงานอดิเรกกับคนอื่น ฉันมักปรับจังหวะตามคนที่มาด้วย เช่น เดินช้าลงหรือเลือกเพลงที่ง่ายขึ้น ให้ทุกคนไปด้วยกันได้",
+   "ratings": [
+    "Fef4 pro 3.7 con 4"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Slowing down so everyone can keep up is considerate (~4.0); no real cost stated.",
+     "rewrite": "ทำงานอดิเรกกับคนอื่น ฉันมักปรับจังหวะตามคนที่มาด้วย จนบางทีกลับบ้านมาแล้วรู้สึกว่ายังไม่ได้ทำเต็มที่เลย"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Niq2",
+   "kind": "st",
+   "ctx": "q",
+   "fn": "Ni",
+   "text": "เห็นเทรนด์ใหม่ ฉันมักรู้สึกว่ามันจะอยู่ยาวหรือแค่ผ่านมา แม้ยังบอกเหตุผลเป็นข้อ ๆ ไม่ได้",
+   "ratings": [
+    "Niq2 pro 3.4 con 3.8"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "ability",
+     "sev": 2,
+     "why": "Sensing whether a trend will last is trend-forecasting; endorsing it claims taste foresight (~3.8).",
+     "rewrite": "เห็นเทรนด์ใหม่ ฉันมักรู้สึกลึก ๆ ว่ามันกำลังสะท้อนอะไรบางอย่างของยุคนี้ จนบางทีคิดไปไกลเกินกว่าแค่เสื้อผ้า"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Niq5",
+   "kind": "st",
+   "ctx": "q",
+   "fn": "Ni",
+   "text": "เลือกของขวัญ ฉันมักนึกภาพว่าคนคนนั้นกำลังเติบโตไปทางไหน แล้วเลือกของที่เข้ากับทางนั้น",
+   "ratings": [
+    "Niq5 pro 3.6 con 3.9"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "context",
+     "sev": 2,
+     "why": "Six of 48 q statements are gift-choosing (Niq5 Neq5 Siq5 Teq5 Fiq5 Feq2). Gifts are interpersonal (relationship context), not personal taste, and push every function toward 'thoughtful giver' answers (~3.9 here).",
+     "rewrite": "เลือกของให้ตัวเอง ฉันมักนึกภาพว่าตัวเองกำลังเปลี่ยนไปทางไหน แล้วเลือกของที่เข้ากับตัวฉันในอีกไม่กี่ปีข้างหน้า"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Siq5",
+   "kind": "st",
+   "ctx": "q",
+   "fn": "Si",
+   "text": "เลือกของขวัญ ฉันนึกย้อนถึงรายละเอียดที่คนนั้นเคยพูดหรือเคยใช้ แล้วเลือกให้ตรงกับที่เขาชอบมาตลอด",
+   "ratings": [
+    "Siq5 pro 3.7 con 4"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Recalling exactly what the recipient said/used is the model thoughtful giver (~4.0) and Fe-adjacent attentiveness; also gift context drift.",
+     "rewrite": "เลือกของขวัญ ฉันมักเลือกแบบเดียวกับที่เคยให้แล้วคนรับชอบ จนบางทีของขวัญปีนี้หน้าตาคล้ายปีก่อน"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Teq1",
+   "kind": "st",
+   "ctx": "q",
+   "fn": "Te",
+   "text": "ก่อนซื้อของแต่งบ้าน ฉันวัดพื้นที่ เช็กรีวิว และเทียบตัวเลือกจนได้ชิ้นที่ทั้งสวยและใช้งานได้จริง",
+   "ratings": [
+    "Teq1 pro 3.7 con 3.9"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Outcome clause 'ได้ชิ้นที่ทั้งสวยและใช้งานได้จริง' makes it the smart-shopper success story (~3.9).",
+     "rewrite": "ก่อนซื้อของแต่งบ้าน ฉันวัดพื้นที่ เช็กรีวิว และเทียบตัวเลือกเป็นตาราง จนบางทีคนที่ไปด้วยเบื่อรอ"
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_high"
+    }
+   ]
+  },
+  {
+   "id": "Feq0",
+   "kind": "st",
+   "ctx": "q",
+   "fn": "Fe",
+   "text": "ไปงานไหน ฉันแต่งตัวให้เข้ากับธีมหรือบรรยากาศที่เจ้าภาพตั้งใจไว้ แม้จะไม่ใช่สไตล์ที่ฉันใส่ปกติ",
+   "ratings": [
+    "Feq0 pro 3.6 con 3.9"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "culture",
+     "sev": 2,
+     "why": "Dressing appropriately for the host's event is a strong Thai social obligation (แต่งกายให้เหมาะกับงาน) almost everyone endorses (~3.9); low Fe discrimination.",
+     "rewrite": "ไปงานไหน ฉันแต่งตัวตามธีมที่เจ้าภาพตั้งไว้เป๊ะ ๆ แม้ทั้งงานจะรู้สึกไม่ค่อยเป็นตัวเองเลย"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Feq1",
+   "kind": "st",
+   "ctx": "q",
+   "fn": "Fe",
+   "text": "จัดบ้าน ฉันนึกถึงคนที่จะมาเยี่ยมหรืออยู่ด้วยก่อน อยากให้ทุกคนเข้ามาแล้วรู้สึกสบายและเป็นกันเอง",
+   "ratings": [
+    "Feq1 pro 3.7 con 4"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "A home where everyone feels comfortable and welcome is pure hospitality virtue (~4.0).",
+     "rewrite": "จัดบ้าน ฉันมักเลือกสไตล์ที่คนมาเยี่ยมเห็นแล้วคุ้นและสบายใจ แม้ใจจริงจะอยากลองอะไรที่แปลกกว่านี้"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Feq2",
+   "kind": "st",
+   "ctx": "q",
+   "fn": "Fe",
+   "text": "เลือกของขวัญ ฉันนึกถึงสีหน้าของคนรับตอนแกะ และอยากให้เขารู้สึกว่ามีคนเข้าใจเขา",
+   "ratings": [
+    "Feq2 pro 3.7 con 4.1"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Imagining the recipient's face and wanting them to feel understood (~4.1); gift context drift.",
+     "rewrite": "เลือกของใช้ส่วนตัว ฉันมักนึกว่าคนรอบตัวจะมองว่ามันเหมาะกับฉันไหม จนบางทีไม่ได้เลือกชิ้นที่ชอบที่สุด"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Feq3",
+   "kind": "st",
+   "ctx": "q",
+   "fn": "Fe",
+   "text": "เพื่อนถามว่าชุดนี้โอเคไหม ฉันเลือกคำพูดที่ทำให้เขามั่นใจขึ้นก่อน แล้วค่อยบอกจุดที่ปรับได้",
+   "ratings": [
+    "Feq3 pro 3.6 con 4"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Building a friend's confidence first then suggesting tweaks is ideal tact (~4.0); duplicates Fef2.",
+     "rewrite": "เพื่อนถามว่าชุดนี้โอเคไหม ฉันมักตอบตามบรรยากาศว่าเขาอยากได้ยินอะไร แม้ในใจจะคิดอีกแบบ"
+    }
+   ],
+   "pro": [
+    {}
+   ]
+  },
+  {
+   "id": "BNiSef1",
+   "kind": "bip",
+   "ctx": "f",
+   "fn": "Ni-Se",
+   "text": {
+    "a": "งานอดิเรกที่ใช่ คือสิ่งที่ฉันรู้สึกว่ากำลังพาชีวิตไปในทางของมัน",
+    "b": "งานอดิเรกที่ใช่ คือสิ่งที่ทำแล้วรู้สึกถึงตัวเต็มที่ในตอนนั้น"
+   },
+   "ratings": [
+    "BNiSef1|a pro 3.3 con 3.4",
+    "BNiSef1|b pro 3.4 con 3.4"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "unclear",
+     "sev": 2,
+     "why": "A 'พาชีวิตไปในทางของมัน' is vague; B 'รู้สึกถึงตัวเต็มที่' is odd Thai. Readers will guess rather than recognise themselves.",
+     "rewrite": {
+      "a": "งานอดิเรกที่ใช่ คือสิ่งที่ฉันรู้สึกว่ามันเชื่อมไปสู่อะไรบางอย่างในชีวิตข้างหน้า",
+      "b": "งานอดิเรกที่ใช่ คือสิ่งที่ทำแล้วได้จดจ่ออยู่กับมือและตาตรงหน้าเต็มที่"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "type": "wording"
+    }
+   ]
+  },
+  {
+   "id": "BNeSif0",
+   "kind": "bip",
+   "ctx": "f",
+   "fn": "Ne-Si",
+   "text": {
+    "a": "ฉันชอบขยับไปลองงานอดิเรกใหม่ เมื่อเจออะไรที่น่าสนใจกว่า",
+    "b": "ฉันชอบอยู่กับงานอดิเรกเดิม แล้วทำให้แน่นขึ้นเรื่อย ๆ"
+   },
+   "ratings": [
+    "BNeSif0|a pro 3.1 con 3.1",
+    "BNeSif0|b pro 3.6 con 3.9"
+   ],
+   "why": [
+    "con_flag",
+    "side_gap -0.65"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "A 'move on when something more interesting appears' = fickle (~3.1); B 'stay and deepen' = perseverance virtue (~3.9). Gap 0.8.",
+     "rewrite": {
+      "a": "ฉันชอบมีงานอดิเรกหลายอย่างหมุนเวียนกัน เพราะแต่ละอย่างจุดไอเดียให้อีกอย่าง",
+      "b": "ฉันชอบมีงานอดิเรกหลักอย่างเดียว แล้วทำซ้ำจนกลายเป็นส่วนหนึ่งของกิจวัตร"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_imbalance",
+     "rewrite": "A: ฉันชอบมีงานอดิเรกหลายอย่างหมุนเวียน แล้วเอาของใหม่ที่เจอมาเติมอยู่เรื่อย ๆ ‖ B: ฉันชอบมีงานอดิเรกหลักไม่กี่อย่าง แล้วทำซ้ำจนคุ้นมือขึ้นเรื่อย ๆ"
+    }
+   ]
+  },
+  {
+   "id": "BTiFef0",
+   "kind": "bip",
+   "ctx": "f",
+   "fn": "Ti-Fe",
+   "text": {
+    "a": "เข้ากลุ่มงานอดิเรก ฉันอยากคุยว่าทำไมแต่ละวิธีถึงได้ผล",
+    "b": "เข้ากลุ่มงานอดิเรก ฉันอยากให้ทุกคนรู้สึกสนุกและเป็นกันเอง"
+   },
+   "ratings": [
+    "BTiFef0|a pro 3.3 con 3.4",
+    "BTiFef0|b pro 3.6 con 3.9"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "B wants everyone to feel fun and welcome (~3.9) vs A technical talk (~3.4); B also has E/sociable flavour.",
+     "rewrite": {
+      "a": "เข้ากลุ่มงานอดิเรก ฉันสนใจว่าทำไมแต่ละวิธีถึงได้ผล",
+      "b": "เข้ากลุ่มงานอดิเรก ฉันสนใจว่าคนในกลุ่มเข้ากันไหม และบรรยากาศเป็นยังไง"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_imbalance"
+    }
+   ]
+  },
+  {
+   "id": "BTiFef1",
+   "kind": "bip",
+   "ctx": "f",
+   "fn": "Ti-Fe",
+   "text": {
+    "a": "เพื่อนถามเรื่องงานอดิเรกของฉัน ฉันอธิบายหลักเบื้องหลังให้เขาเข้าใจ",
+    "b": "เพื่อนถามเรื่องงานอดิเรกของฉัน ฉันดูก่อนว่าเขาอยากรู้ลึกแค่ไหน"
+   },
+   "ratings": [
+    "BTiFef1|a pro 3.3 con 3.2",
+    "BTiFef1|b pro 3.6 con 3.9"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "A 'explain the principle so they understand' can read as lecturing (~3.2); B 'check how deep they want' is considerate (~3.9).",
+     "rewrite": {
+      "a": "เพื่อนถามเรื่องงานอดิเรกของฉัน ฉันมักอธิบายว่าทำไมมันถึงทำงานแบบนั้น",
+      "b": "เพื่อนถามเรื่องงานอดิเรกของฉัน ฉันมักเล่าในมุมที่เขาน่าจะอินด้วย"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_imbalance"
+    }
+   ]
+  },
+  {
+   "id": "BNiSeq1",
+   "kind": "bip",
+   "ctx": "q",
+   "fn": "Ni-Se",
+   "text": {
+    "a": "ฉันเลือกเสื้อผ้าจากภาพลักษณ์ที่ฉันกำลังจะเป็นในระยะยาว",
+    "b": "ฉันเลือกเสื้อผ้าจากความรู้สึกตอนลองใส่จริงตรงหน้า"
+   },
+   "ratings": [
+    "BNiSeq1|a pro 3.2 con 3.3",
+    "BNiSeq1|b pro 3.4 con 3.5"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "unclear",
+     "sev": 2,
+     "why": "'ภาพลักษณ์ที่ฉันกำลังจะเป็น' implies public image management (impression management), not Ni vision; wording awkward.",
+     "rewrite": {
+      "a": "ฉันเลือกเสื้อผ้าจากภาพรวมสไตล์ที่ฉันค่อย ๆ มุ่งไปในระยะยาว",
+      "b": "ฉันเลือกเสื้อผ้าจากความรู้สึกตอนได้ลองใส่จริงตรงหน้า"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "type": "wording",
+     "rewrite": "A: ฉันเลือกเสื้อผ้าจากภาพในใจว่าตัวเองกำลังเปลี่ยนไปเป็นคนแบบไหน ‖ B: ฉันเลือกเสื้อผ้าจากความรู้สึกตอนลองใส่จริงตรงหน้า"
+    }
+   ]
+  },
+  {
+   "id": "BTiFeq0",
+   "kind": "bip",
+   "ctx": "q",
+   "fn": "Ti-Fe",
+   "text": {
+    "a": "เพื่อนถามเรื่องชุด ฉันบอกตามหลักว่าสัดส่วนกับสีลงตัวไหม",
+    "b": "เพื่อนถามเรื่องชุด ฉันดูก่อนว่าเขาอยากได้ความมั่นใจแค่ไหน"
+   },
+   "ratings": [
+    "BTiFeq0|a pro 3.2 con 3.3",
+    "BTiFeq0|b pro 3.6 con 3.9"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "B gauging how much confidence the friend needs is tactful kindness (~3.9) vs A blunt principle (~3.3).",
+     "rewrite": {
+      "a": "เพื่อนถามเรื่องชุด ฉันบอกตามหลักที่ฉันใช้ ว่าสัดส่วนกับสีเข้ากันไหม",
+      "b": "เพื่อนถามเรื่องชุด ฉันบอกตามที่ดูว่าคนในงานน่าจะมองชุดนี้ยังไง"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_imbalance",
+     "rewrite": "A: เพื่อนถามเรื่องชุด ฉันชอบอธิบายว่าสัดส่วนกับสีตรงไหนลงตัว ตรงไหนยังขัด ‖ B: เพื่อนถามเรื่องชุด ฉันชอบดูก่อนว่าเขาอยากได้ความเห็นแบบไหน แล้วพูดให้ตรงกับที่เขาต้องการ"
+    }
+   ]
+  },
+  {
+   "id": "BTiFeq1",
+   "kind": "bip",
+   "ctx": "q",
+   "fn": "Ti-Fe",
+   "text": {
+    "a": "ฉันว่ารสนิยมดีต้องอธิบายได้ว่าทำไมถึงลงตัว",
+    "b": "ฉันว่ารสนิยมดีคือทำให้คนรอบข้างรู้สึกสบายไปด้วย"
+   },
+   "ratings": [
+    "BTiFeq1|a pro 3.4 con 3.3",
+    "BTiFeq1|b pro 3.4 con 3.9"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "B defines good taste as making others comfortable (~3.9) — a virtue definition; A (~3.3) sounds snobbish.",
+     "rewrite": {
+      "a": "ฉันว่ารสนิยมดีคือมีหลักที่อธิบายได้ว่าทำไมถึงลงตัว",
+      "b": "ฉันว่ารสนิยมดีคือรู้ว่าแต่ละงานคนส่วนใหญ่มองว่าอะไรเหมาะ"
+     }
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Nix2",
+   "kind": "st",
+   "ctx": "x",
+   "fn": "Ni",
+   "text": "ฉันมักมองมิตรภาพแต่ละช่วงเป็นภาพใหญ่ภาพเดียว ว่าเพื่อนกลุ่มนั้นเข้ามาในชีวิตฉันในจังหวะนั้นเพราะอะไร",
+   "ratings": [
+    "Nix2 pro 3.3 con 3.3"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "unclear",
+     "sev": 2,
+     "why": "'เพื่อนกลุ่มนั้นเข้ามาในชีวิตในจังหวะนั้นเพราะอะไร' evokes บุพเพ/กรรม fate beliefs; measures religiosity/fatalism as much as Ni, and is long (~100 chars).",
+     "rewrite": "พอมองย้อนมิตรภาพแต่ละช่วง ฉันมักเห็นเส้นเรื่องเดียวที่ร้อยเพื่อนแต่ละกลุ่มเข้ากับช่วงชีวิตตอนนั้น"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Nex0",
+   "kind": "st",
+   "ctx": "x",
+   "fn": "Ne",
+   "text": "ฉันชอบนึกว่าเพื่อนจากต่างกลุ่มถ้าได้รู้จักกันน่าจะคลิกกันแบบไหน แล้วลองแนะนำให้เจอกัน",
+   "ratings": [
+    "Nex0 pro 3.6 con 3.6"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "ei_confound",
+     "sev": 2,
+     "why": "Actually introducing friends from different groups is networking / gregarious (EI facet gi), not just Ne seeing possibilities.",
+     "rewrite": "ฉันชอบนึกเล่น ๆ ว่าเพื่อนจากต่างกลุ่มถ้าได้รู้จักกันจะคลิกกันแบบไหน แม้ส่วนใหญ่จะไม่ได้แนะนำให้เจอกันจริง"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Nex3",
+   "kind": "st",
+   "ctx": "x",
+   "fn": "Ne",
+   "text": "เวลาเพื่อนปรึกษา ฉันมักช่วยคิดทางออกหลายแบบ รวมถึงทางแปลก ๆ ที่เขาอาจไม่เคยนึกถึง",
+   "ratings": [
+    "Nex3 pro 3.7 con 3.9"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Helping a friend brainstorm solutions incl. ones they never thought of = resourceful helper (~3.9).",
+     "rewrite": "เวลาเพื่อนปรึกษา ฉันมักโยนทางออกแปลก ๆ มาหลายแบบ จนบางทีเพื่อนต้องบอกว่าขอแค่ทางเดียวที่ทำได้จริง"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Six2",
+   "kind": "st",
+   "ctx": "x",
+   "fn": "Si",
+   "text": "ฉันมักสังเกตได้ว่าเพื่อนดูต่างไปจากเดิม เพราะในหัวยังจำได้ว่าปกติเขาพูดหรือตอบแชทแบบไหน",
+   "ratings": [
+    "Six2 pro 3.7 con 4"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "ability",
+     "sev": 2,
+     "why": "'มักสังเกตได้ว่าเพื่อนดูต่างไป' is perceptiveness (ability) and caring attentiveness (Fe-adjacent); ~4.0.",
+     "rewrite": "ฉันจำได้ว่าเพื่อนแต่ละคนปกติตอบแชทแบบไหน พอเขาเปลี่ยนไปนิดเดียว ฉันก็สะดุดและคิดวนอยู่หลายรอบ"
+    }
+   ],
+   "pro": [
+    {}
+   ]
+  },
+  {
+   "id": "Sex1",
+   "kind": "st",
+   "ctx": "x",
+   "fn": "Se",
+   "text": "ถ้าเพื่อนเจอเรื่องฉุกเฉิน ฉันมักลงมือช่วยตรงหน้าก่อน เช่น ไปรับหรือหาของที่ต้องใช้ แล้วค่อยถามรายละเอียดทีหลัง",
+   "ratings": [
+    "Sex1 pro 3.9 con 4.2"
+   ],
+   "why": [
+    "con_flag",
+    "des_out_of_range 4.05"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 3,
+     "why": "Rushing to physically help a friend in an emergency is heroic (~4.2) and would beat almost any partner in an MFC pair; helping-a-friend is also virtuous independent of Se.",
+     "rewrite": "ถ้าเพื่อนเจอเรื่องด่วน ฉันมักขยับลงมือตรงหน้าไปก่อน เช่น ขับรถไปหา แม้บางทีจะยังไม่ได้ถามว่าเขาอยากได้แบบนั้นไหม"
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_high",
+     "rewrite": "ถ้าเพื่อนเจอเรื่องฉุกเฉิน ฉันมักลงมือช่วยตรงหน้าก่อน เช่น ไปรับหรือหาของที่ต้องใช้ จนบางทีช่วยผิดจุดเพราะยังไม่ได้ถามรายละเอียด"
+    }
+   ]
+  },
+  {
+   "id": "Sex2",
+   "kind": "st",
+   "ctx": "x",
+   "fn": "Se",
+   "text": "ในวงเพื่อน ฉันมักเห็นสิ่งเล็ก ๆ ที่เกิดขึ้นตรงหน้า เช่น แก้วใครหมดหรือใครนั่งไม่สบาย แล้วขยับไปจัดการเลย",
+   "ratings": [
+    "Sex2 pro 3.7 con 4.2"
+   ],
+   "why": [
+    "con_flag",
+    "des_out_of_range 3.95"
+   ],
+   "con": [
+    {
+     "type": "theory",
+     "sev": 2,
+     "why": "Noticing whose glass is empty / who is sitting uncomfortably and fixing it is Thai host courtesy (Fe care for others' comfort), not just sensing; very desirable (~4.2).",
+     "rewrite": "ในวงเพื่อน ตาฉันมักจับอยู่กับสิ่งที่เกิดตรงหน้า เช่น อาหารที่เพิ่งมาเสิร์ฟหรือใครเดินเข้าร้าน จนบางทีหลุดจากเรื่องที่คุยกันอยู่"
+    }
+   ],
+   "pro": [
+    {
+     "type": "function_contamination",
+     "rewrite": "ในวงเพื่อน ตาฉันมักไปอยู่กับสิ่งที่เกิดขึ้นรอบโต๊ะ เช่น เพื่อนเปลี่ยนทรงผม ฝนเริ่มตั้งเค้า หรือโต๊ะข้าง ๆ เพิ่งว่าง จนบางทีหลุดจากเรื่องที่คุยอยู่"
+    }
+   ]
+  },
+  {
+   "id": "Sex4",
+   "kind": "st",
+   "ctx": "x",
+   "fn": "Se",
+   "text": "ถ้ามีเรื่องไม่เข้าใจกันกับเพื่อน ฉันอยากเจอหน้าคุยกันตอนนั้นเลย มากกว่าพิมพ์ยาว ๆ หรือรอให้เรื่องเย็นลง",
+   "ratings": [
+    "Sex4 pro 3.2 con 3.2"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "ei_confound",
+     "sev": 2,
+     "why": "Wanting to meet face-to-face immediately rather than text or cool down is E (outer engagement) plus confrontation style; Se is about concrete sensory data, not urgency of social contact.",
+     "rewrite": "ถ้ามีเรื่องไม่เข้าใจกันกับเพื่อน ฉันดูจากสีหน้าท่าทางของเขาตอนเจอกันจริง มากกว่าตัวหนังสือในแชท ว่าเรื่องหนักแค่ไหน"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Tix0",
+   "kind": "st",
+   "ctx": "x",
+   "fn": "Ti",
+   "text": "เวลาเพื่อนขอคำแนะนำ ฉันมักถามกลับให้ชัดก่อนว่าปัญหาจริง ๆ คืออะไร เพราะอยากช่วยให้ตรงจุด",
+   "ratings": [
+    "Tix0 pro 3.6 con 3.9"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Clarifying the real problem 'เพราะอยากช่วยให้ตรงจุด' adds a helping motive; reads as the wise friend (~3.9).",
+     "rewrite": "เวลาเพื่อนขอคำแนะนำ ฉันมักถามจี้ให้ชัดก่อนว่าปัญหาจริง ๆ คืออะไร จนบางทีเพื่อนรู้สึกเหมือนโดนสัมภาษณ์"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Tix1",
+   "kind": "st",
+   "ctx": "x",
+   "fn": "Ti",
+   "text": "ถ้าเพื่อนสองคนผิดใจกัน ฉันอยากฟังให้ครบทั้งสองฝั่งแล้วไล่ดูว่าเรื่องเริ่มเพี้ยนตรงไหน ก่อนจะเข้าข้างใคร",
+   "ratings": [
+    "Tix1 pro 3.7 con 4.2"
+   ],
+   "why": [
+    "con_flag",
+    "des_out_of_range 3.95"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Hearing both sides fully before taking sides is the fairness ideal (~4.2); Fe/Fi users will endorse it too.",
+     "rewrite": "ถ้าเพื่อนสองคนผิดใจกัน ฉันมักไล่ลำดับเหตุการณ์ในหัวว่าเพี้ยนตรงไหน จนบางทีลืมไปว่าทั้งคู่แค่อยากให้มีคนฟัง"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Tix2",
+   "kind": "st",
+   "ctx": "x",
+   "fn": "Ti",
+   "text": "ถ้ากติกาในกลุ่มเพื่อนขัดกันเอง เช่น วิธีหารค่าอาหาร ฉันมักชี้จุดนั้นแล้วเสนอหลักที่ใช้ได้ทุกครั้ง",
+   "ratings": [
+    "Tix2 pro 3.2 con 3"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "theory",
+     "sev": 2,
+     "why": "'เสนอหลักที่ใช้ได้ทุกครั้ง' for the group is Te standardisation of the outer world; money-splitting talk also reads คิดเล็กคิดน้อย in Thai (~3.0).",
+     "rewrite": "ถ้ากติกาในกลุ่มเพื่อนขัดกันเอง เช่น ครั้งก่อนหารเท่า ครั้งนี้หารตามที่กิน ฉันจะค้างใจจนอยากรู้ว่าหลักที่สมเหตุสมผลจริง ๆ คือแบบไหน"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Tix4",
+   "kind": "st",
+   "ctx": "x",
+   "fn": "Ti",
+   "text": "เวลาเพื่อนทำอะไรที่ฉันไม่เข้าใจ ฉันมักพยายามหาเหตุผลว่าทำไมเขาคิดแบบนั้น แทนที่จะตัดสินไปก่อน",
+   "ratings": [
+    "Tix4 pro 3.8 con 4.2"
+   ],
+   "why": [
+    "con_flag",
+    "des_out_of_range 4.00"
+   ],
+   "con": [
+    {
+     "type": "theory",
+     "sev": 3,
+     "why": "Trying to understand why a friend thinks that 'instead of judging first' is perspective-taking / non-judgment — a moral virtue (~4.2) with Fe/Ne flavour, not Ti's internal consistency.",
+     "rewrite": "เวลาเพื่อนทำอะไรที่ฉันไม่เข้าใจ ฉันมักไล่หาเหตุผลในหัวจนกว่ามันจะต่อกันติด แม้เพื่อนจะไม่ได้อยากให้วิเคราะห์"
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_high",
+     "rewrite": "เวลาเพื่อนทำอะไรที่ฉันไม่เข้าใจ ฉันอยากไล่ให้ได้ว่าตรรกะของเขาคืออะไร จนบางทีถามซักจนเพื่อนรู้สึกเหมือนถูกสอบสวน"
+    }
+   ]
+  },
+  {
+   "id": "Tex1",
+   "kind": "st",
+   "ctx": "x",
+   "fn": "Te",
+   "text": "เวลาเพื่อนเจอเรื่องใหญ่ เช่น ตกงาน ฉันมักช่วยหาข้อมูล คนที่ติดต่อได้ หรือลิสต์สิ่งที่ต้องทำให้เขา",
+   "ratings": [
+    "Tex1 pro 3.8 con 4.1"
+   ],
+   "why": [
+    "con_flag",
+    "des_out_of_range 3.95"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Researching contacts and making a to-do list for a friend who lost a job is exemplary friendship (~4.1).",
+     "rewrite": "เวลาเพื่อนเจอเรื่องใหญ่ เช่น ตกงาน ฉันมักรีบลิสต์สิ่งที่เขาต้องทำต่อให้ แม้เขาอาจยังไม่พร้อมคิดเรื่องนั้น"
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_high",
+     "rewrite": "เวลาเพื่อนเจอเรื่องใหญ่ เช่น ตกงาน ฉันมักรีบช่วยหาข้อมูลหรือลิสต์สิ่งที่ต้องทำให้เขา แม้บางทีเขาอยากได้แค่คนฟัง"
+    }
+   ]
+  },
+  {
+   "id": "Fix0",
+   "kind": "st",
+   "ctx": "x",
+   "fn": "Fi",
+   "text": "ฉันยืนข้างเพื่อนในเรื่องที่ฉันเชื่อว่าถูก แต่ถ้าเขาทำสิ่งที่ขัดกับหลักในใจฉัน ฉันก็จะบอกว่าไม่เห็นด้วย",
+   "ratings": [
+    "Fix0 pro 3.7 con 4.1"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "'Loyal but honest when they're wrong' is the textbook ideal friend (~4.1).",
+     "rewrite": "ถ้าเพื่อนสนิททำสิ่งที่ขัดกับหลักในใจฉัน ความรู้สึกที่ฉันมีต่อเขาจะเปลี่ยนไป แม้ปากจะยังไม่ได้พูดอะไร"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Fix3",
+   "kind": "st",
+   "ctx": "x",
+   "fn": "Fi",
+   "text": "เวลาเพื่อนมาปรึกษา ฉันมักถามว่าลึก ๆ แล้วใจเขาอยากได้อะไร มากกว่าบอกว่าคนส่วนใหญ่ทำกันยังไง",
+   "ratings": [
+    "Fix3 pro 3.7 con 4"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Asking what the friend truly wants deep down is good-counsellor behaviour (~4.0) and is about the friend's values, which Fe can claim too.",
+     "rewrite": "เวลาเพื่อนมาปรึกษา ฉันมักตอบจากสิ่งที่ใจฉันเองให้ค่า จนบางทีเพื่อนรู้สึกว่ามันเป็นทางของฉันมากกว่าของเขา"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Fix4",
+   "kind": "st",
+   "ctx": "x",
+   "fn": "Fi",
+   "text": "ถ้าวงเพื่อนเริ่มนินทาใครแรง ๆ จนฉันไม่สบายใจ ฉันเลือกไม่ร่วมวง แม้บรรยากาศจะกร่อยไปบ้าง",
+   "ratings": [
+    "Fix4 pro 3.8 con 4.2"
+   ],
+   "why": [
+    "con_flag",
+    "des_out_of_range 4.00"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 3,
+     "why": "Refusing to join harsh gossip is a moral virtue (~4.2) that every function will claim; it measures conscientious morality, not Fi.",
+     "rewrite": "ถ้าวงเพื่อนคุยเรื่องที่ขัดกับสิ่งที่ฉันให้ค่า ฉันจะรู้สึกห่างจากวงนั้นขึ้นมาทันที แม้ภายนอกจะยังคุยต่อตามปกติ"
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_high",
+     "rewrite": "ถ้าวงเพื่อนคุยเรื่องที่ขัดกับหลักในใจฉัน ฉันมักนิ่งไปหรือขอตัว แม้เพื่อนจะมองว่าฉันจริงจังเกินไป"
+    }
+   ]
+  },
+  {
+   "id": "Fex0",
+   "kind": "st",
+   "ctx": "x",
+   "fn": "Fe",
+   "text": "ถ้าเพื่อนเล่าเรื่องสำคัญในแชทกลุ่มแล้วไม่มีใครตอบ ฉันมักรีบตอบรับให้เขาไม่เคว้ง แม้ตอนนั้นจะยุ่งอยู่",
+   "ratings": [
+    "Fex0 pro 3.6 con 4.1"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "Replying so a friend isn't left hanging (แม้ยุ่งอยู่) reads as the model good friend in Thai group-chat culture (~4.1). The 'cost' is itself a virtue signal (sacrifice), so it raises rather than lowers desirability.",
+     "rewrite": "ถ้าเพื่อนเล่าเรื่องสำคัญในแชทกลุ่มแล้วเงียบ ฉันจะอึดอัดแทนเขาจนต้องรีบพิมพ์อะไรสักอย่าง แม้ยังไม่รู้จะพูดอะไรดี"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Fex1",
+   "kind": "st",
+   "ctx": "x",
+   "fn": "Fe",
+   "text": "เวลานัดเพื่อน ฉันมักเลือกร้านหรือวันที่ทุกคนสะดวกที่สุด จนบางทีไม่ได้ไปที่ที่ตัวเองอยากไปเลย",
+   "ratings": [
+    "Fex1 pro 3.5 con 3.9"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "duplicate",
+     "sev": 3,
+     "why": "Near-verbatim copy of v10 Fel0 (เวลานัดเพื่อน ฉันเลือกวันและที่ที่ทุกคนสะดวก แม้ไม่ใช่ที่ที่ฉันอยากไปที่สุด). Same respondent sees the same idea twice; also accommodating-host = Thai มีน้ำใจ virtue, ~3.9.",
+     "rewrite": "ในแชทกลุ่ม ฉันมักเลือกคำและสติกเกอร์ให้เข้ากับอารมณ์ของวงตอนนั้น จนบางทีไม่ได้พูดสิ่งที่อยากพูดจริง ๆ"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "Fex3",
+   "kind": "st",
+   "ctx": "x",
+   "fn": "Fe",
+   "text": "ถ้ามีเพื่อนใหม่มาร่วมวง ฉันมักคอยดึงเขาเข้าบทสนทนา จนบางทีตัวเองแทบไม่ได้คุยเรื่องที่อยากคุย",
+   "ratings": [
+    "Fex3 pro 3.6 con 4"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "duplicate",
+     "sev": 2,
+     "why": "Duplicates v10 Fek1 (ดึงคนที่ถูกทิ้งเข้าวง). Drawing people into talk is also an E/initiating behaviour, and in Thai culture being the inclusive host is clearly the 'good person' answer (~4.0).",
+     "rewrite": "ถ้าเพื่อนในกลุ่มคนหนึ่งดูเงียบไปผิดปกติ ฉันจะไม่สบายใจจนต้องหาจังหวะทักเขาแยก แม้อาจเป็นเรื่องที่ฉันคิดไปเอง"
+    }
+   ],
+   "pro": []
+  },
+  {
+   "id": "BNiSex0",
+   "kind": "bip",
+   "ctx": "x",
+   "fn": "Ni-Se",
+   "text": {
+    "a": "เวลาเพื่อนเล่าปัญหา ฉันมักนึกว่าเรื่องนี้กำลังพาเขาไปทางไหนในระยะยาว",
+    "b": "เวลาเพื่อนเล่าปัญหา ฉันมักนึกว่าตอนนี้ช่วยอะไรเขาได้บ้างทันที"
+   },
+   "ratings": [
+    "BNiSex0|a pro 3.4 con 3.6",
+    "BNiSex0|b pro 3.7 con 4"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "B 'what can I do to help right now' (~4.0) beats A's abstract long-range musing (~3.6); both sides are 'helping', and B wins on virtue.",
+     "rewrite": {
+      "a": "เวลาเพื่อนเล่าปัญหา ฉันมักนึกว่าเบื้องลึกแล้วเรื่องนี้กำลังพาเขาไปทางไหน",
+      "b": "เวลาเพื่อนเล่าปัญหา ฉันมักสังเกตสีหน้าท่าทางของเขาตอนเล่าว่าหนักแค่ไหน"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_imbalance",
+     "rewrite": "A: เวลาเพื่อนเล่าปัญหา ฉันมักนึกว่าเรื่องนี้กำลังพาชีวิตเขาไปทางไหนในระยะยาว ‖ B: เวลาเพื่อนเล่าปัญหา ฉันมักสนใจว่าตอนนี้ตรงหน้าเขาเจออะไรอยู่จริง ๆ บ้าง"
+    }
+   ]
+  },
+  {
+   "id": "BTiFex0",
+   "kind": "bip",
+   "ctx": "x",
+   "fn": "Ti-Fe",
+   "text": {
+    "a": "เพื่อนสองคนทะเลาะกัน ฉันอยากรู้ก่อนว่าเหตุผลของแต่ละฝั่งฟังขึ้นแค่ไหน",
+    "b": "เพื่อนสองคนทะเลาะกัน ฉันอยากให้ทั้งคู่กลับมาคุยกันได้ดีก่อน"
+   },
+   "ratings": [
+    "BTiFex0|a pro 3.3 con 3.4",
+    "BTiFex0|b pro 3.7 con 4.1"
+   ],
+   "why": [
+    "con_flag",
+    "side_gap -0.55"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "B (want both to reconcile, ~4.1) is the Thai harmony ideal; A (judge whose reasoning holds, ~3.4) sounds like taking sides. 0.7 gap.",
+     "rewrite": {
+      "a": "เพื่อนสองคนทะเลาะกัน ฉันอยากรู้ก่อนว่าเหตุผลฝั่งไหนฟังขึ้นกว่า แม้จะเสี่ยงโดนมองว่าเข้าข้าง",
+      "b": "เพื่อนสองคนทะเลาะกัน ฉันอยากให้ทั้งคู่ดีกันก่อน แม้ต้นเรื่องจะยังไม่ได้เคลียร์"
+     }
+    }
+   ],
+   "pro": [
+    {
+     "type": "desirability_imbalance",
+     "rewrite": "A: เพื่อนสองคนทะเลาะกัน ฉันอยากรู้ก่อนว่าเหตุผลของแต่ละฝั่งฟังขึ้นแค่ไหน แม้เรื่องจะจบช้าลง ‖ B: เพื่อนสองคนทะเลาะกัน ฉันอยากให้ทั้งคู่กลับมาคุยกันได้ก่อน แม้ยังไม่ได้ข้อสรุปว่าใครถูก"
+    }
+   ]
+  },
+  {
+   "id": "BTeFix0",
+   "kind": "bip",
+   "ctx": "x",
+   "fn": "Te-Fi",
+   "text": {
+    "a": "จะช่วยเพื่อนสักเรื่อง ฉันเลือกวิธีที่เห็นผลจริงและเร็วที่สุด",
+    "b": "จะช่วยเพื่อนสักเรื่อง ฉันเลือกวิธีที่ใจฉันรู้สึกว่าจริงใจที่สุด"
+   },
+   "ratings": [
+    "BTeFix0|a pro 3.5 con 3.6",
+    "BTeFix0|b pro 3.5 con 3.9"
+   ],
+   "why": [
+    "con_flag"
+   ],
+   "con": [
+    {
+     "type": "desirability",
+     "sev": 2,
+     "why": "B uses the virtue word 'จริงใจที่สุด' (sincerity) against A's efficiency; B ~3.9 vs A ~3.6.",
+     "rewrite": {
+      "a": "จะช่วยเพื่อนสักเรื่อง ฉันดูก่อนว่าวิธีไหนเห็นผลเร็วที่สุด",
+      "b": "จะช่วยเพื่อนสักเรื่อง ฉันดูก่อนว่าวิธีไหนตรงกับใจฉันที่สุด"
+     }
+    }
+   ],
+   "pro": []
+  }
+ ],
+ "existing": [
+  {
+   "id": "Sew1",
+   "type": "ability",
+   "sev": 3,
+   "why": "'ตอบสนองได้ไวและมักเหมาะกับสถานการณ์' is a pure competence claim; in a pair it beats almost anything.",
+   "rewrite": "เมื่อเกิดเหตุไม่คาดฝัน ฉันมักขยับลงมือตามสิ่งที่เห็นตรงหน้าเลย แม้บางทีจะยังไม่ได้คิดให้รอบ"
+  },
+  {
+   "id": "Ner2",
+   "type": "ability",
+   "sev": 3,
+   "why": "'มองเห็นศักยภาพของคนที่คนอื่นยังมองไม่เห็น' = superiority + virtue (~4.4).",
+   "rewrite": "ฉันมักนึกเล่น ๆ ว่าคนใกล้ตัวน่าจะลองเป็นหรือทำอะไรได้อีกหลายแบบ แม้เขาเองจะไม่ได้คิดแบบนั้น"
+  },
+  {
+   "id": "Niv0",
+   "type": "ability",
+   "sev": 3,
+   "why": "'เดาตอนจบได้ก่อนคนอื่น' is an explicit superiority/accuracy claim.",
+   "rewrite": "เวลาดูหนังหรือซีรีส์ ฉันมักมีความรู้สึกบางอย่างว่าเรื่องกำลังจะไปจบตรงไหน แล้วดูต่อเพื่อเช็กว่าใช่ไหม"
+  },
+  {
+   "id": "Fig1",
+   "type": "desirability",
+   "sev": 3,
+   "why": "'ฉันไม่โกงหรือเล่นสกปรก' is honesty, not Fi; nearly everyone endorses (~4.6).",
+   "rewrite": "ในเกม ฉันเลือกเล่นแบบที่รู้สึกว่าเป็นตัวเอง แม้จะไม่ใช่วิธีที่ชนะง่ายที่สุด"
+  },
+  {
+   "id": "Fip1",
+   "type": "desirability",
+   "sev": 3,
+   "why": "'ไม่ยอมชนะด้วยวิธีเอาเปรียบคู่แข่ง' = sportsmanship virtue (~4.5), not Fi.",
+   "rewrite": "ถ้าวิธีเล่นที่ทีมใช้ทำให้ฉันรู้สึกไม่เป็นตัวเอง ฉันจะเล่นต่อแบบไม่เต็มใจ แม้มันจะได้ผลก็ตาม"
+  },
+  {
+   "id": "BTiFez1",
+   "type": "desirability",
+   "sev": 3,
+   "why": "B 'อยากเป็นคนที่ทำให้คนรอบตัวอุ่นใจ' is pure virtue (~4.4) vs A esoteric study (~3.3); also sides are not parallel.",
+   "rewrite": {
+    "a": "ความฝันของฉันคือได้ไล่ทำความเข้าใจเรื่องที่สนใจจนครบทุกส่วน",
+    "b": "ความฝันของฉันคือได้ทำสิ่งที่คนรอบตัวเห็นคุณค่าร่วมกัน"
+   }
+  },
+  {
+   "id": "BTiFeh1",
+   "type": "desirability",
+   "sev": 3,
+   "why": "'รับฟังความรู้สึกเขาก่อน' is the universally taught right answer (~4.3) vs 'analyse the cause' (~3.4).",
+   "rewrite": {
+    "a": "เวลาคนที่รักเล่าปัญหา ฉันมักช่วยไล่ดูว่าต้นเหตุจริง ๆ อยู่ตรงไหน",
+    "b": "เวลาคนที่รักเล่าปัญหา ฉันมักพูดเห็นด้วยไปก่อนให้เขาสบายใจ แม้ในใจจะคิดอีกแบบ"
+   }
+  },
+  {
+   "id": "New0",
+   "type": "ability",
+   "sev": 2,
+   "why": "'โยนไอเดียได้หลายทางในเวลาสั้น ๆ' is a fluency/performance claim.",
+   "rewrite": "ในการระดมสมอง ฉันมักโยนไอเดียออกมาหลายทาง จนบางทีทีมต้องช่วยดึงกลับมาที่โจทย์"
+  },
+  {
+   "id": "New1",
+   "type": "ability",
+   "sev": 2,
+   "why": "'แล้วนำมาต่อยอดงานได้' adds a success outcome.",
+   "rewrite": "ในงาน ฉันมักโยงเรื่องที่ดูไม่เกี่ยวกันเข้าหากัน จนบางทีไอเดียไปไกลกว่าที่งานต้องการ"
+  },
+  {
+   "id": "Seg0",
+   "type": "ability",
+   "sev": 2,
+   "why": "'ตอบสนองได้ไวโดยแทบไม่ต้องคิด' = reflex skill claim.",
+   "rewrite": "ในเกม ฉันมักกดตอบสนองสิ่งที่เกิดตรงหน้าไปก่อน แล้วค่อยคิดว่าควรทำแบบนั้นไหม"
+  },
+  {
+   "id": "Sea1",
+   "type": "ability",
+   "sev": 2,
+   "why": "'สังเกต…ได้ละเอียด' is a perceptual-ability claim.",
+   "rewrite": "ฉันมักหยุดดูสี แสง และพื้นผิวของสิ่งรอบตัว จนบางทีเดินช้ากว่าคนที่มาด้วย"
+  },
+  {
+   "id": "Nib1",
+   "type": "ability",
+   "sev": 2,
+   "why": "'ได้ความหมายที่ผู้เขียนไม่ได้พูดตรง ๆ' presupposes the reading is correct (literary skill).",
+   "rewrite": "เวลาอ่าน ฉันมักสนใจความหมายที่อาจซ่อนอยู่ระหว่างบรรทัด มากกว่าสิ่งที่ผู้เขียนพูดตรง ๆ"
+  },
+  {
+   "id": "Fir2",
+   "type": "ability",
+   "sev": 2,
+   "why": "'สัมผัสได้ว่าคนตรงหน้าจริงใจหรือไม่' = lie-detection ability; also person-reading is not Fi's value judgment.",
+   "rewrite": "ฉันให้น้ำหนักมากกับว่าคนตรงหน้าดูจริงใจกับสิ่งที่เขาเชื่อแค่ไหน มากกว่าว่าเขาเชื่ออะไร"
+  },
+  {
+   "id": "Nig2",
+   "type": "ability",
+   "sev": 2,
+   "why": "'…โดยบอกไม่ได้ว่าทำไมถึงรู้' asserts the prediction is right.",
+   "rewrite": "ในเกม ฉันมักมีความรู้สึกว่าคู่ต่อสู้กำลังจะทำอะไร แล้วเล่นตามความรู้สึกนั้น แม้บอกเหตุผลไม่ได้"
+  },
+  {
+   "id": "Nip0",
+   "type": "ability",
+   "sev": 2,
+   "why": "'เห็นล่วงหน้าว่าเกมจะพลิก ก่อนมันเกิดขึ้น' = accurate foresight.",
+   "rewrite": "เวลาเล่นกีฬา ฉันมักมีความรู้สึกว่าเกมกำลังจะพลิกไปทางไหน แล้วเล่นเผื่อทางนั้นไว้ก่อน"
+  },
+  {
+   "id": "Tid1",
+   "type": "ability",
+   "sev": 2,
+   "why": "'บอกได้ว่าขาดหรือเกินอะไร' is a palate-skill claim; 94 chars.",
+   "rewrite": "เวลาชิมอาหาร ฉันชอบแยกรสในหัวเป็นเปรี้ยว เค็ม หวาน แล้วคิดว่าแต่ละรสทำหน้าที่อะไรในจาน"
+  },
+  {
+   "id": "Fil3",
+   "type": "desirability",
+   "sev": 2,
+   "why": "'งานอาสา…เรื่องที่ฉันห่วงใย' = altruism signal (~4.3), also Fe-flavoured helping.",
+   "rewrite": "เวลาว่าง ฉันชอบทำเรื่องที่ใจฉันผูกพันเป็นพิเศษ แม้คนอื่นจะมองว่าไม่เห็นได้อะไร"
+  },
+  {
+   "id": "Fiw0",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Refusing value-violating work despite good pay = integrity ideal (~4.2).",
+   "rewrite": "ในงาน ถ้าต้องทำสิ่งที่ขัดกับค่านิยมของตัวเอง ฉันจะทำต่อได้ยากมาก แม้มันจะเป็นงานที่ดูดีในสายตาคนอื่น"
+  },
+  {
+   "id": "Fii1",
+   "type": "desirability",
+   "sev": 2,
+   "why": "'ให้เงินไปสนับสนุนสิ่งที่ใจเชื่อว่าดี' is generic goodness (~4.2) with no cost.",
+   "rewrite": "ฉันเลือกใช้เงินกับสิ่งที่ใจรู้สึกผูกพัน แม้บางทีจะไม่ใช่ทางที่คุ้มที่สุด"
+  },
+  {
+   "id": "Fei3",
+   "type": "theory",
+   "sev": 2,
+   "why": "Caring whether a company treats staff/customers well is ethical-values (Fi/ESG) more than Fe; virtuous (~4.1).",
+   "rewrite": "ก่อนลงทุน ฉันมักนึกว่าคนในบ้านหรือคนใกล้ตัวจะรู้สึกยังไงกับการตัดสินใจนี้ แม้มันจะเป็นเงินของฉันเอง"
+  },
+  {
+   "id": "Fen1",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Empathising with victims' families is universal compassion (~4.3).",
+   "rewrite": "เวลาอ่านข่าวเศร้า ฉันมักรู้สึกหนักตามคนในเหตุการณ์ไปทั้งวัน จนทำเรื่องอื่นไม่ค่อยลง"
+  },
+  {
+   "id": "Fez0",
+   "type": "culture",
+   "sev": 2,
+   "why": "'อยากให้ครอบครัวสบาย' = กตัญญู, a near-mandatory Thai value (~4.4); 89 chars.",
+   "rewrite": "ความฝันของฉันมักถูกปรับไปตามสิ่งที่ครอบครัวหรือคนรอบตัวอยากเห็น จนบางทีไม่แน่ใจว่าฝันไหนเป็นของฉันเอง"
+  },
+  {
+   "id": "Fez2",
+   "type": "desirability",
+   "sev": 2,
+   "why": "Inspired by people who improve the community = civic virtue (~4.2).",
+   "rewrite": "ฉันมีแรงทำตามฝันมากขึ้นเมื่อมีคนรอบตัวอินไปด้วย พอไม่มีใครสนใจ ฉันก็มักแผ่วลง"
+  },
+  {
+   "id": "Ter2",
+   "type": "theory",
+   "sev": 2,
+   "why": "Expecting people to keep agreements is universal (~4.0), not Te-specific.",
+   "rewrite": "ถ้าคนรอบตัวไม่ทำตามที่ตกลงกันไว้ ฉันจะทวงตรง ๆ ทันที แม้บรรยากาศจะเสียไปบ้าง"
+  },
+  {
+   "id": "Tir3",
+   "type": "ei_confound",
+   "sev": 2,
+   "why": "'มักเงียบ' = quietness/introversion; Ti ≠ quiet (brief rule 5).",
+   "rewrite": "ระหว่างคุย ฉันมักไล่เช็กในหัวว่าเหตุผลของแต่ละคนต่อกันติดไหม จนบางทีหลุดจากอารมณ์ของวง"
+  },
+  {
+   "id": "Fik3",
+   "type": "ei_confound",
+   "sev": 2,
+   "why": "'เก็บไว้กับตัวมากกว่าแสดงออก' is the EI ec facet (contained), not Fi values.",
+   "rewrite": "ความรู้สึกของฉันลึกและซับซ้อน จนบางทีฉันเองต้องใช้เวลานานกว่าจะรู้ว่ามันคืออะไร"
+  },
+  {
+   "id": "Fiv2",
+   "type": "ei_confound",
+   "sev": 2,
+   "why": "'มักดูคนเดียว' = solitude preference (I).",
+   "rewrite": "หนังที่กระทบใจ ฉันมักต้องใช้เวลาอยู่กับความรู้สึกนั้นก่อน ถึงจะบอกได้ว่ามันหมายถึงอะไรกับฉัน"
+  },
+  {
+   "id": "Tim2",
+   "type": "ei_confound",
+   "sev": 2,
+   "why": "Not posting opinions = low expressiveness (I); also 'แม่นยำพอ' is a quality claim.",
+   "rewrite": "ก่อนกดแชร์อะไร ฉันมักไล่เช็กว่าเหตุผลในโพสต์ต่อกันติดไหม จนบางทีแชร์ช้ากว่าคนอื่น"
+  },
+  {
+   "id": "Ser3",
+   "type": "ei_confound",
+   "sev": 2,
+   "why": "'กล้าชวนใคร…ทันที' = initiating (EI ir) plus courage virtue word กล้า.",
+   "rewrite": "เวลาอยู่กับคนใกล้ตัว ฉันมักชวนทำสิ่งที่เห็นอยู่ตรงหน้าเลย เช่น ร้านที่เพิ่งเปิดตรงหัวมุม"
+  },
+  {
+   "id": "Fel1",
+   "type": "ei_confound",
+   "sev": 2,
+   "why": "'สนุกที่สุดเมื่อได้แบ่งปันกับกลุ่มคน' is gregariousness (E), Fe ≠ outgoing.",
+   "rewrite": "ฉันสนุกกับกิจกรรมมากขึ้นเมื่อรู้ว่าคนที่ไปด้วยก็สนุก ถ้าเขาไม่สนุก ฉันก็พลอยหมดสนุกไปด้วย"
+  },
+  {
+   "id": "Fev0",
+   "type": "ei_confound",
+   "sev": 2,
+   "why": "Enjoying watching with others and post-film chat is sociability (E).",
+   "rewrite": "เวลาดูหนังกับคนอื่น ฉันมักเหลือบดูว่าเขาชอบไหม จนบางทีตัวเองก็ไม่ได้อินกับหนังเต็มที่"
+  },
+  {
+   "id": "Sel1",
+   "type": "double",
+   "sev": 2,
+   "why": "121 chars, three activities (tasting, loud music, sport); too long for a two-option pair and Se = thrill stereotype.",
+   "rewrite": "เวลาว่าง ฉันชอบทำอะไรที่ได้ใช้ประสาทสัมผัสเต็มที่ เช่น ลองชิมของแปลก ๆ จนลืมเรื่องอื่นไปชั่วขณะ"
+  },
+  {
+   "id": "Tij2",
+   "type": "unclear",
+   "sev": 2,
+   "why": "121 chars with two clauses; in a pair the long side gets read less carefully.",
+   "rewrite": "เวลาวางทริป ฉันชอบคิดเองว่าทำไมเส้นทางหนึ่งถึงสมเหตุสมผลกว่า มากกว่าเชื่อตามรีวิว"
+  },
+  {
+   "id": "Fes2",
+   "type": "desirability",
+   "sev": 2,
+   "why": "112 chars; 'ทุกคนมีส่วนร่วม ไม่น้อยกว่าคุณภาพงาน' is an inclusive-teamwork virtue.",
+   "rewrite": "ในงานกลุ่มที่เรียน ฉันห่วงว่าทุกคนรู้สึกได้มีส่วนร่วมไหม จนบางทีงานเสร็จช้าลง"
+  },
+  {
+   "id": "BTiFe5",
+   "type": "desirability",
+   "sev": 2,
+   "why": "B 'ทุกคนรู้สึกมีส่วนร่วมและไม่ถูกมองข้าม' is inclusive-leader virtue (~4.0) vs A (~3.5).",
+   "rewrite": {
+    "a": "ในการประชุม ฉันสนใจว่าข้อสรุปสมเหตุสมผลหรือไม่",
+    "b": "ในการประชุม ฉันสนใจว่าบรรยากาศในห้องเป็นยังไง และทุกคนยังโอเคกันไหม"
+   }
+  },
+  {
+   "id": "BTiFej1",
+   "type": "desirability",
+   "sev": 2,
+   "why": "A 'ไล่หาว่าพลาดตรงไหน' sounds like blaming (~3.2); B cheering everyone up (~3.9).",
+   "rewrite": {
+    "a": "ทริปมีปัญหา ฉันอยากเข้าใจก่อนว่ามันเกิดจากอะไร",
+    "b": "ทริปมีปัญหา ฉันอยากให้บรรยากาศในกลุ่มกลับมาก่อน"
+   }
+  },
+  {
+   "id": "BTeFi4",
+   "type": "desirability",
+   "sev": 2,
+   "why": "B 'รู้สึกจริงใจกับสิ่งที่ทำ' uses the sincerity virtue word (~4.0) vs A (~3.5).",
+   "rewrite": {
+    "a": "ฉันวัดความสำเร็จจากผลลัพธ์ที่คนอื่นเห็นและตรวจสอบได้",
+    "b": "ฉันวัดความสำเร็จจากว่าสิ่งที่ทำตรงกับใจฉันแค่ไหน"
+   }
+  },
+  {
+   "id": "BNeSi6",
+   "type": "unclear",
+   "sev": 2,
+   "why": "Mirror-worded 'ไอเดียที่เคยคิดไว้ vs เมื่อไร ที่ไหน' is confusing; readers must parse it twice.",
+   "rewrite": {
+    "a": "เวลานึกย้อนเรื่องเก่า ฉันมักนึกถึงไอเดียที่ผุดขึ้นตอนนั้น มากกว่าว่าเกิดที่ไหน เมื่อไร",
+    "b": "เวลานึกย้อนเรื่องเก่า ฉันมักนึกถึงว่าเกิดที่ไหน เมื่อไร มากกว่าไอเดียที่ผุดขึ้นตอนนั้น"
+   }
+  },
+  {
+   "id": "EIeq3",
+   "type": "desirability",
+   "sev": 2,
+   "why": "I side 'พูดน้อย ฟังมากกว่า' = good-listener virtue in Thai; E side 'พูดเยอะ' reads พูดมาก (negative).",
+   "rewrite": {
+    "E": "ในวงคุยกับเพื่อน ฉันมักเป็นคนเล่าเรื่องและชวนคุยให้วงคึกคัก",
+    "I": "ในวงคุยกับเพื่อน ฉันมักพูดน้อยและสนุกอยู่เงียบ ๆ ให้วงสบาย ๆ"
+   }
+  },
+  {
+   "id": "EIir2",
+   "type": "desirability",
+   "sev": 2,
+   "why": "E 'ไม่ค่อยรอจังหวะ' sounds tactless; I 'รอจังหวะที่เป็นธรรมชาติ' sounds graceful — unbalanced.",
+   "rewrite": {
+    "E": "ถ้าอยากรู้จักใคร ฉันมักเป็นฝ่ายทักไปก่อน",
+    "I": "ถ้าอยากรู้จักใคร ฉันมักรอให้มีโอกาสได้คุยกันเอง"
+   }
+  }
+ ],
+ "conDesign": [
+  "1 All-forced-choice + fully ipsative: removing every Likert item removes the only normative anchor. Function totals become a fixed-sum vector (mean inter-scale r ≈ −1/7 by construction), so 'rank among the 8' and cross-person comparison are artefacts and no reliability/validity coefficient can be computed honestly. Fix: keep a 12–16-item normative Likert block, or score MFC with a Thurstonian IRT model and report only within-person ranks with error bands.",
+  "2 Opposite-pair bipolars (Ni–Se, Ne–Si, Ti–Fe, Te–Fi) hard-wire the Myers 'dominant vs inferior' axis into the data: Ni and Se can never both score high, so results confirm the stack theory by construction. Fix: make bipolars a minority (≤20% of items) and analyse whether opposite functions are actually negatively correlated in pilot data before using them to type.",
+  "3 Side order is fixed (side a = Ni/Ne/Ti/Te, always the N and T function). Any primacy or position bias (Thai respondents commonly pick the first acceptable option) inflates NT types, and the '≥95% same position' flag will miss 70–90% A-leaners. Fix: randomise display side per respondent for every bipolar and MFC item; score by function, not position.",
+  "4 Desirability matching is too loose and uses the wrong ratings: the 0.5→0.75→1.0 ladder on a 1–5 scale allows pairs a full point apart, and writer self-ratings are compressed (3.0–3.7) and underrate Fe/Te/'responsible' items. My independent ratings put 15 statements at ≥3.8 (6 of them Fe with self-sacrifice 'costs'). Fix: Thai rater panel (n≥30, mixed age), cap tolerance at 0.3–0.4, drop items whose rater SD is large.",
+  "5 Cultural direction of bias: Fe costs are Thai virtues ('แม้ไม่ใช่หน้าที่', 'จนลืมเรื่องตัวเอง', 'แม้ทีมชนะยากขึ้น') while Ti/Te sides carry face-threatening wording ('ห้วน', 'ชี้ว่าไม่สมเหตุสมผล', 'เถียงต่อ'). Under ipsative scoring this systematically pushes Thai respondents toward xxFJ results. Fix: costs must be real costs (e.g. 'พูดไม่ตรงกับที่คิด', 'ความเห็นตัวเองหายไป'); avoid public correction/arguing scenarios on the Ti side.",
+  "6 Style flags: 5-point scale with a 'พอ ๆ กัน' midpoint plus documented East/Southeast-Asian midpoint preference and เกรงใจ-style indecision means '≥60% midpoint → hide' will hide many genuine Thai results. Fix: never hide; show the result with a low-confidence banner and the % of middle answers; add speed (<1.5 s/item) and alternation checks; set thresholds from pilot distribution (e.g. top 5%).",
+  "7 Introvert-lean removal + 0.2·E/I mean double-counts and is contaminated: E/I items overlap Se content (EIar4 E side = Se 'ลงมือเลย'; EIeq5 E = sensory stimulation), so the correction subtracts real Ni/Ti/Fi signal and adds Se to E. Fix: rewrite E/I items to be function-free, then residualise only on those, and verify on simulated respondents that a pure INTJ profile is recovered.",
+  "8 Type formula weights (1 / 0.7 / 0.3 tertiary averaged over both attitudes / 0.2 E/I) are arbitrary and averaging both attitudes for the tertiary contradicts the attitude-alternation model it claims to implement. Mirror types (e.g. INTJ vs ENTJ) differ only by the 1 vs 0.7 weighting, so near-ties will be frequent. Fix: declare a tie when the score gap < bootstrap SE and present both types as co-equal.",
+  "9 Phase 2 is confirmatory: items target the leader vs its nearest rival, so early noise is amplified (rich-get-richer), and unequal exposure of functions breaks the ipsative balance. Fix: score phase 2 as a separate tie-breaker only; balance exposure across all 8 functions; include items where the leader should lose (e.g. vs its inferior) as consistency checks.",
+  "10 Top-3 'reasons' report invites Barnum/over-interpretation: 'picked this side n of m' from 6–10 comparisons and a rank among 8 look precise but have large error; quoting one chosen-vs-rejected pair is single-item evidence; if the engine picks the 'best' example it will pick the most flattering, high-desirability item. Fix: choose the quoted example by a fixed rule (median-strength or random among consistent items), show an uncertainty band, use 'คำตอบของคุณเอนไปทาง…' not 'เพราะคุณเป็น…'.",
+  "11 Counter-evidence (d) must be as prominent as supporting evidence and selected by an objective rule (largest opposite-direction response weighted by item strength), not hidden below; also show an explicit 'how consistent were you' index (e.g. % of item pairs agreeing with your final ranking). MBTI-101 box: explain that for introverts J/P describes the auxiliary, else INFJ users will think their dominant is judging.",
+  "12 Item bank structure: templates are reused across contexts (Ni = 'ค้างในใจหลายวันแล้วเข้าใจ' ×5; Se = 'ลงมือเลยแล้วค่อยปรับ' ×6; Fe = 'ผ่อนให้มือใหม่' ×2; Si = 'สังเกตความต่างจากปกติ' ×3), narrowing each construct to one facet. Fix: write a facet map per function (e.g. Se: sensory noticing / real-time adaptation / physical enjoyment) with ≤2 uses per template, then pilot (n≥200) with test-retest and TIRT reliability before launch."
+ ],
+ "proDesign": [
+  "WHY ALL TWO-OPTION (bias): single-statement Likert was the channel where Thai response styles (acquiescence, midpoint use, kreng-jai agreement; Komin 1990; Chen, Lee & Stevenson 1995; Harzing 2006) let people endorse every virtuous line, inflating Fe/Te/Ni regardless of preference. The acquiescence correction only partly fixed that. Forced choice between statements matched on desirability reduces faking and socially desirable responding (Jackson, Wroblewski & Ashton 2000; Christiansen, Burns & Montgomery 2005; Cao & Drasgow 2019 meta-analysis).",
+  "WHY ALL TWO-OPTION (construct fit): type dynamics is an ordering within one person (which function is preferred over which: dominant, auxiliary, inferior), so a paired preference is the natural data. The MBTI itself has always used forced choice. Ipsative limits (Hicks 1970; Meade 2004) are accepted openly: no comparisons between people, and the disclaimers stay.",
+  "A graded 5-point preference with 'พอ ๆ กัน' is quasi-ipsative. It keeps how strong the preference is, lets people say 'both/neither' without making them pick, and quasi-ipsative forced choice showed the highest validity in Salgado & Táuriz (2014). It also makes the old acquiescence correction redundant, which removes a fragile part of the scoring.",
+  "Opposite-pair bipolar items put the Jungian opposites (Ni–Se, Ne–Si, Ti–Fe, Te–Fi: dominant vs inferior on the same axis) against each other directly, which random MFC pairing seldom does. Separate E/I items keep attitude evidence apart from the function items. Together they pin down the axis direction that the 16-type code depends on.",
+  "Top-3 with reasons follows the official MBTI 'best-fit type' practice (Myers, McCaulley, Quenk & Hammer 1998), where the reported type is a hypothesis the person checks. With 39–76% retest instability, three ranked candidates is the honest way to show uncertainty, not false precision.",
+  "Explanations built from the respondent's own quoted choices, plus one strongest counter-answer, work against the Barnum/Forer effect (Forer 1949; Dickson & Kelly 1985). People accept generic descriptions anyway; specific evidence lets them check, and reject, the result. The mirror-type explanation and the MBTI-101 box (J/P = attitude of the extraverted function) correct the most common misunderstandings of the letters.",
+  "New contexts x/f/q: contextualised (frame-of-reference) items predict better than generic ones (Lievens et al. 2008; Shaffer & Postlethwaite 2012), and personality shows up as a spread of behaviour across situations (Fleeson 2001). In Thailand friendship is a separate social arena from hierarchical family life (กตัญญู, เกรงใจ), so Fe and Fi look different there. Hobbies and taste are low-stakes areas where desirability pressure is weaker and Se/Ne/Fi show clearly.",
+  "The +40–50% bank is what makes the desirability-matching ladder work. Partners within 0.5 can be found for most statements, the running per-function balance stays even, and retakes see fewer repeated items, which reduces memory effects on retest.",
+  "SAFEGUARD (desirability): replace writer self-ratings with the mean of several independent Thai raters (this debate is the first step). Matching is imperfect for individuals (Heggestad et al. 2006), so log the choice rate of every pair and side in use and retire any chosen >80% one way. Before release, add realistic costs to the roughly 20 'nice-person' Fe/Te/Fi/Si lines flagged here (e.g. Fes3, Tek7, Sit3, BTeFit0).",
+  "SAFEGUARD (construct hygiene): lint for E/I leakage (e.g. EIar4 is really Se vs Ni), for a second function slipped into a statement (Nil5, Nit3, BTeFid0) and for repeated templates. Never pair a statement with an E/I-loaded partner. Randomise ก./ข. position per item so the 'same position ≥95%' flag catches straight-lining rather than content (Meade & Craig 2012), and add a too-fast-response flag.",
+  "SAFEGUARD (report): show 'picked n of m' only when m≥3. Quote only answers that were not พอ ๆ กัน. Always show the counter-evidence bullet. Label a 'close call' when the #1–#2 gap is small. Draw phase-2 rival items under the same desirability ladder, so the adaptive phase can overturn the phase-1 leader instead of confirming it.",
+  "SAFEGUARD (validation): run a Thai cognitive pretest (think-aloud, about 8–10 people) on the new contexts and the rewritten items. Pilot a 2–4 week retest. If any comparison between people is ever reported, rescore with Thurstonian IRT (Brown & Maydeu-Olivares 2011) rather than raw ipsative sums."
+ ]
+}
