@@ -451,8 +451,8 @@ ul.letters b { color: var(--fg); font-weight: 800; }
 .cmp2 b { color: var(--fg); }
 .handle { color: var(--muted); }
 details.fold > summary { font-weight: 600; }
-/* โลโก้ FirstThread: แสดงตามไฟล์ต้นฉบับ ไม่ตัดมุม ไม่ใส่ฟิลเตอร์ */
-.brand img, .handle img, .ftcta img { border-radius: 0; filter: none; object-fit: contain; }
+/* โลโก้ FirstThread: ไฟล์ต้นฉบับ ตัดมุมมนแบบ app icon (รัศมี ~22.5% ของขนาด) ไม่ใส่ฟิลเตอร์ */
+.brand img, .handle img, .ftcta img { border-radius: 22.5%; filter: none; object-fit: contain; }
 @media (prefers-reduced-motion: reduce) { .btn { transition: none; } }
 @media (max-width: 400px) { .card { padding: 22px 18px; } .card.result > div, .card.result > .eibox { padding: 20px 16px; } }
 </style>
@@ -3383,7 +3383,11 @@ function fix(v) { return Math.abs(v) < 0.05 ? "0.0" : (v >= 0 ? "+" : "−") + M
         x.fillStyle = "#7A5761"; x.font = "500 28px " + B;
         wrapLines(x, "แบบสะท้อนตัวเองจากฟังก์ชันการคิด 8 แบบ ไม่ใช่แบบทดสอบ MBTI ทางการ และไม่ใช่การวินิจฉัย", 820).forEach(function (l, i) { x.fillText(l, W / 2, 1545 + i * 46); });
         x.fillStyle = "#FFFFFF"; x.font = "600 50px " + D; x.fillText("ลองทำแล้วมาเทียบกัน", W / 2, 1730);
-        if (icon) x.drawImage(icon, W / 2 - 250, 1785, 72, 72);
+        if (icon) {
+          x.save(); x.beginPath();
+          if (x.roundRect) x.roundRect(W / 2 - 250, 1785, 72, 72, 16); else x.rect(W / 2 - 250, 1785, 72, 72);
+          x.clip(); x.drawImage(icon, W / 2 - 250, 1785, 72, 72); x.restore();
+        }
         x.textAlign = "left"; x.font = "600 46px " + D; x.fillText("@firstthread.app", W / 2 - 160, 1838);
         return cv;
     }
