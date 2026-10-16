@@ -1,4 +1,4 @@
-<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<!doctype html><html lang="th"><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
 <title>คุณเป็นไทป์ไหน</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -238,7 +238,7 @@ body { background: radial-gradient(120% 60% at 100% 0%, var(--glow), transparent
 .handle a { color: var(--hl); font-weight: 600; text-decoration: none; }
 .setup-h { font-family: var(--font-display); font-weight: 600; font-size: 20px; margin: 4px 0 0; }
 .steps3 + .setup-h { padding-top: 6px; border-top: 1px dashed var(--line); }
-/* ---- rev9: หัวข้อหลัก I/E ---- */
+/* ---- rev9: ข้อถามตรงเรื่อง I/E ---- */
 .eibox { display: flex; flex-direction: column; gap: 10px; background: var(--accent-soft); border-radius: 16px; padding: 16px; }
 .eibox p { margin: 0; }
 .eiscale { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 8px; font-family: var(--font-display); font-weight: 600; font-size: 13px; color: var(--hl); }
@@ -1090,7 +1090,7 @@ Object.keys(BIP_CTX8).forEach(function (c) {
   });
 });
 
-/* ---------- rev9: หัวข้อหลัก I/E (วัดตรง ใส่ทุกชุด ไม่ว่าจะเลือกเรื่องอะไร) ----------
+/* ---------- rev9: ข้อถามตรงเรื่อง I/E (วัดตรง ใส่ทุกชุด ไม่ว่าจะเลือกเรื่องอะไร) ----------
    นิยามตามผู้จัดพิมพ์ MBTI: E–I คือทิศทางของพลังงานและความสนใจ (โลกภายนอก: ผู้คนและกิจกรรม / โลกภายใน: ความคิดและความรู้สึก) ไม่ใช่ความขี้อาย
    แบ่งเป็น 6 กลุ่ม: พลังงาน + 5 ด้านย่อยที่ MBTI Step II ใช้ (ชื่อด้านเผยแพร่สาธารณะ ส่วนข้อคำถามเขียนใหม่ทั้งหมด ไม่ได้คัดลอกจาก Step II)
    ทุกข้อเป็นแบบเลือกข้าง [ฝั่ง E, ฝั่ง I] เขียนให้น่าเลือกพอ ๆ กัน (งานวิเคราะห์อภิมานพบว่าข้อเลือกข้างที่ถ่วงความน่าปรารถนาแล้ว ถูกบิดจากการตอบให้ดูดีน้อยกว่าข้อแบบให้คะแนน) */
@@ -1173,7 +1173,7 @@ FUNCS.forEach(function (f) {
 });
 
 var FNAME = {
-  Ni: "หยั่งรู้ทิศทาง", Ne: "เปิดความเป็นไปได้", Si: "ความทรงจำและแบบแผน", Se: "อยู่กับปัจจุบัน",
+  Ni: "มองภาพทิศทาง", Ne: "เปิดความเป็นไปได้", Si: "ความทรงจำและแบบแผน", Se: "อยู่กับปัจจุบัน",
   Ti: "ตรรกะภายใน", Te: "ระบบและประสิทธิภาพ", Fi: "ค่านิยมภายใน", Fe: "ความกลมกลืนของกลุ่ม"
 };
 var ROLE = ["หลัก", "รอง", "ตติยภูมิ", "ด้อย"];
@@ -1248,20 +1248,19 @@ var SCALE = [
 ];
 
 var REFS = [
-  { t: "Hays และคณะ (2010) ทดลองให้/ไม่ให้ย้อนกลับในแบบสอบถามสุขภาพ 112 ข้อ (N=807) ไม่พบความต่างด้านข้อมูลที่ขาด ความเชื่อถือได้ หรือคะแนน", u: "https://escholarship.org/uc/item/3557w1mn", lv: "ตรวจแล้ว" },
+  { t: "Hays และคณะ (2010) ทดลองให้/ไม่ให้ย้อนกลับในแบบสอบถามสุขภาพ 112 ข้อ (N=807) ไม่พบความต่างด้านข้อมูลที่ขาด ความเชื่อถือได้ หรือคะแนน", u: "https://escholarship.org/uc/item/3557w1mn", lv: "ตรวจในรุ่นก่อน ไม่ได้ตรวจซ้ำในรุ่นนี้" },
   { t: "Myers & Briggs Foundation, ภาพรวม Type Dynamics (ลำดับหน้าที่หลัก/รองของแต่ละประเภท)", u: "https://www.myersbriggs.org/unique-features-of-myers-briggs/type-dynamics-overview/", lv: "ตรวจแล้ว · ผู้จำหน่ายเครื่องมือ" },
   { t: "Myers & Briggs Foundation, จรรยาบรรณการใช้ MBTI (ไม่ใช้ผลเพื่อตีตราหรือจำกัดคน และยืนยันประเภทที่เหมาะสมร่วมกับผู้ให้บริการที่ได้รับการรับรอง)", u: "https://www.myersbriggs.org/using-type-as-a-professional/mbti-code-of-ethics/", lv: "ตรวจแล้ว · ผู้จำหน่ายเครื่องมือ" },
-  { t: "Stothart (2019) สไลด์ประชุม BAPT ที่แสดงการจัดกลุ่มสไตล์ของ Berens", u: "https://www.bapt.org.uk/wp-content/uploads/2019/05/Conference-keynote-for-BAPT-site.pdf", lv: "ตรวจแล้ว · ผู้ปฏิบัติ" },
+  { t: "Stothart (2019) สไลด์ประชุม BAPT ที่แสดงการจัดกลุ่มสไตล์ของ Berens", u: "https://www.bapt.org.uk/wp-content/uploads/2019/05/Conference-keynote-for-BAPT-site.pdf", lv: "ตรวจในรุ่นก่อน ไม่ได้ตรวจซ้ำในรุ่นนี้" },
   { t: "Erford และคณะ (2025) สรุปงานทบทวน 25 ปีของ MBTI Form M (193 งานวิจัย, ผู้เข้าร่วม 57,170 คน, ความสอดคล้องภายใน .845–.921)", u: "https://www.myersbriggs.org/research-and-library/journal-psychological-type/a-25-year-review-and-psychometric-synthesis-of-the-myers-briggs-type-indicator-form-m/", lv: "ตรวจแล้ว · สรุปโดยผู้จำหน่าย" },
   { t: "Wikipedia, Myers–Briggs Type Indicator (ภาพรวมข้อวิจารณ์ด้านความเที่ยงเมื่อทำซ้ำ; ตัวเลข 39–76% ที่มักอ้างกัน ทีมค้นคว้ายังยืนยันกับต้นฉบับของ Pittenger ไม่ได้ จึงไม่ใช้ตัวเลขนี้แล้ว)", u: "https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator", lv: "แหล่งรอง" },
   { t: "Wikipedia, Keirsey Temperament Sorter (การจัดกลุ่ม SP/SJ/NF/NT; ไม่ได้เปิดหนังสือต้นฉบับปี 1978)", u: "https://en.wikipedia.org/wiki/Keirsey_Temperament_Sorter", lv: "แหล่งรอง" },
   { t: "Wikipedia, Ipsative (คะแนนที่รวมเป็นค่าคงที่ เทียบข้ามคนไม่ได้)", u: "https://en.wikipedia.org/wiki/Ipsative", lv: "แหล่งรอง" },
-  { t: "McCrae & Costa (1989) วารสาร Journal of Personality 57(1) วิจารณ์การตีความทฤษฎีของ Jung ใน MBTI (อ่านระดับบทคัดย่อ)", u: "https://scholars.duke.edu/publication/1458465", lv: "บทคัดย่อเท่านั้น" },
   { t: "MBTI Step II: บทความของผู้จำหน่าย และคู่มือเสริมของ CPP (ต้นแหล่งตัวเลขความเชื่อถือได้ของแต่ละ facet)", u: "https://www.themyersbriggs.com/en-US/Access-Resources/Articles/the-mbti-step-ii-assessment", lv: "ผู้จำหน่ายเครื่องมือ · ไม่ได้ตรวจซ้ำ" },
-  { t: "16Personalities, ทฤษฎีของเว็บไซต์ (ระบุว่าไม่ได้ใช้แนวคิดของ Jung)", u: "https://www.16personalities.com/articles/our-theory", lv: "ตรวจแล้ว" },
-  { t: "แบบวัดบุคลิกภาพ IPIP ฉบับภาษาไทย (วารสารจุฬาฯ) 60 ข้อ 4 โดเมน ผู้ตอบ 1,080 คน นักศึกษา ค่าอัลฟา .67–.90", u: "https://digital.car.chula.ac.th/clmjournal/vol57/iss1/9", lv: "ตรวจแล้ว" },
-  { t: "The Myers-Briggs Company, World Introvert Day: นิยาม E–I ว่าเป็นที่มาของพลังงานและทิศทางความสนใจ ไม่ใช่ความขี้อาย และชื่อด้านย่อย 5 ด้านของ Step II (ใช้ตั้งโครงหัวข้อหลัก I/E ข้อคำถามเขียนใหม่)", u: "https://www.themyersbriggs.com/en-us/access-resources/articles/world-introvert-day-introversion-in-depth", lv: "ตรวจแล้ว 2026-10-14 · ผู้จำหน่ายเครื่องมือ" },
-  { t: "Cao & Drasgow (2019) Journal of Applied Psychology 104(11) วิเคราะห์อภิมาน: แบบเลือกข้างถูกบิดจากการตอบให้ดูดีน้อยกว่าข้อแบบให้คะแนน (d = 0.06) · ศึกษาในบริบทสมัครงาน และได้ผลดีกว่าเมื่อคิดคะแนนแบบ normative ซึ่งหน้านี้ไม่ได้ใช้", u: "https://www.Gwern.net/doc/psychology/personality/2019-cao.pdf", lv: "ตรวจแล้ว 2026-10-14" },
+  { t: "16Personalities, ทฤษฎีของเว็บไซต์ (ระบุว่าไม่ได้ใช้แนวคิดของ Jung)", u: "https://www.16personalities.com/articles/our-theory", lv: "ตรวจในรุ่นก่อน ไม่ได้ตรวจซ้ำในรุ่นนี้" },
+  { t: "แบบวัดบุคลิกภาพ IPIP ฉบับภาษาไทย (วารสารจุฬาฯ) 60 ข้อ 4 โดเมน ผู้ตอบ 1,080 คน นักศึกษา ค่าอัลฟา .67–.90", u: "https://digital.car.chula.ac.th/clmjournal/vol57/iss1/9", lv: "ตรวจแล้ว · บทคัดย่อเท่านั้น" },
+  { t: "The Myers-Briggs Company, World Introvert Day: นิยาม E–I ว่าเป็นที่มาของพลังงานและทิศทางความสนใจ ไม่ใช่ความขี้อาย และชื่อด้านย่อย 5 ด้านของ Step II (ใช้ตั้งโครงข้อถามตรงเรื่อง I/E ข้อคำถามเขียนใหม่)", u: "https://www.themyersbriggs.com/en-us/access-resources/articles/world-introvert-day-introversion-in-depth", lv: "ตรวจแล้ว 2026-10-14 · ผู้จำหน่ายเครื่องมือ" },
+  { t: "Cao & Drasgow (2019) Journal of Applied Psychology 104(11) วิเคราะห์อภิมาน: แบบเลือกข้างถูกบิดจากการตอบให้ดูดีน้อยกว่าข้อแบบให้คะแนน (d = 0.06) · ศึกษาในบริบทสมัครงาน และได้ผลดีกว่าเมื่อคิดคะแนนแบบ normative ซึ่งหน้านี้ไม่ได้ใช้", u: "https://doi.org/10.1037/apl0000414", lv: "ตรวจแล้ว 2026-10-14 · บทคัดย่อ" },
   { t: "Havan & Kohút (2023) Studia Psychologica 65(2): ความเป็น extravert ถูกมองว่าน่าปรารถนาทางสังคม คะแนนสูงขึ้นเมื่อสั่งให้ตอบแบบสมัครงาน (d = 0.58)", u: "https://journals.savba.sk/index.php/studiapsychologica/article/download/911/421", lv: "ตรวจแล้ว 2026-10-14" },
   { t: "มูลนิธิ Myers & Briggs: นิยามกระบวนการทั้ง 8 (Se ประสบ, Si ระลึก, Ne ระดมความคิด, Ni มองภาพอนาคต, Te จัดระบบ, Ti วิเคราะห์, Fe สร้างความกลมกลืน, Fi ยึดคุณค่า) และกฎว่าตัวอักษร J/P บอกกระบวนการที่แสดงออกภายนอก", u: "https://www.myersbriggs.org/unique-features-of-myers-briggs/type-dynamics-processes/", lv: "ตรวจแล้ว 2026-10-16 · หน้าเว็บมูลนิธิผู้พัฒนา (ไม่ระบุวันที่)" },
   { t: "มูลนิธิ Myers & Briggs: ค่าความเที่ยงแบบสอบซ้ำของ MBTI Step I อยู่ที่ 0.81–0.86 (คู่มือ 2018, n=1,721) แต่เป็นค่าระดับ 4 มิติ ไม่ใช่ระดับฟังก์ชันรายตัว และหลักฐานส่วนใหญ่มาจากผู้จัดพิมพ์เอง", u: "https://myersbriggs.org/research-and-library/validity-reliability/", lv: "ตรวจแล้ว 2026-10-16 · หน้าเว็บมูลนิธิผู้พัฒนา (มีส่วนได้เสีย)" },
@@ -1272,7 +1271,7 @@ var REFS = [
   { t: "Stein & Swan (2019): ทฤษฎีเบื้องหลัง MBTI ไม่สอดคล้องกับข้อมูลที่รู้แล้ว ทดสอบไม่ได้ และขัดแย้งในตัวเอง จึงควรระบุว่าแบบทดสอบนี้เป็นกรอบสะท้อนตนเอง ไม่ใช่เครื่องมือวินิจฉัย", u: "https://doi.org/10.1111/spc3.12434", lv: "ตรวจแล้ว 2026-10-16 · บทความทบทวน peer-reviewed (บทคัดย่อผ่าน Crossref)" },
   { t: "Dickson & Kelly (1985) ทบทวนปรากฏการณ์ Barnum: คนยอมรับคำบรรยายบุคลิกกว้าง ๆ ว่าตรงกับตนมากขึ้นเมื่อเป็นเชิงบวกและดูเกี่ยวกับตน รายงานจึงควรอ้างคำตอบจริงและระบุจุดอ่อนที่เฉพาะเจาะจง", u: "https://doi.org/10.2466/pr0.1985.57.2.367", lv: "ตรวจแล้ว 2026-10-16 · บทความทบทวน peer-reviewed (บทคัดย่อผ่าน Crossref)" },
   { t: "Zenisky, O'Donnell & Hambleton (2025) บทรายงานผลคะแนนใน Educational Measurement ฉบับที่ 5: รายการตรวจรายงานผล เช่น บอกความคลาดเคลื่อนของคะแนน กันการตีความผิด เลี่ยงศัพท์เทคนิค ไม่ตีตรา และเชื่อมผลกับสิ่งที่ทำต่อได้", u: "https://ncme.org/wp-content/uploads/2026/01/Educational-Measurement-Fifth-Edition-Chapter-13.pdf", lv: "ตรวจแล้ว 2026-10-16 · บทในตำรามาตรฐาน (OUP/NCME) ฉบับเต็ม" },
-  { t: "Harzing (2006) และงานต่อเนื่อง: รูปแบบการตอบ เช่น ตอบเห็นด้วยไว้ก่อน หรือตอบกลาง ๆ ต่างกันมากตามวัฒนธรรมและสัมพันธ์กับระยะห่างเชิงอำนาจและความเป็นกลุ่มนิยม ส่วนการให้จัดอันดับขจัดรูปแบบการตอบเหล่านี้ได้", u: "https://harzing.com/blog/2017/02/what-if-fully-agree-doesnt-mean-the-same-thing-across-cultures", lv: "ตรวจแล้ว 2026-10-16 · สรุปโดยผู้วิจัยเอง (อ้างงาน peer-reviewed)" },
+  { t: "Harzing (2006) และงานต่อเนื่อง: รูปแบบการตอบ เช่น ตอบเห็นด้วยไว้ก่อน หรือตอบกลาง ๆ ต่างกันมากตามวัฒนธรรมและสัมพันธ์กับระยะห่างเชิงอำนาจและความเป็นกลุ่มนิยม ส่วนการให้จัดอันดับขจัดรูปแบบการตอบเหล่านี้ได้ (หน้านี้ใช้สเกล 5 ระดับที่มีตัวเลือกกลาง จึงยังตอบกลาง ๆ ได้ และมีธงเตือนเมื่อตอบกลางมาก)", u: "https://harzing.com/blog/2017/02/what-if-fully-agree-doesnt-mean-the-same-thing-across-cultures", lv: "ตรวจแล้ว 2026-10-16 · สรุปโดยผู้วิจัยเอง (อ้างงาน peer-reviewed)" },
   { t: "Fischer (2021) ศึกษาตัวอย่างไทย (N=212 และ 201): โครงสร้าง Big Five จาก Mini-IPIP ไม่ซ้ำแบบตะวันตก และข้อแบบ 'คุยกับคนมากมายในงานเลี้ยง' มีนัยเชิงลบในบริบทไทย จึงต้องทดสอบนัยความน่าพึงปรารถนาของถ้อยคำกับผู้อ่านไทย", u: "https://doi.org/10.21827/ijpp.7.37978", lv: "ตรวจแล้ว 2026-10-16 · บทความวิจัย peer-reviewed ฉบับเต็ม (open access)" },
   { t: "Greenberg และคณะ (2022) ศึกษา 356,649 คนใน 53 ประเทศ: บุคลิกภาพสัมพันธ์กับรสนิยมดนตรีคล้ายกันข้ามประเทศ เช่น คนเปิดรับประสบการณ์ชอบดนตรีซับซ้อน คนแสดงตัวชอบดนตรีจังหวะสนุก จึงควรถามรสนิยมผ่านคุณลักษณะของดนตรี ไม่ใช่ชื่อแนวเพลง", u: "https://pubmed.ncbi.nlm.nih.gov/35130023/", lv: "ตรวจแล้ว 2026-10-16 · บทความวิจัย peer-reviewed (บทคัดย่อผ่าน PubMed)" },
   { t: "Kang (2023) ข้อมูล UKHLS (N=32,990 / 22,383): จำนวนเพื่อนสนิทสัมพันธ์กับการแสดงตัว ความเป็นมิตร และการเปิดรับประสบการณ์ จึงควรถามว่าทำอะไรกับเพื่อน มากกว่าถามจำนวนเพื่อน เพื่อไม่ให้ปนกับ E/I", u: "https://pubmed.ncbi.nlm.nih.gov/37591156/", lv: "ตรวจแล้ว 2026-10-16 · บทความวิจัย peer-reviewed (บทคัดย่อผ่าน PubMed)" },
@@ -1290,7 +1289,7 @@ var DISCLAIMERS = [
   "เหตุผลของ 3 อันดับแรกยกตัวอย่างจากข้อที่คุณตอบชัดที่สุด ไม่ใช่ทุกข้อ และใส่ข้อที่ค้านไว้ด้วย ถ้าอ่านแล้วรู้สึกว่า “ตรงกับทุกคน” ให้ดูที่ตัวเลขและข้อที่ยกมา ไม่ใช่คำบรรยาย",
   "ข้อช่วงที่ 2 ถูกเลือกจากคำตอบช่วงแรกของคุณเอง จึงไม่ใช่การทดสอบอิสระ “สอดคล้อง” แปลว่าคุณตอบสองช่วงไปทางเดียวกัน ไม่ได้แปลว่าผลถูกต้อง ผลทั้งหมดคำนวณด้วยโค้ดในหน้านี้ ไม่มี AI วิเคราะห์ตอนคุณทำ และเกณฑ์ตัดสินของช่วงที่ 2 ตั้งขึ้นเองแล้วทดลองกับผู้ตอบจำลองเท่านั้น ไม่ใช่ข้อมูลคนจริง",
   "การจัดกลุ่ม Keirsey และ Berens เป็นเพียงการจัดตัวอักษรของคุณใหม่ ไม่ได้เพิ่มการวัด",
-  "หัวข้อหลัก I/E ถามตรงทุกชุด 8 ข้อ (+3 ข้อในช่วงที่ 2) ไม่ว่าคุณจะเลือกเรื่องอะไร แต่ตัวอักษร I/E ในผลยังรวมกับคะแนนฟังก์ชันด้วย และข้อชุดนี้เขียนใหม่ ยังไม่ผ่านการทดสอบกับคนจริง",
+  "ข้อถามตรงเรื่อง I/E ถามตรงทุกชุด 8 ข้อ (+3 ข้อในช่วงที่ 2) ไม่ว่าคุณจะเลือกเรื่องอะไร แต่ตัวอักษร I/E ในผลยังรวมกับคะแนนฟังก์ชันด้วย และข้อชุดนี้เขียนใหม่ ยังไม่ผ่านการทดสอบกับคนจริง",
   "ข้อเรื่องหุ้นและการลงทุนถามถึงวิธีคิดของคุณ ไม่ใช่คำแนะนำการลงทุน",
   "อย่าใช้ผลนี้ตีตรา ตัดสิน หรือจำกัดตัวคุณเองหรือผู้อื่น",
   "สิ่งที่คุณตอบไม่ถูกส่งออกจากหน้านี้ แหล่งอ้างอิงตรวจเมื่อ 2026-10-13 ถึง 2026-10-16 และไม่อัปเดตอัตโนมัติ"
@@ -1325,7 +1324,7 @@ function shuffle(arr, rnd) {
 /* ---------- rev11: ทุกข้อเป็นแบบสองตัวเลือก (ก./ข.) 100% ----------
    ยกเลิกข้อ “ตรงกับฉันแค่ไหน” (ข้อความเดียว) ทั้งหมด ข้อความรายหน้าที่ยังอยู่ในคลัง แต่ใช้เป็นวัตถุดิบของข้อเลือกข้างหลายหน้าที่ (MFC) เท่านั้น
    MFC = ข้อความของสองหน้าที่ต่างกันในเรื่องเดียวกัน ที่คะแนนความน่าปรารถนาใกล้กัน ให้เลือกว่าข้อไหนเป็นคุณมากกว่า
-   ช่วงที่ 1 = MFC (m ข้อ) + ข้อเลือกข้างคู่ตรงข้าม (bp ข้อต่อคู่ x 4 คู่) + หัวข้อหลัก I/E 8 ข้อ
+   ช่วงที่ 1 = MFC (m ข้อ) + ข้อเลือกข้างคู่ตรงข้าม (bp ข้อต่อคู่ x 4 คู่) + ข้อถามตรงเรื่อง I/E 8 ข้อ
    ความยาวเดิม 56 / 64 / 84 / 92 ข้อ คงไว้ (16–24 ข้อที่เคยเป็นแบบให้คะแนน ถูกแทนด้วย MFC และข้อคู่ตรงข้ามเพิ่ม) */
 var LENS = [56, 64, 84, 92];
 var LEN_SPEC = {
@@ -1447,8 +1446,8 @@ function pickSurprise(seed, chosen, n) {
 /* เลือกข้อเลือกข้างของคู่ key: ข้อรายบริบทจากเรื่องที่ใช้อยู่ไม่เกินครึ่ง (ปัดขึ้น) ที่เหลือเป็นข้อทั่วไป
    ไม่ใช้ข้อของเรื่องที่ไม่ได้เลือกหรือถูกข้าม ถ้าข้อทั่วไปหมดจึงเติมด้วยข้อรายบริบทที่เหลือ */
 function bipPool(key, live, used, dropped, n, rnd, avoidCtx) {
-  /* rev11: ข้อคู่ตรงข้ามที่สองฝั่งน่าปรารถนาต่างกันเกิน 0.6 (ตามแผงผู้ให้คะแนน) ไม่ใช้ */
-  var ok = function (b) { var r = typeof DES_BIP !== "undefined" && DES_BIP[b.id]; return b.pair === key && !used[b.id] && dropped.indexOf(b.c) < 0 && !(r && Math.abs(r[0] - r[1]) > 0.6); };
+  /* rev11: ข้อคู่ตรงข้ามที่สองฝั่งน่าปรารถนาต่างกันเกิน 0.5 (ตามแผงผู้ให้คะแนน) ไม่ใช้ */
+  var ok = function (b) { var r = typeof DES_BIP !== "undefined" && DES_BIP[b.id]; return b.pair === key && !used[b.id] && dropped.indexOf(b.c) < 0 && !(r && Math.abs(r[0] - r[1]) > 0.5); };
   var ctxB = shuffle(BIPS.filter(function (b) { return ok(b) && b.c !== "o" && live.indexOf(b.c) >= 0; }), rnd);
   if (avoidCtx) ctxB = ctxB.filter(function (b) { return b.c !== avoidCtx; }).concat(ctxB.filter(function (b) { return b.c === avoidCtx; }));
   var gen = shuffle(BIPS.filter(function (b) { return ok(b) && b.c === "o"; }), rnd);
@@ -1458,7 +1457,7 @@ function bipPool(key, live, used, dropped, n, rnd, avoidCtx) {
   if (out.length < n) out = out.concat(rest.slice(0, n - out.length));
   return out;
 }
-/* ชุดคำถาม rev11: ข้อเลือกข้างหลายหน้าที่ (MFC) + ข้อเลือกข้างคู่ตรงข้าม (bp ข้อต่อคู่) + หัวข้อหลัก I/E 8 ข้อ ไม่มีข้อแบบข้อความเดียว */
+/* ชุดคำถาม rev11: ข้อเลือกข้างหลายหน้าที่ (MFC) + ข้อเลือกข้างคู่ตรงข้าม (bp ข้อต่อคู่) + ข้อถามตรงเรื่อง I/E 8 ข้อ ไม่มีข้อแบบข้อความเดียว */
 function buildSet(seed, ctxList, L, sur) {
   var S = LEN_SPEC[L]; if (!S) return [];
   sur = (sur || []).filter(function (c) { return ctxList.indexOf(c) < 0; });
@@ -1479,7 +1478,7 @@ function buildSet(seed, ctxList, L, sur) {
   var eis = [], eCum = 0;
   shuffle(EI_GROUPS, rnd).forEach(function (G) {
     for (var n = 0; n < (EI_MAIN[G.g] || 0); n++) {
-      var cand = shuffle(EIS.filter(function (x) { return x.g === G.g && !used[x.id]; }), rnd)
+      var cand = shuffle(EIS.filter(function (x) { return x.g === G.g && !used[x.id] && Math.abs(eiGap(x.id)) <= 0.6; }), rnd)
         .sort(function (x, y) { return Math.abs(eCum + eiGap(x.id)) - Math.abs(eCum + eiGap(y.id)); });
       if (!cand.length) break;
       used[cand[0].id] = 1; eCum += eiGap(cand[0].id); eis.push(orientEI(cand[0], rnd() < 0.5));
@@ -1671,7 +1670,7 @@ function t3(code, c) {
   var x = partner(STACKS[code][1]).charAt(0);
   return (c[x + "e"] + c[x + "i"]) / 2;
 }
-/* หัวข้อหลัก I/E: บวกคะแนน W_EI x ค่าเฉลี่ย I/E (−2..2) ให้ประเภท E และลบให้ประเภท I
+/* ข้อถามตรงเรื่อง I/E: บวกคะแนน W_EI x ค่าเฉลี่ย I/E (−2..2) ให้ประเภท E และลบให้ประเภท I
    W_EI ตั้งจากการจำลองผู้ตอบ (ดู rev9) ไม่ใช่จากข้อมูลคนจริง ถ้าไม่ส่งค่า I/E มา จะคิดจากข้อฟังก์ชันอย่างเดียว */
 var W_EI = 0.2;
 /* |ค่าเฉลี่ย I/E| ต่ำกว่า 0.5 ถือว่ากลาง ๆ (8 ข้อ ค่าคลาดเคลื่อนมาตรฐานราว 0.4 ตามการประมาณของผู้ตรวจ) */
@@ -1706,7 +1705,8 @@ function assess(rank) {
 }
 /* rev11: ความนิ่งของผล (แนวคิดเดียวกับ Probability Index ของ MBTI Global 2026 แต่ค่าที่นี่มาจากการจำลองผู้ตอบ ไม่ใช่ข้อมูลคนจริง)
    p = สัดส่วนผู้ตอบจำลองที่ได้อันดับ 1 เดิมเมื่อทำชุดใหม่ซ้ำ จัดกลุ่มตามส่วนต่างอันดับ 1 กับอันดับ 2 (tools/calib.js) */
-var RETEST = [[0.1, 41, "ต่ำ"], [0.2, 62, "ค่อนข้างต่ำ"], [0.35, 77, "ปานกลาง"], [0.5, 89, "ค่อนข้างสูง"], [1e9, 97, "สูง"]];
+/* ค่าจากแบบจำลองผู้ตอบที่โหดกว่า (เอนตามความน่าปรารถนา สุ่มแกว่งมาก) ซึ่งให้ค่าต่ำกว่าแบบจำลองอ่อน จึงใช้เป็นค่าระมัดระวัง */
+var RETEST = [[0.1, 40, "ต่ำ"], [0.2, 50, "ค่อนข้างต่ำ"], [0.35, 65, "ปานกลาง"], [0.5, 80, "ค่อนข้างสูง"], [1e9, 95, "สูง"]];
 function stabilityOf(rank) {
   var m = rank[0].score - rank[1].score;
   for (var i = 0; i < RETEST.length; i++) if (m < RETEST[i][0]) return { m: m, p: RETEST[i][1], label: RETEST[i][2], level: i };
@@ -1846,14 +1846,21 @@ function explainType(code, k, S, set, answers) {
     var f = pr[0], t = fnTally(set, answers, f);
     var q = take(bestEv(ev, function (e) { return notUsed(e) && !e.ei && e.cf === f; }));
     out.bullets.push({ kind: pr[1] === "หน้าที่หลัก" ? "dom" : "aux", f: f, role: pr[1], rank: rk(f), val: c[f], tally: t, quote: q,
-      fit: rk(f) <= 3 ? "fit" : (rk(f) <= 5 ? "mid" : "weak") });
+      fit: rk(f) <= 3 && c[f] >= 0.3 ? "fit" : (rk(f) <= 5 && c[f] >= 0 ? "mid" : "weak") });
   });
+  /* อันดับ 1 ที่หน้าที่รองได้คะแนนสูงกว่าหน้าที่หลัก: อธิบายว่าทำไมไม่ใช่ไทป์กระจก */
+  if (k === 0 && c[aux] > c[dom]) {
+    var mc = mirrorOf(code), mr = S.rank.filter(function (r) { return r.code === mc; })[0], eM0 = S.ei && S.ei.n ? S.ei.m : 0;
+    out.bullets.push({ kind: "flip", mirror: mc, dom: dom, aux: aux, vd: c[dom], va: c[aux], gap: mr ? top.score - mr.score : 0,
+      eiPart: Math.abs(W_EI * eM0 * 2) >= 0.05 && (eM0 > 0 ? "E" : "I") === code.charAt(0),
+      t3me: { f: partner(STACKS[code][1]).charAt(0), v: t3(code, c) }, t3mr: { f: partner(STACKS[mc][1]).charAt(0), v: t3(mc, c) } });
+  }
   /* I/E */
   if (S.ei && S.ei.n) {
     var L0 = code.charAt(0), m = S.ei.m, eiSide = Math.abs(m) < EI_MID ? null : (m > 0 ? "E" : "I");
     var qe = take(bestEv(ev, function (e) { return notUsed(e) && e.ei && e.cf === L0; }));
     var qx = qe ? null : take(bestEv(ev, function (e) { return notUsed(e) && e.ei && e.cf !== L0; }));
-    out.bullets.push({ kind: "ei", L: L0, m: m, side: eiSide, n: S.ei.n, fit: !eiSide ? "mid" : (eiSide === L0 ? "fit" : "weak"), quote: qe || qx, quoteAgainst: !qe && !!qx });
+    out.bullets.push({ kind: "ei", L: L0, fnL: rankTypes(c)[0].code.charAt(0), m: m, side: eiSide, n: S.ei.n, fit: !eiSide ? "mid" : (eiSide === L0 ? "fit" : "weak"), quote: qe || qx, quoteAgainst: !qe && !!qx });
   }
   /* หลักฐานที่ค้าน: ข้อที่ผู้ตอบเลือกฝั่งตรงข้ามกับหน้าที่หลักหรือรองอย่างชัดเจน */
   var against = function (e) { return notUsed(e) && !e.ei && (e.of === dom || e.of === aux) && e.cf !== dom && e.cf !== aux; };
@@ -1861,11 +1868,14 @@ function explainType(code, k, S, set, answers) {
   if (con) out.bullets.push({ kind: "con", f: con.of, quote: take(con), inf: inf });
   /* อันดับ 2–3: ทำไมตามหลังอันดับ 1 */
   if (k > 0 && top.code !== code) {
-    var T = STACKS[top.code], R = STACKS[code], why = { kind: "gap", top: top.code, gap: out.gap };
+    var T = STACKS[top.code], R = STACKS[code], why = { kind: "gap", top: top.code, code: code, gap: out.gap };
     if (mirrorOf(top.code) === code) { why.mode = "mirror"; why.a = T[0]; why.b = T[1]; why.va = c[T[0]]; why.vb = c[T[1]]; }
     else if (T[0] === R[0]) { why.mode = "aux"; why.a = T[1]; why.b = R[1]; why.va = c[T[1]]; why.vb = c[R[1]]; }
     else { why.mode = "dom"; why.a = T[0]; why.b = R[0]; why.va = c[T[0]]; why.vb = c[R[0]]; }
-    why.eiPart = Math.abs(W_EI * (S.ei && S.ei.n ? S.ei.m : 0) * 2) >= 0.05 && top.code.charAt(0) !== code.charAt(0);
+    var eM = S.ei && S.ei.n ? S.ei.m : 0;
+    /* I/E ช่วยอันดับ 1 จริงก็ต่อเมื่อค่าเอียงไปทางตัวอักษรของอันดับ 1 */
+    why.eiPart = Math.abs(W_EI * eM * 2) >= 0.05 && top.code.charAt(0) !== code.charAt(0) && (eM > 0 ? "E" : "I") === top.code.charAt(0);
+    why.t3top = { f: partner(STACKS[top.code][1]).charAt(0), v: t3(top.code, c) }; why.t3me = { f: partner(STACKS[code][1]).charAt(0), v: t3(code, c) };
     var h2h = bestEv(ev, function (e) { return !e.ei && ((e.cf === why.a && e.of === why.b) || (e.cf === why.b && e.of === why.a)); });
     why.quote = quoteOf(h2h);
     out.bullets.push(why);
@@ -1988,7 +1998,7 @@ function buildProbes(set, answers, seed, info) {
   /* 3) I/E: 3 ข้อ จากกลุ่มที่ช่วงแรกถามน้อยที่สุด */
   var gUsed = {}; EI_GROUPS.forEach(function (G) { gUsed[G.g] = 0; });
   set.forEach(function (q) { if (q.ei) gUsed[q.g]++; });
-  var eFree = shuffle(EIS.filter(function (x) { return !used[x.id]; }), rnd).sort(function (a, b) { return gUsed[a.g] - gUsed[b.g]; });
+  var eFree = shuffle(EIS.filter(function (x) { return !used[x.id] && Math.abs(eiGap(x.id)) <= 0.6; }), rnd).sort(function (a, b) { return gUsed[a.g] - gUsed[b.g]; });
   var eTaken = {};
   for (var ek = 0; ek < eFree.length && Object.keys(eTaken).length < EI_PROBE_N; ek++) {
     if (eTaken[eFree[ek].g]) continue;
@@ -2028,8 +2038,9 @@ function buildProbes(set, answers, seed, info) {
 
 /* ผลหลังช่วงที่ 2: รวมข้อยืนยันเข้ากับข้อหลัก แล้วตรวจว่ายืนยัน/ขัดแย้งกับผลเบื้องต้นหรือไม่ */
 var VERDICT_T = { mid: 1, exp: 0.15, expBip: 0.3 };
-var CH_T = { min: 8, rate: 0.8, gap: 0, margin: 0.5 };
-var CH_PREC = 92; /* ความแม่นของ “ยืนยันแล้ว” ในการจำลอง (ปรับจาก tools/calib2.js หลังได้คลังข้อสุดท้าย) */
+var CH_T = { min: 8, rate: 0.8, gap: 0, margin: 0.6 };
+var CH_COV = "1 ใน 20"; /* สัดส่วนผู้ตอบจำลองที่ผ่านเกณฑ์ */
+var CH_PREC = "91–96"; /* ความแม่นของ “ผ่านการเช็กซ้ำ” ในผู้ตอบจำลอง 3 แบบ แบบละ 4,800 คน (tools/calib2.js, calib2_hold.js, calib2_alt.js ซึ่งใช้น้ำหนักหน้าที่ต่างจากที่หน้านี้ใช้คิดคะแนน) */
 function verify(set, answers, mainN) {
   var mset = set.slice(0, mainN), mans = answers.slice(0, mainN);
   var pre = functionScores(mset, mans), preRank = rankTypes(pre.c, pre.ei), preA = assess(preRank);
@@ -2065,7 +2076,7 @@ function verify(set, answers, mainN) {
   }
   V.rows = rows; V.fn = fn;
   var tot = { confirm: 0, contradict: 0, mid: 0, neutral: 0, skip: 0 };
-  /* ข้อ I/E ไม่นับรวมในสถิติยืนยัน/ขัดแย้งของฟังก์ชัน (แยกแสดงในหัวข้อหลัก I/E) เพื่อไม่ให้ไปเจือจางสัดส่วนข้อที่ขัด */
+  /* ข้อ I/E ไม่นับรวมในสถิติยืนยัน/ขัดแย้งของฟังก์ชัน (แยกแสดงในข้อถามตรงเรื่อง I/E) เพื่อไม่ให้ไปเจือจางสัดส่วนข้อที่ขัด */
   var eiTot = { confirm: 0, contradict: 0, mid: 0, neutral: 0, skip: 0 };
   rows.forEach(function (r) { (r.q.ei ? eiTot : tot)[r.verdict]++; });
   V.eiTot = eiTot;
@@ -2109,7 +2120,7 @@ function verify(set, answers, mainN) {
   if (V.p2yes) flags.push("p2yes");
   if (V.p2flat) flags.push("p2flat");
   if (V.sideBias) flags.push("side");
-  /* หัวข้อหลัก I/E เทียบกับ I/E ที่ข้อฟังก์ชันชี้อย่างเดียว */
+  /* ข้อถามตรงเรื่อง I/E เทียบกับ I/E ที่ข้อฟังก์ชันชี้อย่างเดียว */
   var S = V.p2bad ? pre : post;
   var fnOnly = rankTypes(S.c)[0].code.charAt(0), shownL = (V.p2bad ? preRank : postRank)[0].code.charAt(0);
   var eiL = Math.abs(S.ei.m) < EI_MID ? null : (S.ei.m > 0 ? "E" : "I");
@@ -2131,17 +2142,17 @@ function verify(set, answers, mainN) {
   var fitCodes = V.preTop3.concat(V.postTop3, [mirrorOf(V.preTop3[0]), mirrorOf(lead0), flipLetter(lead0, 1), flipLetter(lead0, 2)]);
   fitCodes.forEach(function (code) { if (!V.fit[code]) V.fit[code] = { p1: typeFit(set, answers, code, 0, mainN), p2: typeFit(set, answers, code, mainN, set.length) }; });
   /* คำตัดสินจากข้อหาจุดค้าน: อันดับ 1 ต้องผ่านอย่างน้อย CH_T.rate ของข้อที่ตอบเอียง (≥ CH_T.min ข้อ) และนำไทป์คู่แข่งที่ดีที่สุด ≥ CH_T.gap
-     เกณฑ์ตั้งจากการจำลองผู้ตอบ (tools/calib2.js) ให้ผล “ยืนยันแล้ว” ตรงกับไทป์จริง ≥ 90% ในการจำลอง ไม่ใช่ข้อมูลคนจริง */
+     เกณฑ์ตั้งจากการจำลองผู้ตอบ (tools/calib2.js) ให้ผล “ผ่านการเช็กซ้ำ” ตรงกับไทป์จริง ≥ 90% ในการจำลอง ไม่ใช่ข้อมูลคนจริง */
   var lead = (V.p2bad ? preRank : postRank)[0].code, chL = typeFit(set, answers, lead, mainN, set.length);
   var rivalBest = 0, rivalCode = null;
   fitCodes.forEach(function (code) { if (code === lead) return; var r = typeFit(set, answers, code, mainN, set.length); if (r.inf >= 3 && r.rate > rivalBest) { rivalBest = r.rate; rivalCode = code; } });
   V.challenge = { lead: lead, fit: chL, rival: rivalCode, rivalRate: rivalBest };
   var showRank = V.p2bad ? preRank : postRank;
-  V.chOK = V.probeN > 0 && !V.p2bad && chL.inf >= CH_T.min && chL.rate >= CH_T.rate && chL.rate - rivalBest >= CH_T.gap && showRank[0].score - showRank[1].score >= CH_T.margin;
+  V.chOK = V.probeN > 0 && !V.p2bad && chL.inf >= CH_T.min && chL.rate >= CH_T.rate && chL.rate - rivalBest >= CH_T.gap && showRank[0].score - showRank[1].score >= CH_T.margin && !V.ei.conflict;
   if (V.probeN > 0 && !V.chOK) flags.push("chal");
   V.flags = flags;
   var partFlags = flags.filter(function (k) { return ["top_changed", "contra", "thin", "p2yes", "p2flat", "side", "eip2"].indexOf(k) >= 0; });
-  /* rev11: “ยืนยันแล้ว” ได้เฉพาะเมื่อผ่านเกณฑ์ข้อหาจุดค้าน (CH_T) เท่านั้น ธงอื่นยังแสดงเป็นรายละเอียด */
+  /* rev11: “ผ่านการเช็กซ้ำ” ได้เฉพาะเมื่อผ่านเกณฑ์ข้อหาจุดค้าน (CH_T) เท่านั้น ธงอื่นยังแสดงเป็นรายละเอียด */
   V.status = V.p2bad ? "partial" : (V.chOK ? "confirmed" : (!V.same1 ? "changed" : "close"));
   var topSt = STACKS[V.show.rank[0].code];
   V.topFnStatus = [topSt[0], topSt[1]].map(function (f) { return { f: f, s: V.fnStatus[f] }; });
@@ -2188,7 +2199,8 @@ if (typeof document !== "undefined") {
     function ctxList() { return CTX_ALL.filter(function (c) { return cfg.ctx[c]; }); }
     function repInfo() { return { chosen: usedChosen, sur: usedSur, dropped: usedDrop }; }
     function randomSeed() { return WORDS[Math.floor(Math.random() * WORDS.length)] + Math.floor(10 + Math.random() * 90); }
-    function fix(v) { return Math.abs(v) < 0.05 ? "0.0" : (v >= 0 ? "+" : "−") + Math.abs(v).toFixed(1); }
+    function gapTxt(g) { return g < 0.005 ? "<0.01" : g.toFixed(2); }
+function fix(v) { return Math.abs(v) < 0.05 ? "0.0" : (v >= 0 ? "+" : "−") + Math.abs(v).toFixed(1); }
     function names(list) { return list.map(function (c) { return CTX_NAME[c]; }).join(" · "); }
     function firstOpen() {
       for (var i = 0; i < answers.length; i++) if (answers[i] === null) return i;
@@ -2258,7 +2270,7 @@ if (typeof document !== "undefined") {
        · ถ้าอีกแท็บกำลังใช้รอบเดียวกันอยู่ (มีสัญญาณชีพภายใน 90 วินาที) แท็บนี้จะแยกเป็นรอบใหม่ที่คัดลอกคำตอบเดิมมา แทนที่จะเขียนทับกัน
        · ทุกการอ่าน/เขียนอยู่ใน try/catch ถ้าเบราว์เซอร์ปิด storage แบบทดสอบยังทำงานได้ แค่บันทึกไม่ได้ */
     var RUNS = "ft11_runs", TABRUN = "ft11_tabrun", MAXRUNS = 6, LIVE_MS = 90000;
-    var TAB = Math.random().toString(36).slice(2, 10) + Date.now().toString(36), runId = "";
+    var TAB = Math.random().toString(36).slice(2, 10) + Date.now().toString(36), runId = "", lineage = [], saveOK = true, mineLoaded = false;
     function newRunId() { return Date.now().toString(36) + Math.random().toString(36).slice(2, 8); }
     function readRuns() {
       try { var m = JSON.parse(localStorage.getItem(RUNS) || "{}"); return m && typeof m === "object" && !Array.isArray(m) ? m : {}; } catch (e) { return {}; }
@@ -2266,27 +2278,39 @@ if (typeof document !== "undefined") {
     function validRun(r) { return !!r && r.v === BANKV && typeof r.seed === "string" && Array.isArray(r.tape) && Date.now() - (r.at || 0) <= KEEP_DAYS * 864e5; }
     function writeRuns(m) {
       var out = {};
-      Object.keys(m).filter(function (k) { return validRun(m[k]); }).sort(function (a, b) { return m[b].at - m[a].at; }).slice(0, MAXRUNS)
+      /* รอบที่เป็นต้นทางของรอบที่แยกออกไปแล้ว (สำเนาเก่า) ถูกตัดก่อนรอบของคนอื่น */
+      var anc = {}; Object.keys(m).forEach(function (k) { ((m[k] && m[k].lin) || []).forEach(function (a) { anc[a] = 1; }); });
+      Object.keys(m).filter(function (k) { return validRun(m[k]); }).sort(function (a, b) { return (anc[a] ? 1 : 0) - (anc[b] ? 1 : 0) || m[b].at - m[a].at; }).slice(0, MAXRUNS)
         .forEach(function (k) { out[k] = m[k]; });
       try { localStorage.setItem(RUNS, JSON.stringify(out)); return true; } catch (e) { return false; }
     }
     function liveElsewhere(r) { return !!r && r.tab !== TAB && Date.now() - (r.beat || 0) < LIVE_MS; }
     function claim(id) { runId = id; try { sessionStorage.setItem(TABRUN, id); } catch (e) {} }
     function unclaim() { runId = ""; try { sessionStorage.removeItem(TABRUN); } catch (e) {} }
-    function forkRun(why) { claim(newRunId()); if (why) toast(why); }
+    function forkRun(why) { if (runId) lineage = lineage.concat([runId]).slice(-8); claim(newRunId()); if (why) toast(why); }
+    /* ปิดหรือรีเฟรชหน้า: ปล่อยรอบนี้ (สัญญาณชีพ = 0) แท็บเดิมที่รีเฟรชจึงรับรอบเดิมกลับได้ ส่วนแท็บที่ถูกทำซ้ำขณะแท็บเดิมยังเปิดอยู่จะยังแยกรอบตามปกติ */
+    function release() {
+      if (!runId) return;
+      var m = readRuns(), r = m[runId];
+      if (r && r.tab === TAB) { r.beat = 0; writeRuns(m); }
+    }
     function save() {
       if (!usedSeed) return;
       var m = readRuns();
       if (!runId) claim(newRunId());
       else if (liveElsewhere(m[runId])) forkRun("รอบนี้เปิดอยู่อีกแท็บ แท็บนี้จึงแยกเป็นรอบของตัวเอง (คำตอบเดิมคัดลอกมาแล้ว)");
       var now = Date.now();
-      m[runId] = { v: BANKV, seed: usedSeed, chosen: usedChosen, L: usedL, tape: tape, best: bestFit, cps: cps, ph: ph, at: now, beat: now, tab: TAB };
-      writeRuns(m);
+      m[runId] = { v: BANKV, seed: usedSeed, chosen: usedChosen, L: usedL, tape: tape, best: bestFit, cps: cps, ph: ph, at: now, beat: now, tab: TAB, lin: lineage };
+      var ok = writeRuns(m);
+      if (!ok && saveOK) toast("บันทึกในเครื่องนี้ไม่ได้ (เบราว์เซอร์ปิดการบันทึกหรือพื้นที่เต็ม) ทำต่อได้ตามปกติ แต่ถ้าจะพัก ให้เก็บลิงก์ทำต่อไว้");
+      saveOK = ok;
     }
     function wipe() {
       var m = readRuns();
-      if (runId && m[runId] && !liveElsewhere(m[runId])) { delete m[runId]; writeRuns(m); }
-      unclaim();
+      /* ลบรอบนี้และสำเนาต้นทางทั้งหมดของมัน (ที่ไม่มีแท็บอื่นใช้อยู่) */
+      [runId].concat(lineage, (m[runId] && m[runId].lin) || []).forEach(function (k) { if (k && m[k] && (k === runId || !liveElsewhere(m[k]))) delete m[k]; });
+      writeRuns(m);
+      unclaim(); lineage = [];
     }
     /* รอบที่จะเสนอให้ทำต่อ: รอบของแท็บนี้ก่อน (เช่น กดรีเฟรช) ไม่งั้นรอบล่าสุดที่ไม่มีแท็บอื่นใช้อยู่ */
     function loadLocal() {
@@ -2295,7 +2319,9 @@ if (typeof document !== "undefined") {
       var ids = Object.keys(m).filter(function (k) { return validRun(m[k]); });
       var pick = mine && ids.indexOf(mine) >= 0 ? mine : ids.filter(function (k) { return !liveElsewhere(m[k]); }).sort(function (a, b) { return m[b].at - m[a].at; })[0];
       if (!pick) return null;
-      if (liveElsewhere(m[pick])) forkRun("แบบทดสอบนี้เปิดอยู่อีกแท็บ แท็บนี้แยกเป็นรอบของตัวเอง เพื่อไม่ให้คำตอบทับกัน");
+      lineage = (m[pick].lin || []).slice();
+      mineLoaded = pick === mine && !liveElsewhere(m[pick]);
+      if (liveElsewhere(m[pick])) { runId = pick; forkRun("แบบทดสอบนี้เปิดอยู่อีกแท็บ แท็บนี้แยกเป็นรอบของตัวเอง เพื่อไม่ให้คำตอบทับกัน"); }
       else claim(pick);
       return m[pick];
     }
@@ -2309,6 +2335,8 @@ if (typeof document !== "undefined") {
     try {
       setInterval(heartbeat, 20000);
       document.addEventListener("visibilitychange", function () { if (!document.hidden) heartbeat(); });
+      window.addEventListener("pagehide", release);
+      window.addEventListener("pageshow", function (e) { if (e.persisted) heartbeat(); });
       /* อีกแท็บเขียนทับรอบเดียวกัน: แยกตัวทันที แล้วบันทึกสถานะของแท็บนี้ในรอบใหม่ */
       window.addEventListener("storage", function (e) {
         if (e.key !== RUNS || !runId || !usedSeed) return;
@@ -2348,7 +2376,12 @@ if (typeof document !== "undefined") {
       var seed; try { seed = unb64u(parts[2]); } catch (e) { return { err: "cut" }; }
       var L = LENS[Number(parts[3].charAt(0))], chosen = parts[3].slice(1).split("").filter(function (c) { return CTX_ALL.indexOf(c) >= 0; });
       var t = [], p = parts[4];
-      for (var i = 0; i < p.length; i++) { var c = p.charAt(i); if (c === "D" || c === "K") { t.push(c + p.charAt(i + 1)); i++; } else t.push(c); }
+      for (var i = 0; i < p.length; i++) {
+        var c = p.charAt(i);
+        if (c === "D" || c === "K") { if (CTX_ALL.indexOf(p.charAt(i + 1)) < 0) return { err: "bad" }; t.push(c + p.charAt(i + 1)); i++; }
+        else if ("01234n".indexOf(c) >= 0) t.push(c);
+        else return { err: "bad" };
+      }
       if (!L || !chosen.length) return { err: "bad" };
       return { seed: seed, chosen: chosen, L: L, tape: t };
     }
@@ -2404,7 +2437,7 @@ if (typeof document !== "undefined") {
             '<li><span class="n">3</span><div><b>มองตัวเองหลายมุม แล้วแชร์</b><span class="d">อ่านผล ประเภทที่ใกล้เคียง และชวนเพื่อนมาเทียบ</span></div></li></ol></div>' +
           '<details class="fold resumebox"><summary>มีรหัสหรือลิงก์ทำต่อ?</summary><div class="row"><input id="rcode" type="text" autocomplete="off" placeholder="วางลิงก์หรือรหัสทำต่อตรงนี้" aria-label="ลิงก์หรือรหัสทำต่อ"><button type="button" class="btn" id="rgo">ทำต่อ</button></div></details>' +
           '<h2 class="setup-h">สุ่มชุดคำถามของคุณ</h2>' +
-          '<p class="lead">ทุกข้อเป็นแบบ “เลือกข้าง” สองข้อความ ก. กับ ข. ที่เราพยายามเขียนให้น่าเลือกพอ ๆ กัน ไม่มีฝั่งไหนเป็นคำตอบของ “คนดี” (ความน่าเลือกประเมินโดยโมเดลภาษาสองทีมที่โต้แย้งกัน ยังไม่ได้วัดกับคนไทยจริง) ถ้าจริงทั้งคู่ ให้เลือกข้อที่เกิดกับคุณบ่อยกว่า ทุกชุดมี “หัวข้อหลัก I/E” 8 ข้อ จบช่วงที่ 1 ระบบคำนวณผลเบื้องต้นไว้แต่ยังไม่แสดง แล้วถามช่วงที่ 2 ราว 16 ข้อเพื่อเช็กซ้ำ · คำสุ่มเดิมกับตัวเลือกเดิมจะได้ช่วงที่ 1 ชุดเดิม</p>' +
+          '<p class="lead">ทุกข้อเป็นแบบ “เลือกข้าง” สองข้อความ ก. กับ ข. ที่เราพยายามเขียนให้น่าเลือกพอ ๆ กัน แต่บางคู่ (โดยเฉพาะฝั่งที่ใส่ใจความรู้สึกคนอื่น หรือฝั่งที่เป็นฝ่ายทักก่อน) อาจยังฟังดูดีกว่า ให้เลือกตามที่คุณทำจริงบ่อยกว่า ไม่ใช่ตามที่อยากเป็น (ความน่าเลือกประเมินโดยโมเดลภาษาสองทีมที่โต้แย้งกัน ยังไม่ได้วัดกับคนไทยจริง) ถ้าจริงทั้งคู่ ให้เลือกข้อที่เกิดกับคุณบ่อยกว่า ทุกชุดมี “ข้อถามตรงเรื่อง I/E” 8 ข้อ จบช่วงที่ 1 ระบบคำนวณผลเบื้องต้นไว้แต่ยังไม่แสดง แล้วถามช่วงที่ 2 อีกราว 13–16 ข้อ ที่จงใจหาจุดค้านของผลเบื้องต้น · คำสุ่มเดิมกับตัวเลือกเดิมจะได้ช่วงที่ 1 ชุดเดิม</p>' +
           '<div class="field"><label for="seed">คำสุ่มของคุณ</label>' +
             '<div class="row"><input id="seed" type="text" maxlength="40" autocomplete="off" placeholder="ชื่อเล่น หรือคำอะไรก็ได้"><button type="button" class="btn" id="roll">สุ่มคำให้</button></div></div>' +
           '<fieldset class="field"><legend>ด้านหลักของชีวิต</legend><div class="chips2">' + main + '</div></fieldset>' +
@@ -2454,7 +2487,7 @@ if (typeof document !== "undefined") {
       else {
         guard.textContent = list.length < 2 ? "เลือกอย่างน้อย 2 เรื่องเพื่อปลดล็อก 84 และ 92 ข้อ" : "";
         var sn = surCount(list.length, cfg.L), li = lenInfo(cfg.L);
-        summary.textContent = "ช่วงที่ 1: " + cfg.L + " ข้อ แบบสองตัวเลือกทั้งหมด = เทียบสองหน้าที่ " + li.mfc + " ข้อ + คู่ตรงข้าม " + li.opp + " ข้อ + หัวข้อหลัก I/E " + li.ei + " ข้อ · เรื่อง: " + names(list) + " + ระบบสุ่มเพิ่ม " + sn + " เรื่อง (ช่วยให้มีข้อพอ และลดการเลือกแต่เรื่องที่ถนัด)";
+        summary.textContent = "ช่วงที่ 1: " + cfg.L + " ข้อ แบบสองตัวเลือกทั้งหมด = เทียบสองหน้าที่ " + li.mfc + " ข้อ + คู่ตรงข้าม " + li.opp + " ข้อ + ข้อถามตรงเรื่อง I/E " + li.ei + " ข้อ · เรื่อง: " + names(list) + " + ระบบสุ่มเพิ่ม " + sn + " เรื่อง (ช่วยให้มีข้อพอ และลดการเลือกแต่เรื่องที่ถนัด)";
       }
       document.getElementById("start").disabled = !(list.length && avail.length && cfg.ack);
     }
@@ -2642,7 +2675,7 @@ if (typeof document !== "undefined") {
         '<section class="card pause">' +
           (kind === "checkpoint" ? '<p class="kicker">ผ่านมา ' + dn + ' ข้อแล้ว เก่งมาก</p>' : '') +
           '<h1 class="h1" tabindex="-1" id="h1focus">พักไว้ก่อนได้เลย</h1>' +
-          '<p>บันทึกไว้ในแอป/เบราว์เซอร์นี้แล้ว (ข้อ ' + dn + '/' + tot + ') แต่ถ้าปิดแอป เปลี่ยนเครื่อง หรือเปิดจาก IG ใหม่ อาจหายได้ เก็บลิงก์ทำต่อไว้จะชัวร์กว่า</p>' +
+          '<p>' + (saveOK ? 'บันทึกไว้ในแอป/เบราว์เซอร์นี้แล้ว' : 'บันทึกในเครื่องนี้ไม่ได้ (เบราว์เซอร์ปิดการบันทึกหรือพื้นที่เต็ม) ต้องใช้ลิงก์ทำต่อเท่านั้น') + ' (ข้อ ' + dn + '/' + tot + ') แต่ถ้าปิดแอป เปลี่ยนเครื่อง หรือเปิดจาก IG ใหม่ อาจหายได้ เก็บลิงก์ทำต่อไว้จะชัวร์กว่า</p>' +
           '<h2 class="sec">บันทึกไว้ทำต่อ: ส่งลิงก์เข้าอีเมล/LINE ของตัวเอง</h2>' +
           '<div class="sharebtns">' +
             '<a class="btn primary" href="' + M.gmail + '" target="_blank" rel="noopener noreferrer" id="pmail">ส่งเข้าอีเมลตัวเอง</a>' +
@@ -2693,7 +2726,7 @@ if (typeof document !== "undefined") {
     /* ----- rev11: ความนิ่งของผล ----- */
     function stabHtml(st) {
       var dots = [0, 1, 2, 3, 4].map(function (i) { return '<i class="' + (i <= st.level ? "on" : "") + '"></i>'; }).join("");
-      return '<div class="stab"><span class="dots" aria-hidden="true">' + dots + '</span><p><b>ความนิ่งของผล: ' + st.label + '</b> · อันดับ 1 นำอันดับ 2 อยู่ ' + st.m.toFixed(2) + ' คะแนน ในการจำลองผู้ตอบ คนที่ได้ส่วนต่างระดับนี้ได้อันดับ 1 เดิมเมื่อทำชุดใหม่ซ้ำราว ' + st.p + '% <span class="small">(ค่าจากการจำลอง ไม่ใช่ข้อมูลคนจริง คนจริงมักเปลี่ยนมากกว่านี้ ยิ่งต่ำยิ่งควรอ่านอันดับ 2–3 ด้วย)</span></p></div>';
+      return '<div class="stab"><span class="dots" aria-hidden="true">' + dots + '</span><p><b>ความนิ่งของผล: ' + st.label + '</b> · อันดับ 1 นำอันดับ 2 อยู่ ' + st.m.toFixed(2) + ' คะแนน ในผู้ตอบจำลองแบบที่โหดกว่า คนที่ได้ส่วนต่างระดับนี้ได้อันดับ 1 เดิมเมื่อทำชุดใหม่ซ้ำราว ' + st.p + '% <span class="small">(ค่าจากการจำลอง ไม่ใช่ข้อมูลคนจริง คาดว่าคนจริงจะเปลี่ยนบ่อยกว่านี้ ยิ่งต่ำยิ่งควรอ่านอันดับ 2–3 ด้วย)</span></p></div>';
     }
     /* ----- rev11: สามอันดับแรกพร้อมเหตุผล ----- */
     function fnTag(f) { return '<b>' + f + '</b> <span class="small">(' + FPLAIN[f] + ')</span>'; }
@@ -2706,7 +2739,7 @@ if (typeof document !== "undefined") {
     function bulletHtml(b, code) {
       if (b.kind === "ph1") {
         var t1 = b.fit;
-        return '<li class="w-' + b.cls + '"><span class="wlab">ช่วงที่ 1 · ชุดคำถามหลัก ' + b.n + ' ข้อ</span>' + (t1.n ? 'ในข้อที่ ' + code + ' ทำนายคำตอบได้ ' + t1.n + ' ข้อ คุณตอบไปทางที่ ' + code + ' คาด <b>' + t1.pass + ' ข้อ</b> สวนทาง ' + t1.fail + ' ข้อ พอ ๆ กัน ' + t1.even + ' ข้อ' + (t1.inf ? ' (ตรง ' + Math.round(t1.rate * 100) + '% ของข้อที่ตอบเอียง)' : '') : 'ยังไม่มีข้อที่ ' + code + ' ทำนายคำตอบได้') + '</li>';
+        return '<li class="w-' + b.cls + '"><span class="wlab">ช่วงที่ 1 · ชุดคำถามหลัก ' + b.n + ' ข้อ</span>' + (t1.n ? 'ถ้าคุณเป็น ' + code + ' ตามทฤษฎี จะเลือกฝั่งได้ชัดใน ' + t1.n + ' ข้อ คุณเลือกตรงตามนั้น <b>' + t1.pass + ' ข้อ</b> ตรงข้าม ' + t1.fail + ' ข้อ ตอบพอ ๆ กัน ' + t1.even + ' ข้อ' + (t1.inf ? ' (ตรง ' + Math.round(t1.rate * 100) + '% ของข้อที่ตอบเอียง)' : '') : 'ยังไม่มีข้อที่ทฤษฎีของ ' + code + ' บอกได้ว่าควรเลือกฝั่งไหน') + '</li>';
       }
       if (b.kind === "ph2") {
         var t2 = b.fit;
@@ -2720,21 +2753,36 @@ if (typeof document !== "undefined") {
           (b.quote ? quoteHtml(b.quote) : '<span class="ev">ยังไม่มีข้อที่คุณเลือกฝั่ง ' + b.f + ' ชัด ๆ</span>') + '</li>';
       }
       if (b.kind === "ei") {
-        var say = !b.side ? "หัวข้อหลัก I/E ของคุณอยู่กลาง ๆ (" + fix(b.m) + ") ตัว " + b.L + " จึงมาจากคะแนนฟังก์ชันเป็นหลัก"
-          : (b.fit === "fit" ? "หัวข้อหลัก I/E ของคุณเอียงไปทาง " + b.side + " (" + fix(b.m) + " จาก " + b.n + " ข้อ) ตรงกับตัว " + b.L
-          : "หัวข้อหลัก I/E ของคุณเอียงไปทาง " + b.side + " (" + fix(b.m) + ") ซึ่งไม่ตรงกับตัว " + b.L + " ของประเภทนี้");
-        return '<li class="w-' + b.fit + '"><span class="wlab">ตัวอักษร ' + b.L + ' · พลังงานและความสนใจ</span>' + say + quoteHtml(b.quote, b.quoteAgainst ? "ข้อที่ไปอีกทาง:" : "เช่น") + '</li>';
+        var say = !b.side ? (b.L === b.fnL ? "ข้อถามตรงเรื่อง I/E ของคุณอยู่กลาง ๆ (" + fix(b.m) + ") ตัว " + b.L + " จึงมาจากคะแนนหน้าที่การคิดเป็นหลัก"
+            : "ข้อถามตรงเรื่อง I/E ของคุณอยู่กลาง ๆ (" + fix(b.m) + ") จึงไม่ได้ช่วยแยกประเภทนี้ออกจากอันดับ 1 ตัว " + b.L + " ในการ์ดนี้เป็นของประเภทนี้เอง ไม่ใช่สิ่งที่คำตอบของคุณชี้ (คะแนนหน้าที่การคิดชี้ทาง " + b.fnL + ")")
+          : (b.fit === "fit" ? "ข้อถามตรงเรื่อง I/E ของคุณเอียงไปทาง " + b.side + " (" + fix(b.m) + " จาก " + b.n + " ข้อ) ตรงกับตัว " + b.L
+          : "ข้อถามตรงเรื่อง I/E ของคุณเอียงไปทาง " + b.side + " (" + fix(b.m) + ") ซึ่งไม่ตรงกับตัว " + b.L + " ของประเภทนี้");
+        return '<li class="w-' + b.fit + '"><span class="wlab">ตัวอักษร ' + b.L + ' · พลังงานและความสนใจ</span>' + say + quoteHtml(b.quote, b.quoteAgainst ? "ข้อที่ไปอีกทาง:" : (b.fit === "weak" ? "มีบางข้อที่เข้าทาง " + b.L + " เช่น" : "เช่น")) + '</li>';
       }
       if (b.kind === "con") {
         return '<li class="w-weak"><span class="wlab">ข้อที่ค้านกับ ' + code + '</span>ไม่ใช่ทุกคำตอบจะชี้มาทางนี้' + quoteHtml(b.quote, "") + (b.quote && b.quote.cf === b.inf ? ' ซึ่ง ' + b.inf + ' คือหน้าที่ด้อยของ ' + code + ' ตามทฤษฎี (ถนัดน้อยที่สุด)</li>' : ' ซึ่งเป็นฝั่งที่ ' + code + ' ไม่ได้ถนัดเป็นอันดับต้น ๆ</li>');
       }
+      if (b.kind === "flip") {
+        var fw = [];
+        if (b.eiPart) fw.push('ข้อถามตรงเรื่อง I/E ของคุณเอียงไปทาง ' + code.charAt(0));
+        if (b.t3me.v > b.t3mr.v) fw.push('หน้าที่ลำดับสามของ ' + code + ' (กลุ่ม ' + b.t3me.f + ' ' + fix(b.t3me.v) + ') ได้คะแนนสูงกว่าของ ' + b.mirror + ' (กลุ่ม ' + b.t3mr.f + ' ' + fix(b.t3mr.v) + ')');
+        return '<li class="w-mid"><span class="wlab">ทำไมไม่ใช่ ' + b.mirror + ' · ห่างกัน ' + gapTxt(b.gap) + ' คะแนน</span>' + fnTag(b.aux) + ' ของคุณ (' + fix(b.va) + ') สูงกว่า ' + b.dom + ' (' + fix(b.vd) + ') เล็กน้อย ซึ่งตามทฤษฎีจะเข้าทาง ' + b.mirror + ' (ใช้หน้าที่ชุดเดียวกันแต่สลับลำดับ) แต่' + (fw.length ? fw.join(' และ') : 'คะแนนรวมของหน้าที่อื่นเข้าทาง ' + code) + ' ผลรวมจึงได้ ' + code + ' ลองอ่านการ์ด ' + b.mirror + ' ด้วยถ้ามี หรือดูหัวข้อ I/E ด้านล่าง</li>';
+      }
       if (b.kind === "gap") {
+        var mirrorWhy = function (b) {
+          var w = [];
+          if (b.eiPart) w.push('ข้อถามตรงเรื่อง I/E ของคุณเอียงไปทางตัวอักษรของ ' + b.top);
+          if (b.t3top && b.t3top.v > b.t3me.v) w.push('หน้าที่ลำดับสามของ ' + b.top + ' (กลุ่ม ' + b.t3top.f + ' ' + fix(b.t3top.v) + ') ได้คะแนนสูงกว่าของ ' + b.code + ' (กลุ่ม ' + b.t3me.f + ' ' + fix(b.t3me.v) + ')');
+          return w.length ? w.join(' และ') : 'คะแนนรวมของหน้าที่อื่นยังเข้าทาง ' + b.top;
+        };
         var txt = b.mode === "mirror"
-          ? code + ' ใช้หน้าที่ชุดเดียวกับ ' + b.top + ' (' + b.a + ' กับ ' + b.b + ') แต่สลับว่าอะไรเป็นหลัก ที่ตามหลังเพราะในคำตอบของคุณ ' + b.a + ' (' + fix(b.va) + ') ' + (b.va >= b.vb ? 'สูงกว่า' : 'ต่ำกว่า') + ' ' + b.b + ' (' + fix(b.vb) + ')' + (b.eiPart ? ' และหัวข้อหลัก I/E เอียงไปทางตัวอักษรของ ' + b.top : '')
+          ? code + ' ใช้หน้าที่ชุดเดียวกับ ' + b.top + ' (' + b.a + ' กับ ' + b.b + ') แต่สลับว่าอะไรเป็นหลัก ' + (b.va >= b.vb
+            ? 'ในคำตอบของคุณ ' + b.a + ' (' + fix(b.va) + ') สูงกว่า ' + b.b + ' (' + fix(b.vb) + ') จึงเข้าทาง ' + b.top + ' มากกว่า' + (b.eiPart ? ' และข้อถามตรงเรื่อง I/E ก็เอียงไปทางตัวอักษรของ ' + b.top : '')
+            : 'คะแนน ' + b.b + ' (' + fix(b.vb) + ') ของคุณสูงกว่า ' + b.a + ' (' + fix(b.va) + ') เล็กน้อย ซึ่งเข้าทาง ' + code + ' แต่' + mirrorWhy(b) + ' ผลรวมจึงให้ ' + b.top + ' นำ' + (b.gap < 0.3 ? ' สองแบบนี้ใกล้กันมาก ลองอ่านทั้งคู่' : ''))
           : (b.mode === "aux"
             ? 'หน้าที่หลักเหมือน ' + b.top + ' ต่างกันที่หน้าที่รอง: ' + b.top + ' ใช้ ' + b.a + ' (' + fix(b.va) + ') ส่วน ' + code + ' ใช้ ' + b.b + ' (' + fix(b.vb) + ')'
-            : 'หน้าที่หลักของ ' + code + ' คือ ' + b.b + ' (' + fix(b.vb) + ') ส่วน ' + b.top + ' คือ ' + b.a + ' (' + fix(b.va) + ')' + (b.eiPart ? ' · หัวข้อหลัก I/E ก็มีส่วนด้วย' : ''));
-        return '<li class="w-mid"><span class="wlab">ทำไมเป็นอันดับนี้ · ห่างอันดับ 1 อยู่ ' + b.gap.toFixed(2) + ' คะแนน</span>' + txt + quoteHtml(b.quote, "ข้อที่เทียบสองหน้าที่นี้ตรง ๆ:") + '</li>';
+            : 'หน้าที่หลักของ ' + code + ' คือ ' + b.b + ' (' + fix(b.vb) + ') ส่วน ' + b.top + ' คือ ' + b.a + ' (' + fix(b.va) + ')' + (b.eiPart ? ' · ข้อถามตรงเรื่อง I/E ก็มีส่วนด้วย' : ''));
+        return '<li class="w-mid"><span class="wlab">ทำไมเป็นอันดับนี้ · ห่างอันดับ 1 อยู่ ' + gapTxt(b.gap) + ' คะแนน</span>' + txt + quoteHtml(b.quote, "ข้อที่เทียบสองหน้าที่นี้ตรง ๆ:") + '</li>';
       }
       return "";
     }
@@ -2743,18 +2791,18 @@ if (typeof document !== "undefined") {
       var cards = rank.slice(0, 3).map(function (r, k) {
         var ex = explainType(r.code, k, S, set, answers), t = TYPES[r.code], st = STACKS[r.code];
         var letters = ex.letters.map(function (o) { return '<li><b>' + o.L + '</b> ' + o.plain + ' <span class="small">· ' + o.how + '</span></li>'; }).join("");
-        return '<details class="why" open><summary><span class="c">' + r.code + '</span><span class="m">' + (k === 0 ? "อันดับ 1" : "อันดับ " + (k + 1) + " · ห่าง −" + ex.gap.toFixed(2)) + '</span><span class="n">' + t.n + ' · หลัก ' + st[0] + ' รอง ' + st[1] + '</span></summary>' +
+        return '<details class="why" open><summary><span class="c">' + r.code + '</span><span class="m">' + (k === 0 ? "อันดับ 1" : "อันดับ " + (k + 1) + " · ห่าง −" + gapTxt(ex.gap)) + '</span><span class="n">' + t.n + ' · หลัก ' + st[0] + ' รอง ' + st[1] + '</span></summary>' +
           '<ul class="whyl">' + ex.bullets.map(function (b) { return bulletHtml(b, r.code); }).join("") + '</ul>' +
           '<p class="small"><b>ถอดรหัส ' + r.code + ' แบบง่าย ๆ</b></p><ul class="letters">' + letters + '</ul></details>';
       }).join("");
       return '<div><h2 class="sec">3 อันดับแรก และเหตุผลจากคำตอบของคุณ</h2>' +
         '<p class="small">ทุกบรรทัดด้านล่างดึงมาจากคำตอบจริงของคุณ (ข้อที่คุณเลือก ข้อที่ไม่ได้เลือก และจำนวนครั้ง) คำนวณด้วยโค้ดในหน้านี้ ไม่ได้ใช้ AI และใส่ “ข้อที่ค้าน” ไว้ด้วย เพื่อให้เห็นทั้งสองด้าน คะแนนเป็นหน่วยของแบบจำลองนี้ ไม่ใช่เปอร์เซ็นต์</p>' +
         '<div class="mbti101"><b>อ่านผลนี้ยังไง (ฉบับคนเพิ่งรู้จัก MBTI)</b><ul>' +
-          '<li>ทุกคนใช้ “หน้าที่ทางความคิด” ทั้ง 8 แบบ แต่มักถนัดอยู่ 2 แบบ: <b>หน้าที่หลัก</b> (ใช้บ่อยและไว้ใจที่สุด) กับ <b>หน้าที่รอง</b> (ตัวช่วย)</li>' +
+          '<li>ตามทฤษฎีนี้ ทุกคนใช้ “หน้าที่ทางความคิด” ได้ทั้ง 8 แบบ แต่มักถนัดอยู่ 2 แบบ: <b>หน้าที่หลัก</b> (ใช้บ่อยและไว้ใจที่สุด) กับ <b>หน้าที่รอง</b> (ตัวช่วย)</li>' +
           '<li>4 แบบเป็นวิธี <b>รับข้อมูล</b> (Se Si Ne Ni) อีก 4 แบบเป็นวิธี <b>ตัดสินใจ</b> (Te Ti Fe Fi) ตัว e = หันออกสู่โลกภายนอก ตัว i = หันเข้าโลกข้างใน</li>' +
           '<li>รหัส 4 ตัวอักษรถอดมาจากหน้าที่หลักกับรอง เช่น INTJ = หลัก Ni รอง Te (ดู “ถอดรหัส” ในแต่ละการ์ด) · ตัว J/P บอกหน้าที่ที่ใช้กับโลกภายนอก สำหรับคนกลุ่ม I จึงหมายถึง<b>หน้าที่รอง</b> เช่น INFJ ลงท้าย J แต่หน้าที่หลักคือ Ni ซึ่งเป็นฝั่งรับข้อมูล</li>' +
           '<li>คะแนนเทียบกันเองในคำตอบของคุณ ถ้าอันดับ 1 กับ 2 ห่างกันน้อย ให้อ่านทั้งสองการ์ดแล้วดูว่าแบบไหนใกล้ตัวกว่า</li></ul></div>' +
-        (cons.n >= 10 ? '<p class="small"><b>ความสม่ำเสมอของคำตอบ: ' + Math.round(cons.p * 100) + '%</b> · ในข้อเทียบหน้าที่ที่คุณตอบเอียงไปฝั่งหนึ่ง ' + cons.n + ' ข้อ มี ' + cons.ok + ' ข้อที่ฝั่งที่เลือกอยู่อันดับสูงกว่าในผลสุดท้าย (ต่ำกว่าราว 65% แปลว่าคำตอบกระจาย ผลควรอ่านแบบหลวม ๆ)</p>' : '') +
+        (cons.n >= 10 ? '<p class="small"><b>ความสม่ำเสมอของคำตอบ: ' + Math.round(cons.p * 100) + '%</b> · ในข้อเทียบหน้าที่ที่คุณตอบเอียงไปฝั่งหนึ่ง ' + cons.n + ' ข้อ มี ' + cons.ok + ' ข้อที่ฝั่งที่เลือกอยู่อันดับสูงกว่าในผลสุดท้าย (ต่ำกว่าราว 65% แปลว่าคำตอบกระจาย ผลควรอ่านแบบหลวม ๆ · เกณฑ์ตั้งเอง และเทียบกับผลที่คิดจากคำตอบชุดเดียวกัน)</p>' : '') +
         cards + '</div>';
     }
     function eiGroupName(g) { for (var k = 0; k < EI_GROUPS.length; k++) if (EI_GROUPS[k].g === g) return EI_GROUPS[k].n; return ""; }
@@ -2769,14 +2817,14 @@ if (typeof document !== "undefined") {
         var b = E.by[G.g], mm = b.s / b.n;
         return '<li><b>' + G.n + '</b> <span class="small">' + (b.n < 2 ? 'จาก 1 ข้อ ยังสรุปไม่ได้' : (Math.abs(mm) < 0.5 ? 'พอ ๆ กัน' : (mm > 0 ? G.e : G.i)) + ' · ' + b.n + ' ข้อ') + '</span></li>';
       }).join("");
-      var cmp = hide ? '' : '<p class="small">ข้อฟังก์ชันอย่างเดียวชี้ทาง <b>' + E.letterFn + '</b> · หัวข้อหลัก I/E ชี้ ' + (E.letterEI ? 'ทาง <b>' + E.letterEI + '</b>' : 'กลาง ๆ') + ' · ตัวอักษรในผลคือ <b>' + E.letter + '</b>' +
+      var cmp = hide ? '' : '<p class="small">ข้อฟังก์ชันอย่างเดียวชี้ทาง <b>' + E.letterFn + '</b> · ข้อถามตรงเรื่อง I/E ชี้ ' + (E.letterEI ? 'ทาง <b>' + E.letterEI + '</b>' : 'กลาง ๆ') + ' · ตัวอักษรในผลคือ <b>' + E.letter + '</b>' +
         (!E.letterEI ? (E.weakFlip ? ' (คะแนนฟังก์ชันสองฝั่งใกล้กันมาก ค่า I/E ที่เอียงเล็กน้อยจึงพลิกตัวอักษร ถือว่า I/E ยังก้ำกึ่ง)' : ' (หัวข้อหลักกลาง ๆ ตัวอักษรจึงมาจากข้อฟังก์ชัน)') : (E.overruled ? ' (คะแนนฟังก์ชันห่างกันมาก หัวข้อหลักจึงยังพลิกตัวอักษรไม่ได้)' : (E.letterEI !== E.letterFn ? ' (หัวข้อหลักเป็นตัวชี้ขาด)' : ''))) + '</p>' +
         (E.conflict ? '<p class="warn">สองส่วนนี้ชี้คนละทาง: ลองอ่านทั้ง ' + V.show.rank[0].code + ' และ ' + mirrorOf(V.show.rank[0].code) + ' แล้วดูว่าแบบไหนตรงกว่า</p>' : '');
-      return '<div class="eibox"><h2 class="sec">หัวข้อหลัก I/E · ถามตรงทุกชุด</h2>' +
+      return '<div class="eibox"><h2 class="sec">ข้อถามตรงเรื่อง I/E · ถามตรงทุกชุด</h2>' +
         '<div class="eiscale" role="img" aria-label="ค่า I/E ' + fix(E.m) + ' จากช่วง −2 ถึง +2"><span>I · หันเข้าใน</span><div class="eitrack"><i style="left:' + pos + '%"></i></div><span>E · หันออก</span></div>' +
         '<p><b>' + eiLabel(E.m) + '</b> <span class="small">(' + E.n + ' ข้อ ค่าเฉลี่ย ' + fix(E.m) + ' จาก −2 ถึง +2)</span></p>' +
         '<ul class="eifacets">' + facets + '</ul>' + cmp +
-        '<p class="small">I/E ในที่นี้คือทิศทางของพลังงานและความสนใจ (โลกภายนอก: ผู้คนและกิจกรรม / โลกภายใน: ความคิดและความรู้สึก) ตามนิยามของผู้จัดพิมพ์ MBTI ไม่ใช่ความขี้อายหรือความเก่งเข้าสังคม ถ้าตอบตามภาพที่อยากเป็นมากกว่าที่เป็นจริง ผล I/E อาจเอียงไปทาง E ได้ (ในการจำลองยังเกิดราว 7% ของคน I ที่ตอบแบบนั้น) แบ่งด้านย่อยตามที่ MBTI Step II เผยแพร่ แต่ข้อคำถามเขียนใหม่ทั้งหมด ด้านที่มีข้อเดียวยังสรุปไม่ได้ น้ำหนักที่ใช้รวมกับคะแนนฟังก์ชันตั้งจากการจำลองผู้ตอบ ไม่ใช่ข้อมูลคนจริง</p></div>';
+        '<p class="small">I/E ในที่นี้คือทิศทางของพลังงานและความสนใจ (โลกภายนอก: ผู้คนและกิจกรรม / โลกภายใน: ความคิดและความรู้สึก) ตามนิยามของผู้จัดพิมพ์ MBTI ไม่ใช่ความขี้อายหรือความเก่งเข้าสังคม ถ้าตอบตามภาพที่อยากเป็นมากกว่าที่เป็นจริง ผล I/E อาจเอียงไปทาง E ได้ (ในการจำลองยังเกิดราว 7% ของคน I ที่ตอบแบบนั้น) 5 ด้านอิงชื่อด้านย่อยของ MBTI Step II และอีก 1 ด้าน (พลังงาน) ที่เราเพิ่มเอง ข้อคำถามเขียนใหม่ทั้งหมด ด้านที่มีข้อเดียวยังสรุปไม่ได้ น้ำหนักที่ใช้รวมกับคะแนนฟังก์ชันตั้งจากการจำลองผู้ตอบ ไม่ใช่ข้อมูลคนจริง</p></div>';
     }
     function renderResult() {
       clearTimers();
@@ -2812,22 +2860,22 @@ if (typeof document !== "undefined") {
         head = '<h1 class="code unclear">ผลยังไม่ชัด</h1><p class="desc">' + why + '</p>';
       } else {
         head = heroHtml(top.code) +
-          '<div class="type-head"><span class="small">ภาพคร่าว ๆ จากแบบสะท้อนตัวเอง ไม่ใช่ MBTI ทางการ และไม่ใช่การวินิจฉัย · ' + (as.borderline ? "ผลก้ำกึ่ง" : "ห่างจากประเภทอื่นพอสมควร") + '</span><div class="code">' + top.code + '</div><h1 class="tname">' + info.n + '</h1></div>' +
+          '<div class="type-head"><span class="small">ภาพคร่าว ๆ จากแบบสะท้อนตัวเอง ไม่ใช่ MBTI ทางการ และไม่ใช่การวินิจฉัย · ' + (as.borderline ? "ผลก้ำกึ่ง" : (as.mirrorMargin < 0.15 ? "ห่างจากประเภทอื่นพอสมควร ยกเว้น " + as.mirror.code + " ที่ใช้หน้าที่ชุดเดียวกัน" : "ห่างจากประเภทอื่นพอสมควร")) + '</span><div class="code">' + top.code + '</div><h1 class="tname">' + info.n + '</h1></div>' +
           '<p class="desc">ประเภทนี้มัก' + info.d + '</p><ul class="chips">' + info.t.map(function (t) { return "<li>" + t + "</li>"; }).join("") + '</ul>' + stabHtml(stabilityOf(rank));
         if (!V.probeN && as.borderline) notes += '<p class="note">ผลก้ำกึ่งระหว่าง ' + top.code + ' กับ ' + as.nm.code + ' (' + TYPES[as.nm.code].n + '): อ่านทั้งสองแบบแล้วดูว่าแบบไหนตรงกว่า</p>';
         if (!V.probeN && as.eiUnsure) notes += '<p class="note">ลำดับหน้าที่หลักกับรองยังไม่ชัด: อาจเป็น ' + top.code + ' หรือ ' + as.mirror.code + ' (สองประเภทนี้ใช้หน้าที่ชุดเดียวกัน ต่างกันที่ลำดับ)</p>';
-        if (bipN && Math.abs(pre.lean) >= 0.5) notes += '<p class="small">ในข้อเลือกข้างระหว่างฟังก์ชัน คุณเลือกฝั่งฟังก์ชันที่หันเข้าใน (i) ' + (pre.lean > 0 ? "มากกว่า" : "น้อยกว่า") + 'ฝั่งที่หันออก (e) ระบบไม่นับส่วนนี้เป็นคะแนน ตัวอักษร I/E มาจากคะแนนฟังก์ชันรวมกับหัวข้อหลัก I/E (ดูด้านล่าง)</p>';
+        if (bipN && Math.abs(pre.lean) >= 0.5) notes += '<p class="small">ในข้อเลือกข้างระหว่างฟังก์ชัน คุณเลือกฝั่งฟังก์ชันที่หันเข้าใน (i) ' + (pre.lean > 0 ? "มากกว่า" : "น้อยกว่า") + 'ฝั่งที่หันออก (e) ระบบไม่นับส่วนนี้เป็นคะแนน ตัวอักษร I/E มาจากคะแนนฟังก์ชันรวมกับข้อถามตรงเรื่อง I/E (ดูด้านล่าง)</p>';
         var top3 = rank.slice(0, 3);
         alts = top3Html(V, rank) + '<div><h2 class="sec">อันที่คุณรู้สึกว่าตรงที่สุด</h2>' +
           '<p class="small">ส่วนต่างคือคะแนนที่น้อยกว่าอันดับ 1 (หน่วยคะแนนของแบบจำลองนี้ ไม่ใช่เปอร์เซ็นต์) เลือกอันที่รู้สึกว่าตรงที่สุดได้ ระบบจะแสดงเคียงกับผลของแบบทดสอบ ไม่ได้แทนที่ผล ในบริบทมืออาชีพ การยืนยันประเภทที่เหมาะสมที่สุดมักทำร่วมกับผู้ให้บริการที่ได้รับการรับรอง</p>' +
           '<ul class="alts">' + top3.map(function (r, i) {
-            return '<li><label><input type="radio" name="best" value="' + r.code + '"' + (bestFit === r.code ? " checked" : "") + '><span class="c">' + r.code + '</span><span class="m">' + (i === 0 ? "อันดับ 1" : "ห่าง −" + (top.score - r.score).toFixed(2)) + '</span><small>' + TYPES[r.code].n + '</small></label></li>';
+            return '<li><label><input type="radio" name="best" value="' + r.code + '"' + (bestFit === r.code ? " checked" : "") + '><span class="c">' + r.code + '</span><span class="m">' + (i === 0 ? "อันดับ 1" : "ห่าง −" + gapTxt(top.score - r.score)) + '</span><small>' + TYPES[r.code].n + '</small></label></li>';
           }).join("") +
           '<li><label><input type="radio" name="best" value="none"' + (bestFit === "none" ? " checked" : "") + '><span class="c">ไม่มีข้อไหนตรง</span><span class="m"></span></label></li></ul>' +
           '<div id="bestpanel">' + bestPanel(top.code) + '</div></div>';
         stackSection = '<div><h2 class="sec">ลำดับหน้าที่ของประเภทนี้</h2><ul class="stack">' +
-          stack.map(function (f, i) { return '<li><span class="role">' + ROLE[i] + '</span><span class="fn">' + f + ' <small>' + FNAME[f] + '</small></span></li>'; }).join("") +
-          '</ul><p class="small">หลักและรองตรงกับลำดับที่มูลนิธิ Myers &amp; Briggs เผยแพร่ ส่วนตติยภูมิและด้อยขึ้นกับว่าแต่ละคนใช้ในทัศนคติแบบใด จึงให้คะแนนตติยภูมิเป็นค่าเฉลี่ยของทั้งสองทัศนคติ น้ำหนัก 0.7 และ 0.3 ที่ใช้รวมเป็นค่าที่เราตั้งเอง ยังไม่ได้ทดสอบ ส่วนเกณฑ์ “ก้ำกึ่ง” และเกณฑ์ตรวจรูปแบบการตอบมาจากการจำลองผู้ตอบ ไม่ใช่จากข้อมูลคนจริง</p></div>';
+          stack.map(function (f, i) { return '<li><span class="role">' + ROLE[i] + '</span><span class="fn">' + (i === 2 ? f.charAt(0) + 'i หรือ ' + f.charAt(0) + 'e <small>ทิศทางต่างกันได้ในแต่ละคน</small>' : f + ' <small>' + FNAME[f] + '</small>') + '</span></li>'; }).join("") +
+          '</ul><p class="small">หลักและรองตรงกับลำดับที่มูลนิธิ Myers &amp; Briggs เผยแพร่ หน้าที่ด้อยคือหน้าที่ตรงข้ามกับหน้าที่หลักทั้งชนิดและทิศทาง (เช่น INTJ: Ni ↔ Se) ส่วนตติยภูมิ มูลนิธิระบุว่าเป็นแบบหันออกหรือหันเข้าก็ได้ จึงแสดงทั้งสองแบบและให้คะแนนเป็นค่าเฉลี่ยของทั้งสองทิศทาง น้ำหนัก 0.7 และ 0.3 ที่ใช้รวมเป็นค่าที่เราตั้งเอง ยังไม่ได้ทดสอบ ส่วนเกณฑ์ “ก้ำกึ่ง” และเกณฑ์ตรวจรูปแบบการตอบมาจากการจำลองผู้ตอบ ไม่ใช่จากข้อมูลคนจริง</p></div>';
         var kc = keirseyOf(top.code), bc = BERENS_OF[top.code];
         lens = '<div><h2 class="sec">เลนส์เสริม (ไม่ใช่การวัดเพิ่ม)</h2><div class="lens">' +
           '<div><span class="k">Keirsey · จัดกลุ่มตัวอักษรใหม่</span><b>' + KEIRSEY[kc].n + '</b><p>' + KEIRSEY[kc].d + '</p></div>' +
@@ -2850,7 +2898,7 @@ if (typeof document !== "undefined") {
       });
       var probeBlock = "";
       if (!hide && V.rows.length) {
-        var KIND = { disc: "แยกอันดับ 1 ออกจากไทป์คู่แข่ง", fals: "ข้อที่อันดับ 1 จะสอบตกถ้าผิดจริง", near: "เทียบกับหน้าที่ที่คะแนนใกล้กัน", confirm: "หน้าที่เดิม ต่างเรื่อง", opp: "เลือกข้าง (คู่ตรงข้ามในแบบจำลอง)", h2h: "เทียบสองหน้าที่ตรง ๆ", rev: "ข้อหน้าที่ฝั่งตรงข้าม", ei: "หัวข้อหลัก I/E", mfc: "เทียบหน้าที่เด่นกับคู่แข่ง" };
+        var KIND = { disc: "แยกอันดับ 1 ออกจากไทป์คู่แข่ง", fals: "ข้อที่อันดับ 1 จะสอบตกถ้าผิดจริง", near: "เทียบกับหน้าที่ที่คะแนนใกล้กัน", confirm: "หน้าที่เดิม ต่างเรื่อง", opp: "เลือกข้าง (คู่ตรงข้ามในแบบจำลอง)", h2h: "เทียบสองหน้าที่ตรง ๆ", rev: "ข้อหน้าที่ฝั่งตรงข้าม", ei: "ข้อถามตรงเรื่อง I/E", mfc: "เทียบหน้าที่เด่นกับคู่แข่ง" };
         var VL = { confirm: "สอดคล้องกับช่วงที่ 1", contradict: "ขัดกับช่วงที่ 1", mid: "ตอบกลาง ๆ", neutral: "ช่วงที่ 1 ยังไม่ชี้ทาง", skip: "ข้าม" };
         var BL = { 2: "ตรงกับ ", 1: "ค่อนไปทาง " };
         var ansLabel = function (q, a) {
@@ -2874,10 +2922,17 @@ if (typeof document !== "undefined") {
       if (!hide && V.probeN) {
         var preTop = V.preTop3[0], postTop = V.postTop3[0];
         var CH = V.challenge, chf = CH.fit, pct = function (x) { return Math.round(x * 100) + "%"; };
-        var crit = 'เกณฑ์ “ยืนยันแล้ว”: อันดับ 1 ผ่านอย่างน้อย ' + pct(CH_T.rate) + ' ของข้อหาจุดค้านที่คุณตอบเอียง (อย่างน้อย ' + CH_T.min + ' ข้อ) ผ่านมากกว่าไทป์คู่แข่งที่ดีที่สุดอย่างน้อย ' + Math.round(CH_T.gap * 100) + ' จุด และคะแนนนำอันดับ 2 อย่างน้อย ' + CH_T.margin.toFixed(2);
+        var crit = 'เกณฑ์ “ผ่านการเช็กซ้ำ”: อันดับ 1 ผ่านอย่างน้อย ' + pct(CH_T.rate) + ' ของข้อหาจุดค้านที่คุณตอบเอียง (อย่างน้อย ' + CH_T.min + ' ข้อ) ' + (CH_T.gap > 0 ? 'ผ่านมากกว่าไทป์คู่แข่งที่ดีที่สุดอย่างน้อย ' + Math.round(CH_T.gap * 100) + ' จุด' : 'ผ่านไม่น้อยกว่าไทป์คู่แข่งที่ดีที่สุด') + ' คะแนนนำอันดับ 2 อย่างน้อย ' + CH_T.margin.toFixed(2) + ' และข้อถามตรงเรื่อง I/E ไม่ค้านกับคะแนนหน้าที่การคิด';
+        var r2 = rank[1], mg = top.score - r2.score, fails = [];
+        if (chf.inf < CH_T.min) fails.push('ข้อหาจุดค้านที่คุณตอบเอียงมี ' + chf.inf + ' ข้อ ยังไม่ถึง ' + CH_T.min + ' ข้อ');
+        else if (chf.rate < CH_T.rate) fails.push(top.code + ' ผ่าน ' + pct(chf.rate) + ' ยังไม่ถึง ' + pct(CH_T.rate));
+        if (CH.rival && chf.rate - CH.rivalRate < CH_T.gap) fails.push(CH.rival + ' ผ่านข้อหาจุดค้านมากกว่า ' + top.code);
+        if (mg < CH_T.margin) fails.push('คะแนนนำอันดับ 2 (' + r2.code + (mirrorOf(top.code) === r2.code ? ' ซึ่งใช้หน้าที่ชุดเดียวกันแต่สลับลำดับ' : '') + ') อยู่ ' + gapTxt(mg) + ' ยังไม่ถึง ' + CH_T.margin.toFixed(2) + ' จึงยังบอกไม่ได้ชัดว่าเป็น ' + top.code + ' หรือ ' + r2.code);
+        if (V.ei.conflict) fails.push('ข้อถามตรงเรื่อง I/E กับคะแนนหน้าที่การคิดชี้ตัวอักษร I/E คนละทาง');
+        var failWhy = fails.length ? ' · ที่ยังไม่ผ่านเพราะ' + fails.join(' และ') : '';
         var statusTxt = V.status === "confirmed"
-          ? '<b>ยืนยันแล้ว:</b> ' + top.code + ' ผ่านข้อหาจุดค้าน ' + chf.pass + ' จาก ' + chf.inf + ' ข้อ (' + pct(chf.rate) + ')' + (CH.rival ? ' ส่วนไทป์คู่แข่งที่ดีที่สุด (' + CH.rival + ') ผ่าน ' + pct(CH.rivalRate) : '') + ' · ในการจำลองผู้ตอบ ผลที่ผ่านเกณฑ์นี้ตรงกับไทป์จริงราว ' + CH_PREC + '% (เป็นค่าจากการจำลอง ยังไม่ได้ทดสอบกับคนจริง และไม่ได้แปลว่าประเภทนี้ถูกแน่นอน)'
-          : (V.status === "close" ? '<b>ยังไม่ผ่านเกณฑ์ยืนยัน:</b> ' + top.code + ' ผ่านข้อหาจุดค้าน ' + chf.pass + ' จาก ' + chf.inf + ' ข้อที่ตอบเอียง' + (chf.inf ? ' (' + pct(chf.rate) + ')' : '') + (CH.rival ? ' · ' + CH.rival + ' ผ่าน ' + pct(CH.rivalRate) : '') + ' ผลจึงยังสรุปเป็นประเภทเดียวไม่ได้อย่างมั่นใจ ให้อ่าน 3 อันดับแรกด้านล่างประกอบ'
+          ? '<b>ผ่านการเช็กซ้ำ:</b> ' + top.code + ' ผ่านข้อหาจุดค้าน ' + chf.pass + ' จาก ' + chf.inf + ' ข้อ (' + pct(chf.rate) + ')' + (CH.rival ? ' ส่วนไทป์คู่แข่งที่ดีที่สุด (' + CH.rival + ') ผ่าน ' + pct(CH.rivalRate) : '') + ' · ในผู้ตอบจำลองที่สร้างให้ตอบตามทฤษฎีเดียวกับที่หน้านี้ใช้คิดคะแนน ผลที่ผ่านเกณฑ์นี้ตรงกับไทป์ที่ตั้งไว้ราว ' + CH_PREC + '% (รวมแบบจำลองที่ใช้น้ำหนักต่างออกไป) และมีเพียงราว ' + CH_COV + ' คนที่ผ่าน ตัวเลขนี้บอกว่าระบบทำงานสอดคล้องกับทฤษฎี ยังไม่ได้บอกว่าแม่นกับคนจริง และไม่ได้แปลว่าประเภทนี้ถูกแน่นอน'
+          : (V.status === "close" ? '<b>ยังไม่ผ่านการเช็กซ้ำ:</b> ' + top.code + ' ผ่านข้อหาจุดค้าน ' + chf.pass + ' จาก ' + chf.inf + ' ข้อที่ตอบเอียง' + (chf.inf ? ' (' + pct(chf.rate) + ')' : '') + (CH.rival ? ' · ' + CH.rival + ' ผ่าน ' + pct(CH.rivalRate) : '') + failWhy + ' ผลจึงยังสรุปเป็นประเภทเดียวไม่ได้อย่างมั่นใจ ให้อ่าน 3 อันดับแรกด้านล่างประกอบ'
           : (V.status === "partial" ? 'ช่วงที่ 2 ถูกตอบด้วยรูปแบบที่เชื่อถือได้น้อย จึงใช้ช่วงที่ 1 เป็นผลหลัก (' + preTop + ') และแสดงผลหลังรวมช่วงที่ 2 (' + postTop + ') เป็นข้อมูลประกอบ'
             : '<b>ข้อหาจุดค้านพลิกผล:</b> หลังรวมช่วงที่ 2 อันดับ 1 เปลี่ยนจาก ' + preTop + ' เป็น ' + top.code + ' ผลเบื้องต้นอาจคลาด ให้อ่านทั้งสองประเภทในการ์ดด้านล่าง'));
         var fitCodes2 = [];
@@ -2901,9 +2956,9 @@ if (typeof document !== "undefined") {
           side: 'ในข้อเลือกข้างของช่วงที่ ' + V.sidePart + ' คุณเลือกฝั่ง ' + (V.sideShare >= 0.5 ? 'ก.' : 'ข.') + ' เกือบทุกครั้ง อาจเป็นนิสัยเลือกตามตำแหน่ง',
           set3: 'อันดับ 1 เหมือนเดิม แต่ประเภทในอันดับ 2–3 เปลี่ยนไป (ดูรายการก่อน → หลังด้านบน)',
           order3: 'อันดับ 1 เหมือนเดิม แต่อันดับ 2 กับ 3 สลับที่กัน',
-          eiw: 'ตัวอักษร I/E ยังก้ำกึ่ง: ข้อฟังก์ชันชี้ทาง ' + V.ei.letterFn + ' แต่ต่างกันน้อยมาก และหัวข้อหลัก I/E ก็อยู่กลาง ๆ ลองอ่านทั้ง ' + top.code + ' และ ' + mirrorOf(top.code),
+          eiw: 'ตัวอักษร I/E ยังก้ำกึ่ง: ข้อฟังก์ชันชี้ทาง ' + V.ei.letterFn + ' แต่ต่างกันน้อยมาก และข้อถามตรงเรื่อง I/E ก็อยู่กลาง ๆ ลองอ่านทั้ง ' + top.code + ' และ ' + mirrorOf(top.code),
           eip2: 'ข้อ I/E ในช่วงที่ 2 ส่วนใหญ่ชี้คนละทางกับช่วงที่ 1 (ขัด ' + V.eiTot.contradict + ' จาก ' + (V.eiTot.contradict + V.eiTot.confirm + V.eiTot.mid) + ' ข้อที่ตอบ) ตัวอักษร I/E จึงยังไม่นิ่ง',
-          eic: 'หัวข้อหลัก I/E ชี้ทาง ' + V.ei.letterEI + ' แต่ข้อฟังก์ชันอย่างเดียวชี้ทาง ' + V.ei.letterFn + ' (ดูหัวข้อหลัก I/E ด้านบน)'
+          eic: 'ข้อถามตรงเรื่อง I/E ชี้ทาง ' + V.ei.letterEI + ' แต่ข้อฟังก์ชันอย่างเดียวชี้ทาง ' + V.ei.letterFn + ' (ดูข้อถามตรงเรื่อง I/E ด้านบน)'
         };
         var flagLines = V.flags.map(function (k) { return '<li>' + FLAG[k] + '</li>'; }).join("");
         var ordTxt = "";
@@ -2917,7 +2972,7 @@ if (typeof document !== "undefined") {
           '<ul class="ctxs"><li><b>ผลข้อหาจุดค้านรายไทป์</b><ul>' + fnLines + '</ul></li>' +
           '<li><b>สามอันดับแรก ก่อน → หลังรวมช่วงที่ 2</b><ul>' + rankLines + '</ul></li>' +
           '<li><b>ส่วนที่ผลยังคลุมเครือ</b>' + (flagLines ? '<ul>' + flagLines + '</ul>' : '<p class="small">ไม่พบจุดคลุมเครือเพิ่มเติม</p>') + '</li></ul>' + ordTxt +
-          '<p class="small">' + crit + ' · เกณฑ์นี้ตั้งและตรวจด้วยการจำลองผู้ตอบสองชุด ชุดละ 4,800 คน ที่ตอบแบบมีสัญญาณรบกวนต่างกัน ครึ่งหนึ่งเอนไปทางฝั่งที่ฟังดูดีตามคะแนนความน่าปรารถนาของแต่ละข้อ (ได้ 92% และ 95%) ข้อช่วงที่ 2 ถูกเลือกจากคำตอบช่วงแรกของคุณเอง จึงไม่ใช่การทดสอบอิสระ และยังไม่ได้ทดสอบกับคนจริง</p></div>';
+          '<p class="small">' + crit + ' · เกณฑ์นี้ตั้งและตรวจด้วยการจำลองผู้ตอบสามชุด ชุดละ 4,800 คน ที่ตอบแบบมีสัญญาณรบกวนต่างกัน ครึ่งหนึ่งเอนไปทางฝั่งที่ฟังดูดีตามคะแนนความน่าปรารถนาของแต่ละข้อ สองชุดสร้างจากทฤษฎีเดียวกับที่หน้านี้ใช้คิดคะแนน (ได้ 94% และ 96%) อีกชุดใช้น้ำหนักหน้าที่ต่างออกไป (ได้ 91%) ข้อช่วงที่ 2 ถูกเลือกจากคำตอบช่วงแรกของคุณเอง จึงไม่ใช่การทดสอบอิสระ และยังไม่ได้ทดสอบกับคนจริง</p></div>';
       }
       var refsHtml = REFS.map(function (r) {
         return '<li>' + esc(r.t) + ' <a href="' + r.u + '" target="_blank" rel="noopener noreferrer">เปิดแหล่งที่มา</a><span class="lv">' + esc(r.lv) + '</span></li>';
@@ -2988,15 +3043,17 @@ if (typeof document !== "undefined") {
       var d = p[2]; if (d.length !== 11) return null;
       var code = CODES16[parseInt(d.charAt(0), 16)], alt = d.charAt(1) === "x" ? null : CODES16[parseInt(d.charAt(1), 16)];
       if (!code) return null;
+      if (alt === undefined || alt === code || !/^[0-9a-f]{8}[0-4]$/.test(d.slice(2))) return null;
+      var days = parseInt(p[3], 36); if (!isFinite(days) || days < 0 || days > 36500) return null;
       var bars = {}; FUNCS.forEach(function (f, i) { bars[f] = parseInt(d.charAt(2 + i), 16); });
-      return { code: code, alt: alt, bars: bars, ei: Number(d.charAt(10)), days: parseInt(p[3], 36) };
+      return { code: code, alt: alt, bars: bars, ei: Number(d.charAt(10)), days: days };
     }
     function dateTxt(days) { var dt = new Date(Date.UTC(2026, 0, 1) + days * 864e5); return dt.getUTCDate() + "/" + (dt.getUTCMonth() + 1) + "/" + dt.getUTCFullYear(); }
     function typeLine(S) { return S.alt ? "ใกล้เคียง: " + S.code + " / " + S.alt : S.code; }
     function captionOf(S, link) {
       var st = STACKS[S.code];
-      return (S.alt ? "ไทป์ของฉันใกล้เคียง " + S.code + " / " + S.alt : "ไทป์ของฉันคือ " + S.code + " (" + st[0] + "-" + st[1] + ")") +
-        " จากแบบทดสอบ 8 ฟังก์ชันของยุงโดย FirstThread · ไม่ใช่แบบทดสอบ MBTI ทางการ · ลองทำแล้วมาเทียบกัน " + link;
+      return (S.alt ? "ผลของฉันใกล้กับ " + S.code + " / " + S.alt : "ผลของฉันใกล้กับ " + S.code + " (" + st[0] + "-" + st[1] + ") ที่สุด") +
+        " จากแบบสะท้อนตัวเองเรื่อง 8 ฟังก์ชันตามแนวคิดของยุง โดย FirstThread · ไม่ใช่ MBTI ทางการ · ลองทำแล้วมาเทียบกัน " + link;
     }
     function miniBars(S) {
       return '<div class="mbars">' + FUNCS.slice().sort(function (a, b) { return S.bars[b] - S.bars[a]; }).map(function (f) {
@@ -3175,6 +3232,7 @@ if (typeof document !== "undefined") {
     if (sh0) renderShared(sh0);
     else if (h0.indexOf("r1.") === 0) {
       var d0 = decodeResume(h0);
+      try { history.replaceState(null, "", location.pathname + location.search); } catch (e) {}
       if (!d0.err && replay(d0.seed, d0.chosen, d0.L, d0.tape)) { backUsed = true; cps = CHECKPOINTS.filter(function (n) { return n <= answeredCount(); }); save(); renderResume("link"); }
       else renderSetup(RESUME_ERR[d0.err || "bad"]);
     } else {
@@ -3182,9 +3240,12 @@ if (typeof document !== "undefined") {
       if (s0 && replay(s0.seed, s0.chosen, s0.L, s0.tape)) {
         bestFit = s0.best || null; cps = s0.cps || []; backUsed = true;
         if (s0.ph === 3 && ph === 2) ph = 3;
-        if (mainN && firstOpen() < 0) renderResult();
+        if (mainN && firstOpen() < 0 && mineLoaded) renderResult();
         else renderResume("local");
-      } else renderSetup();
+      } else {
+        var v10 = null; try { v10 = localStorage.getItem("ft10_progress"); if (v10) localStorage.removeItem("ft10_progress"); } catch (e) {}
+        renderSetup(v10 ? "แบบทดสอบที่ทำค้างไว้มาจากเวอร์ชันเก่า คำถามเปลี่ยนไปแล้ว ทำต่อไม่ได้ เริ่มใหม่ได้เลย" : undefined);
+      }
     }
   })();
 }
