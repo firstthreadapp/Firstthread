@@ -451,6 +451,8 @@ ul.letters b { color: var(--fg); font-weight: 800; }
 .cmp2 b { color: var(--fg); }
 .handle { color: var(--muted); }
 details.fold > summary { font-weight: 600; }
+/* โลโก้ FirstThread: แสดงตามไฟล์ต้นฉบับ ไม่ตัดมุม ไม่ใส่ฟิลเตอร์ */
+.brand img, .handle img, .ftcta img { border-radius: 0; filter: none; object-fit: contain; }
 @media (prefers-reduced-motion: reduce) { .btn { transition: none; } }
 @media (max-width: 400px) { .card { padding: 22px 18px; } .card.result > div, .card.result > .eibox { padding: 20px 16px; } }
 </style>
