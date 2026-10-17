@@ -1,0 +1,761 @@
+[
+ {
+  "id": "Nic0",
+  "cat": "d",
+  "sev": "low",
+  "why": "Cost 'แม้ยังไม่มีอะไรมายืนยัน' is almost word-for-word the Nie0 ending ('ทั้งที่ยังไม่มีอะไรยืนยัน'). It is not a real cost; it makes the Ni side sound prescient, and a repeated ending marks the Ni items.",
+  "fix": "อยู่ห้องไหนไปสักพัก ฉันมักรู้สึกได้เองว่าที่นี่จะเป็นแค่ทางผ่านหรือเป็นที่อยู่ยาว จนบางทีไม่อยากลงแรงแต่งห้องที่รู้สึกว่าเป็นแค่ทางผ่าน"
+ },
+ {
+  "id": "Nic1",
+  "cat": "b",
+  "sev": "low",
+  "why": "The 'cost' 'จนคิดไกลกว่าแค่เก็บห้อง' reads as a strength (seeing deeper), so the item has no real downside.",
+  "fix": "ห้องรกหลายจุดพร้อมกัน ฉันมักมองว่าเป็นสัญญาณของเรื่องเดียว เช่น ช่วงนี้ชีวิตแน่นไป จนห้องก็ยังรกอยู่อย่างนั้นอีกหลายวัน"
+ },
+ {
+  "id": "Nic2",
+  "cat": "e",
+  "sev": "low",
+  "why": "Internally inconsistent: the stem says things 'เริ่มเสียทีละชิ้น' but the cost says only one bulb is out. Also the third 'breakdown means something long-term' Ni item (Nic2, BNiSec1-a, Nie2).",
+  "fix": "หลอดไฟขาดหรือก๊อกเริ่มหยด ฉันมักเห็นเลยไปว่าห้องนี้ถึงรอบที่ต้องรื้อจัดใหม่ทั้งห้อง แม้ตอนนั้นมีของเสียแค่ชิ้นเดียว"
+ },
+ {
+  "id": "Nic5",
+  "cat": "a",
+  "sev": "low",
+  "why": "Choosing the one task that is the 'core' of the day and letting the rest wait is prioritising (Te/J). Its cost is also the same as Tec4's ('งานจุกจิก…ค้าง'), and both share the 'วันหยุด…ทำอะไรก่อน' stem, so the two read as the same item.",
+  "fix": "วันหยุดอยู่บ้าน ฉันมักมีความรู้สึกรวม ๆ ผุดขึ้นมาก่อนว่าวันนี้จะเป็นวันแบบไหน แล้วปล่อยให้ทั้งวันไหลไปตามภาพนั้น แม้สิ่งที่จดไว้ว่าจะทำจะไม่ได้แตะเลย"
+ },
+ {
+  "id": "Nec0",
+  "cat": "d",
+  "sev": "low",
+  "why": "Duplicates BNeSic0-a in the same context: same idea (varying the method for weekly chores) and the same cost 'ยุ่งกว่าเดิม'. A respondent would see the idea twice.",
+  "fix": "เห็นของเหลือใช้ในห้อง เช่น กล่องหรือขวดเปล่า ฉันมักนึกได้หลายทางว่ามันกลายเป็นอะไรได้อีก จนกองของที่ ‘เดี๋ยวเอาไปทำอย่างอื่น’ โตขึ้นเรื่อย ๆ"
+ },
+ {
+  "id": "Nec4",
+  "cat": "d",
+  "sev": "low",
+  "why": "Near-paraphrase of the food-context item Ned3 (one ingredient leads to many possible menus). Contexts l/f are merged and d is also shown, so the user meets the same idea twice.",
+  "fix": "จะจัดมุมเล็ก ๆ ในห้องใหม่ ฉันมักนึกได้หลายแบบว่ามุมนี้กลายเป็นอะไรได้บ้าง ทั้งมุมอ่านหนังสือ มุมกาแฟ หรือมุมต้นไม้ แล้วเลือกแบบที่ยังไม่เคยลอง แม้จะต้องย้ายของวุ่นไปหมด"
+ },
+ {
+  "id": "Sic0",
+  "cat": "a",
+  "sev": "low",
+  "why": "A fixed cleaning schedule (wash on day X, mop on day Y) reads as J/conscientiousness and as the 'tidy person' virtue (มีวินัย), not Si's reliance on familiar experience.",
+  "fix": "ทำความสะอาดห้อง ฉันมักทำตามลำดับเดิมที่คุ้นมือ เช่น เริ่มจากมุมเดิมก่อน ถ้าสลับลำดับไปจะรู้สึกเหมือนห้องยังสะอาดไม่ครบ"
+ },
+ {
+  "id": "Sic2",
+  "cat": "d",
+  "sev": "low",
+  "why": "Almost identical wording to Sie3 ('นึกย้อนว่าครั้งก่อนที่เป็นแบบนี้ทำอะไรแล้วหาย แล้วลองแบบนั้นก่อน'). Seeing the same sentence in two contexts makes the Si item easy to spot.",
+  "fix": "ของในบ้านเสีย ฉันมักหยิบเครื่องมือหรือวิธีที่ใช้จนคุ้นมือมาจัดการก่อน เพราะเคยเจอแบบนี้มาแล้ว แม้อาการคราวนี้จะไม่เหมือนเดิมนัก"
+ },
+ {
+  "id": "Sic3",
+  "cat": "b",
+  "sev": "low",
+  "why": "No cost, and 'รู้ตัวก่อน' is close to an ability claim (body awareness as self-care). It also edges toward health wording ('ร่างกายเริ่มไม่ไหว').",
+  "fix": "พัดลมหรือแอร์เสียกลางหน้าร้อน ฉันมักทำตามที่รู้ว่าตัวเองทนร้อนได้แค่ไหน เช่น อาบน้ำหรือย้ายไปนั่งมุมเดิมที่เย็นกว่า แม้จะยังไม่ได้เรียกช่างมาดู"
+ },
+ {
+  "id": "Sic4",
+  "cat": "c",
+  "sev": "low",
+  "why": "'มากกว่าดูโปร' brings in price/thrift: the other side becomes promotion hunting, which carries a money or class judgement.",
+  "fix": "เลือกน้ำยาซักผ้าหรือน้ำยาถูพื้น ฉันมักเลือกจากกลิ่นที่จำได้ว่าทำให้ห้องรู้สึกเหมือนบ้าน แม้จะมีกลิ่นใหม่ ๆ วางให้ลองอยู่ข้าง ๆ"
+ },
+ {
+  "id": "Sic5",
+  "cat": "d",
+  "sev": "low",
+  "why": "Paraphrases the food item Sid3 (when tired, want familiar food). It also assumes the person cooks at home.",
+  "fix": "กลับถึงห้องหลังวันยาว ๆ ฉันมักทำทุกอย่างตามลำดับเดิมที่คุ้น เช่น เปิดไฟดวงเดิม วางของที่เดิม จนถ้าลำดับเพี้ยนไปจะรู้สึกยังไม่ได้พัก"
+ },
+ {
+  "id": "Sec1",
+  "cat": "d",
+  "sev": "low",
+  "why": "Same idea and same marker word 'ดื่มด่ำ' as BNiSec0-b (soaking in light, sound and touch at home).",
+  "fix": "อยู่บ้านวันหยุด ฉันมักเปิดหน้าต่างหรือเปลี่ยนผ้าปูแล้วอยู่กับสัมผัสนั้นไปเรื่อย ๆ เช่น ลมที่พัดเข้ามาหรือผ้าที่เพิ่งซัก จนเรื่องที่ตั้งใจทำเลื่อนไป"
+ },
+ {
+  "id": "Tic0",
+  "cat": "a",
+  "sev": "low",
+  "why": "Taking appliances apart to see the mechanism is a topic liking (mechanics/DIY) and male-coded in Thailand. The c-context Ti items (Tic0, Tic2, Tic4) all lean technical or engineering.",
+  "fix": "ถ้าวิธีจัดห้องที่คนแชร์กันเยอะใช้กับห้องฉันไม่ได้ ฉันมักอยากรู้ก่อนว่ามันพลาดตรงหลักข้อไหน แล้วค่อยคิดวิธีของตัวเอง จนบางทีห้องค้างครึ่ง ๆ กลาง ๆ อยู่หลายวัน"
+ },
+ {
+  "id": "Tic1",
+  "cat": "c",
+  "sev": "low",
+  "why": "'มีคนบอกว่าเรื่องในบ้านต้องทำแบบนี้' evokes advice from elders or parents (folk rules about drying clothes), which brings in hierarchy. Questioning it reads as either 'ใช้วิจารณญาณ' or disrespect.",
+  "fix": "เจอเคล็ดลับบ้านที่แชร์กันเยอะ เช่น ใช้เบกกิ้งโซดาขจัดได้ทุกคราบ ฉันมักนึกเองก่อนว่ามันทำงานด้วยหลักอะไร แม้จะยังไม่ได้ลองใช้จริงเลย"
+ },
+ {
+  "id": "Tic4",
+  "cat": "a",
+  "sev": "low",
+  "why": "Calculating wall load needs engineering knowledge. That is an ability or topic confound, not a habit of seeking internal logic.",
+  "fix": "จะแขวนชั้นบนผนัง ฉันมักอยากเข้าใจก่อนว่าพุกแต่ละแบบยึดอยู่ได้ด้วยหลักอะไร แม้ชั้นจะวางพิงผนังรอไปหลายวัน"
+ },
+ {
+  "id": "Tec2",
+  "cat": "e",
+  "sev": "low",
+  "why": "'จนบางทีค้างไปเป็นสัปดาห์' is ambiguous: it is unclear whether the laundry or the broken machine is what stays pending.",
+  "fix": "เครื่องซักผ้าค้างกลางรอบ ฉันมักหาทางให้ผ้าแห้งทันใช้ก่อน เช่น ยกไปร้านซัก แล้วปล่อยเรื่องซ่อมเครื่องไว้ทีหลัง จนบางทีเครื่องเสียค้างอยู่เป็นสัปดาห์"
+ },
+ {
+  "id": "Tec3",
+  "cat": "a",
+  "sev": "low",
+  "why": "'ตอนต้องรีบออกไปข้างนอก' forces the answer: under time pressure almost everyone shuts the valve first, so the item stops discriminating. Its cost 'ยังไม่รู้ว่า…เพราะอะไร' also repeats across Te, Se and Fe items (Tee2, See2, BTiFec1-b, BTiFee1-b).",
+  "fix": "ห้องน้ำรั่วซึม ฉันมักเลือกทางที่ปิดปัญหาได้ในรอบเดียวก่อน เช่น ปิดวาล์วแล้วเรียกช่าง แม้จะยังไม่ได้ดูเองเลยว่าน้ำมาจากตรงไหน"
+ },
+ {
+  "id": "Fic0",
+  "cat": "c",
+  "sev": "low",
+  "why": "'กินข้าวบนพื้น' is normal in Thai homes, not personal or quirky, and it carries a class connotation (no table). The marker 'รู้สึกว่าเป็นตัวเอง' also appears in about 9 Fi items (see Fie1).",
+  "fix": "ฉันใช้ชีวิตในห้องตามจังหวะที่ใจอยากเป็น เช่น นั่งทำงานบนพื้นข้างหน้าต่างแทนโต๊ะ หรือทำความสะอาดตอนดึก แม้คนที่แวะมาจะงงอยู่บ้าง"
+ },
+ {
+  "id": "Fic1",
+  "cat": "c",
+  "sev": "low",
+  "why": "A Thai host is expected to tidy up for guests (face/เกรงใจ), so 'ไม่จัดใหม่ให้ดูดี' reads as not caring for guests or as laziness, not as authenticity. It is also phrased as a negation.",
+  "fix": "มีคนมาที่ห้อง ฉันมักเก็บแค่ส่วนที่ตัวเองอยากเก็บ แล้วปล่อยมุมที่เป็นชีวิตจริงของฉันไว้ให้เห็น แม้บางคนอาจมองว่าห้องดูไม่ค่อยเรียบร้อย"
+ },
+ {
+  "id": "Fic3",
+  "cat": "d",
+  "sev": "low",
+  "why": "Near-duplicate of Fic4 (do something personally meaningful instead of chores). 'เขียนบันทึก' during a power cut (in the dark) is implausible, and journaling reads as a virtue.",
+  "fix": "ของในห้องต้องรื้อออกเพราะน้ำรั่ว พอจะจัดกลับเข้าที่ ฉันมักจัดตามที่ใจอยากให้ห้องเป็นตอนนี้ แม้แบบเดิมจะใช้พื้นที่ได้คุ้มกว่า"
+ },
+ {
+  "id": "Fic5",
+  "cat": "c",
+  "sev": "low",
+  "why": "Using a chipped glass or plate is considered unlucky (ไม่เป็นมงคล) in Thai belief and can signal poverty. It also repeats the 'เป็นของฉันจริง ๆ' Fi marker.",
+  "fix": "จะซื้อแก้วหรือจานใบใหม่ ฉันมักรอจนเจอใบที่ใจบอกว่าใช่ แม้ระหว่างนั้นจะต้องใช้แก้วใบเดียวล้างสลับไปก่อน"
+ },
+ {
+  "id": "Fec0",
+  "cat": "b",
+  "sev": "high",
+  "why": "Attentive hosting is the 'good Thai host' (มีน้ำใจ) answer, and the cost 'แทบไม่ได้นั่งคุยเต็ม ๆ' is a self-sacrifice that adds virtue (the audit's Fem2 pattern).",
+  "fix": "มีคนมาที่ห้อง ฉันมักคอยดูสีหน้าเขาว่านั่งสบายไหม ร้อนไปไหม แล้วขยับพัดลมหรือหมอนให้ จนเขาต้องบอกว่าไม่ต้องห่วงขนาดนั้นก็ได้"
+ },
+ {
+  "id": "Fec1",
+  "cat": "b",
+  "sev": "low",
+  "why": "The cost (my routine disappears for days) is a heroic accommodation cost that raises desirability.",
+  "fix": "มีคนมาพักค้างที่ห้อง ฉันมักเปลี่ยนเวลานอนเวลาปิดไฟไปตามเขา แม้เขาจะบอกแล้วว่าให้ฉันทำตามปกติได้เลย"
+ },
+ {
+  "id": "Fec3",
+  "cat": "b",
+  "sev": "high",
+  "why": "'จนตัวเองแทบไม่ได้กิน' is the classic heroic one-sided cost (research_fc pattern 1). It also paraphrases food item Fed1 ('จนตัวเองกินไม่ค่อยเต็มที่').",
+  "fix": "อาหารที่ทำรับเพื่อนที่ห้องออกมาไม่เป็นอย่างที่คิด ฉันมักห่วงว่าเพื่อนจะฝืนกินไหม แล้วรีบหาอะไรมาเสริม จนเพื่อนต้องบอกซ้ำ ๆ ว่ากินได้จริง ๆ"
+ },
+ {
+  "id": "Fec4",
+  "cat": "a",
+  "sev": "low",
+  "why": "The cost 'ได้แต่แบบเดิม ๆ ซ้ำไปซ้ำมา' adds Si (repetition) to the Fe item. The idea also paraphrases Fed0.",
+  "fix": "จะเลือกกิจกรรมตอนเพื่อนมาที่ห้อง ฉันมักเลือกสิ่งที่ทุกคนน่าจะสนุกด้วยกัน จนสิ่งที่ฉันอยากชวนทำเองไม่ค่อยได้หยิบขึ้นมา"
+ },
+ {
+  "id": "BNiSec0",
+  "cat": "b",
+  "sev": "high",
+  "why": "Asymmetric costs. The Se side's cost 'ไม่ค่อยได้คิดว่าชีวิตกำลังไปทางไหน' is a character flaw (aimless or shallow; audit BNiSej0), while the Ni side's cost (not noticing objects) is trivial. 'ชีวิตในห้องนี้กำลังพาฉันไปทางไหน' is also vague.",
+  "fix": {
+   "a": "อยู่ห้องตัวเองเงียบ ๆ ฉันมักปล่อยให้ความคิดลอยไปหาเรื่องที่กำลังก่อตัวในชีวิต แม้ชาที่ชงไว้จะเย็นชืดไปโดยไม่ทันได้ดื่ม",
+   "b": "อยู่ห้องตัวเองเงียบ ๆ ฉันมักจดจ่อกับแสง เสียง และกลิ่นรอบตัวตอนนั้น แม้เรื่องที่ค้างในใจจะยังไม่ได้คิดต่อ"
+  }
+ },
+ {
+  "id": "BNiSec1",
+  "cat": "c",
+  "sev": "high",
+  "why": "'เรื่องนี้กำลังบอกอะไร' about a sudden breakage reads as an omen (ลาง/งมงาย) in Thai, which brings in superstition. In a mishap, side b (fix it now) is also the obviously sensible answer, so a looks impractical.",
+  "fix": {
+   "a": "ของในห้องเสียกะทันหัน ฉันมักนึกเลยไปถึงว่าห้องนี้ถึงเวลาเปลี่ยนโฉมทั้งห้องหรือยัง แม้ชิ้นที่เสียจะยังวางรอซ่อมอยู่",
+   "b": "ของในห้องเสียกะทันหัน ฉันมักลงมือแก้ชิ้นที่เสียจากที่เห็นตรงหน้าก่อน แม้จะยังไม่ได้มองว่าทั้งห้องกำลังจะไปทางไหน"
+  }
+ },
+ {
+  "id": "BNeSic1",
+  "cat": "b",
+  "sev": "low",
+  "why": "The Si cost ('มีแบบใหม่ที่น่าลองวางอยู่ข้าง ๆ') is not really a cost, while the Ne cost (adjusting for days) is real, so the Si side is the safe pick.",
+  "fix": {
+   "a": "ต้องซื้อของใช้ในบ้านมาแทนชิ้นที่หมดสภาพ ฉันมักหยิบแบบที่ยังไม่ได้ใช้มาลอง แม้จะต้องปรับตัวกับมันอยู่หลายวัน",
+   "b": "ต้องซื้อของใช้ในบ้านมาแทนชิ้นที่หมดสภาพ ฉันมักหยิบแบบที่เคยใช้แล้วคุ้นมือ แม้แบบเดิมจะเริ่มไม่ค่อยเข้ากับห้องตอนนี้แล้ว"
+  }
+ },
+ {
+  "id": "BTiFec0",
+  "cat": "b",
+  "sev": "high",
+  "why": "The Ti–Fe drafting bias the audit flagged. The Ti cost is ignoring a friend who is helping you and is tired (a strong เกรงใจ/น้ำใจ violation), while the Fe cost is a trivial practical one. Fe will be over-chosen.",
+  "fix": {
+   "a": "เพื่อนมาช่วยประกอบเฟอร์นิเจอร์ที่ห้อง ฉันมักจดจ่อกับว่าแต่ละชิ้นต่อกันด้วยหลักอะไรถึงแน่น จนบางทีประกอบช้ากว่าทำตามคู่มือไปทีละขั้น",
+   "b": "เพื่อนมาช่วยประกอบเฟอร์นิเจอร์ที่ห้อง ฉันมักคอยดูว่าทุกคนช่วยกันเพลินไหม จนบางทีขันน็อตผิดลำดับแล้วต้องรื้อมาประกอบใหม่"
+  }
+ },
+ {
+  "id": "BTiFec1",
+  "cat": "b",
+  "sev": "high",
+  "why": "Same asymmetry: the Ti cost is social (a friend left waiting during a leak), the Fe cost practical. Give both sides the same practical cost.",
+  "fix": {
+   "a": "ท่อใต้ซิงก์รั่วตอนกำลังทำอาหารกับเพื่อนที่ห้อง ฉันมักหยุดไล่คิดก่อนว่าน้ำมาจากข้อต่อไหน แม้น้ำจะนองพื้นไปอีกพักหนึ่ง",
+   "b": "ท่อใต้ซิงก์รั่วตอนกำลังทำอาหารกับเพื่อนที่ห้อง ฉันมักหันไปดูก่อนว่าเพื่อนเลอะหรือตกใจไหม แม้น้ำจะนองพื้นไปอีกพักหนึ่ง"
+  }
+ },
+ {
+  "id": "BTeFic1",
+  "cat": "c",
+  "sev": "low",
+  "why": "'ซ่อมหรือซื้อใหม่' brings in thrift (พอเพียง vs ฟุ่มเฟือย): the 'buy new, done faster' Te side reads as wasteful. The Fi side (attachment to an old object) also drifts to Si.",
+  "fix": {
+   "a": "ของชิ้นเก่าในห้องเสีย ฉันมักเลือกทางที่ปิดเรื่องได้ในรอบเดียว แม้ของชิ้นนั้นจะอยู่กับฉันมานาน",
+   "b": "ของชิ้นเก่าในห้องเสีย ฉันมักเลือกตามว่าใจยังอยากเก็บชิ้นนั้นไว้ไหม แม้ทางนั้นจะต้องวิ่งเรื่องอีกหลายรอบ"
+  }
+ },
+ {
+  "id": "Nie0",
+  "cat": "b",
+  "sev": "low",
+  "why": "'ทั้งที่ยังไม่มีอะไรยืนยัน' is not a cost. With it, predicting where an app is heading reads as a tech-trend foresight ability. It also repeats Nic0's ending.",
+  "fix": "ใช้แอปไหนไปสักพัก ฉันมักเริ่มรู้สึกว่ามันกำลังพาไปทางไหน จนบางทีเลิกใช้ไปก่อน ทั้งที่ตอนนั้นยังไม่มีอะไรติดขัด"
+ },
+ {
+  "id": "Nie3",
+  "cat": "a",
+  "sev": "low",
+  "why": "Letting 'ภาพในหัวต่อกันเองว่าเกิดอะไรขึ้น' is reconstructing a cause, which is Ti diagnosis. 'นิ่งไปพักหนึ่ง' in a crisis also reads as the ใจเย็น virtue.",
+  "fix": "ถ้าไฟล์หายไปทั้งโฟลเดอร์ ฉันมักมีที่หนึ่งผุดขึ้นมาในหัวว่าน่าจะไปอยู่ตรงนั้น แล้วตรงไปหาที่นั่นก่อน ทั้งที่ยังไม่ได้ไล่เช็กที่อื่นเลย"
+ },
+ {
+  "id": "Nie5",
+  "cat": "d",
+  "sev": "high",
+  "why": "Duplicates BNiSee0-a (decide the long-term picture of the device or library first, then set it up) and is planning (J). The 'ภาพ' marker appears in about 10 Ni items (Nic2, Nie0–3, Nie5, Nii6, Nii8, BNiSee0, BNiSei2), so the Ni side is easy to spot.",
+  "fix": "ตอนดูรูปเก่าย้อนหลังหลายปีในเครื่อง ฉันมักเห็นเส้นเรื่องเดียวที่ร้อยชีวิตช่วงนั้นเข้าด้วยกัน จนบางทีลืมว่าตั้งใจเข้ามาหารูปไหน"
+ },
+ {
+  "id": "Nee1",
+  "cat": "a",
+  "sev": "low",
+  "why": "Opening menus 'แค่เพื่อดูว่ามีอะไรซ่อนอยู่' is hands-on exploration that Se (See0) endorses just as easily. Nothing marks it as possibility-linking.",
+  "fix": "เจอเมนูที่ยังไม่เคยกดในแอป ฉันมักนึกต่อว่ามันอาจเปิดทางให้ทำอะไรที่ไม่เกี่ยวกับแอปนี้เลยได้บ้าง จนบางทีนั่งคิดเล่นไปไกลกว่าที่จะได้ใช้จริง"
+ },
+ {
+  "id": "Nee4",
+  "cat": "d",
+  "sev": "low",
+  "why": "Same idea as BNeSie0-a (download several apps to see what new paths they open).",
+  "fix": "จะเลือกแอปมาใช้สักตัว ฉันมักนึกต่อว่าแต่ละตัวเอาไปผสมกับเรื่องอื่นที่ทำอยู่ได้อีกกี่ทาง จนรายการแอปที่อยากลองยาวกว่าที่เลือกได้จริง"
+ },
+ {
+  "id": "Sie3",
+  "cat": "d",
+  "sev": "low",
+  "why": "Near-identical to Sic2 (see Sic2). If Sic2 is kept, rewrite this one.",
+  "fix": "เวลาเครื่องรวนแปลก ๆ ฉันมักกลับไปใช้ขั้นตอนแก้ที่ตัวเองทำจนคุ้นมือ เช่น ปิดเปิดเครื่องตามลำดับเดิม แม้ครั้งนี้อาการจะต่างไป"
+ },
+ {
+  "id": "See1",
+  "cat": "a",
+  "sev": "high",
+  "why": "Noticing what changed since before needs comparison with stored memory, which is Si, not Se. The item has no cost, and 'สังเกตรายละเอียด' is the ละเอียดถี่ถ้วน virtue.",
+  "fix": "เปิดแอปที่มีหน้าตาใหม่ ฉันมักไล่ดูสี ภาพเคลื่อนไหว และเสียงตอนกดตรงหน้าไปเรื่อย ๆ จนบางทีลืมว่าตั้งใจเปิดมาทำอะไร"
+ },
+ {
+  "id": "Tie0",
+  "cat": "b",
+  "sev": "low",
+  "why": "Checking where an AI answer comes from before trusting it is the media/AI-literacy virtue, and the cost ('even small questions') is weak.",
+  "fix": "ใช้เครื่องมือ AI ฉันมักอยากรู้ว่ามันได้คำตอบแบบนี้มาจากอะไร จนบางทีถามย้อนเรื่องที่มาของคำตอบมากกว่าเรื่องที่ตั้งใจถาม"
+ },
+ {
+  "id": "Tie2",
+  "cat": "e",
+  "sev": "low",
+  "why": "'แล้วเปิดใหม่ก็หาย' is ambiguous: it is unclear whether the problem or the app disappears.",
+  "fix": "ถ้าแอปเด้งออกเอง แม้เปิดใหม่แล้วจะใช้ได้ปกติ ฉันก็ยังอยากรู้ว่ามันเด้งเพราะอะไร จนบางทีลองทำซ้ำดูว่าจะเด้งอีกไหม"
+ },
+ {
+  "id": "Tie5",
+  "cat": "b",
+  "sev": "low",
+  "why": "Reading every setting before toggling is careful and privacy-savvy (รอบคอบ ↑). 'แม้ตั้งตามค่าที่แนะนำก็คงไม่มีปัญหา' is not a cost.",
+  "fix": "ตอนจะเปิดหรือปิดการตั้งค่าสักอย่าง ฉันมักอ่านจนเข้าใจว่ามันไปเปลี่ยนอะไรในเครื่องบ้าง จนบางทีตั้งค่าเรื่องเดียวกินเวลาไปครึ่งชั่วโมง"
+ },
+ {
+  "id": "Tee2",
+  "cat": "a",
+  "sev": "low",
+  "why": "'ตอนกำลังรีบ' forces the fastest workaround for everyone, so the item stops discriminating. It shares the cost 'ยังไม่รู้ว่า…เป็นอะไร' with See2 and Tec3, so Tee2 and See2 are nearly identical when paired.",
+  "fix": "ถ้าแอปค้าง ฉันมักเลือกทางที่ทำเรื่องนั้นต่อได้โดยเสียขั้นตอนน้อยที่สุด เช่น สลับไปทำในเว็บ แล้วไม่กลับไปดูแอปนั้นอีกเลย"
+ },
+ {
+  "id": "Tee4",
+  "cat": "d",
+  "sev": "low",
+  "why": "The Te cost 'หน้าตาไม่ถูกใจ / ไม่สวย' repeats across Tec5, Tee4 and BTeFie1-a, and 'ขั้นตอนน้อยที่สุด' repeats Tec5. 'Efficient but ugly' becomes a recognisable Te signature.",
+  "fix": "จะเลือกแอปมาใช้สักตัว ฉันมักเทียบว่าตัวไหนทำเรื่องที่ต้องการได้ในขั้นตอนน้อยที่สุด แม้ต้องจ่ายรายเดือนเพิ่มหรือเลิกใช้ตัวที่ใช้มานาน"
+ },
+ {
+  "id": "Fie0",
+  "cat": "d",
+  "sev": "low",
+  "why": "Near-duplicate of Fie4 (pick the app that feels right over the more capable one). Two of six Fi-e items say the same thing.",
+  "fix": "เห็นเพื่อนย้ายไปใช้แอปที่กำลังฮิต ฉันมักยังไม่ย้ายตาม จนกว่าจะลองแล้วรู้สึกว่ามันเข้ากับวิธีใช้ชีวิตของฉัน แม้จะคุยเรื่องในแอปนั้นกับเพื่อนไม่ค่อยรู้เรื่อง"
+ },
+ {
+  "id": "Fie1",
+  "cat": "d",
+  "sev": "high",
+  "why": "Fi marker overuse: 'เป็นตัวเอง / เป็นของฉันจริง ๆ' appears in Fic0, Fic5, Fie0, Fie1, Fii8, BTeFic0-b, BTeFie0-b and BTeFie1-b, so any side containing it is Fi. This item also treats Fi as phone theming (aesthetic or topic liking), and its cost ('looks ordinary') is illogical.",
+  "fix": "ตั้งรูปหน้าจอ ฉันมักเลือกภาพที่มีความหมายกับใจฉันคนเดียว แม้คนที่เห็นจะถามว่ามันคือรูปอะไร"
+ },
+ {
+  "id": "Fie3",
+  "cat": "a",
+  "sev": "low",
+  "why": "'ตัวใหม่ที่ฉันสบายใจจะใช้ไปนาน ๆ' reads as Si comfort or long-range Ni, with no personal-value cue.",
+  "fix": "ถ้าแอปที่ใช้มานานปิดตัวไป ฉันมักรอจนเจอตัวที่ใช้แล้วใจบอกว่าใช่ก่อนจะย้ายไป แม้ระหว่างนั้นจะต้องทำแบบขัด ๆ ไปก่อน"
+ },
+ {
+  "id": "Fee1",
+  "cat": "d",
+  "sev": "low",
+  "why": "The cost 'แม้จะไม่ค่อยเป็นแบบที่ฉันชอบเอง' is word-for-word Fei6, and close to Fec5, Fee4 and Fei8. The 'Fe = gives up what I like' ending reveals the target.",
+  "fix": "ตั้งชื่อหรือรูปโปรไฟล์ในแอปที่ใช้กับคนอื่น ฉันมักเลือกแบบที่คนเห็นแล้วรู้สึกสบาย ๆ จนรูปโปรไฟล์ของฉันดูกลาง ๆ เหมือนของใครก็ได้"
+ },
+ {
+  "id": "Fee2",
+  "cat": "b",
+  "sev": "low",
+  "why": "Promptly telling everyone that the meeting app is down is responsible coordination (↑, partly Te). Fee2, Fee3 and Fei7 all use 'รีบบอก', which repeats the pattern.",
+  "fix": "ถ้าแอปที่นัดคุยกับเพื่อน ๆ ล่ม ฉันมักคิดก่อนว่าใครในกลุ่มจะหงุดหงิดหรือคิดมากไหม แล้วทักไปถามทีละคน จนเรื่องง่าย ๆ กลายเป็นแชตยาวหลายห้อง"
+ },
+ {
+  "id": "Fee4",
+  "cat": "a",
+  "sev": "high",
+  "why": "Picking the app most of the group already has is the lowest-friction, practical choice (Te/Si), not attunement to feelings. Te and Si readers would endorse it equally.",
+  "fix": "จะเลือกแอปมาใช้ทำอะไรร่วมกับเพื่อน ๆ ฉันมักดูก่อนว่าใครในกลุ่มน่าจะไม่สะดวกใจกับตัวไหน แล้วเลือกตามนั้น แม้ตัวที่ฉันอยากใช้จะทำได้มากกว่า"
+ },
+ {
+  "id": "BNiSee0",
+  "cat": "a",
+  "sev": "high",
+  "why": "J/P confound like audit BNiSez0: side a is 'plan the long-term setup then configure' (J), side b 'just start tapping and adjust' (P). It also duplicates Nie5.",
+  "fix": {
+   "a": "ตอนได้มือถือเครื่องใหม่ ฉันมักรู้สึกไปก่อนว่าเครื่องนี้จะมาเปลี่ยนวิธีใช้ชีวิตช่วงต่อไปของฉันยังไง แม้จะยังไม่ได้เปิดใช้อะไรจริงจัง",
+   "b": "ตอนได้มือถือเครื่องใหม่ ฉันมักสนุกกับสัมผัสตรงหน้าก่อน ทั้งน้ำหนักในมือ สีจอ และเสียงตอนกด แม้จะยังไม่ได้คิดว่าจะใช้มันทำอะไรต่อ"
+  }
+ },
+ {
+  "id": "BNiSee1",
+  "cat": "b",
+  "sev": "low",
+  "why": "'จับทิศรวม ๆ ในหัว' reads as a sense-of-direction ability, which is gender-stereotyped in Thailand, and as a mental map (Si). Describe the process, not the skill.",
+  "fix": {
+   "a": "ถ้ามือถือดับกลางทางตอนกำลังดูแผนที่ ฉันมักเลือกทิศจากความรู้สึกรวม ๆ ว่าที่หมายน่าจะไปทางนั้น แล้วเดินไปเลย แม้อาจต้องย้อนกลับมาบ้าง",
+   "b": "ถ้ามือถือดับกลางทางตอนกำลังดูแผนที่ ฉันมักมองป้ายและสิ่งรอบตัวตรงนั้น แล้วเดินไปตามที่เห็นทีละช่วง แม้ต้องหยุดดูบ่อย ๆ"
+  }
+ },
+ {
+  "id": "BTiFee0",
+  "cat": "a",
+  "sev": "low",
+  "why": "Making everyone's shared album or calendar use one naming rule imposes order on others' outer system, which is Te. Ti should be internal consistency.",
+  "fix": {
+   "a": "เวลาใช้อัลบั้มหรือปฏิทินร่วมกับคนอื่น ฉันมักสะดุดใจถ้าชื่อหมวดของแต่ละคนใช้หลักต่างกัน แล้วนั่งคิดว่าหลักไหนถึงจะไม่ขัดกันเลย แม้คนอื่นจะไม่ได้ติดใจอะไร",
+   "b": "เวลาใช้อัลบั้มหรือปฏิทินร่วมกับคนอื่น ฉันมักดูว่าแต่ละคนสะดวกใส่แบบไหน แล้วปล่อยให้ใส่ตามที่ทุกคนสบายใจ แม้หมวดจะปนกันไปบ้าง"
+  }
+ },
+ {
+  "id": "BTiFee1",
+  "cat": "b",
+  "sev": "high",
+  "why": "The Ti side's cost is making the whole group wait, while the Fe side informs everyone promptly (helpful). This is the same Ti–Fe asymmetry, so give both sides the same practical cost.",
+  "fix": {
+   "a": "ถ้าแอปที่ใช้ร่วมกันในกลุ่มรวนจนข้อมูลเพี้ยน ฉันมักไล่หาก่อนว่ามันเพี้ยนตรงขั้นไหน แม้ข้อมูลที่เพี้ยนจะค้างอยู่ในแอปอีกพักหนึ่ง",
+   "b": "ถ้าแอปที่ใช้ร่วมกันในกลุ่มรวนจนข้อมูลเพี้ยน ฉันมักทักไปถามก่อนว่าแต่ละคนโดนผลแค่ไหน แม้ข้อมูลที่เพี้ยนจะค้างอยู่ในแอปอีกพักหนึ่ง"
+  }
+ },
+ {
+  "id": "BTeFie0",
+  "cat": "b",
+  "sev": "high",
+  "why": "'ใช้ AI ช่วยทำงานของตัวเอง' then 'เอาผลไปใช้ต่อทันที' reads as cheating or lazy (an integrity judgement), while the Fi side reads as effort and authenticity. Move it to a low-stakes text.",
+  "fix": {
+   "a": "เวลาใช้ AI ช่วยร่างข้อความหรือแคปชันสั้น ๆ ฉันมักเอาที่ได้ไปใช้ต่อเลยถ้ามันบอกเรื่องครบ แม้สำนวนจะไม่ค่อยเหมือนที่ฉันพูด",
+   "b": "เวลาใช้ AI ช่วยร่างข้อความหรือแคปชันสั้น ๆ ฉันมักแก้คำจนอ่านแล้วเป็นเสียงของฉันก่อน แม้ข้อความสั้น ๆ จะกินเวลาไปอีกพักใหญ่"
+  }
+ },
+ {
+  "id": "BTeFie1",
+  "cat": "a",
+  "sev": "low",
+  "why": "The Fi side is home-screen aesthetics (Se or topic liking), not personal values, and it carries the 'เป็นตัวเอง' marker.",
+  "fix": {
+   "a": "ตอนจัดหน้าจอหลักของมือถือ ฉันมักวางแอปตามความถี่ที่ใช้ให้กดถึงได้ไวที่สุด แม้แอปที่มีความหมายกับฉันจะไปอยู่หน้าหลัง ๆ",
+   "b": "ตอนจัดหน้าจอหลักของมือถือ ฉันมักวางแอปที่ใจผูกพันไว้หน้าแรก เช่น แอปที่ใช้คุยกับคนสำคัญ แม้บางตัวที่ใช้บ่อยจะต้องเลื่อนหา"
+  }
+ },
+ {
+  "id": "Nii7",
+  "cat": "a",
+  "sev": "low",
+  "why": "'ลึก ๆ แล้วต้องการอะไรจากมัน' is Fi phrasing (inner wants). Ni should converge on the underlying purpose or essence.",
+  "fix": "ถ้าของที่ตั้งใจซื้อหมดกะทันหัน ฉันมักย้อนคิดว่าแก่นจริง ๆ ที่ของชิ้นนั้นมีไว้แก้คือเรื่องอะไร จนบางทีได้ของคนละประเภทกลับมาแทน"
+ },
+ {
+  "id": "Nii8",
+  "cat": "b",
+  "sev": "low",
+  "why": "Imagining which item you will actually use in months is the 'wise shopper' answer (↑), and 'ชอบอีกชิ้นมากกว่า' is a weak cost. It overlaps Te and Si.",
+  "fix": "เลือกระหว่างของสองชิ้นที่ใกล้เคียงกัน ฉันมักเลือกชิ้นที่รู้สึกว่าเข้ากับทิศทางที่ชีวิตกำลังไป แม้ตอนนี้จะยังแทบไม่ได้ใช้มัน"
+ },
+ {
+  "id": "Nei8",
+  "cat": "d",
+  "sev": "low",
+  "why": "Repeats the existing Nei5 stem ('นึกเล่น ๆ … ได้อีกกี่ทาง/แบบ') and Nei7's 'ได้อีกกี่แบบ', a recognisable Ne signature.",
+  "fix": "ก่อนกดซื้อ ฉันมักเผลอคิดต่อว่าถ้าได้ของชิ้นนี้มาจะพาไปเริ่มเรื่องใหม่อะไรได้อีก จนรถเข็นเต็มไปด้วยของสำหรับแผนที่ยังไม่ได้เริ่ม"
+ },
+ {
+  "id": "Sei6",
+  "cat": "c",
+  "sev": "low",
+  "why": "Live-selling streams are a specific habit with demographic and class connotations. Many respondents never watch them, so this becomes a topic-or-access item.",
+  "fix": "ดูของออนไลน์ ฉันมักเลือกดูคลิปหรือรูปที่เห็นของจริงถูกจับ บิด หรือส่องกับแสง มากกว่าอ่านคำบรรยายสินค้า"
+ },
+ {
+  "id": "Tii6",
+  "cat": "b",
+  "sev": "low",
+  "why": "Spotting contradictory ad claims is the savvy-consumer virtue, and the item has no cost.",
+  "fix": "ถ้าคำอธิบายสินค้าบอกว่าทั้งเบาและทนกว่าทุกรุ่น ฉันมักหยุดคิดว่าสองอย่างนี้ไปด้วยกันได้ยังไง จนบางทีปิดหน้าไปเลยทั้งที่ของอาจตรงกับที่หาอยู่"
+ },
+ {
+  "id": "Tei7",
+  "cat": "a",
+  "sev": "low",
+  "why": "Almost the same behaviour as Sei7 (get a replacement fast from what is available now). When the two are paired, they cannot be told apart. The Te version needs the criteria or efficiency logic.",
+  "fix": "ถ้าของที่สั่งไว้ไม่มาตามวันเพราะพายุ ฉันมักเทียบทางเลือกที่มีทั้งเวลาและค่าส่ง แล้วตัดสินใจทางเดียวให้จบ แม้ต้องยกเลิกออเดอร์เดิมทั้งหมด"
+ },
+ {
+  "id": "Fii6",
+  "cat": "b",
+  "sev": "high",
+  "why": "Ethical boycott ('เบื้องหลังสินค้า…ใจไม่สบาย') is a moral virtue (↑), and it paraphrases the existing Fii0 (no money to businesses my heart can't accept) in the same context, which breaks rule 9.",
+  "fix": "ของที่คนรอบตัวบอกว่าต้องมี ถ้าฉันรู้สึกว่ามันไม่ใช่ชีวิตแบบของฉัน ฉันมักผ่านไปโดยไม่ค่อยลังเล แม้จะคุยเรื่องนั้นกับเพื่อนไม่ค่อยเข้าเรื่อง"
+ },
+ {
+  "id": "Fii8",
+  "cat": "a",
+  "sev": "low",
+  "why": "Choosing a colour that 'feels like me now' is aesthetic or topic preference, and the 'เป็นตัวเอง' marker repeats.",
+  "fix": "เลือกของใช้ส่วนตัว ฉันมักเลือกชิ้นที่ใช้แล้วรู้สึกตรงกับสิ่งที่ฉันให้ค่าในตอนนี้ แม้ชิ้นอื่นจะเข้ากับของที่มีอยู่มากกว่า"
+ },
+ {
+  "id": "Fei6",
+  "cat": "d",
+  "sev": "low",
+  "why": "The ending is identical to Fee1 ('ไม่ค่อยเป็นแบบที่ฉันชอบเอง').",
+  "fix": "เวลาเลือกของที่จะใช้ร่วมกับคนอื่น ฉันมักเลือกแบบที่คิดว่าทุกคนใช้แล้วโอเค จนบางทีต้องคอยถามว่าใครโอเคไหมอยู่หลายรอบกว่าจะได้ซื้อ"
+ },
+ {
+  "id": "Fei7",
+  "cat": "d",
+  "sev": "low",
+  "why": "This is the third 'รีบบอก…ห่วงว่า' Fe mishap (with Fee2 and Fee3). Prompt group notification also reads as the responsible answer.",
+  "fix": "ถ้าของที่สั่งรวมกับเพื่อนส่งช้า ฉันมักคิดวนว่าใครจะผิดหวังหรือเซ็งไหม จนบางทีส่งข้อความปลอบในกลุ่มบ่อยกว่าที่ทุกคนต้องการ"
+ },
+ {
+  "id": "BNiSei2",
+  "cat": "a",
+  "sev": "high",
+  "why": "Side a ('รู้ว่าอยากได้อะไร แล้วค้นตรงไป') is goal-directed searching (Te/J) vs b browsing (P). This is the audit BNiSez0 J/P confound, and 'ค้นตรงไป' also contradicts the 'เลื่อนดู' stem.",
+  "fix": {
+   "a": "เวลาเลื่อนดูของในแอปช้อปปิ้ง ฉันมักรู้สึกถึงภาพรวมเดียวที่ของชิ้นที่ใช่ต้องมี แล้วปัดผ่านทุกชิ้นที่ไม่เข้าภาพนั้น แม้จะผ่านของที่คนอื่นชมกันไปเยอะ",
+   "b": "เวลาเลื่อนดูของในแอปช้อปปิ้ง ฉันมักกดดูชิ้นที่สะดุดตาไปเรื่อย ๆ แล้วค่อยรู้ว่าชอบอันไหน แม้บางทีจะเลื่อนนานกว่าที่ตั้งใจ"
+  }
+ },
+ {
+  "id": "BNeSii2",
+  "cat": "b",
+  "sev": "low",
+  "why": "Success/failure asymmetry: Si 'ได้ของตามที่นึกไว้' (a success) vs Ne 'ของไม่ตรงกับที่นึกภาพไว้' (a failure), the audit BNeSi5 pattern. Lengths also differ by 17%.",
+  "fix": {
+   "a": "เวลาต้องเลือกร้านออนไลน์ ฉันมักลองร้านใหม่ที่ยังไม่รู้จัก ดูว่าจะได้อะไรต่างไปจากเดิม แม้ต้องลุ้นว่าของจะมาแบบไหน",
+   "b": "เวลาต้องเลือกร้านออนไลน์ ฉันมักกลับไปร้านเดิมที่เคยสั่งจนคุ้น แม้จะไม่ค่อยได้เห็นของแบบใหม่ ๆ"
+  }
+ },
+ {
+  "id": "BTiFei2",
+  "cat": "b",
+  "sev": "low",
+  "why": "The Fe cost 'แม้ในใจยังมีจุดที่สงสัย' reads as insincere (ไม่จริงใจ) next to Ti's honest 'บอกตามที่คิด', which tips the pair toward Ti. It is also close to a disagreement scene. Both sides exceed about 125 characters.",
+  "fix": {
+   "a": "เพื่อนสนิทส่งลิงก์ของมาถามว่าน่าซื้อไหม ฉันมักไล่ดูก่อนว่าคำอธิบายสินค้าต่อกันลงตัวไหม แม้คำตอบจะยาวเกินกว่าที่เขาถาม",
+   "b": "เพื่อนสนิทส่งลิงก์ของมาถามว่าน่าซื้อไหม ฉันมักดูก่อนว่าเขาอยากได้มากแค่ไหน แล้วตอบให้เข้ากับใจเขาตอนนั้น แม้จะยังไม่ได้ไล่ดูรายละเอียด"
+  }
+ },
+ {
+  "id": "BTeFii2",
+  "cat": "a",
+  "sev": "low",
+  "why": "Side b gives no Fi reason (waiting for the intended item reads as Si persistence or patience/อดทน). 'รู้สึกผูกพัน' with an item you never owned is odd Thai.",
+  "fix": {
+   "a": "ถ้าของที่ตั้งใจซื้อหมด แต่มีอีกรุ่นที่ใช้แทนกันได้ ฉันมักสั่งรุ่นนั้นเลยให้เรื่องจบ แม้รุ่นนั้นจะไม่ใช่ชิ้นที่ใจเลือกไว้",
+   "b": "ถ้าของที่ตั้งใจซื้อหมด แต่มีอีกรุ่นที่ใช้แทนกันได้ ฉันมักรอชิ้นที่ใจเลือกไว้จนกว่าจะกลับมามี แม้ระหว่างนั้นจะต้องใช้ของเดิมไปก่อน"
+  }
+ },
+ {
+  "id": "Niy0",
+  "cat": "e",
+  "sev": "low",
+  "why": "'หลาย ๆ หลักคิดนั้น' is awkward Thai, and the item still has no cost (Ni 'finding the core' is ↑).",
+  "fix": "เวลาอ่านแนวคิดเรื่องการใช้ชีวิตจากหลายแหล่ง ฉันชอบหาแก่นเดียวที่ทุกแนวพูดถึงอยู่ลึก ๆ แม้บางทีจะเหมารวมจนรายละเอียดของแต่ละแนวหายไป"
+ },
+ {
+  "id": "Ney5",
+  "cat": "e",
+  "sev": "low",
+  "why": "A mechanical swap of ความเชื่อ→หลักคิด. Nobody 'คุยเรื่องหลักคิดในการใช้ชีวิต' casually, so it reads stilted.",
+  "fix": "คุยกับเพื่อนเรื่องว่าชีวิตแบบไหนถึงเรียกว่าดี ฉันมักแตกประเด็นไปหลายทาง จนวงคุยไปไกลจากเรื่องที่เริ่มไว้"
+ },
+ {
+  "id": "Siy0",
+  "cat": "f",
+  "sev": "low",
+  "why": "Worse than the old item: 'หลักง่าย ๆ ที่ฉันยึด' is abstract with no example, and 'ยึดหลัก' now reads as มีหลักการ (↑).",
+  "fix": "กฎเล็ก ๆ ที่ฉันตั้งไว้กับตัวเองมานาน เช่น ไม่ตอบเรื่องสำคัญตอนดึก พอได้ทำตามแบบเดิมแล้วรู้สึกมั่นคง แม้บางครั้งสถานการณ์จะเปลี่ยนไปแล้ว"
+ },
+ {
+  "id": "Siy2",
+  "cat": "f",
+  "sev": "low",
+  "why": "The new examples (sleep on time, prepare things the night before) are conscientiousness and discipline virtues and J. The old 'lucky shirt' ritual had to go, but the new version is more desirable.",
+  "fix": "ก่อนเรื่องสำคัญ ฉันมักทำอะไรเล็ก ๆ แบบเดิมที่เคยทำแล้วใจนิ่ง เช่น ฟังเพลงเดิมหรือกินมื้อเดิม แม้คนอื่นจะมองว่าไม่เห็นเกี่ยวกันเลย"
+ },
+ {
+  "id": "Siy5",
+  "cat": "d",
+  "sev": "low",
+  "why": "With religion removed, Siy5 ('วิธีพักใจที่เคยทำแล้ว…ทำซ้ำ') is now a near-duplicate of Siy4 (return to what calmed me before).",
+  "fix": "เวลาต้องตัดสินใจเรื่องใหญ่ ฉันมักเทียบความรู้สึกในตัวตอนนี้กับครั้งก่อนที่เจอเรื่องคล้ายกัน เช่น ใจหวิวหรือตัวเบา แล้วใช้เป็นตัวช่วยเลือก"
+ },
+ {
+  "id": "Sey0",
+  "cat": "f",
+  "sev": "high",
+  "why": "Drifted off Se: 'เห็นสีหน้าและได้ยินน้ำเสียงของคน' is attunement to people (Fe/E). It is also now one of four y-Se items saying 'principles are clear from direct experience' (Sey0, Sey1, Sey2, Sey5).",
+  "fix": "หลักของฉันคือให้แต่ละวันมีช่วงที่ได้อยู่กับสิ่งตรงหน้าเต็ม ๆ เช่น รสอาหารหรือแดดยามเย็น แม้งานที่ค้างจะยังรออยู่"
+ },
+ {
+  "id": "Sey1",
+  "cat": "a",
+  "sev": "high",
+  "why": "The new text ('เข้าใจหลักคิดจากสิ่งที่เห็นและเจอกับตัว…มากกว่าอ่าน') is effectively the existing Siy3 ('เชื่อในสิ่งที่เคยลองแล้วเห็นผลกับตัวเอง มากกว่าสิ่งที่คนอื่นเล่า'), so the Se and Si items cannot be told apart.",
+  "fix": "เวลาชีวิตมีเรื่องไม่คาดคิด หลักของฉันคือรับมือกับสิ่งที่อยู่ตรงหน้าก่อน แล้วค่อยปรับไปตามที่เห็น แม้จะยังไม่ได้คิดว่ามันจะส่งผลไปถึงไหน"
+ },
+ {
+  "id": "Sey2",
+  "cat": "f",
+  "sev": "high",
+  "why": "The new example 'ลองทำสิ่งใหม่ดูสักครั้ง' is novelty seeking (Ne/Openness), whereas the old example was hands-on sensory. The rewrite changed the function.",
+  "fix": "เรื่องหลักคิดในชีวิต ฉันมักอินตอนที่ร่างกายได้อยู่ในเหตุการณ์จริง เช่น ตอนเหนื่อยจนเหงื่อออกหรือยืนอยู่กลางสายฝน มากกว่าตอนนั่งฟังคำอธิบาย"
+ },
+ {
+  "id": "Sey3",
+  "cat": "a",
+  "sev": "low",
+  "why": "'ชีวิตที่ดีคือ…ผู้คนตรงหน้า' mixes in E (people), and it states a normative ideal with no cost.",
+  "fix": "สำหรับฉัน ช่วงที่ชีวิตมีรสชาติคือตอนได้จดจ่อกับสี เสียง และกลิ่นตรงหน้าเต็มที่ แม้จะเป็นแค่ตอนเดินตลาดใกล้บ้าน"
+ },
+ {
+  "id": "Tiy1",
+  "cat": "e",
+  "sev": "low",
+  "why": "'ส่วนไหนเป็นการตีความ' fit horoscopes, but for shared quotes it is unclear what is being 'interpreted'.",
+  "fix": "เวลาฟังคำคมหรือสูตรใช้ชีวิตที่คนแชร์กัน ฉันชอบแยกดูว่าส่วนไหนเหตุผลต่อกันจริง ส่วนไหนเป็นแค่ความเห็นของคนพูด แม้จะฟังไม่ค่อยสนุก"
+ },
+ {
+  "id": "Tey2",
+  "cat": "b",
+  "sev": "low",
+  "why": "Turning resolutions into plans with deadlines is the discipline virtue (↑, also J), with no cost.",
+  "fix": "ฉันชอบเปลี่ยนสิ่งที่ตั้งใจไว้กับตัวเอง เช่น เป้าปีใหม่ ให้เป็นแผนที่มีขั้นตอนและเส้นตาย จนบางเป้ากลายเป็นงานที่ต้องตามเช็กจนไม่สนุก"
+ },
+ {
+  "id": "Tey5",
+  "cat": "f",
+  "sev": "low",
+  "why": "The new version is double-barrelled (a belief plus 'I am the one who does it', R13), drifts into the work/group context, and over 120 characters reads as leadership (ภาวะผู้นำ).",
+  "fix": "หลักของฉันคืองานไหนทำร่วมกันต้องมีลำดับและหน้าที่ชัด จนบางทีคนอื่นรู้สึกว่าฉันจริงจังเกินไปกับเรื่องสบาย ๆ"
+ },
+ {
+  "id": "Fiy3",
+  "cat": "e",
+  "sev": "low",
+  "why": "'บางเรื่องที่ฉันทำเป็นประจำ' is now too vague to picture, and 'ไม่ใช่เพราะคนอื่นทำกัน' gives a free authenticity point with no cost.",
+  "fix": "บางเรื่องที่ฉันทำเป็นประจำ ฉันทำเพราะมันมีความหมายกับใจฉันเอง แม้คนรอบตัวจะไม่เข้าใจว่าทำไปทำไม"
+ },
+ {
+  "id": "Fey0",
+  "cat": "f",
+  "sev": "high",
+  "why": "Worse than the old item: 'ฉันถือว่าต้องไป' turns it into a loyalty duty (normative 'ต้อง', R12; the brief rejects social duty), and 'give up my own plan' is a heroic cost. This is the 'good friend' answer.",
+  "fix": "ถ้าเพื่อนชวนไปวันสำคัญของเขา ฉันมักไปเพราะรู้สึกว่าเขาคงอยากเห็นหน้ากันครบ ๆ แม้ไปถึงแล้วจะได้คุยกับเขาแค่ไม่กี่คำ"
+ },
+ {
+  "id": "Fey2",
+  "cat": "e",
+  "sev": "low",
+  "why": "'ปรับหลักเล็ก ๆ ของตัวเอง…แม้จะยังไม่แน่ใจว่าตัวเองคิดแบบนั้น' is confused logic: it adjusts my own principle even though I am unsure I hold it. It also reads as โลเล.",
+  "fix": "อยู่กับกลุ่มเพื่อน ฉันมักทำตามธรรมเนียมเล็ก ๆ ที่กลุ่มทำกันจนชิน เช่น ถ่ายรูปก่อนกินหรือส่งสติกเกอร์แบบเดียวกัน แม้แบบของฉันเองจะไม่ใช่แบบนั้น"
+ },
+ {
+  "id": "BNeSiy0",
+  "cat": "c",
+  "sev": "high",
+  "why": "The secularised Si side still says 'หลักคิด…ที่คุ้นมาตั้งแต่เด็ก', which in Thai means what parents or religion taught (กตัญญู/religion). That defeats the rewrite. Si also has a 'เพราะ' reason that Ne lacks.",
+  "fix": {
+   "a": "ฉันมักชอบลองฟังหลักคิดเรื่องชีวิตแบบใหม่ ๆ ดูว่าเปิดมุมไหนให้คิด เพราะรู้สึกสนุก แม้บางแนวคิดจะดูแปลกในสายตาคนอื่น",
+   "b": "ฉันมักชอบหลักคิดเรื่องชีวิตที่ใช้มานานจนคุ้น เพราะรู้สึกอุ่นใจ แม้จะไม่ค่อยได้ลองแนวคิดแบบอื่น"
+  }
+ },
+ {
+  "id": "BTiFey0",
+  "cat": "e",
+  "sev": "low",
+  "why": "'แนวคิดของแต่ละคนเชื่อมกันภายในยังไง' is unclear, and 'เมื่อเริ่มตึง' implies an argument, which drifts toward the rejected disagreement scene.",
+  "fix": {
+   "a": "คุยเรื่องหลักคิดในชีวิตกับเพื่อน ฉันมักสนใจว่าหลักของแต่ละคนสอดคล้องกันเองทุกข้อไหม แม้จะคิดค้างต่อไปอีกหลายวัน",
+   "b": "คุยเรื่องหลักคิดในชีวิตกับเพื่อน ฉันมักคอยดูว่าทุกคนยังคุยกันสบาย ๆ ไหม แล้วพาไปเรื่องเบา ๆ บ้าง แม้จะคุยกันได้แค่ผิว ๆ"
+  }
+ },
+ {
+  "id": "BTiFey1",
+  "cat": "g",
+  "sev": "high",
+  "why": "'คุยเรื่องหลักคิดในชีวิตแล้วเห็นต่าง' is a disagreement scene, which the brief explicitly rejects. Recast it without conflict, with symmetric costs.",
+  "fix": {
+   "a": "เพื่อนเล่าคติประจำใจที่เขาใช้ ฉันมักนึกในใจต่อว่าคติข้อนั้นเข้ากับข้ออื่นที่เขาเล่าไหม แม้จะตามเรื่องที่เขาเล่าต่อไม่ค่อยทัน",
+   "b": "เพื่อนเล่าคติประจำใจที่เขาใช้ ฉันมักตั้งใจฟังแล้วตอบรับให้เขาเล่าต่อได้สบาย ๆ แม้จะยังไม่ได้คิดตามว่ามันเข้ากับข้ออื่นไหม"
+  }
+ },
+ {
+  "id": "Siy1",
+  "cat": "c",
+  "sev": "high",
+  "why": "NOT IN setA, left un-rewritten: 'ความเชื่อของฉันหยั่งรากจากสิ่งที่เห็นและทำมาตั้งแต่เด็ก' reads as religion and upbringing. y is now secular, so it should have been rewritten. Other leftovers that still say 'ความเชื่อ' are Ney2, Ney3, Tiy0, Tiy5, Fiy0, Fiy2, Fiy5, BNiSey1 and BTeFiy1.",
+  "fix": "หลักใช้ชีวิตของฉันหลายข้อมาจากเรื่องที่เคยเจอกับตัวซ้ำ ๆ และยังใช้ได้กับฉันจนถึงตอนนี้ แม้บางข้อจะอธิบายให้คนอื่นฟังไม่ค่อยถูก"
+ },
+ {
+  "id": "BNiSey1",
+  "cat": "c",
+  "sev": "low",
+  "why": "NOT IN setA, left un-rewritten: 'ความเชื่อที่ดีช่วยให้ฉัน…' still frames y as religious belief. The same applies to BTeFiy1 ('ความเชื่อที่มีค่าคือ…').",
+  "fix": {
+   "a": "หลักคิดที่ดีสำหรับฉันคือหลักที่ช่วยให้เห็นทางชีวิตข้างหน้า",
+   "b": "หลักคิดที่ดีสำหรับฉันคือหลักที่ช่วยให้อยู่กับวันนี้ได้เต็มที่"
+  }
+ },
+ {
+  "id": "Sis2",
+  "cat": "b",
+  "sev": "low",
+  "why": "'ฉันจำได้ว่า…' is a memory ability claim with no cost and no 'มัก'. It was kept unchanged in the rewrite.",
+  "fix": "นึกถึงเรื่องที่เคยเรียน ฉันมักนึกออกมาพร้อมภาพว่าตอนนั้นเรียนที่ไหน ฟังจากคลิปไหน จนบางทีจำที่มาได้ชัดกว่าตัวเนื้อหาเสียอีก"
+ },
+ {
+  "id": "Ses3",
+  "cat": "e",
+  "sev": "low",
+  "why": "Two 'เช่น' lists in one sentence, and 'ปรับตามนั้นทันที' reads as a skill with no cost.",
+  "fix": "เวลาฝึกทำอาหารหรือซ่อมของตามคลิป ฉันมักจดจ่อกับสี กลิ่น หรือเสียงที่เปลี่ยนไปตรงหน้า แล้วปรับตามนั้นเลย จนบางทีทำไม่ตรงกับในคลิป"
+ },
+ {
+  "id": "Tes1",
+  "cat": "b",
+  "sev": "low",
+  "why": "'ทุ่มเวลา' carries the ทุ่มเท virtue, and focusing on goal-relevant parts is the sensible-learner answer. No cost.",
+  "fix": "เวลาเรียนเรื่องใหม่ ฉันมักข้ามไปเรียนส่วนที่เอาไปใช้กับเป้าหมายได้ก่อน แม้พื้นฐานบางบทจะยังไม่ได้ดูเลย"
+ },
+ {
+  "id": "Fis0",
+  "cat": "b",
+  "sev": "low",
+  "why": "Intrinsic motivation over 'ใบรับรอง' is the virtuous learner answer, it is near-universal for self-learners, and it has no cost.",
+  "fix": "เวลาเรียนเอง ฉันจะเรียนต่อเนื่องก็ต่อเมื่อเรื่องนั้นตรงกับสิ่งที่ฉันให้คุณค่า จนบางคอร์สที่จำเป็นกับงานก็ค้างอยู่ครึ่งทาง"
+ },
+ {
+  "id": "Fis1",
+  "cat": "d",
+  "sev": "low",
+  "why": "The stem 'เวลาเลือกว่าจะเรียนอะไรต่อ' duplicates BTeFis0 ('เวลาเลือกคอร์สที่จะเรียนต่อ'), and it carries the 'ของฉัน' marker.",
+  "fix": "เวลาต้องเลือกหัวข้อชิ้นงานในคอร์ส ฉันมักเลือกเรื่องที่ผูกกับตัวฉันจริง ๆ แม้หัวข้อตัวอย่างที่คอร์สให้มาจะทำง่ายกว่า"
+ },
+ {
+  "id": "Fis3",
+  "cat": "b",
+  "sev": "low",
+  "why": "The cost ('เขียนตามแนวที่คนสอนอยากได้จะง่ายกว่า') makes honesty heroic. It also keeps an instructor-pleasing frame.",
+  "fix": "เวลาคอร์สให้เขียนสะท้อนสิ่งที่เรียน ฉันเขียนตามที่รู้สึกจริง แม้บางทีจะเขียนยาวเกินและออกนอกหัวข้อที่คอร์สถาม"
+ },
+ {
+  "id": "Fes1",
+  "cat": "g",
+  "sev": "low",
+  "why": "'ในคลาส…ต่อหน้าทุกคน' is still a classroom scene, which the brief rules out for s (it should fit adults learning on their own).",
+  "fix": "ถ้าใครในเวิร์กช็อปหรือคลาสออนไลน์เปิดไมค์ตอบแล้วติดขัด ฉันมักเขินแทนจนฟังต่อไม่ค่อยเข้าหัว"
+ },
+ {
+  "id": "Fes2",
+  "cat": "a",
+  "sev": "low",
+  "why": "Three of four Fe-s items (Fes0, Fes2, Fes3) plus BTiFes0 assume a study group. Adults who learn alone cannot relate, which adds an E/I confound to Fe in this context.",
+  "fix": "เรียนอะไรใหม่มา ฉันมักนึกก่อนว่าคนใกล้ตัวน่าจะสนุกกับส่วนไหน แล้วเลือกเล่าส่วนนั้นให้เขาฟัง แม้ส่วนที่ฉันอินที่สุดจะไม่ได้พูดถึงเลย"
+ },
+ {
+  "id": "BNiSes0",
+  "cat": "b",
+  "sev": "low",
+  "why": "Neither side has a cost, and 'เห็นแก่นของเรื่อง' sounds deeper than 'ดูตัวอย่าง'. Abstract-vs-concrete wording is also unreliable in Thai (research_thai A1).",
+  "fix": {
+   "a": "เวลาดูคลิปหรือคอร์สที่อธิบายเรื่องยาก ฉันจะเข้าใจเมื่อเห็นแก่นที่อยู่เบื้องหลังทุกตัวอย่าง แม้รายละเอียดของแต่ละตัวอย่างจะจำได้ไม่ครบ",
+   "b": "เวลาดูคลิปหรือคอร์สที่อธิบายเรื่องยาก ฉันจะเข้าใจเมื่อได้เห็นตัวอย่างจริงหรือลองทำตามตรงหน้า แม้จะยังไม่ได้มองว่าทุกตัวอย่างโยงกันยังไง"
+  }
+ },
+ {
+  "id": "BNeSis0",
+  "cat": "b",
+  "sev": "low",
+  "why": "Si side has the outcome word 'ได้ผล' (R7), while the Ne side has none and no cost. This is a success asymmetry.",
+  "fix": {
+   "a": "เวลาทบทวนสิ่งที่เรียนไปแล้ว ฉันชอบลองหาวิธีจำหรือมุมมองใหม่ ๆ ให้กับเนื้อหาเดิม แม้บางวิธีจะทำให้ทบทวนช้าลง",
+   "b": "เวลาทบทวนสิ่งที่เรียนไปแล้ว ฉันชอบใช้วิธีจำและลำดับทบทวนแบบที่ใช้จนคุ้นมือ แม้เนื้อหาเดิมจะเริ่มอ่านแล้วรู้สึกซ้ำ ๆ"
+  }
+ }
+]

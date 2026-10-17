@@ -1,0 +1,1826 @@
+{
+ "items": [
+  {
+   "id": "Nic0",
+   "fit": 4,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Ni sense of where one's living situation is heading",
+   "preserve": "the 'no evidence yet' cost; describe a felt sense, never a correct prediction"
+  },
+  {
+   "id": "Nic1",
+   "fit": 5,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Many scattered cues converge on one underlying cause",
+   "preserve": "the 'one thing behind many signs' convergence (เรื่องเดียว)"
+  },
+  {
+   "id": "Nic2",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Comic gap (one bulb vs big change) makes the Ni leap and its cost concrete",
+   "preserve": "the small-trigger vs big-picture contrast"
+  },
+  {
+   "id": "Nic3",
+   "fit": 4,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Thai rainy-season mishap where Ni looks ahead while Se would wipe the floor",
+   "preserve": "the cost of not handling the water in front"
+  },
+  {
+   "id": "Nic4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Incubation (ตกผลึกเอง) in a low-stakes home decision",
+   "preserve": "the waiting-for-it-to-settle process and the awkward-desk cost"
+  },
+  {
+   "id": "Nic5",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ni as one core thread that organises the day",
+   "preserve": "'แกนของวัน' single focus; keep it from turning into a to-do plan (Te)"
+  },
+  {
+   "id": "Nec0",
+   "fit": 4,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 3,
+   "strength": "Ne playfulness applied to boring chores",
+   "preserve": "the 'some ways get messier' cost; keep distinct from BNeSic0-A"
+  },
+  {
+   "id": "Nec1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Vivid branching options for hosting, with an honest indecision cost",
+   "preserve": "the concrete range of examples (cooking to mat-and-movie)"
+  },
+  {
+   "id": "Nec2",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Ne generates many improvised fixes even after one works",
+   "preserve": "'แบบแรกก็พอใช้แล้ว' cost showing exploration beyond need"
+  },
+  {
+   "id": "Nec3",
+   "fit": 4,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Reframes a blackout as a possibility space",
+   "preserve": "the playful 'what odd thing can I do' angle"
+  },
+  {
+   "id": "Nec4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Leftover-fridge combos: everyday Ne with low stakes",
+   "preserve": "choosing the untried combo, with the 'may turn out odd' cost"
+  },
+  {
+   "id": "Nec5",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Ne range across very different styles",
+   "preserve": "'แนวที่ต่างกันมาก' breadth; cost stays mild (choosing takes longer)"
+  },
+  {
+   "id": "Sic0",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Si routine felt in the body when a cycle is skipped",
+   "preserve": "the 'ค้าง ๆ ทั้งสัปดาห์' inner feeling rather than discipline wording"
+  },
+  {
+   "id": "Sic1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Si recreates the old place's routine in a new room",
+   "preserve": "comparison with the previous home and the 'room no longer suits it' cost"
+  },
+  {
+   "id": "Sic2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Clean Si response to a mishap: reuse what fixed it before",
+   "preserve": "'แม้อาการจะไม่เหมือนเดิมนัก' cost"
+  },
+  {
+   "id": "Sic3",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Rare Si facet: awareness of inner bodily state in a heat mishap",
+   "preserve": "body-state awareness; avoid ability wording like 'รู้ได้ทันที'"
+  },
+  {
+   "id": "Sic4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Sensory memory (scent of home) drives a small purchase",
+   "preserve": "the remembered-scent reason and 'over promos/new formulas' contrast"
+  },
+  {
+   "id": "Sic5",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "'รู้รสก่อนชิม' vivid familiar-taste choice, with a non-lazy reason",
+   "preserve": "the tired-day reason that keeps Si from sounding lazy"
+  },
+  {
+   "id": "Sec0",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Se notices the room through the body and acts on it now",
+   "preserve": "the bodily cues (sticky floor, stale air) and immediate action"
+  },
+  {
+   "id": "Sec1",
+   "fit": 4,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Sensory savouring of a day at home",
+   "preserve": "concrete textures (fresh sheets, breeze) and the postponed-task cost"
+  },
+  {
+   "id": "Sec2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Hands-on trial-and-adjust repair",
+   "preserve": "'ลองขันลองขยับทีละจุด' and the mess-on-floor cost"
+  },
+  {
+   "id": "Sec3",
+   "fit": 5,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Most vivid Se mishap: grab what is at hand first",
+   "preserve": "the 'grab nearby things, assess later' order"
+  },
+  {
+   "id": "Sec4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Choosing by what catches the eye in the real shop",
+   "preserve": "real leaf colour/shape cue and the light-mismatch cost"
+  },
+  {
+   "id": "Sec5",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Se flows from what catches the eye; same stem as Tec4 so they pair well",
+   "preserve": "the shared stem with Tec4 and the drifting-to-next-spot behaviour"
+  },
+  {
+   "id": "Tic0",
+   "fit": 4,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 4,
+   "strength": "Ti curiosity about inner mechanism",
+   "preserve": "'อยากรู้ว่ากลไกข้างใน' and the cost of taking apart a working appliance"
+  },
+  {
+   "id": "Tic1",
+   "fit": 5,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Internal, non-confrontational questioning of a Thai folk house rule",
+   "preserve": "keep it internal (นึกเองก่อน); no arguing with anyone"
+  },
+  {
+   "id": "Tic2",
+   "fit": 4,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Step-by-step causal reasoning in a real mishap",
+   "preserve": "the sitting-in-the-dark cost that offsets the competent sound"
+  },
+  {
+   "id": "Tic3",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Ti seeks the cause behind a recurring problem",
+   "preserve": "'คิดนานกว่าเวลาที่ใช้ขัด' cost"
+  },
+  {
+   "id": "Tic4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Ti wants to understand why the wall can hold it before acting",
+   "preserve": "'เพราะอะไร' reasoning and the shelf-leaning-for-days cost"
+  },
+  {
+   "id": "Tic5",
+   "fit": 4,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 3,
+   "strength": "Ti reasoning from ingredients in a store decision",
+   "preserve": "'คิดเอง' independent reasoning and the standing-too-long cost"
+  },
+  {
+   "id": "Tec0",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Te systematises recurring supplies",
+   "preserve": "the overflow cost that keeps it from sounding virtuous"
+  },
+  {
+   "id": "Tec1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Te task list with times; funny ticking-while-guests-arrive cost",
+   "preserve": "the timed checklist and its self-deprecating cost"
+  },
+  {
+   "id": "Tec2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Te solves the outcome first (dry clothes) and defers the machine",
+   "preserve": "laundromat detail and the 'machine left a week' cost"
+  },
+  {
+   "id": "Tec3",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Fastest fix explicitly without knowing why, so it separates Te from Ti",
+   "preserve": "the 'even without knowing the cause' contrast"
+  },
+  {
+   "id": "Tec4",
+   "fit": 5,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Impact-first prioritising; same stem as Sec5",
+   "preserve": "the shared stem with Sec5 and the piling-small-chores cost"
+  },
+  {
+   "id": "Tec5",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Fewest-steps criterion over looks",
+   "preserve": "'ตัดขั้นตอน' criterion and the looks cost"
+  },
+  {
+   "id": "Fic0",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Quiet authenticity in daily home rhythm",
+   "preserve": "concrete quirks (eating on floor, late cleaning) and the mild 'visitors confused' cost"
+  },
+  {
+   "id": "Fic1",
+   "fit": 4,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Fi as not staging the room for guests",
+   "preserve": "framing as being genuine, not as not caring"
+  },
+  {
+   "id": "Fic2",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Private depth of feeling over a small loss",
+   "preserve": "staying with the feeling before fixing"
+  },
+  {
+   "id": "Fic3",
+   "fit": 4,
+   "balance": 3,
+   "realism": 3,
+   "novelty": 4,
+   "strength": "Fi turns a blackout to something personally meaningful",
+   "preserve": "the meaningful-to-me choice over available chores"
+  },
+  {
+   "id": "Fic4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Fi follows what matters to the heart that day",
+   "preserve": "'ใจเรียกร้อง' wording with the postponed-chores cost"
+  },
+  {
+   "id": "Fic5",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Waiting for the cup that is truly 'mine', with a concrete chipped-cup cost",
+   "preserve": "the chipped-cup cost"
+  },
+  {
+   "id": "Fec0",
+   "fit": 5,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Fe as attunement to guests' comfort, not 'being nice'",
+   "preserve": "reading faces and the 'barely sit and chat' cost"
+  },
+  {
+   "id": "Fec1",
+   "fit": 4,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Fe accommodates a guest's rhythm at a real cost to self",
+   "preserve": "'กิจวัตรเดิมหายไปหลายวัน' cost"
+  },
+  {
+   "id": "Fec2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Fe checks how a mishap lands on others, forgets the fix",
+   "preserve": "the 'forgot to check the water' cost; Fe not heroic"
+  },
+  {
+   "id": "Fec3",
+   "fit": 5,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Strong Thai-real hosting mishap showing Fe priority",
+   "preserve": "the 'I barely ate' cost"
+  },
+  {
+   "id": "Fec4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Fe chooses group enjoyment, cost is repetitiveness",
+   "preserve": "the same-old-again cost (not a virtue cost)"
+  },
+  {
+   "id": "Fec5",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Fe anticipates others in a tiny purchase",
+   "preserve": "'my favourites are rarely in my room' cost"
+  },
+  {
+   "id": "BNiSec0",
+   "fit": 4,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 4,
+   "strength": "Parallel stems with mirrored costs",
+   "preserve": "the cross-referencing costs (each side misses what the other notices)"
+  },
+  {
+   "id": "BNiSec1",
+   "fit": 4,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Same mishap, each side's cost names the other side's focus",
+   "preserve": "the mirrored costs; keep A concrete enough to compete with B"
+  },
+  {
+   "id": "BNeSic0",
+   "fit": 5,
+   "balance": 5,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Textbook parallel Ne-Si item with equally mild costs",
+   "preserve": "exact parallel wording and lengths"
+  },
+  {
+   "id": "BNeSic1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Replacing a worn item: new vs familiar, both reasonable",
+   "preserve": "the parallel 'หยิบแบบที่...' openings"
+  },
+  {
+   "id": "BTiFec0",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Furniture assembly with mirrored 'forgot to notice' costs",
+   "preserve": "the symmetric 'จนบางทีลืม...' costs"
+  },
+  {
+   "id": "BTiFec1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Mishap with a friend: why vs how the friend feels, costs cross over",
+   "preserve": "the cross-over costs ('friend waits' / 'still don't know why')"
+  },
+  {
+   "id": "BTeFic0",
+   "fit": 5,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 3,
+   "strength": "Clean Te-Fi contrast: fastest vs most like me",
+   "preserve": "the symmetric costs (not what I like / takes longer)"
+  },
+  {
+   "id": "BTeFic1",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Repair-or-replace: speed vs attachment, very Thai-real",
+   "preserve": "both costs; consider softening 'ยุ่งกว่ามาก' to match A"
+  },
+  {
+   "id": "Nie0",
+   "fit": 4,
+   "balance": 3,
+   "realism": 3,
+   "novelty": 4,
+   "strength": "Ni felt trajectory of an app",
+   "preserve": "'ภาพในใจ' process wording without accuracy claims"
+  },
+  {
+   "id": "Nie1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Topical AI scene: Ni overall picture before trying any",
+   "preserve": "the 'haven't tried any yet' cost"
+  },
+  {
+   "id": "Nie2",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ni looks to where it ends before why (separates from Ti)",
+   "preserve": "the explicit 'ก่อนจะสนใจว่าวันนี้ค้างเพราะอะไร' contrast"
+  },
+  {
+   "id": "Nie3",
+   "fit": 4,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 5,
+   "strength": "Ni incubation during a mishap",
+   "preserve": "'ให้ภาพในหัวต่อกันเอง' and the 'looks like not searching' cost"
+  },
+  {
+   "id": "Nie4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Long-range fit over present features",
+   "preserve": "the missing-daily-feature cost"
+  },
+  {
+   "id": "Nie5",
+   "fit": 4,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ni waits for a clear long-term image",
+   "preserve": "the clear-image process; keep the cost from reading as procrastination"
+  },
+  {
+   "id": "Nee0",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ne spins new uses from a feature",
+   "preserve": "'ใช้กับเรื่องอื่นได้อีกหลายแบบ' and the forgot-original-task cost"
+  },
+  {
+   "id": "Nee1",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Pure exploratory curiosity with no goal",
+   "preserve": "'แค่เพื่อดูว่ามีอะไรซ่อนอยู่'"
+  },
+  {
+   "id": "Nee2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ne answers a loss with many alternatives",
+   "preserve": "the 'tried many, chose none' cost"
+  },
+  {
+   "id": "Nee3",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap reframed as free time, ideas branch",
+   "preserve": "'แตกไปอีกหลายเรื่อง'"
+  },
+  {
+   "id": "Nee4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Shared stem with Sie4/Tee4 makes clean pairing",
+   "preserve": "the shared stem 'จะเลือกแอปมาใช้สักตัว'"
+  },
+  {
+   "id": "Nee5",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Concrete list of possible schemes (people/place/tone)",
+   "preserve": "the concrete examples and the 'not started yet' cost"
+  },
+  {
+   "id": "Sie0",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Episodic memory as a search strategy",
+   "preserve": "recall of what/where; the 'typing search may be faster' cost"
+  },
+  {
+   "id": "Sie1",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Si daily sequence felt as 'odd' when swapped",
+   "preserve": "the felt oddness rather than discipline wording"
+  },
+  {
+   "id": "Sie2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Si restores the familiar layout after an update",
+   "preserve": "the time-spent-on-settings cost"
+  },
+  {
+   "id": "Sie3",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Si reuses the past fix for a glitch",
+   "preserve": "the 'may be a different cause' cost"
+  },
+  {
+   "id": "Sie4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Shared decision stem; familiar look and feel",
+   "preserve": "the shared stem and the 'others have more to try' cost"
+  },
+  {
+   "id": "Sie5",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Reminiscing while deleting photos, a very real Si scene",
+   "preserve": "'นึกถึงวันนั้น' and 'deleted only a few' cost"
+  },
+  {
+   "id": "See0",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Se learns by tapping and watching the screen",
+   "preserve": "skipping the tutorial cost"
+  },
+  {
+   "id": "See1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Pure sensory noticing of tiny visual changes",
+   "preserve": "the concrete details (icon colour, font size, button shift)"
+  },
+  {
+   "id": "See2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Se trial-and-react on a frozen app",
+   "preserve": "'ดูเลยว่าแบบไหนขยับ' and 'don't know why yet' cost"
+  },
+  {
+   "id": "See3",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Se scans the physical surroundings at once",
+   "preserve": "'มองรอบตัวทันที' and the not-calculating-battery cost"
+  },
+  {
+   "id": "See4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Choice by the visible result on a real photo",
+   "preserve": "'ภาพที่ออกมาตรงหน้า'"
+  },
+  {
+   "id": "See5",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Purely sensory choice (hear and feel vibration)",
+   "preserve": "the sound-and-touch trial"
+  },
+  {
+   "id": "Tie0",
+   "fit": 4,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Ti wants the reasoning behind an AI answer",
+   "preserve": "the 'even for small questions' cost"
+  },
+  {
+   "id": "Tie1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Ti own categorisation framework with non-overlap check",
+   "preserve": "'หลักที่ตัวเองคิดขึ้น' and 'ไม่ทับกัน'"
+  },
+  {
+   "id": "Tie2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 4,
+   "strength": "Ti curiosity persists after the problem is gone",
+   "preserve": "'เปิดใหม่ก็หาย' then still wanting to know why"
+  },
+  {
+   "id": "Tie3",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ti traces its own misunderstanding internally",
+   "preserve": "'ในหัว' internal trace and the waiting-task cost"
+  },
+  {
+   "id": "Tie4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 4,
+   "strength": "Ti seeks the design logic behind tools",
+   "preserve": "'แม้ตอนใช้จริงจะต่างกันแค่นิดเดียว' cost"
+  },
+  {
+   "id": "Tie5",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ti reads until it understands what changes",
+   "preserve": "'ตั้งตามค่าที่แนะนำก็คงไม่มีปัญหา' cost"
+  },
+  {
+   "id": "Tee0",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Te uses only what gets the job done",
+   "preserve": "the unexplored-features cost"
+  },
+  {
+   "id": "Tee1",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Te consolidates tools to reduce switching",
+   "preserve": "'ลดการสลับไปมา' rationale and the less-detailed cost"
+  },
+  {
+   "id": "Tee2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Fastest workaround when rushed, without diagnosing",
+   "preserve": "switching to web example; 'still don't know what's wrong'"
+  },
+  {
+   "id": "Tee3",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Biggest-first deletion: crisp Te logic",
+   "preserve": "the 'lose things I still want' cost"
+  },
+  {
+   "id": "Tee4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Fewest-steps criterion on a shared stem",
+   "preserve": "the shared stem and the looks cost"
+  },
+  {
+   "id": "Tee5",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Te notification triage by need",
+   "preserve": "'พลาดเรื่องน่าสนใจไปบ้าง' cost"
+  },
+  {
+   "id": "Fie0",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Fi fit over completeness",
+   "preserve": "the 'เข้ากับตัวเอง vs ครบที่สุด' contrast"
+  },
+  {
+   "id": "Fie1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Personalisation that others find plain, avoiding showiness",
+   "preserve": "'คนอื่นจะมองว่าดูธรรมดา' cost"
+  },
+  {
+   "id": "Fie2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Fi values guide recovery after a loss",
+   "preserve": "'มีความหมายกับฉันจริง ๆ' and 'others might be recoverable' cost"
+  },
+  {
+   "id": "Fie3",
+   "fit": 3,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Fi takes time to find what sits right",
+   "preserve": "the comfortable-to-me criterion"
+  },
+  {
+   "id": "Fie4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Inner 'ใช่' over review scores",
+   "preserve": "the review-score cost"
+  },
+  {
+   "id": "Fie5",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Fi as a personal boundary on permissions, no opposition",
+   "preserve": "'ใจฉันโอเคกับการให้แค่ไหน'"
+  },
+  {
+   "id": "Fee0",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Read-receipt scene: Fe attunement with a real cost, very Thai",
+   "preserve": "the read-receipt scene and the delayed-reading cost"
+  },
+  {
+   "id": "Fee1",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Fe presents self for others' ease",
+   "preserve": "'ไม่ค่อยเป็นแบบที่ฉันชอบเอง' cost"
+  },
+  {
+   "id": "Fee2",
+   "fit": 5,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Fe checks how a mishap lands on others",
+   "preserve": "the forgot-own-app cost"
+  },
+  {
+   "id": "Fee3",
+   "fit": 4,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 3,
+   "strength": "Fe first thought is the waiting people",
+   "preserve": "apologising before searching"
+  },
+  {
+   "id": "Fee4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Group-first tool choice",
+   "preserve": "'ตัวที่ฉันอยากใช้จะทำได้มากกว่า' cost"
+  },
+  {
+   "id": "Fee5",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Fe checks with others before shared changes",
+   "preserve": "the 'small things wait long' cost"
+  },
+  {
+   "id": "BNiSee0",
+   "fit": 4,
+   "balance": 5,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "New-phone scene with parallel costs",
+   "preserve": "parallel structure and equal 'later' costs"
+  },
+  {
+   "id": "BNiSee1",
+   "fit": 5,
+   "balance": 5,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Phone dies mid-navigation: overall direction vs signs in front",
+   "preserve": "dead-reckoning vs landmark contrast and both mild costs"
+  },
+  {
+   "id": "BNeSie0",
+   "fit": 5,
+   "balance": 5,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Try-new vs keep-known with fair reasons on both sides",
+   "preserve": "B's reason 'รู้แล้วว่าแต่ละขั้นเป็นยังไง'"
+  },
+  {
+   "id": "BNeSie1",
+   "fit": 5,
+   "balance": 5,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "AI prompting: many framings vs the way that works",
+   "preserve": "the AI scene and balanced costs"
+  },
+  {
+   "id": "BTiFee0",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Shared album naming: one consistent rule vs each person's ease",
+   "preserve": "both costs (extra sorting / mixed categories)"
+  },
+  {
+   "id": "BTiFee1",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Group glitch: which step vs who is affected",
+   "preserve": "the cross-over costs"
+  },
+  {
+   "id": "BTeFie0",
+   "fit": 5,
+   "balance": 5,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Use AI output as is vs make it my own",
+   "preserve": "the AI scene and symmetric costs (style vs time)"
+  },
+  {
+   "id": "BTeFie1",
+   "fit": 5,
+   "balance": 5,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Home screen by frequency vs by self-expression",
+   "preserve": "the exact parallel phrasing"
+  },
+  {
+   "id": "Nii6",
+   "fit": 4,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ni projects how a trend will be seen later",
+   "preserve": "the 'miss the fun now' cost"
+  },
+  {
+   "id": "Nii7",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Out-of-stock pushes Ni to the deeper need",
+   "preserve": "'ลึก ๆ แล้วต้องการอะไรจากมัน' and the different-category outcome"
+  },
+  {
+   "id": "Nii8",
+   "fit": 4,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Ni future image decides between similar items",
+   "preserve": "the 'liked the other more while standing there' cost"
+  },
+  {
+   "id": "Nei6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Ne chain of recommendations in a shopping app",
+   "preserve": "the branching path and the long-loop cost"
+  },
+  {
+   "id": "Nei7",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Ne spins alternatives when the size/colour is out",
+   "preserve": "'มีทางที่น่าลองหลายทาง'"
+  },
+  {
+   "id": "Nei8",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ne imagines other uses before buying",
+   "preserve": "the 'never actually tried' cost"
+  },
+  {
+   "id": "Sii6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Personal supermarket route; Si disrupted by shelf moves",
+   "preserve": "the fixed route and 'ตั้งหลักใหม่' cost"
+  },
+  {
+   "id": "Sii7",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Si matches a discontinued item by scent, texture, size",
+   "preserve": "the sensory comparison details"
+  },
+  {
+   "id": "Sii8",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Si uses a past item as reference for a new category",
+   "preserve": "'ของที่เคยใช้แล้วโอเค' as benchmark and the look-alike cost"
+  },
+  {
+   "id": "Sei6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Live-selling scene: Se drawn to physical demo",
+   "preserve": "the live-stream physical demo vs description contrast"
+  },
+  {
+   "id": "Sei7",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Se substitutes from what is near now",
+   "preserve": "'ร้านใกล้ ๆ ที่เห็นอยู่ตอนนั้น'"
+  },
+  {
+   "id": "Sei8",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Shared stem with Tei8: physical availability now",
+   "preserve": "the shared stem and 'more choice elsewhere' cost"
+  },
+  {
+   "id": "Tii6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Ti spots a contradiction in product copy",
+   "preserve": "the 'two claims together' contradiction, internal only"
+  },
+  {
+   "id": "Tii7",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ti locates the failed step before retrying",
+   "preserve": "the code-expired cost"
+  },
+  {
+   "id": "Tii8",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Ti seeks the exact difference",
+   "preserve": "the hour-on-a-small-item cost"
+  },
+  {
+   "id": "Tei6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Te filters by explicit criteria",
+   "preserve": "the concrete criteria and the lost-interesting-shops cost"
+  },
+  {
+   "id": "Tei7",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Te fastest route when delayed by weather",
+   "preserve": "no-one-to-blame cause (storm) and cancel-all cost"
+  },
+  {
+   "id": "Tei8",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Te applies set criteria even against preference",
+   "preserve": "'ร้านที่ฉันชอบมากกว่า' cost"
+  },
+  {
+   "id": "Fii6",
+   "fit": 5,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Quiet Fi personal line (เงียบ ๆ), not confrontation",
+   "preserve": "'เลิกซื้อไปเงียบ ๆ' quietness"
+  },
+  {
+   "id": "Fii7",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Fi re-checks fit with self over a tiny colour shift",
+   "preserve": "'ถามใจก่อน' and 'others see almost no difference'"
+  },
+  {
+   "id": "Fii8",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Self-expressive colour vs practical neutral",
+   "preserve": "the neutral-matches-better cost"
+  },
+  {
+   "id": "Fei6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Fe chooses for shared use",
+   "preserve": "the 'not what I like' cost"
+  },
+  {
+   "id": "Fei7",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Group-order delay: Fe informs before facts are in",
+   "preserve": "the 'don't know the date yet' cost"
+  },
+  {
+   "id": "Fei8",
+   "fit": 5,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Fe yields to a friend's reaction, still liking the first",
+   "preserve": "'ในใจยังชอบชิ้นแรกอยู่'"
+  },
+  {
+   "id": "BNiSei2",
+   "fit": 4,
+   "balance": 5,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Shopping app: target image vs eye-catching browse, balanced",
+   "preserve": "parallel costs (miss others / scroll longer)"
+  },
+  {
+   "id": "BNeSii2",
+   "fit": 5,
+   "balance": 5,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "New vs known online shop, both reasonable",
+   "preserve": "balanced 'not as imagined' vs 'no new things' costs"
+  },
+  {
+   "id": "BTiFei2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Close-friend link: honest coherence check vs supportive answer, per Thai research",
+   "preserve": "close-friend setting and both costs"
+  },
+  {
+   "id": "BTeFii2",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Substitute now vs wait for the intended one",
+   "preserve": "both costs; keep B about meaning, not patience"
+  },
+  {
+   "id": "Niy0",
+   "fit": 5,
+   "balance": 3,
+   "realism": 3,
+   "novelty": 3,
+   "strength": "Ni single essence across many principles",
+   "preserve": "'แก่นเดียว' convergence",
+   "vs_old": "Better: removes religious teaching wording; idea kept"
+  },
+  {
+   "id": "Niy4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ni meaning that ripens over days",
+   "preserve": "the delayed 'ชัดขึ้นมาเอง' insight",
+   "vs_old": "Better: secular source (book or someone's words)"
+  },
+  {
+   "id": "Ney1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ne linking a newly heard principle",
+   "preserve": "'โยงกับอะไรได้บ้าง' and the off-topic cost",
+   "vs_old": "Better: secular, keeps the cost"
+  },
+  {
+   "id": "Ney5",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Ne branching in talk",
+   "preserve": "the off-topic cost",
+   "vs_old": "Better: secular"
+  },
+  {
+   "id": "Siy0",
+   "fit": 4,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 3,
+   "strength": "Si stability from long-held simple rules",
+   "preserve": "'ทำตามแบบเดิมแล้วรู้สึกมั่นคง'",
+   "vs_old": "About equal: secular, but vaguer than the old custom scene"
+  },
+  {
+   "id": "Siy2",
+   "fit": 4,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Si pre-event routine that calms",
+   "preserve": "'ใจนิ่ง' felt reason (not discipline)",
+   "vs_old": "Better: drops the lucky-shirt ritual (fortune-adjacent)"
+  },
+  {
+   "id": "Siy4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Return to what calmed me before",
+   "preserve": "the concrete same-route, same-seat, same-song list",
+   "vs_old": "Better: replaces chanting with a secular routine"
+  },
+  {
+   "id": "Siy5",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Si inner bodily cue of calm",
+   "preserve": "bodily-state wording (ใจเบา, หายใจโล่ง)",
+   "vs_old": "Better: removes practice/religious framing"
+  },
+  {
+   "id": "Sey0",
+   "fit": 4,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 4,
+   "strength": "Principles made real by live sensory scenes",
+   "preserve": "seeing faces and hearing voices in the moment",
+   "vs_old": "Better: no ceremony or incense; slightly less vivid"
+  },
+  {
+   "id": "Sey1",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Se learns from direct daily encounters",
+   "preserve": "'เห็นและเจอกับตัว' vs reading",
+   "vs_old": "Better: secular"
+  },
+  {
+   "id": "Sey2",
+   "fit": 3,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 3,
+   "strength": "Se learning by doing",
+   "preserve": "the doing-vs-listening contrast",
+   "vs_old": "About equal: secular, but 'ลองทำสิ่งใหม่' leans Ne"
+  },
+  {
+   "id": "Sey3",
+   "fit": 4,
+   "balance": 3,
+   "realism": 3,
+   "novelty": 4,
+   "strength": "Se's view of the good life as full presence",
+   "preserve": "colour, sound, people in front",
+   "vs_old": "Better: secular and principle-framed"
+  },
+  {
+   "id": "Sey4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Se feels life settled in nature",
+   "preserve": "the concrete nature cues",
+   "vs_old": "Better: drops the quasi-spiritual 'something greater'"
+  },
+  {
+   "id": "Sey5",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Se tries an idea at once and adjusts",
+   "preserve": "'ปรับไปตามที่เจอจริง'",
+   "vs_old": "Better: secular"
+  },
+  {
+   "id": "Tiy1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Ti separates logic from interpretation in shared quotes",
+   "preserve": "'ส่วนไหนเหตุผลต่อกัน ส่วนไหนเป็นการตีความ' and the less-fun cost",
+   "vs_old": "Better: fortune-telling replaced by shared quotes, very Thai-real"
+  },
+  {
+   "id": "Tiy4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 4,
+   "strength": "Ti needs precise definitions",
+   "preserve": "the quoted key words",
+   "vs_old": "Better: กรรม/โชค replaced by success/happiness"
+  },
+  {
+   "id": "Tey2",
+   "fit": 5,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Te turns intentions into steps and deadlines",
+   "preserve": "the New-Year resolution scene",
+   "vs_old": "Better: drops prayer/wish"
+  },
+  {
+   "id": "Tey3",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Te tests a principle by results and drops it",
+   "preserve": "'ถ้าไม่เห็นผลก็เลิก'",
+   "vs_old": "Better: removes meditation/health scene"
+  },
+  {
+   "id": "Tey5",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Te structuring with an honest 'too brisk' cost",
+   "preserve": "the 'รวบรัดไป' cost",
+   "vs_old": "Better: drops merit-event scene; trim length"
+  },
+  {
+   "id": "Fiy3",
+   "fit": 5,
+   "balance": 3,
+   "realism": 3,
+   "novelty": 3,
+   "strength": "Fi acts from personal meaning, not conformity",
+   "preserve": "'มีความหมายกับใจฉันจริง ๆ'",
+   "vs_old": "About equal: secular but vaguer"
+  },
+  {
+   "id": "Fiy4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Fi complies outwardly, knows inwardly",
+   "preserve": "the quiet inner 'not me' without opposition",
+   "vs_old": "Better: secular"
+  },
+  {
+   "id": "Fey0",
+   "fit": 4,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Fe shows up for a close friend's day",
+   "preserve": "the own-plans cost",
+   "vs_old": "Better: secular, but 'ถือว่าต้อง' raises desirability"
+  },
+  {
+   "id": "Fey1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Fe withholds a view to keep others comfortable",
+   "preserve": "the not-saying-what-I-think cost",
+   "vs_old": "Better: secular"
+  },
+  {
+   "id": "Fey2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 4,
+   "strength": "Fe adapts small rules to the group's",
+   "preserve": "'ยังไม่แน่ใจว่าตัวเองคิดแบบนั้น'",
+   "vs_old": "Better: removes temple scene"
+  },
+  {
+   "id": "Fey3",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Fe supportive nod for an upset friend",
+   "preserve": "'แม้ในใจจะไม่ได้คิดแบบนั้น'",
+   "vs_old": "Better: removes fortune-telling"
+  },
+  {
+   "id": "Fey4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Fe brings up common ground",
+   "preserve": "the 'didn't say what I really think' cost",
+   "vs_old": "Better: secular"
+  },
+  {
+   "id": "Fey5",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Fe reads what response is wanted, misses content",
+   "preserve": "'จนแทบไม่ได้ฟังเนื้อเรื่อง' cost",
+   "vs_old": "Better: removes ceremony scene"
+  },
+  {
+   "id": "BNeSiy0",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "New vs familiar principles, both with costs",
+   "preserve": "symmetric costs",
+   "vs_old": "Better: secular; watch 'ตั้งแต่เด็ก' upbringing pull"
+  },
+  {
+   "id": "BTiFey0",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Ti inner coherence vs Fe mood",
+   "preserve": "mirrored costs",
+   "vs_old": "Better: secular"
+  },
+  {
+   "id": "BTiFey1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Gentle Ti explanation vs Fe pause",
+   "preserve": "'เล่าเบา ๆ' softness on the Ti side",
+   "vs_old": "Better: secular"
+  },
+  {
+   "id": "Nis1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Ni answer felt first, reasons later",
+   "preserve": "the feel-first-then-reason sequence",
+   "vs_old": "Better: adult self-learning instead of exams"
+  },
+  {
+   "id": "Nis2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Ni compresses to core ideas",
+   "preserve": "the lost-details cost",
+   "vs_old": "Better: practice context instead of exams"
+  },
+  {
+   "id": "Nes3",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Ne branching from one example in a video",
+   "preserve": "the losing-track cost",
+   "vs_old": "Better: online video instructor, adult-friendly"
+  },
+  {
+   "id": "Sis2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Si episodic memory of where it was learned",
+   "preserve": "where/when/how it was said",
+   "vs_old": "Better: removes teacher"
+  },
+  {
+   "id": "Sis3",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Si ritual that switches the mind into study mode",
+   "preserve": "same desk, same items",
+   "vs_old": "Better: self-study framing"
+  },
+  {
+   "id": "Ses3",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Se adjusts to sensory changes while practising from a clip",
+   "preserve": "cooking/repair examples and sensory cues",
+   "vs_old": "Better: adult self-learning, no lab"
+  },
+  {
+   "id": "Tis2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Ti snagged by two sources that disagree",
+   "preserve": "'ค้างใจจนต้องไล่หาเอง'",
+   "vs_old": "Better: fits online multi-source learning"
+  },
+  {
+   "id": "Tes0",
+   "fit": 5,
+   "balance": 3,
+   "realism": 3,
+   "novelty": 3,
+   "strength": "Te daily plan with a social cost",
+   "preserve": "the 'too exact' cost",
+   "vs_old": "Better: no exams; slightly less natural"
+  },
+  {
+   "id": "Tes1",
+   "fit": 5,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Te goal-first allocation",
+   "preserve": "goal relevance",
+   "vs_old": "Better: no exams; consider adding a cost"
+  },
+  {
+   "id": "Tes2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 3,
+   "strength": "Te sub-deadlines with a felt-rushed cost",
+   "preserve": "the 'felt rushed' cost",
+   "vs_old": "Better: no university; scene a bit rarer"
+  },
+  {
+   "id": "Tes3",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Te adjusts method by error data",
+   "preserve": "'skip what isn't tested' cost",
+   "vs_old": "Better: end-of-chapter quiz"
+  },
+  {
+   "id": "Fis0",
+   "fit": 5,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Fi intrinsic motivation",
+   "preserve": "'ตรงกับสิ่งที่ฉันให้คุณค่า'",
+   "vs_old": "Better: certificate replaces grades"
+  },
+  {
+   "id": "Fis1",
+   "fit": 5,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Fi chooses what feels 'mine'",
+   "preserve": "the quoted 'ของฉัน'",
+   "vs_old": "Better: adult choice of what to learn"
+  },
+  {
+   "id": "Fis3",
+   "fit": 5,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 3,
+   "strength": "Fi writes what it truly feels",
+   "preserve": "the easier-path cost",
+   "vs_old": "Better: no teacher or grades"
+  },
+  {
+   "id": "Fes0",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Fe slows group for the confused, others annoyed",
+   "preserve": "the annoyed-others cost",
+   "vs_old": "Better: slightly; peer group, no tutoring class"
+  },
+  {
+   "id": "Fes1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 3,
+   "strength": "Fe vicarious embarrassment",
+   "preserve": "'เขินแทน'",
+   "vs_old": "Slightly better; still a classroom scene"
+  },
+  {
+   "id": "Fes2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 3,
+   "strength": "Fe inclusion with a time cost",
+   "preserve": "the meetings-drag cost",
+   "vs_old": "Better: self-organised group"
+  },
+  {
+   "id": "Fes3",
+   "fit": 5,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 3,
+   "strength": "Fe lightens tension, study turns to chat",
+   "preserve": "the chat-instead-of-study cost",
+   "vs_old": "Better: no exam room"
+  },
+  {
+   "id": "BNiSes0",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Core-behind-examples vs try-it-in-front, both no cost",
+   "preserve": "exact parallel",
+   "vs_old": "Better: online course/video"
+  },
+  {
+   "id": "BNeSis0",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "New memory angles vs proven review order",
+   "preserve": "parallel wording",
+   "vs_old": "Better: no exams"
+  },
+  {
+   "id": "BTiFes0",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Ti internal logic vs Fe mood, both cost",
+   "preserve": "mirrored costs",
+   "vs_old": "Better: peer study group"
+  },
+  {
+   "id": "BTeFis0",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Goal-fit vs value-fit course choice",
+   "preserve": "parallel structure",
+   "vs_old": "Better: adult course choice"
+  }
+ ],
+ "best": [
+  {
+   "id": "BNiSee1",
+   "why": "Phone dies mid-navigation: overall-direction-in-head vs read-the-signs-in-front is the textbook Ni-Se split, a realistic mishap with no one to blame, equal lengths and equally mild costs"
+  },
+  {
+   "id": "BTeFie0",
+   "why": "Using AI output as-is vs reworking it until it feels mine separates Te goal-completion from Fi authenticity in a fresh, topical scene, and the costs (style vs time) are equal in weight"
+  },
+  {
+   "id": "BNeSie1",
+   "why": "AI prompting: trying many framings vs the way that has worked; both sides are sensible, costs mirror each other, and the scene is new to the bank"
+  },
+  {
+   "id": "BTiFei2",
+   "why": "Follows the Thai research recommendation directly: a close-friend setting where honest coherence-checking and supportive answering each carry a real cost, so neither reads as the 'bad friend'"
+  },
+  {
+   "id": "Fee0",
+   "why": "The read-receipt scene captures Fe attunement (how the other person will feel about what they see) with a concrete, self-limiting cost; very Thai-real and not a 'nice person' answer"
+  },
+  {
+   "id": "Sei6",
+   "why": "Live-selling scene: attention goes to the seller stretching and lighting the product, not the description; pure Se, very current in Thai shopping, no ability or virtue wording"
+  },
+  {
+   "id": "Tii6",
+   "why": "Spotting that 'lighter and more durable than every model' do not go together is pure Ti contradiction-detection, kept internal and about ideas, which the Thai research says is necessary"
+  },
+  {
+   "id": "Nii7",
+   "why": "An out-of-stock mishap makes Ni ask what it deeply wants from the item, leading to a different category; captures convergence on the underlying need with a neutral, believable outcome"
+  },
+  {
+   "id": "Sic4",
+   "why": "Choosing detergent by the remembered scent that makes the room feel like home is Si sensory memory in a tiny everyday decision; warm but not virtuous, and new to the bank"
+  },
+  {
+   "id": "Fei8",
+   "why": "Putting an item back when a friend looks unimpressed, while still liking it inside, shows Fe yielding to others' reactions without heroism; the inner-preference cost keeps it neutral"
+  }
+ ]
+}

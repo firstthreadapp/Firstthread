@@ -39,6 +39,7 @@ des += "Object.assign(DES, " + J(F.des) + ");\nObject.assign(DES_EI, " + J(F.des
 des += "/* rev11: ความน่าปรารถนารายฝั่งของข้อเลือกข้างคู่ตรงข้าม [ฝั่งหน้าที่แรก, ฝั่งหน้าที่หลัง] ใช้ตรวจความสมดุลและเลือกตัวอย่างในรายงาน */\nvar DES_BIP = " + J(F.desBip || {}) + ";\n";
 let fix = "/* rev11: แก้ข้อเดิมที่ทีมเห็นต่างชี้ว่าบกพร่อง (ผู้ตัดสินรับแล้ว) */\n";
 fix += "var R11_FIX = " + J(F.fix || {}) + ";\n";
+fix += "/* rev12: ข้อที่ปลดออกจากการใช้ (ขัดกับขอบเขตบริบทใหม่ เช่น ฉากโต้แย้ง) */\nvar RETIRED = " + J(F.retired || {}) + ";\n";
 fix += `QUESTIONS.forEach(function (q) { if (typeof R11_FIX[q.id] === "string") q.t = R11_FIX[q.id]; });
 BIPS.forEach(function (b) { var x = R11_FIX[b.id]; if (x && x.a) { b.ta = x.a; b.tb = x.b; } });
 EIS.forEach(function (e) { var x = R11_FIX[e.id]; if (x && x.E) { e.te = x.E; e.ti = x.I; } });

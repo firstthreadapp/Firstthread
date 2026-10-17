@@ -1,0 +1,444 @@
+{
+ "decisions": [
+  {
+   "id": "BTiFex2",
+   "verdict": "fix-pro",
+   "why": "Template repeat and the blame hint are real, so the axis moves to 'criteria for the replacement' vs 'what everyone can accept'. The critic's Ti cost keeps friends waiting outside, which recreates the rude-Ti asymmetry; the agree team's self-cost (slow to name a place) balances the critic's lowest-common-denominator Fe cost.",
+   "a": "นัดเพื่อนแล้วร้านที่จะไปปิดกะทันหัน ฉันมักไล่ในหัวก่อนว่าร้านแทนต้องมีอะไรบ้างถึงจะลงตัว แม้จะเสนอชื่อร้านได้ช้ากว่าคนอื่น",
+   "b": "นัดเพื่อนแล้วร้านที่จะไปปิดกะทันหัน ฉันมักเลือกร้านที่เดาว่าทุกคนพอรับได้ แม้สุดท้ายจะไม่ใช่ร้านที่ใครอยากไปจริง ๆ สักคน"
+  },
+  {
+   "id": "BTiFez2",
+   "verdict": "fix-con",
+   "why": "Conceded: 'dream project' raised the stakes and the Fe cost was free. The critic's version gives equal-weight costs (analysis can't fix it / comforting people who weren't upset). This is the only item that keeps the 'knowing doesn't help' Ti ending.",
+   "a": "ถ้าโปรเจกต์ที่ทำกับเพื่อนสะดุดเพราะอุปกรณ์เสีย ฉันมักนั่งแกะให้รู้ก่อนว่ามันเสียเพราะอะไร แม้รู้แล้วก็ยังซ่อมเองไม่ได้อยู่ดี",
+   "b": "ถ้าโปรเจกต์ที่ทำกับเพื่อนสะดุดเพราะอุปกรณ์เสีย ฉันมักรีบส่งข้อความปลอบในกลุ่มก่อน แม้บางคนจะยังไม่ได้รู้สึกแย่อะไรเลย"
+  },
+  {
+   "id": "BTiFeg1",
+   "verdict": "fix-pro",
+   "why": "The Ti cost held the team hostage while the Fe cost was free. The critic's Fe side turns attunement into plain majority-following and repeats the 'analysis is useless' Ti ending. The agree team keeps the Fe check-in, adds the restart cost, and gives Ti a self-contained cost (still mulling it after quitting).",
+   "a": "ถ้าเกมบั๊กจนภารกิจของทีมค้าง ฉันมักอยากไล่ให้รู้ว่ามันติดที่เงื่อนไขไหน จนเลิกเล่นไปแล้วก็ยังคิดเรื่องนี้ค้างอยู่",
+   "b": "ถ้าเกมบั๊กจนภารกิจของทีมค้าง ฉันมักดูก่อนว่าทุกคนยังอยากเล่นต่อไหม แล้วไปตามนั้น แม้จะต้องมาเริ่มภารกิจนั้นใหม่ในวันอื่น"
+  },
+  {
+   "id": "BTiFet1",
+   "verdict": "fix-pro",
+   "why": "With guests present, any not-guests-first answer is the rude-host answer, so the scene moves to after the guests leave. The critic's Fe side is about the home's image (face), not feelings. The agree team's Fe side replays how each guest felt, which is cleaner Fe with the same 'they've probably forgotten' cost.",
+   "a": "ถ้าสัตว์เลี้ยงตกใจวิ่งชนของตอนมีแขกมา พอแขกกลับ ฉันมักนั่งไล่ว่ามันตกใจอะไรถึงเป็นแบบนั้น แม้จะหาสาเหตุไม่เจอสักที",
+   "b": "ถ้าสัตว์เลี้ยงตกใจวิ่งชนของตอนมีแขกมา พอแขกกลับ ฉันมักนึกย้อนว่าแขกแต่ละคนตกใจหรืออึดอัดไปแค่ไหน แม้เขาอาจลืมไปแล้ว"
+  },
+  {
+   "id": "BTiFeu2",
+   "verdict": "fix-pro",
+   "why": "The killjoy Ti cost is removed and the critic's over-checking Fe cost is kept. The agree team's Ti cost (missing the part I waited for) avoids a third 'thinking doesn't help' ending in this pair family.",
+   "a": "ถ้าไปดูคอนเสิร์ตแล้วเสียงในฮอลล์ก้องจนฟังไม่ชัด ฉันมักไล่คิดว่าเสียงสะท้อนจากตรงไหนถึงเป็นแบบนั้น จนเผลอพลาดท่อนที่รอฟังไป",
+   "b": "ถ้าไปดูคอนเสิร์ตแล้วเสียงในฮอลล์ก้องจนฟังไม่ชัด ฉันมักคอยหันไปดูว่าคนที่ไปด้วยยังสนุกอยู่ไหม จนเผลอถามเขาซ้ำหลายรอบ"
+  },
+  {
+   "id": "BTiFeh2",
+   "verdict": "fix-con",
+   "why": "Conceded: 'what did we eat yesterday' is Si recall, and giving up my own wish for a partner is the good-partner answer. Explicit criteria for Ti vs the endless 'what do you want' loop for Fe fixes both.",
+   "a": "พอคนที่คบถามว่า “กินอะไรดี” ฉันมักตั้งเกณฑ์ในหัวให้ลงตัวก่อน เช่น ต้องอิ่มนานและไม่เลี่ยน แม้คำตอบจะออกมาช้า",
+   "b": "พอคนที่คบถามว่า “กินอะไรดี” ฉันมักถามกลับว่าเขาอยากกินแนวไหนแล้วไปตามนั้น แม้สุดท้ายจะวนถามกันไปมาไม่จบ"
+  },
+  {
+   "id": "BTiFed1",
+   "verdict": "fix-con",
+   "why": "Conceded: deciding dishes 'without asking anyone' reads selfish and Te-like. The fix gives Ti a time cost and keeps the Fe mismatched-meal cost, and neither side ignores people.",
+   "a": "เวลาช่วยกันเลือกเมนูมาแชร์ในโต๊ะ ฉันมักสนใจว่าจานไหนรสไปด้วยกันและไม่ซ้ำกัน แม้จะเปิดเมนูอยู่นานกว่าทุกคน",
+   "b": "เวลาช่วยกันเลือกเมนูมาแชร์ในโต๊ะ ฉันมักสนใจว่าแต่ละคนอยากกินอะไรแล้วรวมมาหมด แม้จานที่ได้จะรสไม่ค่อยไปด้วยกัน"
+  },
+  {
+   "id": "BTiFep1",
+   "verdict": "fix-judge",
+   "why": "The critic's fix is right ('สมเหตุสมผล' sits next to มีเหตุผล), but the sides came out 122 vs 100 characters (1.22, outside ±20%). I trimmed side a ('ในหัว' dropped, 'ดูจากตำแหน่งที่เล่น') and kept side b unchanged.",
+   "a": "เวลาแบ่งทีมเล่นกันเอง ฉันมักอยากได้หลักแบ่งที่อธิบายได้ลงตัวก่อน เช่น ดูจากตำแหน่งที่เล่น แม้เกมจะเริ่มช้าไปหน่อย",
+   "b": "เวลาแบ่งทีมเล่นกันเอง ฉันมักดูว่าใครอยากอยู่กับใคร แล้วแบ่งตามนั้น แม้บางทีสองทีมจะสูสีกันไม่ค่อยได้"
+  },
+  {
+   "id": "BNiSev1",
+   "verdict": "fix-pro",
+   "why": "The deep-vs-shallow asymmetry is real. The critic's Se side ('ดูจบจะไม่ค่อยได้คิดต่อ') measures Se on Ni's scale again. The agree team keeps the live trailer cue and gives a practical cost (front-row seats only) to match Ni's 'sleepy in the cinema'.",
+   "a": "ไปโรงหนังโดยไม่ได้เลือกเรื่องไว้ ฉันมักเลือกเรื่องที่รู้สึกว่ามีแก่นให้คิดต่อหลังดูจบ แม้บางเรื่องจะดูแล้วง่วงในโรง",
+   "b": "ไปโรงหนังโดยไม่ได้เลือกเรื่องไว้ ฉันมักเลือกเรื่องที่ตัวอย่างหน้าโรงภาพและเสียงจัดเต็มที่สุด แม้รอบนั้นจะเหลือแต่แถวหน้า ๆ"
+  },
+  {
+   "id": "BNiSep1",
+   "verdict": "fix-con",
+   "why": "Conceded: this was the rejected 'exercise vs not exercise' scene. In the fix both sides train and differ only in how they choose what to train. 130 characters is at the limit but acceptable.",
+   "a": "ถ้าไปถึงแล้วสนามเต็ม ฉันมักนึกว่าช่วงนี้การเล่นของตัวเองกำลังเปลี่ยนไปทางไหน แล้วซ้อมเฉพาะส่วนที่เข้ากับทางนั้น แม้จะได้ซ้อมไม่ครบ",
+   "b": "ถ้าไปถึงแล้วสนามเต็ม ฉันมักดูว่าตรงนั้นมีพื้นที่หรืออุปกรณ์อะไรว่าง แล้วซ้อมตามที่มีเลย แม้จะไม่ใช่ส่วนที่ตั้งใจจะซ้อม"
+  },
+  {
+   "id": "BNiSew0",
+   "verdict": "fix-pro",
+   "why": "The work-virtue asymmetry and the overlap with Sew6 are real. The critic's Se side (tidying the desk) is Si/J orderliness. Checking router lights and cables is hands-on Se with the physical thing in front, and its cost matches Ni's.",
+   "a": "อินเทอร์เน็ตที่ทำงานล่มทั้งบ่าย ฉันมักใช้ช่วงนั้นนึกภาพว่างานชิ้นที่ทำอยู่กำลังไปทางไหน แม้จะยังไม่ได้ขยับงานจริงสักชิ้น",
+   "b": "อินเทอร์เน็ตที่ทำงานล่มทั้งบ่าย ฉันมักลุกไปดูของจริงก่อน เช่น ไฟที่เราเตอร์หรือสายที่ต่ออยู่ แม้จะไม่ช่วยให้เน็ตมาเร็วขึ้น"
+  },
+  {
+   "id": "BNiSet1",
+   "verdict": "fix-judge",
+   "why": "The critic's fix correctly turns Se into a present-moment response and removes the caring-owner asymmetry, but side a was 132 characters. I shortened 'เข้ากับชีวิตในบ้าน' to 'เข้ากับบ้าน' and kept everything else.",
+   "a": "เลือกมุมวางที่นอนให้สัตว์เลี้ยง ฉันมักนึกภาพว่าพอมันโตขึ้นมุมไหนจะเข้ากับบ้าน แล้ววางไว้ตรงนั้น แม้ตอนนี้มันจะยังไม่ค่อยไปนอน",
+   "b": "เลือกมุมวางที่นอนให้สัตว์เลี้ยง ฉันมักวางตรงที่เห็นมันเพิ่งขดตัวนอนเมื่อกี้ แล้วย้ายตามที่เห็นมันทำ แม้จะต้องย้ายไปมาหลายรอบ"
+  },
+  {
+   "id": "BNiSen2",
+   "verdict": "fix-pro",
+   "why": "A storm during a power cut edges toward safety stakes, but the critic's generic 'evening news' loses the reason Se listens to the surroundings. Heavy rain all night is a low-stakes mishap that keeps the vivid parallel pairing, and 'นึกจาก…ว่าน่าจะไปทางไหน' is a process, not an accuracy claim.",
+   "a": "ถ้าไฟดับตอนฝนตกหนักทั้งคืน ฉันมักนึกจากข่าวที่ตามมาว่าฝนน่าจะไปทางไหนต่อ แม้จะยังไม่รู้สถานการณ์ล่าสุดจริง",
+   "b": "ถ้าไฟดับตอนฝนตกหนักทั้งคืน ฉันมักฟังเสียงลมฝนและดูความเคลื่อนไหวแถวบ้านแทน แม้จะยังไม่รู้ว่าภาพรวมไปถึงไหน"
+  },
+  {
+   "id": "BNeSir0",
+   "verdict": "fix-con",
+   "why": "Conceded: in Thailand flooding means real losses. 'ปิดปรับปรุงกะทันหัน' changes nothing else.",
+   "a": "ที่พักที่จองไว้ไปกับคนใกล้ตัวปิดปรับปรุงกะทันหัน ฉันมักชวนอีกฝ่ายนึกแผนแบบใหม่ที่ยังไม่เคยทำด้วยกัน แม้จะต้องหาข้อมูลกันใหม่หมด",
+   "b": "ที่พักที่จองไว้ไปกับคนใกล้ตัวปิดปรับปรุงกะทันหัน ฉันมักชวนอีกฝ่ายกลับไปที่เดิมที่เคยไปด้วยกันแล้วสบายใจ แม้จะไม่ได้เจออะไรแปลกใหม่"
+  },
+  {
+   "id": "BNeSiu2",
+   "verdict": "fix-con",
+   "why": "Conceded: skipping songs while driving implies phone use at the wheel. Making me a passenger removes a desirability penalty that has nothing to do with Ne.",
+   "a": "เวลาเลือกเพลงไว้ฟังระหว่างนั่งรถทางไกล ฉันมักเปิดเพลย์ลิสต์แนะนำที่ยังไม่ได้ฟัง แม้จะต้องกดข้ามอยู่บ่อย ๆ",
+   "b": "เวลาเลือกเพลงไว้ฟังระหว่างนั่งรถทางไกล ฉันมักเปิดเพลย์ลิสต์เดิมที่ฟังจนคุ้น แม้จะเดาได้ทุกเพลงว่าอะไรมาต่อ"
+  },
+  {
+   "id": "BTeFir0",
+   "verdict": "fix-con",
+   "why": "Conceded: 'meaningful to us two' is shared relational meaning (Fe-ish) and the romantic answer. The fix ties Fi to my own 'this is it' sense and also breaks the repeated Te 'not the most…' ending.",
+   "a": "เลือกกิจกรรมวันหยุดกับคนใกล้ตัว ฉันมักดูว่าทางไหนเดินทางง่ายและได้ทำหลายอย่างในวันเดียว แม้จะไม่มีอย่างไหนที่ติดใจเป็นพิเศษ",
+   "b": "เลือกกิจกรรมวันหยุดกับคนใกล้ตัว ฉันมักเลือกสิ่งที่ฉันรู้สึกว่า “ใช่” กับวันนั้นจริง ๆ แม้จะต้องเดินทางไกลและได้ทำแค่อย่างเดียว"
+  },
+  {
+   "id": "BTeFiq2",
+   "verdict": "fix-con",
+   "why": "Conceded: weeks of a dark corner outweighed 'not liked as much'. A temporary lamp in the meantime makes the costs even.",
+   "a": "โคมไฟที่เลือกมานานตกแตกตอนกำลังติด ฉันมักหาตัวที่ขนาดและสเปกใกล้เคียงมาแทนให้จบในวันนั้น แม้จะไม่ได้ชอบเท่าตัวเดิม",
+   "b": "โคมไฟที่เลือกมานานตกแตกตอนกำลังติด ฉันมักรอจนเจอตัวที่ใจรู้สึกว่าใช่อีกครั้ง แม้ระหว่างนั้นต้องใช้ไฟชั่วคราวไปก่อน"
+  },
+  {
+   "id": "BTeFia1",
+   "verdict": "fix-con",
+   "why": "Conceded: the repeated 'แม้จะไม่ใช่…ที่ชอบที่สุด' Te ending gives Te away. 'Works all end up looking alike' contrasts neatly with Fi's 'fits my own style'.",
+   "a": "เวลาเลือกซื้ออุปกรณ์ศิลปะชิ้นใหม่ ฉันมักดูว่าชิ้นไหนใช้ได้กับหลายงานที่สุด แม้งานที่ออกมาจะหน้าตาคล้าย ๆ กันไปหมด",
+   "b": "เวลาเลือกซื้ออุปกรณ์ศิลปะชิ้นใหม่ ฉันมักเลือกชิ้นที่รู้สึกว่าเข้ากับงานแบบของตัวเอง แม้จะใช้ได้แค่กับงานบางแบบ"
+  },
+  {
+   "id": "BTeFig1",
+   "verdict": "fix-con",
+   "why": "Conceded: the same repeated Te ending. 'เล่นเพื่อเก็บงาน' is a natural, light Te cost.",
+   "a": "เวลาเลือกว่าคืนนี้จะเล่นเกมไหน ฉันมักเลือกเกมที่มีเป้าหมายค้างอยู่ให้ไปต่อได้ แม้บางคืนจะรู้สึกเหมือนเล่นเพื่อเก็บงาน",
+   "b": "เวลาเลือกว่าคืนนี้จะเล่นเกมไหน ฉันมักเลือกเกมที่ใจอยากอยู่ด้วยตอนนั้น แม้จะไม่ได้ไปต่ออะไรที่ค้างไว้"
+  },
+  {
+   "id": "Fed4",
+   "verdict": "fix-pro",
+   "why": "The self-sacrifice payoff and the overlap with Fed0 have to go. The chat-tone cue is the novel Fe element and describes a habit, not an ability. The critic's replacement is a generic host move that overlaps BTiFed1-b. The agree team's timing cost (someone else settles it first) is non-virtuous.",
+   "t": "เลือกร้านกินข้าวกับเพื่อนในแชต ฉันมักรอจับน้ำเสียงของแต่ละคนก่อนแล้วค่อยเสนอ จนบางทีมีคนสรุปร้านไปก่อนแล้ว"
+  },
+  {
+   "id": "Fey6",
+   "verdict": "fix-pro",
+   "why": "The food duplication and self-sacrifice cost are real, and the seat or air-con scene with a wrong-guess cost is the right replacement. The agree team's trim brings it under 130 characters (the critic's was about 141).",
+   "t": "เรื่องเล็กที่ใช้ร่วมกัน เช่น นั่งโต๊ะไหนหรือเปิดแอร์กี่องศา หลักของฉันคือดูว่าคนส่วนใหญ่สบายแบบไหน แม้บางทีจะเดาผิดไป"
+  },
+  {
+   "id": "Fem4",
+   "verdict": "fix-con",
+   "why": "Conceded: not posting a friend's bad photo is near-universal Thai courtesy and won't discriminate. A bland caption that isn't my voice is a real, non-moral Fe cost.",
+   "t": "เขียนแคปชันใต้รูปหมู่ ฉันมักเลือกคำที่ทุกคนในรูปน่าจะโอเค จนแคปชันออกมากลาง ๆ ไม่เหมือนที่ฉันพูดปกติ"
+  },
+  {
+   "id": "Feu6",
+   "verdict": "fix-con",
+   "why": "Conceded: it was a near-copy of Fev4, and 'หาเรื่องคุย' is E. Switching to a song the group may like more is a distinct Fe move with a fair cost.",
+   "t": "ถ้าเพลงที่เปิดให้เพื่อนฟังเงียบไปกลางคัน ฉันมักถือโอกาสเปลี่ยนเป็นเพลงที่คิดว่าวงน่าจะชอบกว่า แม้บางคนอาจกำลังอินกับเพลงเดิมอยู่"
+  },
+  {
+   "id": "Fev4",
+   "verdict": "fix-con",
+   "why": "Conceded: 'ชวนคุยระหว่างรอ' smuggled in E. The trimmed version keeps the device-forgetting cost.",
+   "t": "ถ้าดูหนังกับคนอื่นแล้วจู่ ๆ เสียงหายหรือจอดับ ฉันมักหันไปดูหน้าทุกคนก่อนว่ายังอยากดูต่อหรือเปล่า จนลืมไปช่วยดูที่เครื่อง"
+  },
+  {
+   "id": "Feh6",
+   "verdict": "fix-con",
+   "why": "Conceded: putting the partner first and parking my own feelings is a double virtue, and it was the third storm stem. Rain plus a misplaced-worry cost is light and fair.",
+   "t": "ถ้าเดทที่วางไว้ต้องยกเลิกเพราะฝนหนัก ฉันมักคิดวนว่าอีกฝ่ายจะผิดหวังแค่ไหน ทั้งที่เขาอาจแค่ดีใจที่ได้นอนพักอยู่บ้าน"
+  },
+  {
+   "id": "Fes4",
+   "verdict": "fix-judge",
+   "why": "The critic's peer study call fixes the logic gap, and 'ไม่กล้าขอให้เล่าซ้ำ' is the ขี้เกรงใจ (down) face of Fe, a genuine cost. At 131 characters it was over the limit, so I trimmed the ending to 'ส่วนที่พลาดไป'.",
+   "t": "ถ้าเน็ตหลุดระหว่างติวออนไลน์กับกลุ่มเพื่อน ฉันมักห่วงก่อนว่าทุกคนต้องรอฉันอยู่ไหม จนกลับเข้ามาแล้วไม่กล้าขอให้ใครเล่าส่วนที่พลาดไป"
+  },
+  {
+   "id": "Fex6",
+   "verdict": "fix-pro",
+   "why": "The storm stem repeats. The critic's concert-in-the-rain fix would clone the new BTiFeu2 Fe side. The agree team keeps the 'who was looking forward to it most' attention, uses a non-weather cause, and has a real trade-off (others are inconvenienced).",
+   "t": "ทริปกับเพื่อนต้องเลื่อนเพราะเที่ยวบินถูกยกเลิก ฉันมักเลือกวันใหม่ตามคนที่ดูรอทริปนี้มากที่สุด แม้อีกหลายคนจะไม่ค่อยสะดวก"
+  },
+  {
+   "id": "Fez6",
+   "verdict": "fix-con",
+   "why": "Conceded: the fourth storm stem and the 'others first, my task forgotten' template. 'Postponed indefinitely' plus 'they may have forgotten they said it' is light and varied.",
+   "t": "ตลาดนัดที่ตั้งใจเอาของทำมือไปขายเลื่อนไปไม่มีกำหนด ฉันมักรีบไล่บอกคนที่เคยบอกว่าจะมาแวะทีละคน แม้บางคนอาจลืมไปแล้วว่าเคยพูดไว้"
+  },
+  {
+   "id": "Few6",
+   "verdict": "fix-pro",
+   "why": "The critic's act (asking in chat who is free) is scheduling logistics, closer to Te. The agree team keeps Fe's criterion (pick the date that disrupts people's own plans least) with a work-delay cost, so it is neither heroic nor logistics.",
+   "t": "ถ้าฝนตกหนักจนต้องเลื่อนงานนอกสถานที่ ฉันมักเสนอวันใหม่จากว่าใครในทีมต้องรื้อแผนส่วนตัวน้อยที่สุด แม้วันนั้นจะทำให้งานช้าออกไปอีก"
+  },
+  {
+   "id": "Fel6",
+   "verdict": "fix-pro",
+   "why": "The repeated self-sacrifice cost (9/20 Fe items) has to go. 'เดาผิด' is already Fey6's new ending, so the agree team's 'some just laugh along' keeps Fe endings varied.",
+   "t": "เลือกเกมเล่นตอนว่างกับคนอื่น ฉันมักเลือกเกมที่คิดว่าทุกคนน่าจะเล่นแล้วหัวเราะด้วยกัน แม้บางคนจะแค่ขำตามวงไปงั้น ๆ"
+  },
+  {
+   "id": "Fep4",
+   "verdict": "fix-con",
+   "why": "Conceded: the same repeated cost. 'Nobody gets to play full-out' is an outcome cost of the Fe choice itself.",
+   "t": "เลือกกีฬาเล่นกับกลุ่มเพื่อน ฉันมักเสนอกีฬาที่ทุกคนเล่นได้พอ ๆ กัน จนบางทีเกมออกมาเรื่อย ๆ ไม่มีใครได้เล่นเต็มที่สักคน"
+  },
+  {
+   "id": "Fer6",
+   "verdict": "fix-pro",
+   "why": "The critic's cost idea is good, but its Thai stacks two จน clauses. The agree team's 'แม้บางทีจะกดเปลี่ยนถี่จนเขาเริ่มขำ' reads naturally with the same cost.",
+   "t": "เลือกเพลงเปิดระหว่างเดินทางกับคนใกล้ตัว ฉันมักดูว่าเพลงแบบไหนเข้ากับอารมณ์ของเขาตอนนั้น แม้บางทีจะกดเปลี่ยนถี่จนเขาเริ่มขำ"
+  },
+  {
+   "id": "Feg4",
+   "verdict": "keep",
+   "why": "A game disconnect blames no one, and 'sorry dc' is normal team chat. Over-apologising is the ขี้เกรงใจ (down) face of Fe that research_thai recommends as Fe's cost, and it is what keeps this item off the 'nice person' answer. The critic's replacement cost is weaker.",
+   "t": "ถ้าเกมเด้งหลุดตอนเล่นเป็นทีม ฉันมักห่วงก่อนว่าคนในทีมจะเล่นต่อลำบากแค่ไหน จนกลับเข้าเกมมาแล้วยังพิมพ์ขอโทษอยู่หลายรอบ"
+  },
+  {
+   "id": "Fiy6",
+   "verdict": "fix-pro",
+   "why": "Conceded: 'ที่เหลือก็ปล่อยได้' evokes ปล่อยวาง (Buddhist-coded, a wisdom answer), and the cost was free. The critic's re-anchoring idea with a 'looks inconsistent' cost is right, and the agree team's trim brings it to 128 characters.",
+   "t": "แผนที่รอมานานถูกเลื่อนเพราะสุดวิสัย ฉันมักถามตัวเองว่าที่อยากทำเพราะอะไร แล้วเลือกทางแทนจากตรงนั้น แม้คนอื่นจะงงว่าเปลี่ยนไปทำไม"
+  },
+  {
+   "id": "Fij6",
+   "verdict": "fix-con",
+   "why": "Conceded: it was a near-copy of Fil6 (won't substitute, the day stays empty). 'Still feels like my trip' is a distinct Fi move with a mild cost.",
+   "t": "ถ้าที่ที่ตั้งใจมาที่สุดปิดปรับปรุง ฉันมักเลือกที่แทนจากว่าที่ไหนยังรู้สึกเป็นทริปของฉันอยู่ แม้จะไม่ใช่ที่ที่คนแนะนำกันมากที่สุด"
+  },
+  {
+   "id": "Fir6",
+   "verdict": "fix-pro",
+   "why": "The weak cost and the shared 'เรา' meaning both get fixed by moving to 'ฉัน'. The critic's 'ยืนยันทำส่วนนั้น' reads as insisting on the partner (เอาแต่ใจ). The agree team's 'หาทางเก็บไว้' keeps Fi inner and the cost concrete.",
+   "t": "แผนฉลองกับคนใกล้ตัวพังเพราะฝน ฉันมักถามตัวเองว่าส่วนไหนที่ฉันไม่อยากเสียไปจริง ๆ แล้วหาทางเก็บไว้ แม้จะต้องย้ายไปทำในห้องแคบ ๆ"
+  },
+  {
+   "id": "Fiq6",
+   "verdict": "fix-con",
+   "why": "Conceded: repairing instead of buying new carries a thrift (พอเพียง) virtue. Keeping on wearing them though people say to change keeps the 'this pair is more me' core with a mild social cost.",
+   "t": "ถ้ารองเท้าคู่โปรดเริ่มพัง ฉันมักใส่ต่อไปอีกนาน เพราะยังรู้สึกว่าคู่นี้เป็นฉันมากกว่าคู่ใหม่ แม้คนรอบตัวจะทักว่าเปลี่ยนได้แล้ว"
+  },
+  {
+   "id": "Fiz6",
+   "verdict": "fix-con",
+   "why": "Conceded: the 'meaningful to me, invisible to others' template stays only in Fiw6. 'No longer me now' is a fresh Fi angle with a light cost.",
+   "t": "เลือกรูปตั้งหน้าจอไว้เตือนใจเรื่องความฝัน ฉันมักเปลี่ยนทันทีที่รู้สึกว่ารูปเดิมไม่ใช่ตัวฉันตอนนี้แล้ว แม้จะเพิ่งตั้งไปไม่กี่วัน"
+  },
+  {
+   "id": "Fiu6",
+   "verdict": "fix-pro",
+   "why": "The template phrase 'มีความหมายกับใจ' goes. The critic's fix adds a negation and loses the humorous concrete cost. The agree team's 'เป็นเช้าแบบของฉัน' keeps the slow-song cost.",
+   "t": "เลือกเพลงตั้งเป็นเสียงปลุก ฉันมักเลือกเพลงที่ฟังแล้วรู้สึกว่าเป็นเช้าแบบของฉัน แม้จะเป็นเพลงช้าที่ปลุกไม่ค่อยตื่น"
+  },
+  {
+   "id": "Tez6",
+   "verdict": "fix-pro",
+   "why": "Lost dream-project files are high stakes and repeat the file trigger. The critic's 'borrow the fastest substitute' drifts to Se. The agree team keeps the distinctive Te move (cut to hold the date) with a smaller mishap and a real cost (much thinner work).",
+   "t": "ถ้าเครื่องที่ใช้ทำโปรเจกต์ส่วนตัวเสียไปหลายวัน ฉันมักตัดส่วนที่ไม่จำเป็นออกให้ทันวันที่ตั้งไว้ แม้งานจะบางกว่าที่วาดภาพไว้มาก"
+  },
+  {
+   "id": "Tea4",
+   "verdict": "fix-pro",
+   "why": "The file trigger repeats. The critic's 'mix from what I have' is Se improvisation. Restocking and resequencing the work is Te, and its cost (a reshuffled order) is mild.",
+   "t": "ถ้าสีที่ต้องใช้หมดกลางงาน ฉันมักสั่งสีเพิ่มไว้แล้วข้ามไปทำส่วนที่ไม่ต้องใช้สีนั้นก่อน แม้ลำดับงานจะสลับจากที่วางไว้"
+  },
+  {
+   "id": "Tep4",
+   "verdict": "fix-con",
+   "why": "Conceded: it was a near-copy of Tel6's spec comparison. 'Cut to the drills that serve the goal' is a different Te decision, and both options are training. It shares the cutting move with Tez6, but they are in different contexts.",
+   "t": "วันที่มีเวลาซ้อมน้อย ฉันมักตัดเหลือแค่ท่าที่ช่วยเป้าการซ้อมมากที่สุด แม้ท่าที่สนุกกว่าจะต้องรอวันอื่น"
+  },
+  {
+   "id": "Tes4",
+   "verdict": "fix-judge",
+   "why": "The critic's cost (chasing numbers rather than enjoying it) is the right fix for the มีวินัย reading, but the text was 138 characters. I shortened the stem ('หายหลังอัปเดต') and the ending ('มากกว่าสนุก').",
+   "t": "สถิติในแอปเรียนภาษาหายหลังอัปเดต ฉันมักตั้งเป้าใหม่เป็นตัวเลขแล้วเริ่มนับวันนั้นเลย แม้บางวันจะเรียนเพื่อไล่ตัวเลขมากกว่าสนุก"
+  },
+  {
+   "id": "Tet4",
+   "verdict": "fix-pro",
+   "why": "Ingredient-matching converged with this batch's Si, so speed and availability is the right Te criterion. The critic's 'it may eat less' adds a pet-welfare penalty, and the agree team keeps the original mild cost.",
+   "t": "ถ้าอาหารที่สัตว์เลี้ยงกินประจำขาดตลาด ฉันมักสั่งยี่ห้อที่หาง่ายและส่งถึงเร็วที่สุดมาก่อน แม้ยังไม่แน่ใจว่ามันจะชอบไหม"
+  },
+  {
+   "id": "Tey6",
+   "verdict": "fix-judge",
+   "why": "Both teams agree the outcome criterion (what makes the day move fastest) is the fix. The agree team's text was 132 characters, so I trimmed it ('รีบจนต้องกลับมาเปลี่ยน').",
+   "t": "เรื่องเล็กที่เลือกทุกวัน เช่น กินอะไรหรือใส่ชุดไหน ฉันมักเลือกทางที่ทำให้วันนั้นเดินเร็วที่สุด แม้บางทีจะรีบจนต้องกลับมาเปลี่ยน"
+  },
+  {
+   "id": "Til6",
+   "verdict": "fix-judge",
+   "why": "Conceded: it duplicated Tid4's cake diagnosis. The critic's model-kit scene keeps the 'which step' Ti, but it was 134 characters. I trimmed it and removed the redundant 'ชิ้นไหน…ขั้นไหน'.",
+   "t": "ถ้าโมเดลที่ต่อตามคู่มือประกอบไม่เข้า ฉันมักนั่งไล่ว่าเริ่มเบี้ยวตั้งแต่ขั้นไหนก่อนจะถอดต่อใหม่ แม้เวลาว่างจะหมดไปกับขั้นนั้น"
+  },
+  {
+   "id": "Tij6",
+   "verdict": "fix-judge",
+   "why": "The repeated 'won't act until I understand' ending is real, and the critic's step-aside cost is right. I trimmed it from 133 to 122 characters.",
+   "t": "ถ้าตั๋วรถไฟที่ซื้อใช้ผ่านประตูไม่ได้ ฉันมักยืนไล่ดูก่อนว่าระบบตั๋วที่นั่นแบ่งโซนยังไง แม้จะต้องหลบให้คนเดินผ่านอยู่หลายรอบ"
+  },
+  {
+   "id": "Tig4",
+   "verdict": "fix-judge",
+   "why": "The menu-time cost copied Tix6. The critic's 'barely matters in play' cost is right, and I shortened it from 136 to 119 characters.",
+   "t": "ก่อนเลือกว่าจะใส่อุปกรณ์ชิ้นไหน ฉันมักคิดเองว่าค่าสถานะแต่ละอย่างส่งผลต่อกันยังไง แม้พอเล่นจริงแล้วจะไม่ต่างกันเท่าไหร่"
+  },
+  {
+   "id": "Tir6",
+   "verdict": "fix-pro",
+   "why": "Checking which step a parcel is stuck at is practical tracking. Wanting to understand how the holiday delivery system works is Ti. The agree team's trim brings the critic's idea under 130 characters.",
+   "t": "ของขวัญที่สั่งไว้มาไม่ทันวันสำคัญเพราะวันหยุดยาว ฉันมักอยากเข้าใจก่อนว่าระบบขนส่งช่วงนี้ทำงานยังไงถึงค้าง จนลืมคิดว่าจะให้อะไรแทน"
+  },
+  {
+   "id": "Tih6",
+   "verdict": "fix-con",
+   "why": "Conceded: the partner's 'you're overthinking it' sets up a mild disagreement and makes Ti look cold. 'The dates differ by only a few days' is a light, self-directed cost.",
+   "t": "จะเลือกวันครบรอบที่ใช้ฉลอง ฉันอยากนิยามให้ชัดก่อนว่าจะนับจากวันไหน แม้สุดท้ายวันที่ได้จะต่างกันแค่ไม่กี่วัน"
+  },
+  {
+   "id": "Niq6",
+   "verdict": "fix-con",
+   "why": "Conceded: the life-direction marker repeats across six Ni items and sounds grandiose for a poster. 'A hidden story to interpret slowly' is symbolic Ni and keeps the cost.",
+   "t": "เลือกโปสเตอร์หรือภาพติดผนัง ฉันมักเลือกภาพที่ดูแล้วเหมือนมีเรื่องซ่อนอยู่ให้ค่อย ๆ ตีความ แม้ตอนนี้จะดูไม่ค่อยเข้ากับห้อง"
+  },
+  {
+   "id": "Niu6",
+   "verdict": "fix-con",
+   "why": "Conceded: choosing an album by 'life direction' is unnatural Thai. 'One story threaded through the whole album' is plain convergent Ni.",
+   "t": "เลือกว่าจะฟังอัลบั้มไหนต่อ ฉันมักเลือกอัลบั้มที่ฟังแล้วเหมือนมีเรื่องเดียวร้อยทั้งชุดไว้ แม้อัลบั้มใหม่ที่รอฟังจะค้างอยู่"
+  },
+  {
+   "id": "Niv4",
+   "verdict": "fix-con",
+   "why": "Conceded: it duplicated BNiSem1-a's imagined ending. Converging on the story's core is a different Ni angle with the same cost.",
+   "t": "ถ้าซีรีส์ที่ดูอยู่ถูกถอดออกจากแอปก่อนดูจบ ฉันมักนึกว่าแก่นจริงของเรื่องคืออะไร แล้วพอใจกับตรงนั้นจนไม่ได้ตามหาตอนที่เหลือ"
+  },
+  {
+   "id": "Nis4",
+   "verdict": "fix-pro",
+   "why": "The critic's fix kept both the same mishap type and the same Ni action, so the duplication with BNiSes1-a remained. Two disagreeing tutorials, with Ni converging on one picture underneath, are new and plainly Ni.",
+   "t": "ถ้าคลิปสอนสองช่องอธิบายเรื่องเดียวกันไม่ตรงกัน ฉันมักมองหาภาพเดียวที่อยู่ข้างใต้ทั้งสองแบบ แม้รายละเอียดจะยังไม่ลงกันสักที"
+  },
+  {
+   "id": "Niz6",
+   "verdict": "fix-judge",
+   "why": "Conceded: a cancelled 'follow your dream' programme is too high-stakes, and a postponed workshop is right. The critic's text was 141 characters. I shortened it and dropped 'ของชีวิต', which also reduces the repeated life-direction marker.",
+   "t": "เวิร์กช็อปที่สมัครไว้ลองตามฝันถูกเลื่อนไม่มีกำหนด ฉันมักปล่อยเรื่องนี้ค้างในใจ จนวันหนึ่งก็เห็นเองว่ามันเข้ากับภาพใหญ่ยังไง"
+  },
+  {
+   "id": "Niw6",
+   "verdict": "fix-con",
+   "why": "Conceded: seeing where outages steer the team is มองการณ์ไกล at work, and the cost was free. 'Today's fix still sits in my hands' is a real cost.",
+   "t": "ถ้าระบบในงานล่มซ้ำหลายรอบในเดือนเดียว ฉันมักเห็นภาพว่ามันกำลังพาวิธีทำงานของทีมไปทางไหน จนเรื่องที่ต้องแก้วันนี้ยังค้างอยู่ในมือ"
+  },
+  {
+   "id": "Nij6",
+   "verdict": "fix-con",
+   "why": "Conceded: 'ถึงเวลา' reads as fate or ดวง. 'The place that keeps coming back to mind' keeps the felt pull, secular.",
+   "t": "เลือกเมืองสำหรับทริปหน้า ฉันมักเลือกที่ที่ภาพในหัวกลับมาวนบ่อยที่สุดช่วงนี้ แม้จะยังไม่ได้เทียบกับที่อื่นเลย"
+  },
+  {
+   "id": "Net4",
+   "verdict": "fix-judge",
+   "why": "The brag-cost has to go, and the critic's 'the pet ignores them' is right. But the critic's text was 135 characters, and 'ส่วนใหญ่…ไม่เล่นสักชิ้น' is self-contradictory. I rewrote the ending as 'แม้หลายชิ้นมันจะไม่แตะเลย'.",
+   "t": "ถ้าสัตว์เลี้ยงกัดของเล่นชิ้นโปรดพัง ฉันมักนึกได้หลายอย่างว่าจะดัดแปลงของในบ้านเป็นของเล่นใหม่ แม้หลายชิ้นมันจะไม่แตะเลย"
+  },
+  {
+   "id": "Nez6",
+   "verdict": "fix-pro",
+   "why": "The repeated 'can't choose' Ne cost has to go. The critic's 'name keeps changing' is the เปลี่ยนใจบ่อย/เหลาะแหละ (down) Ne wording. The agree team's 'some names drift too far from the project' stays inside Ne branching.",
+   "t": "ต้องตั้งชื่อให้โปรเจกต์ส่วนตัว ฉันมักคิดชื่อออกมาหลายแบบที่แต่ละชื่อพาไปอีกทาง แม้บางชื่อจะไปไกลจนไม่เหลือเค้าของโปรเจกต์เลย"
+  },
+  {
+   "id": "Neg4",
+   "verdict": "fix-con",
+   "why": "Conceded: the same repeated 'can't choose' cost. 'Each one only lasts a short while' is a fair, situation-bound cost.",
+   "t": "ถ้าเซิร์ฟเวอร์เกมล่มตอนนัดเล่นกัน ฉันมักนึกออกหลายอย่างที่เล่นแทนได้ เช่น เกมอื่นหรือโหมดออฟไลน์ แม้แต่ละอย่างจะเล่นกันได้ไม่นาน"
+  },
+  {
+   "id": "Nep4",
+   "verdict": "fix-con",
+   "why": "Conceded: dropping the schedule measured J/P. A cost about idea quality keeps it Ne.",
+   "t": "เลือกว่าวันนี้จะออกกำลังกายแบบไหน ฉันมักนึกได้หลายอย่างแล้วจับมาผสมกันเป็นแบบใหม่ แม้บางแบบที่คิดขึ้นเล่นแล้วจะไม่ค่อยเข้าท่า"
+  },
+  {
+   "id": "Sex6",
+   "verdict": "keep",
+   "why": "No photos all day on a friends' trip is a real loss in Thai photo culture, and enjoying what is there is legitimate Se fun-pleasure. The critic's cost makes Se a burden on friends (a strong เกรงใจ penalty) and comes from the dead phone, not from the Se response, so it would overshoot.",
+   "t": "เที่ยวกับเพื่อนแล้วแบตมือถือหมดกลางทาง ฉันมักหันไปสนุกกับสิ่งที่เห็นตรงนั้นแทน แม้จะไม่มีรูปเก็บไว้เลยทั้งวัน"
+  },
+  {
+   "id": "Seu6",
+   "verdict": "fix-con",
+   "why": "Conceded: a cost-free statement wins against costed ones. 'Walk past my turn' ties the cost to Se absorption and keeps the vivid list of sounds.",
+   "t": "ถ้าหูฟังแบตหมดกลางทาง ฉันมักหันมาฟังเสียงรอบตัวแทน เช่น เสียงรถ เสียงคน หรือเพลงจากร้านข้างทาง จนบางทีเดินเลยจุดที่ต้องเลี้ยว"
+  },
+  {
+   "id": "Seq6",
+   "verdict": "fix-con",
+   "why": "Conceded: 'not knowing how hard it is to care for' reads ไม่รอบคอบ. 'May not suit the room's light' is neutral and concrete.",
+   "t": "เลือกต้นไม้มาวางในห้อง ฉันมักเลือกต้นที่สีและรูปทรงสะดุดตาตอนเดินผ่านร้าน แม้บางต้นจะไม่ค่อยเข้ากับแสงในห้องนัก"
+  },
+  {
+   "id": "Sen6",
+   "verdict": "fix-con",
+   "why": "Conceded: radio while driving is universal practicality and won't discriminate. Clicking first on stories with real footage is clearer Se, with a mild cost.",
+   "t": "เลือกว่าจะอ่านข่าวไหน ฉันมักกดเรื่องที่มีภาพหรือคลิปเหตุการณ์จริงให้เห็นก่อน แม้พาดหัวจะไม่ได้บอกอะไรมาก"
+  },
+  {
+   "id": "Six6",
+   "verdict": "fix-pro",
+   "why": "The refusal flavour and the food duplication are real. The critic's fix duplicates bank item Six1. Choosing a seat from remembered bodily comfort is new Si with friends, refuses no one, and has a mild cost.",
+   "t": "เลือกที่นั่งในร้านตอนไปกับเพื่อน ฉันมักเลือกมุมแบบที่เคยนั่งแล้วสบายตัว เช่น ไม่โดนแอร์เป่า แม้จะไม่ใช่มุมที่วิวดีที่สุด"
+  },
+  {
+   "id": "Siw6",
+   "verdict": "keep",
+   "why": "With Six6 rewritten, this is the only Si menu item outside context d. It carries the rare inner-body facet of Si ('บ่ายนั้นตัวไม่หนัก'). The critic's document-template replacement is generic 'familiar method' Si and loses that facet.",
+   "t": "สั่งข้าวช่วงพักกลางวัน ฉันมักเลือกเมนูเดิมที่รู้ว่ากินแล้วบ่ายนั้นตัวไม่หนัก แม้ร้านจะมีเมนูใหม่ให้ลอง"
+  },
+  {
+   "id": "Siq6",
+   "verdict": "fix-con",
+   "why": "Conceded: the original wording was unnatural Thai. The fix keeps the scent-to-morning memory link and the effort cost.",
+   "t": "สบู่กลิ่นที่ใช้ประจำเลิกขาย ฉันมักตามหากลิ่นที่ใกล้ของเดิมที่สุด เพราะจำได้ว่าเช้าที่มีกลิ่นนั้นรู้สึกยังไง แม้ต้องลองดมหลายร้าน"
+  },
+  {
+   "id": "Siy6",
+   "verdict": "fix-judge",
+   "why": "Conceded: it repeated the Sil6 rain stem, and the self-talk mantra drifted toward coping wording with no cost. The critic's alarm-failure version is clean Si, but it was 138 characters. I trimmed it ('ยึดหลักเดิมที่เคยใช้ คือ…').",
+   "t": "วันไหนสะดุดตั้งแต่เช้า เช่น นาฬิกาปลุกไม่ดัง ฉันมักยึดหลักเดิมที่เคยใช้ คือทำทีละอย่างตามลำดับที่คุ้น แม้จะช้ากว่าลัดขั้นไปเลย"
+  }
+ ],
+ "lessons": [
+  "Mirror templates leak the target. All five Ti-Fe mishap bips used 'why it broke vs how people feel, though I haven't checked the other'. Seen five times, the key is obvious. Vary the axis per item (criteria for a replacement, cause of a fault, who was most looking forward to it), not just the scene.",
+  "Cost endings become function markers. 'แม้จะไม่ใช่…ที่ชอบที่สุด' (Te), 'X ที่ตัวเองอยาก…ไม่ได้' (Fe, 9/20), 'เลือกไม่ถูก' (Ne), 'มีความหมายกับใจ' (Fi), and 'รู้แล้วก็แก้ไม่ได้' (Ti in the fixes) each repeated. Every fix must check the new ending against the batch, or it just becomes the next marker.",
+  "Cost symmetry must be in kind, not just presence. A social cost (friends wait, guests stand confused, the team wants to quit) on Ti/Se/Ni against a free or self-only cost on Fe hands the item to Fe. Give both sides self-contained costs of equal weight, and make Fe pay its own down face (ขี้เกรงใจ, over-checking, misplaced worry, bland compromise), never heroic self-sacrifice.",
+  "Fixes drift into the neighbouring function. 'Borrow the fastest substitute' or 'mix from what I have' is Se, not Te. 'Tidy the desk' is Si/J, not Se. 'Ask who's free' is Te logistics, not Fe. 'Pick by matching ingredients' collides with Si. 'Follow the majority' is passivity, not Fe attunement. A fix must re-pass the one-function test, not only the desirability test.",
+  "Hidden Thai virtue cues and stakes override the function. Repair/thrift (พอเพียง), ปล่อยวาง, mindful presence, the good host or partner, a productive worker, exercising vs not, floods, storms, driving while using the phone, and dream projects all set the answer before the function does. Keep mishaps small and blameless, check each side for a cultural virtue, and re-check length (±20%, ≤130) after every fix, because most critic fixes overshot."
+ ]
+}

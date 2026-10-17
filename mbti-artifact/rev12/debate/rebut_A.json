@@ -1,0 +1,568 @@
+[
+ {
+  "id": "Nic0",
+  "stance": "concede",
+  "why": "Real: the ending nearly copies Nie0 and 'no evidence yet' adds a prescience flavour rather than a cost. The fix keeps the felt sense (รู้สึกได้เอง) and adds a behavioural cost. (Small polish: 'ทางผ่าน' now appears twice; an editor may trim the second.)"
+ },
+ {
+  "id": "Nic1",
+  "stance": "concede-better-fix",
+  "why": "Real: 'คิดไกลกว่าแค่เก็บห้อง' reads as a strength. But the critic's cost ('room just stays messy') cuts the link to the Ni insight and reads as plain untidiness (ไร้ระเบียบ, a one-sided negative label). This fix keeps the convergence on one cause and explains why the room stays messy.",
+  "fix": "ห้องรกหลายจุดพร้อมกัน ฉันมักมองว่าเป็นสัญญาณของเรื่องเดียว เช่น ช่วงนี้ชีวิตแน่นไป แล้วไปคิดเรื่องนั้นก่อน จนห้องรกต่ออีกหลายวัน"
+ },
+ {
+  "id": "Nic2",
+  "stance": "concede",
+  "why": "Real: 'เริ่มเสียทีละชิ้น' clashes with 'แค่หลอดไฟขาดดวงเดียว'. The fix keeps the comic small-trigger vs big-picture gap and shares a stem with Sec2, which helps pairing. Note: the critic's BNiSec1-a fix repeats this same 'redo the whole room' idea, so BNiSec1 gets a different Ni angle (see there)."
+ },
+ {
+  "id": "Nic5",
+  "stance": "concede-better-fix",
+  "why": "Partly real: the cost copies Tec4 ('งานจุกจิก…ค้าง'), and picking the 'core task' can read as Te prioritising. But the critic's fix loses the single-focus 'แกน' convergence, adds 'ไหลไปตาม' (the Sec5 wording, so it now reads as Se), and 'สิ่งที่จดไว้' brings in J list-making. This fix keeps one theme that the day turns around, which is Ni, with a new cost.",
+  "fix": "วันหยุดอยู่บ้าน ฉันมักรู้สึกได้เองว่าวันนี้เป็นวันของเรื่องไหน แล้วทั้งวันก็หมุนรอบเรื่องนั้น แม้แผนที่คิดไว้จะถูกพับไปหมด"
+ },
+ {
+  "id": "Nec0",
+  "stance": "concede",
+  "why": "Real: same idea and the same cost 'ยุ่งกว่าเดิม' as BNeSic0-a in the same context. The fix is clean Ne (seeing many uses in objects) with a mild, non-flaky cost."
+ },
+ {
+  "id": "Nec4",
+  "stance": "dispute",
+  "why": "Overstated. Rule 9 bans paraphrasing an item of the same function in the same context. Ned3 is in context d and is a plain perception item (one ingredient, menus branch out in the head). Nec4 is a home decision scene (a leftover constraint, then picking the untried mix) and supplies one of the required 'ตัดสินใจเรื่องเล็ก' items. The critic's replacement also reuses 'กลายเป็นอะไรได้' from its own Nec0 fix, which would create a new Ne marker inside c. It also runs about 168 characters, well over the 130 maximum."
+ },
+ {
+  "id": "Sic0",
+  "stance": "concede-better-fix",
+  "why": "Real: a weekly cleaning timetable reads as J/มีวินัย. But the critic's fix ('ลำดับเดิมที่คุ้นมือ') copies BNeSic0-b almost word for word and adds to a 'คุ้นมือ' cluster: the critic's fixes add five more uses. This fix keeps the inner 'ค้าง ๆ' feeling the pro side valued and makes it Si's comparison of now with a stored sensory reference, with no schedule.",
+  "fix": "ทำความสะอาดห้อง ฉันมักวัดว่าเสร็จจากความรู้สึกที่คุ้น เช่น กลิ่นห้องแบบเดิม ถ้ายังไม่ใช่จะรู้สึกค้าง ๆ แม้ดูด้วยตาจะสะอาดแล้ว"
+ },
+ {
+  "id": "Sic2",
+  "stance": "concede-better-fix",
+  "why": "Real: near-identical to Sie3. Only one of the two needs to change, and this one should (Sie3 stays). The critic's fix leans on 'คุ้นมือ', which its fixes now use five times. This version keeps the clean Si mishap response and its cost, and draws on detailed recall of a specific object's quirks, so it is distinct from Sie3's 'what fixed it last time'.",
+  "fix": "ของในบ้านที่ใช้มานานเริ่มรวน ฉันมักแก้ตามนิสัยของมันที่จำได้ เช่น ต้องเคาะตรงไหนหรือรอกี่นาที แม้คราวนี้อาการจะไม่เหมือนเดิมนัก"
+ },
+ {
+  "id": "Sic3",
+  "stance": "concede",
+  "why": "Fair: there is no cost, 'รู้ตัวก่อน' edges toward an ability claim, and 'ร่างกายเริ่มไม่ไหว' is close to health wording. The fix keeps the rare body-state Si facet (ทนร้อนได้แค่ไหน), adds the familiar cooler spot, and adds a mild cost."
+ },
+ {
+  "id": "Sic4",
+  "stance": "concede-better-fix",
+  "why": "Real but low: 'มากกว่าดูโปร' brings in thrift. But the critic's new cost ('new scents placed beside it') is the same non-cost it rejected in BNeSic1-b, nearly word for word. This fix keeps the remembered scent of home and gives a real opportunity cost.",
+  "fix": "เลือกน้ำยาซักผ้าหรือน้ำยาถูพื้น ฉันมักเลือกจากกลิ่นที่จำได้ว่าทำให้ห้องรู้สึกเหมือนบ้าน แม้จะไม่เคยรู้เลยว่ากลิ่นอื่นอาจชอบกว่า"
+ },
+ {
+  "id": "Sic5",
+  "stance": "concede-better-fix",
+  "why": "Partly real: it overlaps Sid3 (tired, so familiar taste) and assumes home cooking. But the critic's fix turns a 'ตัดสินใจเรื่องเล็ก' item into a plain routine, which loses a needed scene type, and it becomes the third 'same order' Si routine in c (Sic0, Sic1, BNeSic0-b). This fix keeps a small decision, driven by remembered bodily sensation, with no food and no routine.",
+  "fix": "จะซื้อหมอนหรือผ้าปูชุดใหม่ ฉันมักเลือกแบบที่สัมผัสเหมือนชุดเดิมที่นอนแล้วหลับสบาย แม้จะต้องเดินหาอยู่หลายร้านกว่าจะเจอ"
+ },
+ {
+  "id": "Sec1",
+  "stance": "concede",
+  "why": "Real: same idea and the same marker 'ดื่มด่ำ' as BNiSec0-b. The fix keeps the textures and the postponed-task cost. (BNiSec0-b also drops 'ดื่มด่ำ' under the conceded fix.)"
+ },
+ {
+  "id": "Tic0",
+  "stance": "concede-better-fix",
+  "why": "Partly real: taking apart a working appliance is a DIY topic and male-coded. But the critic's fix and its Tic1 fix both open with 'แชร์กันเยอะ', so c would get two Ti items about questioning viral tips, and the pro side's 'กลไกข้างใน' curiosity would be lost. This fix keeps the mechanism curiosity with gender-neutral everyday objects and no teardown.",
+  "fix": "หม้อหุงข้าวหรือพัดลมทำงานแปลก ๆ ฉันมักอยากรู้ว่ากลไกข้างในเป็นยังไงถึงออกมาแบบนั้น จนบางทีนั่งหาข้อมูลอยู่นานทั้งที่มันยังใช้ได้"
+ },
+ {
+  "id": "Tic1",
+  "stance": "concede-better-fix",
+  "why": "Partly real: 'มีคนบอกว่า…ต้อง' sounds like a directive from an elder. But the critic's baking-soda fix duplicates Tic5 (reasoning about how cleaning ingredients work) and drops the Thai folk-rule realism the pro side rated 5. This fix keeps the folk rule, removes the person giving orders, and replaces the non-conformity cost with 'still follow it like others', so there is no hint of disrespect.",
+  "fix": "ข้อห้ามเรื่องบ้านที่พูดต่อกันมา เช่น ห้ามตากผ้าในห้อง ฉันมักนึกเองว่ามันมีที่มาจริงไหม แม้จะยังทำตามอยู่เหมือนคนอื่น"
+ },
+ {
+  "id": "Tic4",
+  "stance": "dispute",
+  "why": "The item states a habit ('ฉันมักคิดก่อนว่า…เพราะอะไร'), not a skill. It has no ability word, and it does not claim the person gets the load right. Anyone who hangs a shelf faces the question, so it is not a niche topic. The critic's fix (how each kind of wall plug holds) is no less technical, so it does not remove the confound it names. Once Tic0 is made non-technical, c's Ti set is already more mixed."
+ },
+ {
+  "id": "Tec2",
+  "stance": "concede",
+  "why": "Real ambiguity about what stays pending. The fix clarifies that it is the machine, with no loss."
+ },
+ {
+  "id": "Tec3",
+  "stance": "concede",
+  "why": "Real: 'ตอนต้องรีบออกไปข้างนอก' makes the Te choice the sensible answer for everyone, and the 'ยังไม่รู้ว่า…เพราะอะไร' ending repeats across items. The fix keeps the Te-vs-Ti contrast (act without diagnosing) and delegating to a technician is good Te."
+ },
+ {
+  "id": "Fic0",
+  "stance": "concede-better-fix",
+  "why": "Real: eating on the floor is ordinary in Thai homes, so it is not a personal choice, and 'รู้สึกว่าเป็นตัวเอง' is an overused Fi marker. But the critic's fix keeps a floor example and 'จังหวะที่ใจอยากเป็น' is awkward Thai. This fix keeps the quirky-rhythm idea and the mild visitor cost with a new Fi cue.",
+  "fix": "ฉันใช้ชีวิตในห้องตามแบบที่อยากให้วันของตัวเองเป็น เช่น ทำความสะอาดตอนดึกหรือนั่งทำงานริมหน้าต่างแทนโต๊ะ แม้คนที่แวะมาจะงงอยู่บ้าง"
+ },
+ {
+  "id": "Fic1",
+  "stance": "concede",
+  "why": "Real for Thai hosting norms: not tidying for guests reads as not caring, and the item is phrased as a negation. The fix (tidy only what I choose, leave the real-life corners) keeps the 'genuine, not staged' strength."
+ },
+ {
+  "id": "Fic3",
+  "stance": "concede",
+  "why": "Real: it repeats Fic4's 'meaningful thing instead of chores', and journaling during a blackout is implausible. The fix keeps a mishap scene with a clean Fi choice and a practical cost."
+ },
+ {
+  "id": "Fic5",
+  "stance": "concede-better-fix",
+  "why": "Real: a chipped cup or plate is ไม่เป็นมงคล in Thai belief and can signal poverty. But the critic's fix uses 'ใจบอกว่าใช่', which its own fixes repeat (Fic5, Fie3) next to Fie4's “ใช่”, so it creates a new Fi marker. It also says 'แก้วหรือจาน' and then 'แก้วใบเดียว'. This fix uses a fresh cue and a neutral cost.",
+  "fix": "จะซื้อแก้วหรือจานใบใหม่ ฉันมักรอจนเจอใบที่มีอะไรบางอย่างตรงกับใจ แม้ระหว่างนั้นจะต้องล้างใบเดิมใช้สลับไปมาอยู่หลายวัน"
+ },
+ {
+  "id": "Fec0",
+  "stance": "concede",
+  "why": "Real: 'แทบไม่ได้นั่งคุยเต็ม ๆ' is a self-sacrifice cost that raises desirability. An over-attentive host (the guest has to say 'don't worry so much') is a neutral, slightly awkward cost. Accept it here, but this ending should not be reused (see Fec1 and Fec3)."
+ },
+ {
+  "id": "Fec1",
+  "stance": "concede-better-fix",
+  "why": "Real: 'my routine disappears for days' is a heroic accommodation cost. But the critic gives Fec0, Fec1 and Fec3 the same new ending ('the guest has to tell me not to bother'), which would mark Fe items in c. This fix keeps the original routine detail the pro side valued, with a different non-heroic cost: the guest feels awkward.",
+  "fix": "มีคนมาพักค้างที่ห้อง ฉันมักปรับกิจวัตรตัวเองตามจังหวะเขา เช่น เวลาปิดไฟ จนเขาเองเริ่มอึดอัดว่าทำให้ฉันต้องเปลี่ยนตาม"
+ },
+ {
+  "id": "Fec3",
+  "stance": "concede-better-fix",
+  "why": "Real: 'จนตัวเองแทบไม่ได้กิน' is the classic heroic cost and paraphrases Fed1. But the critic's 'friend keeps saying it's fine' repeats the same ending as its Fec0 and Fec1 fixes. This fix keeps the Thai hosting mishap and gives it a comic, practical cost.",
+  "fix": "อาหารที่ทำรับเพื่อนที่ห้องออกมาไม่เป็นอย่างที่คิด ฉันมักห่วงว่าเพื่อนจะฝืนกินไหม แล้วรีบหาของมาเสริม จนของเสริมเยอะกว่าจานหลัก"
+ },
+ {
+  "id": "Fec4",
+  "stance": "concede-better-fix",
+  "why": "Partly real: 'เมนู' overlaps Fed0. But the Si charge is overstated: repetition is a consequence of crowd-pleasing, not a preference for the familiar. The critic's fix ('what I wanted to suggest never comes up') brings back the 'Fe gives up my own preference' ending that the critic itself flags in Fee1 and Fei6. This fix drops 'เมนู' and keeps the non-virtue cost.",
+  "fix": "จะเลือกกิจกรรมตอนเพื่อนมาที่ห้อง ฉันมักเลือกสิ่งที่ทุกคนน่าจะสนุกด้วยกัน จนบางทีได้แต่แบบเดิม ๆ ซ้ำไปซ้ำมา"
+ },
+ {
+  "id": "BNiSec0",
+  "stance": "concede",
+  "why": "Real: 'ไม่ค่อยได้คิดว่าชีวิตกำลังไปทางไหน' makes the Se side sound aimless or shallow. The fix mirrors the costs (Ni misses the tea going cold; Se leaves an inner matter unthought), removes 'ดื่มด่ำ' and the vague 'ชีวิตในห้องพาไปทางไหน'."
+ },
+ {
+  "id": "BNiSec1",
+  "stance": "concede-better-fix",
+  "why": "Real: 'กำลังบอกอะไร' can read as an omen, and in a mishap the fix-it-now side looks obviously sensible. But the critic's new side a ('time to make over the whole room') duplicates its own Nic2 fix. This version gives Ni a different angle (the room may no longer fit this stage of life) and gives Se a mirrored, non-flaw cost ('may have to fix the same spot again').",
+  "fix": {
+   "a": "ของในห้องเสียกะทันหัน ฉันมักนึกโยงไปว่าห้องนี้อาจเริ่มไม่เข้ากับชีวิตช่วงนี้แล้ว แม้ชิ้นที่เสียจะยังรอซ่อม",
+   "b": "ของในห้องเสียกะทันหัน ฉันมักลงมือแก้ชิ้นนั้นจากที่เห็นตรงหน้าก่อน แม้อีกไม่นานอาจต้องมาแก้จุดเดิมซ้ำ"
+  }
+ },
+ {
+  "id": "BNeSic1",
+  "stance": "concede",
+  "why": "Fair: the Ne cost (adjusting for days) is concrete while the Si cost is only a missed option, so Si is the safe pick. The fix gives Si a concrete cost and keeps the parallel openings."
+ },
+ {
+  "id": "BTiFec0",
+  "stance": "concede-better-fix",
+  "why": "Real: on the Ti side, ignoring a tired helper breaks เกรงใจ/น้ำใจ, so Fe would win. But the critic's Fe cost (screws in the wrong order, rebuild) is a mistake. That swaps the asymmetry: Fe now reads as careless (ไม่รอบคอบ) while Ti is only slow. This fix gives both sides the same time cost.",
+  "fix": {
+   "a": "เพื่อนมาช่วยประกอบเฟอร์นิเจอร์ที่ห้อง ฉันมักจดจ่อกับว่าแต่ละชิ้นต่อกันด้วยหลักอะไรถึงแน่น จนบางทีประกอบเสร็จช้ากว่าที่คิดไว้มาก",
+   "b": "เพื่อนมาช่วยประกอบเฟอร์นิเจอร์ที่ห้อง ฉันมักคอยดูว่าทุกคนช่วยกันเพลินไหม จนบางทีคุยกันจนประกอบเสร็จช้ากว่าที่คิดไว้มาก"
+  }
+ },
+ {
+  "id": "BTiFec1",
+  "stance": "concede",
+  "why": "Real: the Ti cost was social (a friend left waiting), the Fe cost practical. The fix gives both sides the same practical cost (water keeps pooling) and keeps the mishap."
+ },
+ {
+  "id": "BTeFic1",
+  "stance": "concede-better-fix",
+  "why": "Real: repair-or-buy-new brings in thrift. The critic's frame is good, but its side a 'ปิดเรื่องได้ในรอบเดียว' duplicates its Tec3 fix 'ปิดปัญหาได้ในรอบเดียว', which would create a Te marker in c. This fix changes only that wording and keeps side b as the critic wrote it.",
+  "fix": {
+   "a": "ของชิ้นเก่าในห้องเสีย ฉันมักเลือกทางที่ทำให้เรื่องนี้จบไวที่สุด แม้ของชิ้นนั้นจะอยู่กับฉันมานาน",
+   "b": "ของชิ้นเก่าในห้องเสีย ฉันมักเลือกตามว่าใจยังอยากเก็บชิ้นนั้นไว้ไหม แม้ทางนั้นจะต้องวิ่งเรื่องอีกหลายรอบ"
+  }
+ },
+ {
+  "id": "Nie0",
+  "stance": "concede-better-fix",
+  "why": "Real: 'ทั้งที่ยังไม่มีอะไรยืนยัน' is not a cost and sounds like a foresight ability. But the critic's 'มันกำลังพาไปทางไหน' blurs what is changing (the app or me?). This fix keeps the original sense of the app's own path and adds the behavioural cost.",
+  "fix": "ใช้แอปไหนไปสักพัก ฉันมักเริ่มรู้สึกว่ามันกำลังจะเปลี่ยนไปเป็นแบบไหน จนบางทีเลิกใช้ไปก่อนทั้งที่ตอนนั้นยังใช้ได้ปกติ"
+ },
+ {
+  "id": "Nie3",
+  "stance": "concede-better-fix",
+  "why": "Partly real: 'ว่าเกิดอะไรขึ้น' points to working out a cause, which is Ti. But the critic's fix loses the incubation process the pro side rated as the item's strength, and makes the hunch instant. This version keeps the pause and the 'looks idle' cost, and the hunch is about where the file is, not why it vanished.",
+  "fix": "ถ้าไฟล์หายไปทั้งโฟลเดอร์ ฉันมักนิ่งไปพักหนึ่งจนมีที่หนึ่งผุดขึ้นมาในหัวว่าน่าจะอยู่ตรงไหน แม้ระหว่างนั้นจะดูเหมือนไม่ได้ลงมือหา"
+ },
+ {
+  "id": "Nie5",
+  "stance": "concede-better-fix",
+  "why": "Real: it duplicates BNiSee0-a and it is J planning. But the critic's fix turns a 'ตัดสินใจเรื่องเล็ก' item into a plain one, and browsing years of old photos invites Si (memories). This fix keeps a small decision scene and makes the deciding cue Ni (where life is heading), with Si memories as the cost.",
+  "fix": "จะเลือกเก็บรูปในเครื่อง ฉันมักเก็บไว้แค่รูปที่รู้สึกว่าเกี่ยวกับทางที่ชีวิตกำลังไป แม้บางรูปที่ลบไปจะมีความทรงจำดี ๆ อยู่"
+ },
+ {
+  "id": "Nee1",
+  "stance": "concede",
+  "why": "Fair: opening hidden menus is hands-on exploring that Se readers also endorse. The fix adds Ne linking ('what else could this lead to') and keeps the goal-free curiosity the pro side valued."
+ },
+ {
+  "id": "Nee4",
+  "stance": "concede-better-fix",
+  "why": "Real: it repeats BNeSie0-a. The critic's fix keeps the useful shared stem, but 'ได้อีกกี่ทาง' is the Ne signature it flags in Nei8. This fix changes that wording only.",
+  "fix": "จะเลือกแอปมาใช้สักตัว ฉันมักนึกต่อว่าแต่ละตัวเอาไปผสมกับเรื่องอื่นที่ทำอยู่ได้แบบไหนบ้าง จนรายการที่อยากลองยาวกว่าที่เลือกได้จริง"
+ },
+ {
+  "id": "Sie3",
+  "stance": "dispute",
+  "why": "The critic itself says to rewrite this only if Sic2 is kept. Sic2 is being rewritten (conceded above), so the duplication is gone and Sie3, a clean Si mishap item (fit 5), should stay. The critic's replacement would also add 'ปิดเปิดเครื่อง', overlapping See2's 'ปิดเปิดดู', and another 'คุ้นมือ'."
+ },
+ {
+  "id": "See1",
+  "stance": "concede",
+  "why": "Real: noticing what changed since before needs a stored comparison (Si), and the item has no cost. The fix is clean present-moment Se absorption with a cost. To avoid a new overlap, BNiSee0-b is varied so it does not reuse 'เสียงตอนกด' (see BNiSee0)."
+ },
+ {
+  "id": "Tie0",
+  "stance": "concede",
+  "why": "Fair: checking where an AI answer comes from before trusting it reads as an AI-literacy virtue. The fix drops the trust gate and adds a real cost while keeping Ti's 'where does this come from'."
+ },
+ {
+  "id": "Tie2",
+  "stance": "concede",
+  "why": "Mildly ambiguous, and the clarification costs nothing."
+ },
+ {
+  "id": "Tie5",
+  "stance": "concede",
+  "why": "Real: reading every setting before toggling reads as careful or savvy (รอบคอบ ↑), and the cost is not a cost. The time cost fixes it."
+ },
+ {
+  "id": "Tee2",
+  "stance": "concede-better-fix",
+  "why": "Real: 'ตอนกำลังรีบ' makes everyone take the fastest workaround, and the cost duplicates See2. But the critic's fix uses 'ขั้นตอนน้อยที่สุด', which it flags as a Te signature in Tee4 and Tec5. This fix keeps the switch-to-web example with a new cost.",
+  "fix": "ถ้าแอปค้าง ฉันมักหาทางอื่นให้งานนั้นเดินต่อไปก่อน เช่น สลับไปทำในเว็บ แล้วปล่อยแอปที่ค้างไว้อย่างนั้นอีกหลายวัน"
+ },
+ {
+  "id": "Tee4",
+  "stance": "concede-better-fix",
+  "why": "Real: the 'efficient but ugly' cost and 'ขั้นตอนน้อยที่สุด' repeat Tec5. But the critic's fix keeps 'ขั้นตอนน้อยที่สุด', adds a monthly fee (a money cue the brief avoids), and is double-barrelled ('หรือ'). This fix keeps the shared stem, rewords the criterion, and gives one cost.",
+  "fix": "จะเลือกแอปมาใช้สักตัว ฉันมักเทียบว่าตัวไหนพาไปถึงสิ่งที่ต้องการได้ตรงที่สุด แม้จะต้องเลิกใช้ตัวที่ใช้มานานจนชินแล้ว"
+ },
+ {
+  "id": "Fie0",
+  "stance": "concede-better-fix",
+  "why": "Real: near-duplicate of Fie4. The critic's trend scene is good, but its cost ('can't keep up when friends talk about it') is the same as its Fii6 fix, and it runs over 130 characters. This fix is the same scene with a different, concrete cost.",
+  "fix": "เพื่อน ๆ ย้ายไปใช้แอปที่กำลังฮิต ฉันมักยังไม่ย้ายจนกว่าจะรู้สึกว่ามันเข้ากับวิธีใช้ชีวิตของฉัน แม้ข่าวในกลุ่มจะมาถึงฉันช้าไปบ้าง"
+ },
+ {
+  "id": "Fie1",
+  "stance": "concede",
+  "why": "Real: the 'เป็นของฉันจริง ๆ' marker repeats and theming is mostly aesthetic. The fix grounds Fi in private meaning, with a mild, non-heroic cost."
+ },
+ {
+  "id": "Fie3",
+  "stance": "concede-better-fix",
+  "why": "Fair: 'สบายใจจะใช้ไปนาน ๆ' leans to Si comfort. But the critic's 'ใจบอกว่าใช่' repeats Fie4's “ใช่” and its own Fic5 fix. This fix uses a different Fi cue ('doesn't feel against my heart').",
+  "fix": "ถ้าแอปที่ใช้มานานปิดตัวไป ฉันมักใช้เวลาหาตัวใหม่ที่ใช้แล้วไม่รู้สึกฝืนใจ แม้ระหว่างนั้นจะต้องทำแบบขัด ๆ ไปก่อน"
+ },
+ {
+  "id": "Fee1",
+  "stance": "concede",
+  "why": "Real: the cost is word for word Fei6. The fix's 'looks generic' cost is neutral and keeps the item."
+ },
+ {
+  "id": "Fee2",
+  "stance": "concede",
+  "why": "Real: promptly telling everyone is responsible coordination, and 'รีบบอก' repeats. The fix (messaging each person until a simple thing becomes a long chat) is attunement with a comic cost."
+ },
+ {
+  "id": "Fee4",
+  "stance": "concede",
+  "why": "Real: picking the app most of the group already has is the low-friction choice any function would make. The fix makes the criterion people's comfort (Fe)."
+ },
+ {
+  "id": "BNiSee0",
+  "stance": "concede-better-fix",
+  "why": "Real: side a plans and side b taps around, which is the J/P confound, and side a duplicates Nie5. The critic's sides are good, but b's 'สีจอ และเสียงตอนกด' duplicates its See1 fix ('สี…และเสียงตอนกด'). This fix keeps a as the critic wrote it and varies b's sensory details.",
+  "fix": {
+   "a": "ตอนได้มือถือเครื่องใหม่ ฉันมักรู้สึกไปก่อนว่าเครื่องนี้จะเปลี่ยนชีวิตช่วงต่อไปของฉันไปทางไหน แม้จะยังไม่ได้เปิดใช้อะไรจริงจัง",
+   "b": "ตอนได้มือถือเครื่องใหม่ ฉันมักสนุกกับสัมผัสตรงหน้าก่อน ทั้งน้ำหนักในมือและความลื่นตอนเลื่อนจอ แม้จะยังไม่ได้คิดว่าจะใช้ทำอะไรต่อ"
+  }
+ },
+ {
+  "id": "BNiSee1",
+  "stance": "concede-better-fix",
+  "why": "Minor but fair: 'จับทิศรวม ๆ ในหัว' can read as a sense-of-direction skill. But the critic's 'แล้วเดินไปเลย' drops the convergent 'มุ่งไปทางนั้น' and makes side a sound impulsive, which leans toward Se. This fix describes the process ('guess from a rough feeling') and keeps 'มุ่ง'. Side b is unchanged.",
+  "fix": {
+   "a": "ถ้ามือถือดับกลางทางตอนกำลังดูแผนที่ ฉันมักเดาทิศรวม ๆ จากความรู้สึกว่าที่หมายอยู่ทางไหน แล้วมุ่งไปทางนั้น แม้อาจต้องย้อนกลับมาบ้าง",
+   "b": "ถ้ามือถือดับกลางทางตอนกำลังดูแผนที่ ฉันมักมองป้ายและสิ่งรอบตัวตรงนั้น แล้วเดินไปตามที่เห็นทีละช่วง แม้ต้องหยุดดูบ่อย ๆ"
+  }
+ },
+ {
+  "id": "BTiFee0",
+  "stance": "dispute",
+  "why": "Wanting one naming principle without contradictions ('ใช้หลักเดียวกันไม่ขัดกัน') is textbook Ti: internal consistency of a classification. Te would argue from speed or findability. Side a does not make others comply; its cost is that I re-sort it myself. The critic's fix weakens Fe side b into passive 'ปล่อยให้ใส่', and the cost it gives a ('คนอื่นไม่ได้ติดใจอะไร') is social."
+ },
+ {
+  "id": "BTiFee1",
+  "stance": "concede",
+  "why": "Real: the Ti cost made the group wait while Fe looked helpful. The fix's shared practical cost removes the asymmetry and keeps 'which step vs who is affected'."
+ },
+ {
+  "id": "BTeFie0",
+  "stance": "concede",
+  "why": "Real: using AI output as-is on 'your own work' carries an integrity judgement. Moving to short captions keeps the AI scene and the symmetric style-vs-time costs."
+ },
+ {
+  "id": "BTeFie1",
+  "stance": "concede-better-fix",
+  "why": "Fair: the Fi side is home-screen aesthetics plus the 'เป็นตัวเอง' marker. But the critic's example 'แอปที่ใช้คุยกับคนสำคัญ' makes the Fi side relational (Fe) and breaks the exact parallel the pro side rated. This fix keeps 'วางแอปตาม…' on both sides with a meaning-based Fi criterion.",
+  "fix": {
+   "a": "ตอนจัดหน้าจอหลักของมือถือ ฉันมักวางแอปตามความถี่ที่ใช้ให้กดถึงได้ไวที่สุด แม้ตัวที่มีความหมายกับฉันจะไปอยู่หน้าหลัง ๆ",
+   "b": "ตอนจัดหน้าจอหลักของมือถือ ฉันมักวางแอปตามว่าตัวไหนมีความหมายกับชีวิตฉันตอนนี้ แม้บางตัวที่ใช้บ่อยจะต้องเลื่อนหา"
+  }
+ },
+ {
+  "id": "Nii7",
+  "stance": "concede-better-fix",
+  "why": "Fair: 'ลึก ๆ แล้วต้องการอะไร' leans to inner wants (Fi). But the critic's 'แก่นจริง ๆ ที่ของชิ้นนั้นมีไว้แก้' is awkward Thai, sounds like Te/Ti problem-solving, and reuses the 'แก่น' marker. This fix keeps the converge-on-purpose idea in plain Thai.",
+  "fix": "ถ้าของที่ตั้งใจซื้อหมดกะทันหัน ฉันมักนึกย้อนไปว่าที่จริงของชิ้นนั้นมีไว้เพื่อเรื่องอะไรในชีวิต จนบางทีได้ของคนละประเภทกลับมาแทน"
+ },
+ {
+  "id": "Nii8",
+  "stance": "concede-better-fix",
+  "why": "Fair: picturing which item you will use in months is the 'wise shopper' answer, with a weak cost. But 'เข้ากับทิศทางที่ชีวิตกำลังไป' is grandiose for two near-identical items and loses the realism the pro side rated 5. This fix keeps a modest forward image and a real cost (not useful yet).",
+  "fix": "เลือกระหว่างของสองชิ้นที่ใกล้เคียงกัน ฉันมักเลือกชิ้นที่รู้สึกว่าจะเข้ากับชีวิตช่วงที่กำลังจะมาถึง แม้ตอนนี้จะยังไม่ค่อยได้ใช้มัน"
+ },
+ {
+  "id": "Nei8",
+  "stance": "concede-better-fix",
+  "why": "Real: it repeats the 'ได้อีกกี่แบบ/ทาง' wording of Nei5 and Nei7. But the critic's fix ('cart full of things for plans not yet started') is the starts-many-finishes-none Ne image that research_thai marks ↓ (จับจด), plus a spending cue. This fix keeps the other-uses idea and its 'never tried' cost in new wording.",
+  "fix": "ก่อนกดซื้อ ฉันมักเผลอคิดต่อว่าของชิ้นนั้นพลิกไปใช้ทำอะไรอื่นได้บ้าง แม้สุดท้ายจะใช้มันแค่แบบเดียว"
+ },
+ {
+  "id": "Sei6",
+  "stance": "concede",
+  "why": "Fair: live-selling streams are a habit many respondents lack, so the item becomes about access. The general online version keeps the physical-demo vs description contrast."
+ },
+ {
+  "id": "Tii6",
+  "stance": "concede",
+  "why": "Fair: spotting contradictory product claims reads as a savvy virtue with no cost. The added cost (closing a page that might fit) balances it."
+ },
+ {
+  "id": "Tei7",
+  "stance": "concede",
+  "why": "Real: it behaves the same as Sei7. The fix adds explicit Te criteria (time and delivery, then one decision)."
+ },
+ {
+  "id": "Fii6",
+  "stance": "concede-better-fix",
+  "why": "Real: an ethical boycott is a moral virtue and paraphrases Fii0. But the critic's fix drops the 'เงียบ ๆ' quietness the pro side said to keep, adds 'ไม่ค่อยลังเล' (decisiveness ↑), and reuses its Fie0 cost. This fix keeps quiet non-adoption of a 'must-have' with a practical cost.",
+  "fix": "ของที่ใคร ๆ ก็บอกว่าต้องมี ถ้าฉันรู้สึกว่ามันไม่ใช่ชีวิตแบบของฉัน ฉันมักผ่านไปเงียบ ๆ แม้บางครั้งจะไม่สะดวกตอนที่ต้องใช้จริง"
+ },
+ {
+  "id": "Fii8",
+  "stance": "concede-better-fix",
+  "why": "Partly real: the 'เป็นตัวเอง' marker repeats. But the critic's fix turns a vivid colour choice into abstract 'สิ่งที่ฉันให้ค่า', which loses concreteness (R10) and the realism the pro side rated 5. This fix keeps colour and changes the cue to an inner state.",
+  "fix": "เลือกสีของของใช้ ฉันมักเลือกสีที่ตรงกับใจตัวเองช่วงนั้น แม้รู้ว่าสีกลาง ๆ จะเข้ากับของอื่นที่มีอยู่มากกว่า"
+ },
+ {
+  "id": "Fei6",
+  "stance": "concede-better-fix",
+  "why": "Real: the ending is identical to Fee1. But the critic's new cost (asking everyone repeatedly whether it is OK) duplicates Fee5's 'ถามคนอื่นก่อนว่าโอเคไหม'. This fix gives a time cost and avoids the 'gives up my preference' Fe marker.",
+  "fix": "เวลาเลือกของที่จะใช้ร่วมกับคนอื่น ฉันมักเลือกแบบที่คิดว่าทุกคนใช้แล้วโอเค จนบางทีเลือกนานกว่าซื้อของให้ตัวเองหลายเท่า"
+ },
+ {
+  "id": "Fei7",
+  "stance": "dispute",
+  "why": "Once Fee2 is rewritten (conceded), Fei7 is the only 'รีบบอก' item, so the repetition is gone. Its cost (announcing before even knowing the delivery date) already undercuts the 'responsible' reading. The critic's fix uses 'คิดวน' (close to rumination wording) and copies the structure of its own Fee2 fix ('ใครจะหงุดหงิด/ผิดหวังไหม')."
+ },
+ {
+  "id": "BNiSei2",
+  "stance": "concede",
+  "why": "Real: 'ค้นตรงไป' is goal-directed search (J) and contradicts the 'เลื่อนดู' stem. The fix keeps both sides scrolling, so only the filter differs (one image vs what catches the eye)."
+ },
+ {
+  "id": "BNeSii2",
+  "stance": "concede",
+  "why": "Real success-vs-failure asymmetry (R7). The fix gives both sides neutral costs."
+ },
+ {
+  "id": "BTiFei2",
+  "stance": "concede",
+  "why": "Fair: 'ในใจยังมีจุดที่สงสัย' makes Fe read insincere next to Ti's honesty, and both sides were about 125 characters. The fix keeps the close-friend setting and gives both sides neutral costs."
+ },
+ {
+  "id": "BTeFii2",
+  "stance": "concede",
+  "why": "Real: side b gave no Fi reason, and 'ผูกพัน' with an unowned item is odd. 'ใจเลือกไว้' on both sides fixes it cleanly."
+ },
+ {
+  "id": "Niy0",
+  "stance": "concede",
+  "why": "Real: awkward Thai and no cost. The over-generalising cost is a fair Ni downside."
+ },
+ {
+  "id": "Ney5",
+  "stance": "concede",
+  "why": "Real: a mechanical swap. The fix's 'ชีวิตแบบไหนถึงเรียกว่าดี' is how people actually talk."
+ },
+ {
+  "id": "Siy0",
+  "stance": "concede-better-fix",
+  "why": "Real: the item is abstract and 'ยึดหลัก' reads as มีหลักการ ↑. But the critic's example (not answering important things late at night) is a prudence virtue, and 'ตั้งไว้กับตัวเอง' sounds like a self-made rule (Ti/Te). This fix gives a neutral Si example (fall back on the past choice) and a cost.",
+  "fix": "หลักเล็ก ๆ ที่ฉันใช้มานาน เช่น ถ้าลังเลก็เลือกแบบที่เคยเลือก พอได้ทำตามแบบเดิมแล้วรู้สึกมั่นคง แม้บางทีจะพลาดทางที่อาจเหมาะกว่า"
+ },
+ {
+  "id": "Siy2",
+  "stance": "concede-better-fix",
+  "why": "Real: sleeping on time and preparing the night before are discipline virtues and J. But the critic's 'ฟังเพลงเดิม' duplicates Siy4, and 'คนอื่นมองว่าไม่เห็นเกี่ยว' brings back the lucky-ritual reading that the rewrite was meant to remove. This fix keeps 'ใจนิ่ง' with neutral examples.",
+  "fix": "ก่อนเรื่องสำคัญ ฉันมักทำทุกอย่างแบบเดิมที่เคยทำแล้วใจนิ่ง เช่น ออกจากบ้านเวลาเดิมหรือกินมื้อเช้าแบบเดิม แม้จะมีทางที่สะดวกกว่า"
+ },
+ {
+  "id": "Siy5",
+  "stance": "concede",
+  "why": "Real: without religion it duplicates Siy4. The fix keeps the bodily-state facet (ใจหวิว, ตัวเบา) as a reference for comparing past and present, which is distinctly Si."
+ },
+ {
+  "id": "Sey0",
+  "stance": "concede-better-fix",
+  "why": "Real: faces and voices pull toward Fe/E, and y-Se is repetitive. But the critic's 'savour the present' principle duplicates Sey3 and Sey4 (and its own Sey3 fix). This fix keeps the pro side's 'made real by live events' strength without reading people's feelings: principles become clear from seeing someone actually live them in front of me (observed action, not read feelings).",
+  "fix": "หลักคิดเรื่องชีวิตจะชัดกับฉันขึ้นมาก ตอนได้เห็นคนใช้มันจริงต่อหน้า จนหลักที่แค่อ่านเจอมักผ่านไปเฉย ๆ"
+ },
+ {
+  "id": "Sey1",
+  "stance": "concede",
+  "why": "Real: 'learn from what I see and encounter, more than reading' cannot be told apart from Siy3. The fix (deal with what is in front when the unexpected happens) is clean Se and also supplies a mishap scene."
+ },
+ {
+  "id": "Sey2",
+  "stance": "concede",
+  "why": "Real: 'ลองทำสิ่งใหม่' is novelty seeking (Ne). The body-in-the-event example restores Se."
+ },
+ {
+  "id": "Sey3",
+  "stance": "concede",
+  "why": "Fair: 'ผู้คนตรงหน้า' brings in E. The fix keeps the colour/sound focus and the modest everyday anchor."
+ },
+ {
+  "id": "Tiy1",
+  "stance": "concede",
+  "why": "Real: 'การตีความ' made sense for horoscopes but not for quotes. 'แค่ความเห็นของคนพูด' is the right contrast."
+ },
+ {
+  "id": "Tey2",
+  "stance": "concede",
+  "why": "Real: it was the discipline virtue with no cost. The 'goals become chores to track' cost is honest Te."
+ },
+ {
+  "id": "Tey5",
+  "stance": "concede-better-fix",
+  "why": "Real: double-barrelled, over 120 characters, and reads as leadership. But the critic's fix swaps out 'รวบรัดไป', the honest cost the pro side marked to keep, for the vaguer 'จริงจังเกินไป'. This fix is the critic's shorter version with the original cost word.",
+  "fix": "หลักของฉันคืองานไหนทำร่วมกันต้องมีลำดับและหน้าที่ชัด จนบางทีคนอื่นรู้สึกว่าฉันรวบรัดไปกับเรื่องสบาย ๆ"
+ },
+ {
+  "id": "Fiy3",
+  "stance": "concede-better-fix",
+  "why": "Real: vague and a free authenticity point. The critic's fix adds a cost but keeps the vagueness it complained of ('บางเรื่องที่ฉันทำเป็นประจำ'). This fix adds a concrete, secular, personally meaningful habit.",
+  "fix": "บางอย่างที่ฉันทำเป็นประจำ เช่น ปลูกต้นไม้ทุกครั้งที่เริ่มอะไรใหม่ ฉันทำเพราะมันมีความหมายกับใจฉันเอง แม้คนรอบตัวจะงงว่าทำไปทำไม"
+ },
+ {
+  "id": "Fey0",
+  "stance": "concede",
+  "why": "Real: 'ถือว่าต้องไป' is a normative duty and 'gave up my plans' is heroic, so this is the 'good friend' answer. The fix keeps showing up out of attunement, with a mild non-heroic cost."
+ },
+ {
+  "id": "Fey2",
+  "stance": "concede-better-fix",
+  "why": "Real: confused logic that reads as โลเล. But the critic's fix adds 'ทำกันจนชิน' (Si habit) and ends with 'แบบของฉันเองไม่ใช่แบบนั้น', the 'Fe gives up my own way' marker the critic flags elsewhere. This fix keeps the group-norm example with a neutral cost.",
+  "fix": "อยู่กับกลุ่มเพื่อน ฉันมักทำตามสิ่งที่กลุ่มถือกันในเรื่องเล็ก ๆ เช่น ต้องถ่ายรูปก่อนกิน แม้ปกติฉันจะไม่ได้ทำแบบนั้นเลย"
+ },
+ {
+  "id": "BNeSiy0",
+  "stance": "concede",
+  "why": "Real: 'คุ้นมาตั้งแต่เด็ก' brings back upbringing or religion, and only Si had a 'เพราะ' reason. The fix balances both sides."
+ },
+ {
+  "id": "BTiFey0",
+  "stance": "concede-better-fix",
+  "why": "Side a is fairly flagged as unclear, and the critic's wording fixes it. But removing tension from side b strips Fe's core move (smoothing the mood, which the brief names). R2 in research_fc uses 'บรรยากาศเริ่มตึง' as an accepted example. This fix keeps Fe reading the room and acting, triggered by someone going quiet rather than by conflict.",
+  "fix": {
+   "a": "คุยเรื่องหลักคิดในชีวิตกับเพื่อน ฉันมักสนใจว่าหลักของแต่ละคนสอดคล้องกันเองทุกข้อไหม แม้จะคิดค้างต่อไปอีกหลายวัน",
+   "b": "คุยเรื่องหลักคิดในชีวิตกับเพื่อน ฉันมักคอยดูว่าทุกคนยังสบายใจไหม แล้วพาเปลี่ยนเรื่องเมื่อใครเริ่มเงียบ แม้จะคุยกันได้แค่ผิว ๆ"
+  }
+ },
+ {
+  "id": "BTiFey1",
+  "stance": "concede-better-fix",
+  "why": "Real: 'เห็นต่าง' is a disagreement scene, which the brief rejects. The critic's recast is good, but its Fe side 'ตั้งใจฟัง' is a good-listener virtue (↑). This fix swaps in a neutral verb so the sides stay balanced.",
+  "fix": {
+   "a": "เพื่อนเล่าคติประจำใจที่เขาใช้ ฉันมักนึกในใจต่อว่าคติข้อนั้นเข้ากับข้ออื่นที่เขาเล่าไหม แม้จะตามเรื่องที่เขาเล่าต่อไม่ค่อยทัน",
+   "b": "เพื่อนเล่าคติประจำใจที่เขาใช้ ฉันมักตอบรับไปตามจังหวะให้เขาเล่าต่อได้สบาย ๆ แม้จะยังไม่ได้คิดตามว่ามันเข้ากับข้ออื่นไหม"
+  }
+ },
+ {
+  "id": "Siy1",
+  "stance": "concede-better-fix",
+  "why": "Real: a leftover religion/upbringing item in a context that is now secular. But the critic's ending 'อธิบายให้คนอื่นฟังไม่ค่อยถูก' is the 'แม้จะอธิบายเหตุผลไม่ได้' pattern the brief names as making targets guessable. This fix gives a Si-specific cost: I keep using it although life has changed.",
+  "fix": "หลักใช้ชีวิตของฉันหลายข้อมาจากเรื่องที่เคยเจอกับตัวซ้ำ ๆ และยังใช้มาจนถึงตอนนี้ แม้ชีวิตตอนนี้จะต่างจากตอนนั้นไปมากแล้ว"
+ },
+ {
+  "id": "BNiSey1",
+  "stance": "concede",
+  "why": "Real: a leftover 'ความเชื่อ' framing. The fix secularises it with minimal change and keeps it parallel. (BTeFiy1 needs the same treatment.)"
+ },
+ {
+  "id": "Sis2",
+  "stance": "concede",
+  "why": "Real: 'ฉันจำได้ว่า' is a memory-ability claim with no cost. The fix adds 'มัก' and a self-limiting cost."
+ },
+ {
+  "id": "Ses3",
+  "stance": "concede",
+  "why": "Real: two 'เช่น' lists, and 'ปรับทันที' reads as a skill. The fix adds a cost and is cleaner."
+ },
+ {
+  "id": "Tes1",
+  "stance": "concede",
+  "why": "Real: 'ทุ่มเวลา' carries ทุ่มเท, and the item has no cost. The skipped-basics cost is honest Te."
+ },
+ {
+  "id": "Fis0",
+  "stance": "concede",
+  "why": "Real: it was the virtuous-learner answer with no cost. Leaving a work-needed course half-done is a fair Fi cost."
+ },
+ {
+  "id": "Fis1",
+  "stance": "concede",
+  "why": "Real: the stem duplicates BTeFis0 and the item carries the marker. The fix is fine."
+ },
+ {
+  "id": "Fis3",
+  "stance": "concede",
+  "why": "Real: the cost made honesty heroic and kept an instructor-pleasing frame. The rambling cost is neutral."
+ },
+ {
+  "id": "Fes1",
+  "stance": "concede",
+  "why": "Real: it is still a classroom scene. A workshop or online class with an open mic suits adults."
+ },
+ {
+  "id": "Fes2",
+  "stance": "concede-better-fix",
+  "why": "Real: most Fe-s items assume a study group, which is an E/I confound. But the critic's cost ('the part I'm most into never comes up') is again the 'Fe gives up my own preference' marker it flags in Fee1 and Fei6. This fix keeps the solo-learner scene with a different cost.",
+  "fix": "เรียนอะไรใหม่มา ฉันมักนึกก่อนว่าคนใกล้ตัวน่าจะสนุกกับส่วนไหน แล้วเล่าแค่ส่วนนั้น จนบางทีเนื้อหาจริงแทบไม่ได้พูดถึง"
+ },
+ {
+  "id": "BNiSes0",
+  "stance": "concede",
+  "why": "Real: neither side had a cost, and 'เห็นแก่น' sounds deeper. The fix's mirrored costs (each misses what the other sees) balance it."
+ },
+ {
+  "id": "BNeSis0",
+  "stance": "concede-better-fix",
+  "why": "Real: the Si side used the outcome word 'ได้ผล' and the Ne side had no cost. But in the critic's Si side 'คุ้นมือ' is odd for a memory method and adds to the 'คุ้นมือ' cluster, and 'รู้สึกซ้ำ ๆ' copies BNeSic0-b. This fix keeps the critic's Ne side.",
+  "fix": {
+   "a": "เวลาทบทวนสิ่งที่เรียนไปแล้ว ฉันชอบลองหาวิธีจำหรือมุมมองใหม่ ๆ ให้กับเนื้อหาเดิม แม้บางวิธีจะทำให้ทบทวนช้าลง",
+   "b": "เวลาทบทวนสิ่งที่เรียนไปแล้ว ฉันชอบใช้วิธีจำและลำดับทบทวนแบบที่ใช้มาจนชิน แม้เนื้อหาเดิมจะเริ่มอ่านแล้วรู้สึกจำเจ"
+  }
+ }
+]

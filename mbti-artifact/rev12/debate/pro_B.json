@@ -1,0 +1,1846 @@
+{
+ "items": [
+  {
+   "id": "Niw6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap reveals Ni: a repeated outage is read as one trend, not a one-off fix",
+   "preserve": "the 'repeated several times in a month' trigger and the cost of thinking past today's fix"
+  },
+  {
+   "id": "New6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Decision shows Ne branching: each app is probed for what else it could become",
+   "preserve": "the 'what each one could flip into' wording and the time-overrun cost"
+  },
+  {
+   "id": "Siw6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Pure Si: choice anchored in remembered bodily effect (afternoon not heavy)",
+   "preserve": "the inner-body reference 'ตัวไม่หนัก' and the low-key cost of skipping the new menu"
+  },
+  {
+   "id": "Sew6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Se coping with what is physically at hand right now",
+   "preserve": "the concrete move-to-the-window example and the 'only part of it' cost"
+  },
+  {
+   "id": "Tiw6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Small decision exposes Ti's need for each part of a name to be defined",
+   "preserve": "the 'what each part means' focus and the self-deprecating 'small thing' cost"
+  },
+  {
+   "id": "Tew6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Te's fastest workable fix under a deadline",
+   "preserve": "the 'old version, only fix the numbers' example and the 'not as complete' cost"
+  },
+  {
+   "id": "Fiw6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Fi as private meaning invisible to others, with no opposition to anyone",
+   "preserve": "the 'passers-by can't tell what it is' cost; it stays non-confrontational"
+  },
+  {
+   "id": "Few6",
+   "fit": 4,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Fe's first reflex: how the change lands on each person",
+   "preserve": "'first thought' framing plus a work-delay cost, so it is a habit, not a virtue"
+  },
+  {
+   "id": "Nir6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ni foresight applied to another person's trajectory in a gift choice",
+   "preserve": "'where their life is heading' and the 'not useful yet' cost"
+  },
+  {
+   "id": "Ner6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Ne spawning several backup plans at once",
+   "preserve": "the multi-plan example and the 'partner can't choose' cost (a real Ne downside)"
+  },
+  {
+   "id": "Sir6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Si falling back on the route that worked before, over the app",
+   "preserve": "the explicit contrast 'past experience vs app's new route'"
+  },
+  {
+   "id": "Ser6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Decision through touch, smell and taste on the spot: textbook Se",
+   "preserve": "the three sensory verbs and the 'haven't compared shops' cost"
+  },
+  {
+   "id": "Tir6",
+   "fit": 3,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows the urge to diagnose where the process stalled",
+   "preserve": "the 'which step it is stuck at' diagnosis and the 'forgot to plan a substitute' cost"
+  },
+  {
+   "id": "Ter6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Decision shows Te closing the matter by distance and queue length",
+   "preserve": "'decide to end it' plus the partner-wanted-farther cost"
+  },
+  {
+   "id": "Fir6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Fi salvaging only what is meaningful",
+   "preserve": "'which part really means something to us' and 'the rest is gone' cost"
+  },
+  {
+   "id": "Fer6",
+   "fit": 4,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Fe as tuning to the other's mood in a tiny everyday choice",
+   "preserve": "the in-car music scene and the self-cost; keep it about mood, not kindness"
+  },
+  {
+   "id": "Nix6",
+   "fit": 3,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Ni projecting how the whole trip reshapes before anyone speaks",
+   "preserve": "'before anyone mentions it' and the whole-trip scope"
+  },
+  {
+   "id": "Nex6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Ne's chaining of ideas with a realistic last-minute cost",
+   "preserve": "'ideas one after another' and the near-deadline cost"
+  },
+  {
+   "id": "Six6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Si choosing the known dish despite a social nudge",
+   "preserve": "the mild social cost (friend invites a new dish) that makes Si non-lazy"
+  },
+  {
+   "id": "Sex6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Se switching to enjoying what is there",
+   "preserve": "the 'no photos all day' cost, which is honest and non-moral"
+  },
+  {
+   "id": "Tix6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Ti's demand for loophole-free rules, with a funny self-cost",
+   "preserve": "'rules that fit with no loopholes' and 'reading rules longer than playing'"
+  },
+  {
+   "id": "Tex6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Te's quick reroute by minimum wait",
+   "preserve": "the map-search action and the 'not the intended style' cost"
+  },
+  {
+   "id": "Fix6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Fi keeping a self-feel inside a group theme without opposing it",
+   "preserve": "the soft cost 'not fully on theme' (not a rebellion)"
+  },
+  {
+   "id": "Fex6",
+   "fit": 4,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Fe's attention going to each friend's anticipation first",
+   "preserve": "the 'cancellation booking not yet handled' cost"
+  },
+  {
+   "id": "Nil6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ni choosing by a one-year self-image rather than by present fun",
+   "preserve": "'one year from now, what kind of person' and the 'don't know if it's fun' cost"
+  },
+  {
+   "id": "Nel6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Ne turning a closure into many options",
+   "preserve": "the 'half a day spent choosing' cost"
+  },
+  {
+   "id": "Sil6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Mishap shows Si's retreat to a proven comfort routine",
+   "preserve": "the concrete 'usual dish, usual corner' example"
+  },
+  {
+   "id": "Sel6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Se choosing snacks by what looks good in person at that moment",
+   "preserve": "'walk and see the real thing' plus 'at that moment'; no cost needed as it is neutral"
+  },
+  {
+   "id": "Til6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Ti diagnosing which step changed the result",
+   "preserve": "the 'which step' diagnosis and the 'no cake yet' cost"
+  },
+  {
+   "id": "Tel6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Te choosing on spec-vs-real-use criteria",
+   "preserve": "the explicit trade-off with the better-looking item beside it"
+  },
+  {
+   "id": "Fil6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Fi refusing a mere substitute because the original mattered",
+   "preserve": "'not rushing to replace' and the 'empty day' cost"
+  },
+  {
+   "id": "Fel6",
+   "fit": 4,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Fe choosing what makes the group laugh together",
+   "preserve": "the 'game I wanted barely gets opened' cost"
+  },
+  {
+   "id": "Nih6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Repeated rescheduling read as a long-term pattern: an Ni lens on a mishap",
+   "preserve": "'repeatedly' trigger and 'haven't talked about it yet'"
+  },
+  {
+   "id": "Neh6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ne choosing a film for the conversations it may branch into",
+   "preserve": "'talk on in many directions' and the 'some flop' cost"
+  },
+  {
+   "id": "Sih6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Si choosing a similar known place, accepting extra travel",
+   "preserve": "the 'similar place we know is comfortable' plus the distance cost"
+  },
+  {
+   "id": "Seh6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Se choosing by real ambience, lighting and food photos over scores",
+   "preserve": "the sensory list vs 'review numbers' contrast"
+  },
+  {
+   "id": "Tih6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Ti's urge to define terms surfaces in a light romantic scene",
+   "preserve": "'define from which day' and the partner's 'overthinking' reaction"
+  },
+  {
+   "id": "Teh6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Te securing the nearest equivalent and closing the booking",
+   "preserve": "'book it to close' and the 'not the intended show' cost"
+  },
+  {
+   "id": "Fih6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Fi picking the photo true to the day's feeling over the best-looking one",
+   "preserve": "the 'true feeling vs looks best' contrast"
+  },
+  {
+   "id": "Feh6",
+   "fit": 4,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Fe putting the partner's disappointment first",
+   "preserve": "the 'own feelings parked' cost"
+  },
+  {
+   "id": "Niy6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ni incubation: waiting until one option 'fits' the overall life picture",
+   "preserve": "'fits the big picture' and the 'stays pending for days' cost"
+  },
+  {
+   "id": "Ney6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Ne reframing a cancellation as new openings",
+   "preserve": "the 'forgets the thing in front' cost, a real Ne downside"
+  },
+  {
+   "id": "Siy6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Si coping by a familiar, previously helpful self-reminder (secular)",
+   "preserve": "'reminder that got me through days like this'; keep it non-religious"
+  },
+  {
+   "id": "Sey6",
+   "fit": 4,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Se framed as a principle: decide by what is in front now",
+   "preserve": "the open-shop example; it needs a light cost to avoid reading careless"
+  },
+  {
+   "id": "Tiy6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ti tracing cause before drawing a life lesson",
+   "preserve": "'trace the cause before concluding' and 'sometimes just chance'"
+  },
+  {
+   "id": "Tey6",
+   "fit": 3,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Te's simple personal rules to cut small decisions short",
+   "preserve": "'cut it short' and the 'monotonous' cost"
+  },
+  {
+   "id": "Fiy6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Fi checking whether the core value survived",
+   "preserve": "'is what I hold still there' and 'others feel the loss for me'"
+  },
+  {
+   "id": "Fey6",
+   "fit": 4,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Fe principle stated plainly: keep the group flowing",
+   "preserve": "the 'not eating what I want' cost"
+  },
+  {
+   "id": "Niz6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows classic Ni incubation: insight arrives later on its own",
+   "preserve": "'leave it in my mind until one day I see' process wording"
+  },
+  {
+   "id": "Nez6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ne branching in naming: each name leads somewhere else",
+   "preserve": "'each name leads another way' and 'can't pick one'"
+  },
+  {
+   "id": "Siz6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Si sticking with the long-used notebook/app",
+   "preserve": "'used for years, easy to find' and the 'new one looks better' cost"
+  },
+  {
+   "id": "Sez6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Se replacing the plan with something real nearby",
+   "preserve": "'real things to see' and the 'not what I dreamed' cost"
+  },
+  {
+   "id": "Tiz6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ti's need for the exactly right word, with a social cost",
+   "preserve": "'the word closest to what I think' and 'can't answer simple questions'"
+  },
+  {
+   "id": "Tez6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Te restarting by cutting to meet the original deadline",
+   "preserve": "'cut the unnecessary to meet the same deadline' and 'only skeleton left'"
+  },
+  {
+   "id": "Fiz6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Fi meaning that is private and invisible from outside",
+   "preserve": "'meaningful to me alone' vs 'ordinary from outside'"
+  },
+  {
+   "id": "Fez6",
+   "fit": 4,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Fe thinking first of people coming to support",
+   "preserve": "'haven't thought about my prepared goods' cost"
+  },
+  {
+   "id": "Niq6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ni choosing for a life phase that has not arrived yet",
+   "preserve": "'the phase about to come' and the 'doesn't suit the room yet' cost"
+  },
+  {
+   "id": "Neq6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Ne generating many outfit substitutes",
+   "preserve": "'many ways to swap in another piece' and the 'almost late' cost"
+  },
+  {
+   "id": "Siq6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Rich Si: scent memory tied to how mornings felt",
+   "preserve": "the scent-to-morning memory link and the 'sniff at many shops' effort"
+  },
+  {
+   "id": "Seq6",
+   "fit": 5,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Se choosing a plant by colour and shape seen in passing",
+   "preserve": "the sensory trigger; soften 'don't know how hard to care for' so it is not careless"
+  },
+  {
+   "id": "Tiq6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Mishap shows Ti separating light, screen and material as causes",
+   "preserve": "the three-cause breakdown and the 'forget whether I still like it' cost"
+  },
+  {
+   "id": "Teq6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Te filtering by criteria first, then choosing from what remains",
+   "preserve": "the filter sequence and the 'eye-catching ones drop out' cost"
+  },
+  {
+   "id": "Fiq6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Fi repairing what still 'is me' over buying new",
+   "preserve": "'this pair is more me' and the 'won't look the same' cost"
+  },
+  {
+   "id": "Feq6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Fe coordinating with the group via chat for a shared look",
+   "preserve": "the chat-check action; it is coordination, not kindness"
+  },
+  {
+   "id": "Nis4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Ni following an inner sense of where learning leads",
+   "preserve": "'continue by that picture' and 'no steps planned yet'"
+  },
+  {
+   "id": "Nes4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Ne surveying interlinked topics before choosing",
+   "preserve": "'topics that link on' and the time cost"
+  },
+  {
+   "id": "Sis4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Si returning to the familiar channel for its known explaining rhythm",
+   "preserve": "'familiar pacing of explanation' reason, not laziness"
+  },
+  {
+   "id": "Ses4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Se improvising with what is at hand",
+   "preserve": "'adjust as I see' and the 'result differs a lot' cost"
+  },
+  {
+   "id": "Tis4",
+   "fit": 5,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Ti preferring sources that explain why each step is so",
+   "preserve": "the 'why each step' focus; length cost keeps it from sounding studious"
+  },
+  {
+   "id": "Tes4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Te resetting a numeric target and moving on",
+   "preserve": "'restart from zero that day' and the 'miss old numbers' cost"
+  },
+  {
+   "id": "Fis4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Fi choosing a skill for inner attachment, not career use",
+   "preserve": "'doesn't help work at all' cost"
+  },
+  {
+   "id": "Fes4",
+   "fit": 3,
+   "balance": 3,
+   "realism": 3,
+   "novelty": 4,
+   "strength": "Mishap aimed at Fe's reflex toward the group's rhythm",
+   "preserve": "the 'forgot to check what I missed' cost"
+  },
+  {
+   "id": "Nib4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Ni at its purest: a vague inner image guides the choice",
+   "preserve": "'can't say what the picture is' as the cost; it is process, not ability"
+  },
+  {
+   "id": "Neb4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Ne spinning multiple sequel versions",
+   "preserve": "'many versions in my head'"
+  },
+  {
+   "id": "Sib4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 4,
+   "strength": "Mishap shows Si resuming from the remembered page",
+   "preserve": "the 'remembered page' detail and the 'new book waiting' cost"
+  },
+  {
+   "id": "Seb4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Se deciding from vivid first-page imagery on the spot",
+   "preserve": "'open page one right there' and 'before reviews'"
+  },
+  {
+   "id": "Tib4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 4,
+   "strength": "Ti reconstructing order from content logic",
+   "preserve": "'work it out from the content' over re-downloading"
+  },
+  {
+   "id": "Teb4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Te choosing format by reading time actually gained",
+   "preserve": "'most reading in the time I have' and 'though I prefer paper'"
+  },
+  {
+   "id": "Fib4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Mishap shows Fi: attachment to characters outweighs suspense",
+   "preserve": "'still want to stay with these characters'"
+  },
+  {
+   "id": "Feb4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Fe softening words for fans, with an honest authenticity cost",
+   "preserve": "the 'not quite what I felt' cost, which keeps Fe from being the nice side"
+  },
+  {
+   "id": "BNiSew0",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Same outage, two coping modes: future impact vs workable now",
+   "preserve": "the mirrored costs ('work in front not moving' / 'not thought about later')"
+  },
+  {
+   "id": "BTiFew0",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Pure Ti-Fe split on one task: logical order vs the listener's ease",
+   "preserve": "parallel 'order by...' stems and the matched 'a bit dry' / 'some reasons cut' costs"
+  },
+  {
+   "id": "BNeSir0",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap forces a new-vs-familiar choice for the couple",
+   "preserve": "the matched costs 'research everything again' / 'nothing new'"
+  },
+  {
+   "id": "BTeFir0",
+   "fit": 5,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Efficiency vs shared meaning in one decision",
+   "preserve": "mirrored trade-offs (several things vs only one thing)"
+  },
+  {
+   "id": "BNiSex2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Inner single image vs concrete photos and clips",
+   "preserve": "each side's cost is exactly the other's strength"
+  },
+  {
+   "id": "BTiFex2",
+   "fit": 4,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap splits 'what went wrong' from 'how friends feel'",
+   "preserve": "the mirrored 'not yet checked' costs; do not let the Ti side read as blaming"
+  },
+  {
+   "id": "BNeSil0",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Classic new-cafe vs usual-cafe choice with fair costs",
+   "preserve": "the comfort cost on the Ne side, which balances it"
+  },
+  {
+   "id": "BTeFil0",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap: nearest feasible site vs asking what I really want today",
+   "preserve": "the Fi cost 'stand thinking a long time' that offsets virtue"
+  },
+  {
+   "id": "BNiSeh2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Delay produces imagining the night vs exploring the station",
+   "preserve": "the identical cost clause on both sides"
+  },
+  {
+   "id": "BTiFeh2",
+   "fit": 5,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "The everyday 'what shall we eat' scene splits criteria from attunement",
+   "preserve": "the shared quoted stem; make the Fe cost less self-sacrificing"
+  },
+  {
+   "id": "BNeSiy2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Disrupted routine: experiment with many versions vs restore the old rhythm",
+   "preserve": "the shared example stem and the 'not settled at first' / 'nothing new' costs"
+  },
+  {
+   "id": "BTeFiy2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Principle for free time: tangible return vs feeling like myself",
+   "preserve": "mirrored costs ('like working' / 'nothing concrete')"
+  },
+  {
+   "id": "BNiSez2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "End-goal proximity vs hands-on action today",
+   "preserve": "each cost names the other side's gain"
+  },
+  {
+   "id": "BTiFez2",
+   "fit": 5,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Equipment failure: cause first vs feelings first",
+   "preserve": "the strict mirror structure; it needs a Fe-side cost of equal weight"
+  },
+  {
+   "id": "BNeSiq2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "New hairstyle vs the known easy one",
+   "preserve": "'time to get used to my face' / 'no one notices a change' costs"
+  },
+  {
+   "id": "BTeFiq2",
+   "fit": 5,
+   "balance": 5,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Broken lamp: replace by spec today vs wait for the one that feels right",
+   "preserve": "concrete costs on both sides (not loved as much / dark corner for weeks)"
+  },
+  {
+   "id": "BNiSes1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Deleted lesson: converge on the concept vs try with hands now",
+   "preserve": "the mirrored 'nothing by hand' / 'no big picture' costs"
+  },
+  {
+   "id": "BTiFes1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Asking online: precise logical gap vs group comfort",
+   "preserve": "'post later' vs 'not the exact point' cost symmetry"
+  },
+  {
+   "id": "BNeSib1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Out of stock: unknown book vs same author",
+   "preserve": "the mishap trigger, which makes it new compared with BNeSib0"
+  },
+  {
+   "id": "BTeFib1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Stalled book: worth the time vs still attached",
+   "preserve": "the parallel 'decide by...' stems and both costs"
+  },
+  {
+   "id": "Nim4",
+   "fit": 3,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap read as a signal of where the app is heading",
+   "preserve": "'what it says about the app's direction'"
+  },
+  {
+   "id": "Nem4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Ne cycling through many profile-picture directions",
+   "preserve": "'changed many times in one week'"
+  },
+  {
+   "id": "Sim4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Si searching where the hand is used to and restoring the old setup",
+   "preserve": "'where my hand is used to' and 'set it back close to the old way'"
+  },
+  {
+   "id": "Sem4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Se picking the photo with the liveliest light and atmosphere",
+   "preserve": "'light and atmosphere most alive' and the 'a bit blurry' cost"
+  },
+  {
+   "id": "Tim4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Ti wanting to understand how the app handles files",
+   "preserve": "the 'photo stays unposted a while' cost"
+  },
+  {
+   "id": "Tem4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Te sorting by preset purpose and deciding quickly",
+   "preserve": "'by the purpose I set' and the 'feed looks formal' cost"
+  },
+  {
+   "id": "Fim4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Mishap shows Fi: the moment of feeling is gone, so no rewrite",
+   "preserve": "'the heart of that moment has passed'"
+  },
+  {
+   "id": "Fem4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Fe choosing the group photo where everyone looks okay",
+   "preserve": "'favourite photos never posted' cost"
+  },
+  {
+   "id": "Nig4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Ni holding an end-state image of the character and choosing by it",
+   "preserve": "'end-game picture already' and the 'harder early game' cost"
+  },
+  {
+   "id": "Neg4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Ne listing many alternative things to play",
+   "preserve": "'can't choose which' cost"
+  },
+  {
+   "id": "Sig4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Si transferring from characters played before",
+   "preserve": "'can picture how to play it' reason"
+  },
+  {
+   "id": "Seg4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Se adapting play to on-screen conditions in real time",
+   "preserve": "'adjust to what's on screen right then' instead of checking the network"
+  },
+  {
+   "id": "Tig4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Ti modelling how stats affect each other",
+   "preserve": "'how each stat affects the others' and the menu-time cost"
+  },
+  {
+   "id": "Teg4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Te reallocating time so it is not wasted",
+   "preserve": "'so the reserved time isn't wasted' and the 'barely rest' cost"
+  },
+  {
+   "id": "Fig4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Fi naming with personal meaning, despite friction",
+   "preserve": "the funny 'add numbers because taken' cost"
+  },
+  {
+   "id": "Feg4",
+   "fit": 4,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Fe worry for teammates, with an over-apologising cost",
+   "preserve": "the 'still typing sorry many times' cost"
+  },
+  {
+   "id": "Niv4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Ni converging on one imagined ending and resting there",
+   "preserve": "'satisfied with that picture' and 'not hunting the remaining episodes'"
+  },
+  {
+   "id": "Nev4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Mishap shows Ne drifting through linked titles",
+   "preserve": "'forgot what I meant to watch' cost"
+  },
+  {
+   "id": "Siv4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Si choosing the row and side known to be comfortable",
+   "preserve": "'same row and side I sat in before'"
+  },
+  {
+   "id": "Sev4",
+   "fit": 5,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Se clicking on a cover or a few seconds of trailer",
+   "preserve": "the eye-grab trigger; avoid making 'no synopsis' sound careless"
+  },
+  {
+   "id": "Tiv4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ti working out watch order from story chronology",
+   "preserve": "'not started any part yet' cost"
+  },
+  {
+   "id": "Tev4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Te trading quality to finish in the reserved time",
+   "preserve": "'lower resolution, finish in the time I set'"
+  },
+  {
+   "id": "Fiv4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Fi choosing what fits who I am right now over the talked-about show",
+   "preserve": "'the talked-about one sits in the list' cost"
+  },
+  {
+   "id": "Fev4",
+   "fit": 4,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Fe tending the room before the device",
+   "preserve": "'forgot to help check the device' cost"
+  },
+  {
+   "id": "Nid4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ni grasping the 'heart' of a menu as one gestalt",
+   "preserve": "'sense the dish that is the heart of the place' and the 'sometimes far off' cost"
+  },
+  {
+   "id": "Ned4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Ne combining untried pairings, with an honest weird-taste cost",
+   "preserve": "'too strange to finish' cost"
+  },
+  {
+   "id": "Sid4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Mishap shows Si picking the closest known taste",
+   "preserve": "'closest to what suited me before' over the special of the day"
+  },
+  {
+   "id": "Sed4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Se correcting by tasting as it goes, not by recipe",
+   "preserve": "'taste as I go, never reopen the recipe'"
+  },
+  {
+   "id": "Tid4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 2,
+   "strength": "Mishap shows Ti refusing to retry until the cause is understood",
+   "preserve": "the 'won't bake again until I understand' twist; differentiate it from Til6"
+  },
+  {
+   "id": "Ted4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Te planning from stock to shortest-time menu",
+   "preserve": "'start from what must be used first' and the 'not what I want to eat' cost"
+  },
+  {
+   "id": "Fid4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Fi valuing own standard over appearance",
+   "preserve": "'taste was what my heart wanted' and 'won't photograph it'"
+  },
+  {
+   "id": "Fed4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Fe reading tone in the group chat",
+   "preserve": "'the tone of voice in chat' detail and the 'never said what I wanted' cost"
+  },
+  {
+   "id": "Nip4",
+   "fit": 2,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 4,
+   "strength": "Mishap tries to show running by an inner picture instead of numbers",
+   "preserve": "the 'picture of how today should end' idea, though it needs Ni sharpening"
+  },
+  {
+   "id": "Nep4",
+   "fit": 4,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ne mixing activities into a new format",
+   "preserve": "'combine into a new kind'; the 'old schedule barely left' cost borders on unreliability"
+  },
+  {
+   "id": "Sip4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Mishap shows Si bodily comparison: every step against the remembered feel",
+   "preserve": "'feel the difference every step' and the comparison with the old feel"
+  },
+  {
+   "id": "Sep4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Se deciding the route by the weather felt on stepping out",
+   "preserve": "'wind or soft sun' sensory cues"
+  },
+  {
+   "id": "Tip4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Ti analysing changed mechanics before continuing",
+   "preserve": "'which part of the mechanics changed' and 'can't play at ease until found'"
+  },
+  {
+   "id": "Tep4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Te choosing gear against training goals",
+   "preserve": "'against the training goal I set'; vary the wording from Tel6"
+  },
+  {
+   "id": "Fip4",
+   "fit": 5,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Fi: playing my way matters more than the result",
+   "preserve": "'played the way my heart wanted'; keep the 'might have had better odds' cost"
+  },
+  {
+   "id": "Fep4",
+   "fit": 4,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Fe choosing a sport everyone can play about equally",
+   "preserve": "'not the sport I want to train' cost"
+  },
+  {
+   "id": "Nia4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ni convergence: one tone matches the meaning and the others are cut",
+   "preserve": "'cut all other tones' and 'before comparing any'"
+  },
+  {
+   "id": "Nea4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Mishap shows Ne turning a paint spill into many possibilities",
+   "preserve": "'many ways to turn that mark into something' and the drift cost"
+  },
+  {
+   "id": "Sia4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Si's known material behaviour guides the choice",
+   "preserve": "'know how the paint soaks and drags'"
+  },
+  {
+   "id": "Sea4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Mishap shows Se adapting to the light as it changes",
+   "preserve": "'adjust to the light I see right then' vs waiting for the old light"
+  },
+  {
+   "id": "Tia4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ti reasoning out why each composition moves the eye",
+   "preserve": "'why' clause and the 'blank page for a long time' cost"
+  },
+  {
+   "id": "Tea4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Te salvaging and continuing from what remains",
+   "preserve": "'recover what's left and continue'"
+  },
+  {
+   "id": "Fia4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Fi showing the piece that most feels like me",
+   "preserve": "'most me' vs 'neatest' trade-off"
+  },
+  {
+   "id": "Fea4",
+   "fit": 4,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Fe worry over the receiver's feelings driving rework",
+   "preserve": "'they may not even notice' cost"
+  },
+  {
+   "id": "Nit4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap read by Ni as the start of a new life phase",
+   "preserve": "'may just be temporary pickiness' cost"
+  },
+  {
+   "id": "Net4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Mishap shows Ne repurposing household items into toys",
+   "preserve": "'home full of handmade toys' cost"
+  },
+  {
+   "id": "Sit4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Si buying what it was seen to like before",
+   "preserve": "'what I've seen it like' and 'shelves full of new things'"
+  },
+  {
+   "id": "Set4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Se deciding walk time by sun and pavement heat right then",
+   "preserve": "'sun and road surface right then'"
+  },
+  {
+   "id": "Tit4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ti reasoning fit to behaviour rather than following the shop's advice",
+   "preserve": "'why each fits its behaviour' vs 'buy as the shop suggests'"
+  },
+  {
+   "id": "Tet4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Te comparing ingredients and ordering the closest fast",
+   "preserve": "'compare ingredients, order the closest' and the 'not sure it'll like it' cost"
+  },
+  {
+   "id": "Fit4",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Fi keeping certain moments private",
+   "preserve": "'a matter between us two'"
+  },
+  {
+   "id": "Fet4",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Mishap shows Fe as social-norm attunement with a real cost (pet comforted less)",
+   "preserve": "'busy hushing rather than comforting' cost; it keeps Fe from being the nice side"
+  },
+  {
+   "id": "Nij6",
+   "fit": 4,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ni sense that a place's 'time has come'",
+   "preserve": "the quoted 'ถึงเวลา'; keep it away from fate wording"
+  },
+  {
+   "id": "Nej6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Ne surveying many untried options while walking",
+   "preserve": "'walk past the restaurant I planned' cost"
+  },
+  {
+   "id": "Sij6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Si navigating by remembered landmarks",
+   "preserve": "'compare point by point' with things seen on the way"
+  },
+  {
+   "id": "Sej6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Se ducking in and carrying on right there",
+   "preserve": "'never go back to the planned place' cost"
+  },
+  {
+   "id": "Tij6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Mishap shows Ti needing to understand the zone system first",
+   "preserve": "'won't buy a new ticket until I understand'"
+  },
+  {
+   "id": "Tej6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Te comparing time and cost to take the fastest",
+   "preserve": "'other routes have better views' cost"
+  },
+  {
+   "id": "Fij6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Mishap shows Fi refusing a filler substitute",
+   "preserve": "'not just to fill the schedule'; vary it from Fil6"
+  },
+  {
+   "id": "Fej6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Fe noticing hunger and tiredness and steering the choice",
+   "preserve": "'the shop I wanted to try is shelved'"
+  },
+  {
+   "id": "Nin6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Mishap shows Ni keeping the gist and direction while details vanish",
+   "preserve": "'only the overall gist of where it points'"
+  },
+  {
+   "id": "Nen6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Ne choosing headlines that open many lines of thought",
+   "preserve": "'planned story pushed to last'"
+  },
+  {
+   "id": "Sin6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Mishap shows Si reverting to the previously used source",
+   "preserve": "'already know its layout' reason"
+  },
+  {
+   "id": "Sen6",
+   "fit": 3,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Se matching the news channel to the current activity",
+   "preserve": "the concrete 'driving = radio, queue = short clip' pairs"
+  },
+  {
+   "id": "Tin6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Mishap shows Ti re-checking internal consistency when data change",
+   "preserve": "'does the old conclusion still hold when the numbers change'"
+  },
+  {
+   "id": "Ten6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Te keeping only what is needed this week",
+   "preserve": "'delete the rest, though some are interesting'"
+  },
+  {
+   "id": "Fin6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Mishap shows Fi selectively recovering heart-bound stories",
+   "preserve": "'some I let go I'd still like to know the end of'"
+  },
+  {
+   "id": "Fen6",
+   "fit": 4,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Fe choosing news by the group's current mood",
+   "preserve": "'what I want to talk about waits' cost"
+  },
+  {
+   "id": "Niu6",
+   "fit": 3,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 3,
+   "strength": "Ni choosing music by the sensed direction of life now",
+   "preserve": "'though the awaited new album waits'"
+  },
+  {
+   "id": "Neu6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Ne letting shuffle lead and linking to other artists",
+   "preserve": "'forget the original playlist'"
+  },
+  {
+   "id": "Siu6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Si tuning new earphones toward the familiar sound",
+   "preserve": "'close to what my ears are used to'"
+  },
+  {
+   "id": "Seu6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 5,
+   "strength": "Mishap shows Se turning to surrounding sounds",
+   "preserve": "the vivid list of street sounds"
+  },
+  {
+   "id": "Tiu6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Ti comparing arrangements to understand why they differ",
+   "preserve": "'song loops many times before choosing' cost"
+  },
+  {
+   "id": "Teu6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Mishap shows Te rebuilding a functional playlist fast",
+   "preserve": "'not as carefully chosen' cost"
+  },
+  {
+   "id": "Fiu6",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Fi choosing an alarm song for meaning, with a humorous cost",
+   "preserve": "'slow song that barely wakes me'"
+  },
+  {
+   "id": "Feu6",
+   "fit": 4,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Mishap shows Fe filling the social gap before the speaker",
+   "preserve": "'forget to fix the speaker' cost"
+  },
+  {
+   "id": "BNiSem1",
+   "fit": 4,
+   "balance": 4,
+   "realism": 3,
+   "novelty": 4,
+   "strength": "Dropped live stream: imagine the rest vs find another live feed",
+   "preserve": "the 'unclear picture' cost on the Se side"
+  },
+  {
+   "id": "BNeSim1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Filter choice: try unused ones vs the usual one",
+   "preserve": "'slow to post' / 'all photos look alike' costs"
+  },
+  {
+   "id": "BTiFeg1",
+   "fit": 5,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Team bug: which condition failed vs does everyone still want to play",
+   "preserve": "the clean split; soften 'everyone wants to quit' so Ti is not stubborn"
+  },
+  {
+   "id": "BTeFig1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Which game tonight: pending goals vs what my heart wants",
+   "preserve": "the matched short costs"
+  },
+  {
+   "id": "BNiSev1",
+   "fit": 5,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Walk-in movie: theme to think about vs the trailer that grabs the eye",
+   "preserve": "the walk-in scene; give Se a less 'shallow' payoff"
+  },
+  {
+   "id": "BNeSiv1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Delayed series: sample new shows vs rewatch favourites",
+   "preserve": "the 'won't reach episode two' / 'remember every scene' costs"
+  },
+  {
+   "id": "BTiFed1",
+   "fit": 5,
+   "balance": 3,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Shared dishes: dishes that logically complement vs what each person wants",
+   "preserve": "the outcome cost on the Fe side ('dishes don't go together')"
+  },
+  {
+   "id": "BTeFid1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Missing ingredient: switch to a feasible menu vs keep it for later",
+   "preserve": "mirrored costs; neither side looks lazy"
+  },
+  {
+   "id": "BNiSep1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Full court: reflect on the training trajectory vs move around immediately",
+   "preserve": "'no play at all' vs 'not the intended practice'"
+  },
+  {
+   "id": "BTiFep1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Team splitting: a sensible logic vs who wants to be with whom",
+   "preserve": "costs on both sides (late start / uneven teams)"
+  },
+  {
+   "id": "BNeSia1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Discontinued paint: experiment broadly vs find the closest match",
+   "preserve": "the mishap trigger, which differs from BNeSia0"
+  },
+  {
+   "id": "BTeFia1",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Art supply: most versatile vs fits my own style",
+   "preserve": "the 'use with only some works' Fi cost"
+  },
+  {
+   "id": "BNiSet1",
+   "fit": 3,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Pet bed: future fit vs current preference",
+   "preserve": "the future/now axis; the Se side's 'often' leans Si, so make it 'right now'"
+  },
+  {
+   "id": "BTiFet1",
+   "fit": 4,
+   "balance": 2,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Startled pet with guests: why it was scared vs check the guests",
+   "preserve": "the mishap concept; the guest-first side currently wins on Thai hospitality"
+  },
+  {
+   "id": "BNeSij2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 2,
+   "strength": "Morning walk: untried path vs yesterday's path",
+   "preserve": "the 'see where it comes out' Ne flavour"
+  },
+  {
+   "id": "BTeFij2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Closed road: re-sequence to keep many stops vs keep only the heart one",
+   "preserve": "costs on both sides (rushed / list mostly lost)"
+  },
+  {
+   "id": "BNiSen2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 4,
+   "novelty": 5,
+   "strength": "Storm and power cut: infer the path vs sense wind and rain locally",
+   "preserve": "vivid, parallel sensory vs inferential coping, with mirrored costs"
+  },
+  {
+   "id": "BTeFin2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 4,
+   "strength": "Podcast: concise and usable vs storytelling that fits me",
+   "preserve": "the 'don't feel much' / 'long and not used' costs"
+  },
+  {
+   "id": "BNeSiu2",
+   "fit": 5,
+   "balance": 4,
+   "realism": 5,
+   "novelty": 3,
+   "strength": "Road-trip playlist: recommended new vs the familiar one",
+   "preserve": "the 'skip often' / 'predict every song' costs"
+  },
+  {
+   "id": "BTiFeu2",
+   "fit": 5,
+   "balance": 3,
+   "realism": 4,
+   "novelty": 4,
+   "strength": "Echoing hall: work out the acoustics vs check companions are enjoying it",
+   "preserve": "the mirror structure; the Ti cost makes Ti look like a killjoy, so ease it"
+  }
+ ],
+ "best": [
+  {
+   "id": "BTeFiq2",
+   "why": "The strongest bipolar item. One concrete mishap (a broken lamp) splits cleanly into Te 'replace it by spec today' and Fi 'wait for the one that feels right'. Each side has a tangible, equally mild cost (likes it less vs a dark corner for weeks), so neither side looks like the better person."
+  },
+  {
+   "id": "BTiFew0",
+   "why": "A pure Ti-Fe contrast on the same task: slide order by logical flow vs by what the audience can follow. The stems and costs are parallel ('a bit dry' vs 'some reasons cut'). It avoids conflict and avoids the 'nice person' framing."
+  },
+  {
+   "id": "Siq6",
+   "why": "Si at its richest. A sensory memory (a soap scent) is linked to how mornings used to feel. The mishap shows Si coping by recovering the familiar, the effort cost is realistic, and it does not read as rigid or lazy."
+  },
+  {
+   "id": "Sea4",
+   "why": "The mishap (the light changes suddenly) shows exactly what Se does: adapt to what is visible now instead of waiting for the old conditions. It is concrete and neutral, and there is no Ni or Si leakage."
+  },
+  {
+   "id": "Tiq6",
+   "why": "The mishap makes Ti visible as cause separation (light vs screen vs material). The cost, forgetting to decide whether I still like it, is honest and non-moral. It is a very common Thai online-shopping moment."
+  },
+  {
+   "id": "Fet4",
+   "why": "A rare Fe item that is not the 'nice' answer. Fe shows up as attunement to a social norm (the neighbours' annoyance), and the cost is real: the pet is hushed rather than comforted. The scene has nobody to blame."
+  },
+  {
+   "id": "BNiSen2",
+   "why": "A vivid, symmetric mishap (a power cut during a storm). Ni infers the storm's path, while Se senses the wind and rain locally. Each cost names exactly what the other side has, which matches the ideal Ni-Se mirror."
+  },
+  {
+   "id": "Nea4",
+   "why": "Ne in action: a paint spill becomes many possible transformations. It shows Ne coping by spinning alternatives, and the cost (drifting from the original intent) is a real Ne downside, not a moral flaw."
+  },
+  {
+   "id": "Fib4",
+   "why": "A distinctive Fi scene. After a spoiler, the question becomes whether I still want to stay with these characters. Valuing inner attachment over suspense is pure Fi, and nobody is opposed or judged."
+  },
+  {
+   "id": "Nib4",
+   "why": "The clearest Ni process item: a book is chosen because it may sharpen a picture that is still vague in my head. It describes incubation, not foresight ability, and the cost ('can't say what the picture is') follows the modesty norm."
+  }
+ ]
+}

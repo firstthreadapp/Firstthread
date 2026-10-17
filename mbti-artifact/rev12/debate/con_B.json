@@ -1,0 +1,542 @@
+[
+ {
+  "id": "BTiFex2",
+  "cat": "d,g,b",
+  "sev": "high",
+  "why": "All 5 Ti-Fe mishap bips (x2,z2,g1,t1,u2) share one template: 'want to know why it broke, though I haven't checked how people feel' vs. the mirror. A respondent sees it 5 times, so the target is obvious. Here 'พลาดตรงไหน / ดูวันในหน้าจองอีกรอบ' after a booked restaurant closed also implies someone booked wrongly (a person to blame). The Ti side ignores friends' feelings (rude in Thai), while the Fe cost (not knowing why) is trivial, so Fe is favoured. Fix: give both sides a group-level cost; Fe's cost is the lowest-common-denominator choice.",
+  "fix": {
+   "a": "นัดเพื่อนแล้วร้านที่จะไปปิดกะทันหัน ฉันมักตั้งเกณฑ์ในหัวให้ลงตัวก่อนว่าร้านใหม่ต้องเป็นแบบไหน แม้ทุกคนจะต้องยืนรออยู่หน้าร้านพักใหญ่",
+   "b": "นัดเพื่อนแล้วร้านที่จะไปปิดกะทันหัน ฉันมักเลือกร้านที่เดาว่าทุกคนพอรับได้ แม้สุดท้ายจะเป็นร้านที่ไม่มีใครอยากไปจริง ๆ สักคน"
+  }
+ },
+ {
+  "id": "BTiFez2",
+  "cat": "d,b",
+  "sev": "high",
+  "why": "Same 'why it broke vs how everyone feels' template as x2/g1/t1/u2. 'อยากรู้ก่อนว่าทุกคนรู้สึกยังไง' with friends' dream project is the caring answer, and its cost (not knowing the cause) costs nothing. Fix: Fe's cost is overreaching; Ti's cost is that the analysis does not help.",
+  "fix": {
+   "a": "ถ้าโปรเจกต์ที่ทำกับเพื่อนสะดุดเพราะอุปกรณ์เสีย ฉันมักนั่งแกะให้รู้ก่อนว่ามันเสียเพราะอะไร แม้รู้แล้วก็ยังซ่อมเองไม่ได้อยู่ดี",
+   "b": "ถ้าโปรเจกต์ที่ทำกับเพื่อนสะดุดเพราะอุปกรณ์เสีย ฉันมักรีบส่งข้อความปลอบในกลุ่มก่อน แม้บางคนจะยังไม่ได้รู้สึกแย่อะไรเลย"
+  }
+ },
+ {
+  "id": "BTiFeg1",
+  "cat": "b,d",
+  "sev": "high",
+  "why": "Template repeat. Uneven costs: the Ti cost is social ('แม้ทุกคนจะอยากเลิกไปทำอย่างอื่นแล้ว' = holding the team hostage), while the Fe cost ('ยังไม่รู้ว่าติดตรงไหน') is free. This is the Ti-Fe drafting bias the rev11 audit flagged (BTiFeu1/y0/v0).",
+  "fix": {
+   "a": "ถ้าเกมบั๊กจนภารกิจของทีมค้าง ฉันมักอยากไล่ให้รู้ว่ามันติดที่เงื่อนไขไหน แม้รู้แล้วก็แก้จากฝั่งเราไม่ได้",
+   "b": "ถ้าเกมบั๊กจนภารกิจของทีมค้าง ฉันมักเล่นต่อหรือเลิกตามที่ทีมส่วนใหญ่อยาก แม้จะต้องมาเริ่มภารกิจนั้นใหม่ในวันอื่น"
+  }
+ },
+ {
+  "id": "BTiFet1",
+  "cat": "b,c",
+  "sev": "high",
+  "why": "Thai host norm: with guests in the room, 'thinking about why the pet panicked while guests stand confused' reads as a rude host, so the Ti side is the 'bad person' answer. Also the 5th use of the Ti-Fe template. Fix: move both sides to after the guests have left, so neither side neglects anyone.",
+  "fix": {
+   "a": "ถ้าสัตว์เลี้ยงตกใจวิ่งชนของตอนมีแขกมา พอแขกกลับ ฉันมักนั่งไล่ว่ามันตกใจอะไรถึงเป็นแบบนั้น แม้จะหาสาเหตุไม่เจอสักที",
+   "b": "ถ้าสัตว์เลี้ยงตกใจวิ่งชนของตอนมีแขกมา พอแขกกลับ ฉันมักคิดวนว่าแขกจะติดภาพไม่ดีกับบ้านเราไหม แม้เขาอาจลืมไปแล้ว"
+  }
+ },
+ {
+  "id": "BTiFeu2",
+  "cat": "d,b",
+  "sev": "high",
+  "why": "Template repeat. The Ti cost 'คนที่ไปด้วยจะอยากแค่สนุกต่อ' casts Ti as a spoilsport, while the Fe side has no real cost. Fix: Ti's cost is that the analysis is useless; Fe's cost is over-checking on the companion.",
+  "fix": {
+   "a": "ถ้าไปดูคอนเสิร์ตแล้วเสียงในฮอลล์ก้องจนฟังไม่ชัด ฉันมักไล่คิดว่าเสียงสะท้อนจากตรงไหน แม้คิดไปก็ไม่ได้ช่วยให้ฟังชัดขึ้น",
+   "b": "ถ้าไปดูคอนเสิร์ตแล้วเสียงในฮอลล์ก้องจนฟังไม่ชัด ฉันมักคอยหันไปดูว่าคนที่ไปด้วยยังสนุกอยู่ไหม จนเผลอถามเขาซ้ำหลายรอบ"
+  }
+ },
+ {
+  "id": "BTiFeh2",
+  "cat": "a,b",
+  "sev": "high",
+  "why": "Construct: the Ti side's example 'เมื่อวานกินอะไรไปแล้ว' is Si recall, not internal logic. Desirability: the Fe side reads a partner's cues and gives up what I want, which is self-sacrifice to a partner (strongly favoured in Thai). Fix: Ti uses explicit criteria; Fe hands the choice back, with the familiar endless 'กินอะไรก็ได้' loop as its cost.",
+  "fix": {
+   "a": "พอคนที่คบถามว่า “กินอะไรดี” ฉันมักตั้งเกณฑ์ในหัวให้ลงตัวก่อน เช่น ต้องอิ่มนานและไม่เลี่ยน แม้คำตอบจะออกมาช้า",
+   "b": "พอคนที่คบถามว่า “กินอะไรดี” ฉันมักถามกลับว่าเขาอยากกินแนวไหนแล้วไปตามนั้น แม้สุดท้ายจะวนถามกันไปมาไม่จบ"
+  }
+ },
+ {
+  "id": "BTiFed1",
+  "cat": "b,a",
+  "sev": "high",
+  "why": "The Ti side decides dishes for the table 'without asking what each person wants'. In a Thai shared meal that reads as selfish and also as Te organising. The Fe side listens to everyone and its cost is mild. Fix: Ti's cost is time and Fe's cost is a mismatched meal; neither side ignores people.",
+  "fix": {
+   "a": "เวลาช่วยกันเลือกเมนูมาแชร์ในโต๊ะ ฉันมักสนใจว่าจานไหนรสไปด้วยกันและไม่ซ้ำกัน แม้จะเปิดเมนูอยู่นานกว่าทุกคน",
+   "b": "เวลาช่วยกันเลือกเมนูมาแชร์ในโต๊ะ ฉันมักสนใจว่าแต่ละคนอยากกินอะไรแล้วรวมมาหมด แม้จานที่ได้จะรสไม่ค่อยไปด้วยกัน"
+  }
+ },
+ {
+  "id": "BTiFep1",
+  "cat": "a",
+  "sev": "low",
+  "why": "The Ti side ('วิธีแบ่งที่สมเหตุสมผล', dividing people into balanced teams) is Te organising people, and 'สมเหตุสมผล' is a virtue/label word (R2/R6). Fix: make Ti the wish for an explicable rule.",
+  "fix": {
+   "a": "เวลาแบ่งทีมเล่นกันเอง ฉันมักอยากได้หลักแบ่งที่อธิบายได้ลงตัวในหัวก่อน เช่น ดูตำแหน่งที่แต่ละคนเล่น แม้เกมจะเริ่มช้าไปหน่อย",
+   "b": "เวลาแบ่งทีมเล่นกันเอง ฉันมักดูว่าใครอยากอยู่กับใคร แล้วแบ่งตามนั้น แม้บางทีสองทีมจะสูสีกันไม่ค่อยได้"
+  }
+ },
+ {
+  "id": "BNiSev1",
+  "cat": "b",
+  "sev": "high",
+  "why": "Same asymmetry the rev11 audit flagged in BNiSej0: Ni picks a film 'with a core to think about' (deep) and Se picks by the poster 'without knowing what it's about' (shallow). Se will be under-chosen. Fix: Se chooses for the big-screen sensory experience, and each side gets a cost of similar weight.",
+  "fix": {
+   "a": "ไปโรงหนังโดยไม่ได้เลือกเรื่องไว้ ฉันมักเลือกเรื่องที่รู้สึกว่ามีแก่นให้คิดต่อหลังดูจบ แม้บางเรื่องจะดูแล้วง่วงในโรง",
+   "b": "ไปโรงหนังโดยไม่ได้เลือกเรื่องไว้ ฉันมักเลือกเรื่องที่ภาพและเสียงน่าจะเต็มตาเต็มหูที่สุดบนจอใหญ่ แม้ดูจบจะไม่ค่อยได้คิดต่อ"
+  }
+ },
+ {
+  "id": "BNiSep1",
+  "cat": "g,b",
+  "sev": "high",
+  "why": "This is the rejected 'health: doing vs not doing' scene. Se exercises anyway ('วิ่งรอบ ๆ'), while Ni sits and reflects 'แม้วันนั้นจะไม่ได้เล่นอะไรเลย'. The active side wins on fitness virtue, not on Se. Fix: both sides train; they differ only in how they pick what to do.",
+  "fix": {
+   "a": "ถ้าไปถึงแล้วสนามเต็ม ฉันมักนึกว่าช่วงนี้การเล่นของตัวเองกำลังเปลี่ยนไปทางไหน แล้วซ้อมเฉพาะส่วนที่เข้ากับทางนั้น แม้จะได้ซ้อมไม่ครบ",
+   "b": "ถ้าไปถึงแล้วสนามเต็ม ฉันมักดูว่าตรงนั้นมีพื้นที่หรืออุปกรณ์อะไรว่าง แล้วซ้อมตามที่มีเลย แม้จะไม่ใช่ส่วนที่ตั้งใจจะซ้อม"
+  }
+ },
+ {
+  "id": "BNiSew0",
+  "cat": "b,d",
+  "sev": "high",
+  "why": "In the work context the Se side is the productive employee (paper work during the outage) and the Ni side sits idle 'แม้งานตรงหน้าจะยังไม่ขยับ', a work-virtue asymmetry. Side B also near-duplicates Sew6 (power cut, keep working with what's at hand). Fix: neither side does the real work.",
+  "fix": {
+   "a": "อินเทอร์เน็ตที่ทำงานล่มทั้งบ่าย ฉันมักใช้ช่วงนั้นนึกภาพว่างานชิ้นที่ทำอยู่กำลังไปทางไหน แม้จะยังไม่ได้ขยับงานจริงสักชิ้น",
+   "b": "อินเทอร์เน็ตที่ทำงานล่มทั้งบ่าย ฉันมักลุกไปจัดการของที่จับต้องได้ เช่น โต๊ะหรือเอกสาร แม้จะไม่ใช่งานที่ค้างอยู่จริง"
+  }
+ },
+ {
+  "id": "BNiSet1",
+  "cat": "a,b",
+  "sev": "low",
+  "why": "The Se side ('ดูว่าตอนนี้มันชอบนอนมุมไหนบ่อย') is accumulated observation (Si), and it is also the caring-owner answer. Ni ignoring the pet's current preference reads as worse. Fix: Se responds to the moment; Ni commits now to a future-fit spot.",
+  "fix": {
+   "a": "เลือกมุมวางที่นอนให้สัตว์เลี้ยง ฉันมักนึกภาพว่าพอมันโตขึ้นมุมไหนจะเข้ากับชีวิตในบ้าน แล้ววางไว้ตรงนั้น แม้ตอนนี้มันจะยังไม่ค่อยไปนอน",
+   "b": "เลือกมุมวางที่นอนให้สัตว์เลี้ยง ฉันมักวางตรงที่เห็นมันเพิ่งขดตัวนอนเมื่อกี้ แล้วย้ายตามที่เห็นมันทำ แม้จะต้องย้ายไปมาหลายรอบ"
+  }
+ },
+ {
+  "id": "BNiSen2",
+  "cat": "g",
+  "sev": "low",
+  "why": "A power cut while following storm news is a safety situation (higher stakes than the brief allows). Ni 'predicting where the storm goes' also borders on a forecasting-ability claim. Fix: an ordinary evening news story.",
+  "fix": {
+   "a": "ถ้าไฟดับตอนกำลังดูข่าวช่วงค่ำ ฉันมักนึกจากที่ดูมาว่าเรื่องนั้นน่าจะไปทางไหนต่อ แม้จะยังไม่รู้ความคืบหน้าล่าสุดจริง",
+   "b": "ถ้าไฟดับตอนกำลังดูข่าวช่วงค่ำ ฉันมักหันไปฟังเสียงและดูความเคลื่อนไหวรอบบ้านแทน แม้จะยังไม่รู้ว่าข่าวนั้นไปถึงไหน"
+  }
+ },
+ {
+  "id": "BNeSir0",
+  "cat": "g,c",
+  "sev": "low",
+  "why": "'ปิดเพราะน้ำท่วม' brings in flooding, a recurring disaster in Thailand with real losses, which is too high-stakes for a low-stakes mishap. Fix: the place is closed for renovation.",
+  "fix": {
+   "a": "ที่พักที่จองไว้ไปกับคนใกล้ตัวปิดปรับปรุงกะทันหัน ฉันมักชวนอีกฝ่ายนึกแผนแบบใหม่ที่ยังไม่เคยทำด้วยกัน แม้จะต้องหาข้อมูลกันใหม่หมด",
+   "b": "ที่พักที่จองไว้ไปกับคนใกล้ตัวปิดปรับปรุงกะทันหัน ฉันมักชวนอีกฝ่ายกลับไปที่เดิมที่เคยไปด้วยกันแล้วสบายใจ แม้จะไม่ได้เจออะไรแปลกใหม่"
+  }
+ },
+ {
+  "id": "BNeSiu2",
+  "cat": "c,b",
+  "sev": "low",
+  "why": "The Ne side's cost 'ต้องกดข้ามอยู่บ่อย ๆ' while driving long distance describes handling the phone at the wheel. That is unsafe, so it is a desirability penalty unrelated to Ne. Fix: make the respondent a passenger.",
+  "fix": {
+   "a": "เวลาเลือกเพลงไว้ฟังระหว่างนั่งรถทางไกล ฉันมักเปิดเพลย์ลิสต์แนะนำที่ยังไม่ได้ฟัง แม้จะต้องกดข้ามอยู่บ่อย ๆ",
+   "b": "เวลาเลือกเพลงไว้ฟังระหว่างนั่งรถทางไกล ฉันมักเปิดเพลย์ลิสต์เดิมที่ฟังจนคุ้น แม้จะเดาได้ทุกเพลงว่าอะไรมาต่อ"
+  }
+ },
+ {
+  "id": "BTeFir0",
+  "cat": "a",
+  "sev": "low",
+  "why": "The Fi side 'มีความหมายกับเราสองคน' is shared relational meaning (closer to Fe), the same problem as audit item BNiSex1. It also reads as the romantic 'good partner' answer. Fix: tie Fi to the personal sense that a choice is right.",
+  "fix": {
+   "a": "เลือกกิจกรรมวันหยุดกับคนใกล้ตัว ฉันมักดูว่าทางไหนเดินทางง่ายและได้ทำหลายอย่างในวันเดียว แม้จะไม่มีอย่างไหนที่ติดใจเป็นพิเศษ",
+   "b": "เลือกกิจกรรมวันหยุดกับคนใกล้ตัว ฉันมักเลือกสิ่งที่ฉันรู้สึกว่า “ใช่” กับวันนั้นจริง ๆ แม้จะต้องเดินทางไกลและได้ทำแค่อย่างเดียว"
+  }
+ },
+ {
+  "id": "BTeFiq2",
+  "cat": "b",
+  "sev": "low",
+  "why": "The costs are uneven. Fi's 'มุมนั้นจะมืดไปอีกหลายสัปดาห์' is an impractical extreme, while Te's 'ไม่ได้ชอบเท่าตัวเดิม' is mild, so Te is favoured.",
+  "fix": {
+   "a": "โคมไฟที่เลือกมานานตกแตกตอนกำลังติด ฉันมักหาตัวที่ขนาดและสเปกใกล้เคียงมาแทนให้จบในวันนั้น แม้จะไม่ได้ชอบเท่าตัวเดิม",
+   "b": "โคมไฟที่เลือกมานานตกแตกตอนกำลังติด ฉันมักรอจนเจอตัวที่ใจรู้สึกว่าใช่อีกครั้ง แม้ระหว่างนั้นต้องใช้ไฟชั่วคราวไปก่อน"
+  }
+ },
+ {
+  "id": "BTeFia1",
+  "cat": "d",
+  "sev": "low",
+  "why": "Te-side cost repetition: 'แม้จะไม่ใช่…ที่(ใจ)อยาก/ชอบที่สุด' is the Te cost in r0, l0, g1, a1, d1 and in Tel6/Ted4/Tex6/Teh6. The phrase becomes a Te marker. Fix: vary the Te cost here.",
+  "fix": {
+   "a": "เวลาเลือกซื้ออุปกรณ์ศิลปะชิ้นใหม่ ฉันมักดูว่าชิ้นไหนใช้ได้กับหลายงานที่สุด แม้งานที่ออกมาจะหน้าตาคล้าย ๆ กันไปหมด",
+   "b": "เวลาเลือกซื้ออุปกรณ์ศิลปะชิ้นใหม่ ฉันมักเลือกชิ้นที่รู้สึกว่าเข้ากับงานแบบของตัวเอง แม้จะใช้ได้แค่กับงานบางแบบ"
+  }
+ },
+ {
+  "id": "BTeFig1",
+  "cat": "d",
+  "sev": "low",
+  "why": "Same repeated Te cost 'แม้จะไม่ใช่เกมที่อยากเล่นที่สุด' (see BTeFia1). Fix: vary it.",
+  "fix": {
+   "a": "เวลาเลือกว่าคืนนี้จะเล่นเกมไหน ฉันมักเลือกเกมที่มีเป้าหมายค้างอยู่ให้ไปต่อได้ แม้บางคืนจะรู้สึกเหมือนเล่นเพื่อเก็บงาน",
+   "b": "เวลาเลือกว่าคืนนี้จะเล่นเกมไหน ฉันมักเลือกเกมที่ใจอยากอยู่ด้วยตอนนั้น แม้จะไม่ได้ไปต่ออะไรที่ค้างไว้"
+  }
+ },
+ {
+  "id": "Fed4",
+  "cat": "d,b",
+  "sev": "high",
+  "why": "Near-paraphrase of existing Fed0 ('เลือกตามที่คิดว่าทุกคนในวงจะชอบ จนไม่ได้กินเมนูที่ตัวเองอยาก'). It is also the 4th Fe 'group food choice, my own wish dropped' item in this batch (Fey6, Fej6, BTiFeh2-b). 'จับจากน้ำเสียงในแชต' is a reading-people ability claim (อ่านคนออก). Fix: a new Fe angle with a non-virtuous cost.",
+  "fix": "สั่งอาหารมาแชร์ในวง ฉันมักกะให้มีจานที่ทุกคนกินได้ครบทุกคน จนบางทีสั่งมาเยอะเกินกว่าที่วงจะกินหมด"
+ },
+ {
+  "id": "Fey6",
+  "cat": "d",
+  "sev": "high",
+  "why": "Food-for-the-group Fe yet again ('จะกินร้านไหน … ไม่ได้กินสิ่งที่ตัวเองอยาก'), duplicating Fed0/Fed4/Fej6, and the self-sacrifice cost makes it more virtuous (เสียสละ/เกรงใจ). Fix: a non-food small shared decision whose cost is guessing wrong.",
+  "fix": "เรื่องเล็กที่ทำร่วมกับคนอื่น เช่น จะนั่งโต๊ะไหนหรือเปิดแอร์กี่องศา หลักของฉันคือดูว่าคนส่วนใหญ่สบายแบบไหน แม้บางทีจะเดาผิดจนต้องเปลี่ยนอีกรอบ"
+ },
+ {
+  "id": "Fem4",
+  "cat": "b,c",
+  "sev": "high",
+  "why": "Picking a group photo where everyone looks okay is a near-universal Thai courtesy norm (not posting a friend's bad photo), so nearly all types endorse it. It does not discriminate and it is the 'good person' answer. Fix: caption tone, whose cost is blandness or loss of own voice.",
+  "fix": "เขียนแคปชันใต้รูปหมู่ ฉันมักเลือกคำที่ทุกคนในรูปน่าจะโอเค จนแคปชันออกมากลาง ๆ ไม่เหมือนที่ฉันพูดปกติ"
+ },
+ {
+  "id": "Feu6",
+  "cat": "d,a",
+  "sev": "high",
+  "why": "Near-duplicate of Fev4 ('หันไปดูทุกคนก่อนว่าโอเคไหม แล้วชวนคุย … จนลืมไปช่วยดูที่เครื่อง' vs 'ดูหน้าทุกคน … หาเรื่องคุยคั่น … จนลืมไปแก้ที่ลำโพง'). 'หาเรื่องคุยคั่น' is also E behaviour. Fix: a different Fe move, with a wrong-guess cost.",
+  "fix": "ถ้าเพลงที่เปิดให้เพื่อนฟังเงียบไปกลางคัน ฉันมักถือโอกาสเปลี่ยนเป็นเพลงที่คิดว่าวงน่าจะชอบกว่า แม้บางคนอาจกำลังอินกับเพลงเดิมอยู่"
+ },
+ {
+  "id": "Fev4",
+  "cat": "a",
+  "sev": "low",
+  "why": "'แล้วชวนคุยระหว่างรอ' adds E (starting conversation) to an Fe item (rule 5). Fix: drop it.",
+  "fix": "ถ้าดูหนังกับคนอื่นแล้วจู่ ๆ เสียงหายหรือจอดับ ฉันมักหันไปดูหน้าทุกคนก่อนว่ายังอยากดูต่อหรือเปล่า จนลืมไปช่วยดูที่เครื่อง"
+ },
+ {
+  "id": "Feh6",
+  "cat": "b",
+  "sev": "high",
+  "why": "Double virtue: it puts the partner's disappointment first and puts my own feelings 'ไว้ทีหลัง', which is self-sacrifice in a romance and the Thai 'good partner' answer. The cost is heroic (R-pattern 'แม้ตัวเองจะ…'). It is also the 3rd storm-cancellation stem (Ner6, Fex6, Fez6). Fix: rain, and a misplaced-worry cost.",
+  "fix": "ถ้าเดทที่วางไว้ต้องยกเลิกเพราะฝนหนัก ฉันมักคิดวนว่าอีกฝ่ายจะผิดหวังแค่ไหน ทั้งที่เขาอาจแค่ดีใจที่ได้นอนพักอยู่บ้าน"
+ },
+ {
+  "id": "Fes4",
+  "cat": "e,a",
+  "sev": "high",
+  "why": "The scene does not hold together. If MY connection drops in a live online class, the others are not disrupted, so worrying how 'คนอื่นในห้องจะเสียจังหวะ' makes little sense. The cost 'ลืมเช็กว่าตัวเองพลาดส่วนไหน' is weak. Fix: a peer study call where others actually wait (no teacher), with a kreng-jai cost that has a real downside.",
+  "fix": "ถ้าเน็ตหลุดระหว่างติวออนไลน์กับกลุ่มเพื่อน ฉันมักห่วงก่อนว่าทุกคนต้องรอฉันอยู่ไหม จนกลับเข้ามาแล้วไม่กล้าขอให้ใครเล่าส่วนที่พลาดซ้ำ"
+ },
+ {
+  "id": "Fex6",
+  "cat": "d",
+  "sev": "high",
+  "why": "The stem 'ทริปกับเพื่อนต้องยกเลิกเพราะพายุ' duplicates Ner6 ('ทริปกับคนใกล้ตัวต้องยกเลิกเพราะพายุเข้า'), and storm cancellations recur in Feh6 and Fez6. Fe mishaps become predictable from the stem. Fix: a new scene, with an overreaching cost.",
+  "fix": "คอนเสิร์ตกลางแจ้งที่ไปกับเพื่อนต้องหยุดพักเพราะฝน ฉันมักคอยถามทีละคนว่ายังไหวไหม จนบางคนที่ยืนรอสบาย ๆ เริ่มรำคาญ"
+ },
+ {
+  "id": "Fez6",
+  "cat": "d",
+  "sev": "low",
+  "why": "This is the 4th storm-cancellation stem, and 'นึกถึงคนที่บอกว่าจะมาเชียร์ก่อน' repeats the 'think of others first, forget my own task' Fe mishap template (Few6, Fes4, Feh6, Fex6). Fix: vary the cause and the cost.",
+  "fix": "ตลาดนัดที่ตั้งใจเอาของทำมือไปขายเลื่อนไปไม่มีกำหนด ฉันมักรีบไล่บอกคนที่เคยบอกว่าจะมาแวะทีละคน แม้บางคนอาจลืมไปแล้วว่าเคยพูดไว้"
+ },
+ {
+  "id": "Few6",
+  "cat": "b,d",
+  "sev": "low",
+  "why": "Considering how each teammate must rearrange their plans is the considerate-colleague answer. The opener 'ความคิดแรกของฉันมักอยู่ที่ว่า' repeats in Fes4 and Feh6. Fix: a more mixed cost.",
+  "fix": "ถ้าฝนตกหนักจนต้องเลื่อนงานนอกสถานที่ ฉันมักรีบถามในกลุ่มว่าวันใหม่ใครสะดวกบ้าง จนทุกคนต้องตอบแชตกันทั้งที่ยังไม่มีใครรู้ตารางตัวเอง"
+ },
+ {
+  "id": "Fel6",
+  "cat": "d",
+  "sev": "low",
+  "why": "The Fe cost 'X ที่ตัวเองอยาก…ไม่ได้' repeats in 9 of 20 Fe statements (Fer6, Fel6, Fey6, Feq6, Fem4, Fed4, Fep4, Fej6, Fen6). It makes Fe easy to spot, and self-sacrifice raises Fe's desirability in Thai. Fix: vary it with a misjudgement cost.",
+  "fix": "เลือกเกมเล่นตอนว่างกับคนอื่น ฉันมักเลือกเกมที่คิดว่าทุกคนน่าจะเล่นแล้วหัวเราะด้วยกัน แม้บางทีจะเดาผิดจนวงเงียบกว่าเดิม"
+ },
+ {
+  "id": "Fep4",
+  "cat": "d",
+  "sev": "low",
+  "why": "Same repeated self-sacrifice cost as Fel6. Fix: vary it.",
+  "fix": "เลือกกีฬาเล่นกับกลุ่มเพื่อน ฉันมักเสนอกีฬาที่ทุกคนเล่นได้พอ ๆ กัน จนบางทีเกมออกมาเรื่อย ๆ ไม่มีใครได้เล่นเต็มที่สักคน"
+ },
+ {
+  "id": "Fer6",
+  "cat": "d",
+  "sev": "low",
+  "why": "Same repeated self-sacrifice cost. Fix: vary it.",
+  "fix": "เลือกเพลงเปิดระหว่างเดินทางกับคนใกล้ตัว ฉันมักดูว่าเพลงแบบไหนเข้ากับอารมณ์ของเขาตอนนั้น จนเปลี่ยนเพลงบ่อยจนเขาเริ่มขำ"
+ },
+ {
+  "id": "Feg4",
+  "cat": "g",
+  "sev": "low",
+  "why": "'ยังพิมพ์ขอโทษอยู่หลายรอบ' makes me the one at fault for a disconnect (the brief says no one to blame in a mishap). Repeated apology is also kreng-jai coded. Fix: drop the apology.",
+  "fix": "ถ้าเกมเด้งหลุดตอนเล่นเป็นทีม ฉันมักห่วงก่อนว่าคนในทีมจะเล่นต่อลำบากแค่ไหน จนกลับเข้าเกมมาแล้วยังคอยดูแชตทีมมากกว่าดูเกม"
+ },
+ {
+  "id": "Fiy6",
+  "cat": "b,c",
+  "sev": "high",
+  "why": "'ถ้ายังอยู่ที่เหลือก็ปล่อยได้' evokes ปล่อยวาง, a Buddhist-coded, strongly desirable equanimity. That breaks the secular y rule and makes the item a wisdom answer. 'แม้คนอื่นจะเสียดายแทน' is no real cost. Fix: Fi re-anchors on why I wanted it, at the cost of looking inconsistent.",
+  "fix": "แผนที่รอมานานถูกเลื่อนเพราะสุดวิสัย ฉันมักถามตัวเองว่าที่อยากทำเพราะอะไรจริง ๆ แล้วเลือกทางแทนจากตรงนั้น แม้คนอื่นจะงงว่าทำไมเปลี่ยนไปเลย"
+ },
+ {
+  "id": "Fij6",
+  "cat": "d",
+  "sev": "high",
+  "why": "Near-duplicate of Fil6: 'the place/event I set my heart on is unavailable, so I won't substitute, though the afternoon/day stays empty'. It also overlaps BTeFij2-b. Fix: a different Fi response.",
+  "fix": "ถ้าที่ที่ตั้งใจมาที่สุดปิดปรับปรุง ฉันมักเลือกที่แทนจากว่าที่ไหนยังรู้สึกเป็นทริปของฉันอยู่ แม้จะไม่ใช่ที่ที่คนแนะนำกันมากที่สุด"
+ },
+ {
+  "id": "Fir6",
+  "cat": "b",
+  "sev": "low",
+  "why": "Reframing a ruined celebration to 'the part that truly matters to us' is mature, ideal coping. The cost 'ที่เหลือจะหายไป' is weak. Fix: a cost that inconveniences.",
+  "fix": "แผนฉลองกับคนใกล้ตัวพังเพราะฝน ฉันมักถามตัวเองว่าส่วนไหนของวันนี้ที่ฉันไม่อยากเสียไปจริง ๆ แล้วยืนยันทำส่วนนั้น แม้จะต้องทำในที่แคบ ๆ"
+ },
+ {
+  "id": "Fiq6",
+  "cat": "c,b",
+  "sev": "low",
+  "why": "Repairing instead of buying new carries a Thai thrift virtue (พอเพียง) and a money angle (rule 6), and both raise desirability apart from Fi. Fix: keep wearing them, with a mild social cost.",
+  "fix": "ถ้ารองเท้าคู่โปรดเริ่มพัง ฉันมักใส่ต่อไปอีกนาน เพราะยังรู้สึกว่าคู่นี้เป็นฉันมากกว่าคู่ใหม่ แม้คนรอบตัวจะทักว่าเปลี่ยนได้แล้ว"
+ },
+ {
+  "id": "Fiz6",
+  "cat": "d",
+  "sev": "low",
+  "why": "The Fi decision template 'เลือก X ที่มีความหมายกับฉัน แม้คนอื่นมองไม่ออก' repeats in Fiw6, Fiz6, Fig4 and Fiu6, so the phrase becomes a Fi marker. Fix: vary it.",
+  "fix": "เลือกรูปตั้งหน้าจอไว้เตือนใจเรื่องความฝัน ฉันมักเปลี่ยนทันทีที่รู้สึกว่ารูปเดิมไม่ใช่ตัวฉันตอนนี้แล้ว แม้จะเพิ่งตั้งไปไม่กี่วัน"
+ },
+ {
+  "id": "Fiu6",
+  "cat": "d",
+  "sev": "low",
+  "why": "Same 'มีความหมายกับใจ' template (see Fiz6). Fix: protect the song I love.",
+  "fix": "เลือกเสียงปลุก ฉันมักไม่เอาเพลงที่รักมาใช้ เพราะไม่อยากให้มันกลายเป็นเสียงที่ต้องรีบกดปิดทุกเช้า แม้เสียงที่ใช้แทนจะน่าเบื่อ"
+ },
+ {
+  "id": "Tez6",
+  "cat": "b,g,d",
+  "sev": "high",
+  "why": "Losing the files of one's dream project is high-stakes. 'เริ่มใหม่ทันที … ให้ทันเส้นตายเดิม' is heroic resilience with a success flavour, and the cost is weak. It is also the 3rd Te 'file won't open/lost' stem (Tew6, Tea4). Fix: a smaller mishap and a real cost.",
+  "fix": "เครื่องมือที่ใช้ทำโปรเจกต์ส่วนตัวพังกลางทาง ฉันมักยืมหรือหาตัวที่ใช้แทนได้เร็วที่สุดมาทำต่อ แม้ต้องปรับมือกับของไม่คุ้นอยู่หลายวัน"
+ },
+ {
+  "id": "Tea4",
+  "cat": "d",
+  "sev": "high",
+  "why": "'ไฟล์งานที่ทำค้างไว้เปิดไม่ขึ้น' repeats the Te mishap of Tew6 ('ไฟล์งานเปิดไม่ขึ้น') and Tez6 (lost files). Three Te items with one trigger make Te detectable. Fix: a different art mishap.",
+  "fix": "ถ้าสีที่ต้องใช้หมดกลางงาน ฉันมักผสมจากสีที่มีให้พอใช้แล้วทำต่อให้จบรอบนี้ แม้สีจะเพี้ยนจากที่วางไว้ไปบ้าง"
+ },
+ {
+  "id": "Tep4",
+  "cat": "d",
+  "sev": "high",
+  "why": "Near-duplicate of Tel6 ('เทียบสเปกกับสิ่งที่จะใช้จริงแล้วเลือกชิ้นที่ตอบโจทย์ แม้ชิ้นที่หน้าตาถูกใจกว่า…' vs 'เทียบสเปกกับเป้าการซ้อม … ตอบโจทย์ที่สุด แม้สีหรือดีไซน์จะไม่ถูกใจ'). Teq6 and Tet4 are also spec-filter items. Fix: a different Te decision.",
+  "fix": "วันที่มีเวลาซ้อมน้อย ฉันมักตัดเหลือแค่ท่าที่ช่วยเป้าการซ้อมมากที่สุด แม้ท่าที่สนุกกว่าจะต้องรอวันอื่น"
+ },
+ {
+  "id": "Tes4",
+  "cat": "b",
+  "sev": "low",
+  "why": "Reset goals and restart from zero the same day is resilient, disciplined coping (มีวินัย, an official Thai virtue). The cost 'เสียดายตัวเลขเก่าอยู่บ้าง' is weak. Fix: a cost that undercuts it.",
+  "fix": "สถิติในแอปเรียนภาษาหายเพราะระบบอัปเดต ฉันมักตั้งเป้าใหม่เป็นตัวเลขแล้วเริ่มนับวันนั้นเลย แม้บางวันจะเรียนเพื่อไล่ตัวเลขมากกว่าเรียนให้สนุก"
+ },
+ {
+  "id": "Tet4",
+  "cat": "a",
+  "sev": "low",
+  "why": "Picking the 'ตัวที่ใกล้สุด' by matching ingredients is closest-to-the-old logic, which is how this batch writes Si (Siq6, Sid4, Sim4, BNeSi*-b). Te and Si mishap answers converge. Fix: Te optimises speed or availability instead.",
+  "fix": "ถ้าอาหารที่สัตว์เลี้ยงกินประจำขาดตลาด ฉันมักสั่งยี่ห้อที่หาง่ายและส่งถึงเร็วที่สุดมาก่อน แล้วค่อยดูว่ามันกินไหม แม้ช่วงแรกมันอาจกินน้อยลง"
+ },
+ {
+  "id": "Tey6",
+  "cat": "a",
+  "sev": "low",
+  "why": "'กฎง่าย ๆ ของตัวเอง' for daily food or clothes, costed as 'ดูจำเจ', describes a fixed routine (Si/J) more than Te structuring. Fix: Te criteria by outcome.",
+  "fix": "เรื่องเล็กที่ต้องเลือกทุกวัน เช่น กินอะไรหรือใส่ชุดไหน ฉันมักเลือกจากว่าอะไรทำให้วันนั้นเดินเร็วที่สุด แม้บางวันจะได้แต่ของที่ไม่ได้อยากเลย"
+ },
+ {
+  "id": "Til6",
+  "cat": "d",
+  "sev": "high",
+  "why": "Near-duplicate of Tid4 (cake didn't rise, trace which step caused it) in the same batch, with the l/f and d pools both in use. It is also close to existing Tid2/Tid3. Fix: a different hobby mishap.",
+  "fix": "ถ้าโมเดลที่ต่อตามคู่มือประกอบไม่เข้า ฉันมักนั่งไล่ว่าชิ้นไหนเริ่มเบี้ยวตั้งแต่ขั้นไหน ก่อนจะถอดมาต่อใหม่ แม้เวลาว่างจะหมดไปกับขั้นนั้น"
+ },
+ {
+  "id": "Tij6",
+  "cat": "d",
+  "sev": "low",
+  "why": "The cost 'ถ้ายังไม่เข้าใจก็ยังไม่อยาก…' repeats in Tid4, Tij6 and Tip4. Fix: vary it.",
+  "fix": "ถ้าตั๋วรถไฟที่ซื้อใช้ผ่านประตูไม่ได้ ฉันมักยืนไล่ดูก่อนว่าระบบตั๋วที่นั่นแบ่งโซนยังไง แม้ระหว่างนั้นจะต้องหลบให้คนอื่นเดินผ่านหลายรอบ"
+ },
+ {
+  "id": "Tig4",
+  "cat": "d",
+  "sev": "low",
+  "why": "The cost 'อยู่หน้าเมนูนานกว่าตอนเล่นจริง' copies Tix6 ('นั่งอ่านกติกานานกว่าเล่นจริง'). Fix: vary it.",
+  "fix": "ก่อนเลือกว่าจะใส่อุปกรณ์ชิ้นไหน ฉันมักคิดเองว่าค่าสถานะแต่ละอย่างส่งผลต่อกันยังไง แม้สุดท้ายชิ้นที่เลือกจะเล่นจริงแล้วไม่ต่างกันเท่าไหร่"
+ },
+ {
+  "id": "Tir6",
+  "cat": "a",
+  "sev": "low",
+  "why": "Checking which step a delayed parcel is stuck at is practical tracking (Te/Si). It is not Ti's interest in why the system behaves that way. Fix: make it about the mechanism.",
+  "fix": "ของขวัญที่สั่งให้คนใกล้ตัวมาไม่ทันวันสำคัญเพราะติดวันหยุดยาว ฉันมักอยากเข้าใจก่อนว่าระบบขนส่งช่วงวันหยุดทำงานยังไงถึงค้าง จนลืมคิดว่าจะให้อะไรแทน"
+ },
+ {
+  "id": "Tih6",
+  "cat": "g",
+  "sev": "low",
+  "why": "'แม้อีกฝ่ายจะมองว่าเรื่องนี้ไม่ต้องคิดเยอะ' sets up a disagreement with a partner (rejected scene type). It also makes Ti look cold in romance. Fix: a non-interpersonal cost.",
+  "fix": "จะเลือกวันครบรอบที่ใช้ฉลอง ฉันอยากนิยามให้ชัดก่อนว่าจะนับจากวันไหน แม้สุดท้ายวันที่ได้จะต่างกันแค่ไม่กี่วัน"
+ },
+ {
+  "id": "Niq6",
+  "cat": "d,e",
+  "sev": "low",
+  "why": "Ni 'ชีวิตช่วงนี้ / ทางที่ชีวิตกำลังมุ่งไป' repeats in Nir6, Niy6, Niq6, Niu6, Niz6 and Nil6. Choosing a poster by 'ช่วงชีวิตที่กำลังจะมาถึง' sounds grandiose or mystical. Fix: hidden meaning to decode.",
+  "fix": "เลือกโปสเตอร์หรือภาพติดผนัง ฉันมักเลือกภาพที่ดูแล้วเหมือนมีเรื่องซ่อนอยู่ให้ค่อย ๆ ตีความ แม้ตอนนี้จะดูไม่ค่อยเข้ากับห้อง"
+ },
+ {
+  "id": "Niu6",
+  "cat": "e,d",
+  "sev": "low",
+  "why": "Choosing an album by 'ทิศทางของชีวิตช่วงนี้' is unnatural and pretentious in Thai, and it repeats the life-direction marker. Fix: an album with one thread running through it.",
+  "fix": "เลือกว่าจะฟังอัลบั้มไหนต่อ ฉันมักเลือกอัลบั้มที่ฟังแล้วเหมือนมีเรื่องเดียวร้อยทั้งชุดไว้ แม้อัลบั้มใหม่ที่รอฟังจะค้างอยู่"
+ },
+ {
+  "id": "Niv4",
+  "cat": "d",
+  "sev": "low",
+  "why": "Same idea as BNiSem1-a (stream or series cut off, imagine where it would end) and close to Neb4. Fix: make the Ni here convergent on a theme, not an ending.",
+  "fix": "ถ้าซีรีส์ที่ดูอยู่ถูกถอดออกจากแอปก่อนดูจบ ฉันมักนึกว่าแก่นจริงของเรื่องคืออะไร แล้วพอใจกับตรงนั้นจนไม่ได้ตามหาตอนที่เหลือ"
+ },
+ {
+  "id": "Nis4",
+  "cat": "d",
+  "sev": "low",
+  "why": "Same scene as BNiSes1-a (course content cut midway, Ni imagines where the learning converges). Fix: a different mishap.",
+  "fix": "ถ้าแอปที่ใช้เรียนเปลี่ยนเนื้อหาจนลำดับเดิมหายไป ฉันมักเรียนต่อตามภาพในหัวว่าทั้งหมดนี้กำลังพาไปทางไหน แม้ยังไม่ได้วางขั้นตอน"
+ },
+ {
+  "id": "Niz6",
+  "cat": "g",
+  "sev": "low",
+  "why": "A cancelled programme 'เพื่อตามฝัน' is a sizeable personal disappointment, beyond a small mishap. Fix: a smaller event.",
+  "fix": "เวิร์กช็อปที่สมัครไว้เพื่อลองทางที่ฝันถูกเลื่อนไปไม่มีกำหนด ฉันมักปล่อยเรื่องนี้ค้างในใจ จนวันหนึ่งก็เห็นเองว่ามันเข้ากับภาพใหญ่ของชีวิตยังไง"
+ },
+ {
+  "id": "Niw6",
+  "cat": "b",
+  "sev": "low",
+  "why": "Seeing where repeated outages are steering the team's way of working is strategic foresight (มองการณ์ไกล), strongly desirable at work. 'คิดไกลกว่าที่ต้องแก้วันนี้' hardly costs anything. Fix: a concrete cost.",
+  "fix": "ถ้าระบบในงานล่มซ้ำหลายรอบในเดือนเดียว ฉันมักเห็นภาพว่ามันกำลังพาวิธีทำงานของทีมไปทางไหน จนเรื่องที่ต้องแก้วันนี้ยังค้างอยู่ในมือ"
+ },
+ {
+  "id": "Nij6",
+  "cat": "c",
+  "sev": "low",
+  "why": "'ที่ไหน “ถึงเวลา” ต้องไปแล้ว' sounds like fate or ดวง. research_thai warns that Ni items read as งมงาย. Fix: a felt pull without fate wording.",
+  "fix": "เลือกเมืองสำหรับทริปหน้า ฉันมักเลือกที่ที่ภาพในหัวกลับมาวนบ่อยที่สุดช่วงนี้ แม้จะยังไม่ได้เทียบกับที่อื่นเลย"
+ },
+ {
+  "id": "Net4",
+  "cat": "b",
+  "sev": "high",
+  "why": "The 'cost' 'บ้านมีของเล่นทำมือเต็มไปหมด' is a brag, and the item is creative DIY resourcefulness (มีความคิดสร้างสรรค์). It has no real downside. Fix: a real cost.",
+  "fix": "ถ้าสัตว์เลี้ยงกัดของเล่นชิ้นโปรดพัง ฉันมักนึกได้หลายอย่างว่าจะดัดแปลงของในบ้านเป็นของเล่นใหม่ แม้ของที่ทำไว้ส่วนใหญ่มันจะไม่เล่นสักชิ้น"
+ },
+ {
+  "id": "Nez6",
+  "cat": "d,a",
+  "sev": "low",
+  "why": "The Ne cost 'can't decide / choosing takes long' repeats in New6, Nex6, Nel6, Nez6, Nes4, Neg4 and Ner6. That makes Ne transparent and pushes it toward indecision (P / โลเล, ↓ in Thai). Fix: vary it.",
+  "fix": "ต้องตั้งชื่อให้โปรเจกต์ส่วนตัว ฉันมักคิดชื่อออกมาหลายแบบที่แต่ละชื่อพาไปอีกทาง จนชื่อที่ใช้จริงเปลี่ยนอีกหลายรอบหลังเริ่มทำแล้ว"
+ },
+ {
+  "id": "Neg4",
+  "cat": "d",
+  "sev": "low",
+  "why": "Same 'เลือกไม่ถูก' Ne cost (see Nez6). Fix: vary it.",
+  "fix": "ถ้าเซิร์ฟเวอร์เกมล่มตอนนัดเล่นกัน ฉันมักนึกออกหลายอย่างที่เล่นแทนได้ เช่น เกมอื่นหรือโหมดออฟไลน์ แม้แต่ละอย่างจะเล่นกันได้ไม่นาน"
+ },
+ {
+  "id": "Nep4",
+  "cat": "a",
+  "sev": "low",
+  "why": "'จนตารางเดิมแทบไม่เหลือ' measures abandoning a schedule (J/P) more than seeing possibilities. Fix: the cost is about idea quality.",
+  "fix": "เลือกว่าวันนี้จะออกกำลังกายแบบไหน ฉันมักนึกได้หลายอย่างแล้วจับมาผสมกันเป็นแบบใหม่ แม้บางแบบที่คิดขึ้นเล่นแล้วจะไม่ค่อยเข้าท่า"
+ },
+ {
+  "id": "Sex6",
+  "cat": "b",
+  "sev": "low",
+  "why": "Phone dies, so I simply enjoy what is there: this reads as mindful 'อยู่กับปัจจุบัน', a Buddhist-coded Thai ideal. 'ไม่มีรูปเก็บไว้' is a cost many would call a plus. Fix: a cost that falls on friends.",
+  "fix": "เที่ยวกับเพื่อนแล้วแบตมือถือหมดกลางทาง ฉันมักหันไปสนุกกับสิ่งที่เห็นตรงนั้นแทน จนเพื่อนต้องคอยนำทางและนัดจุดเจอให้ทั้งวัน"
+ },
+ {
+  "id": "Seu6",
+  "cat": "b",
+  "sev": "low",
+  "why": "Mindful listening with no cost (same issue as Sex6). Fix: add a light cost.",
+  "fix": "ถ้าหูฟังแบตหมดกลางทาง ฉันมักหันมาฟังเสียงรอบตัวแทน เช่น เสียงรถ เสียงคน หรือเพลงจากร้านข้างทาง จนบางทีเดินเลยจุดที่ต้องเลี้ยว"
+ },
+ {
+  "id": "Seq6",
+  "cat": "c",
+  "sev": "low",
+  "why": "Buying a plant 'แม้จะยังไม่รู้ว่าดูแลยากแค่ไหน' frames Se as careless impulse (ไม่รอบคอบ, ↓ in Thai). Fix: a neutral cost.",
+  "fix": "เลือกต้นไม้มาวางในห้อง ฉันมักเลือกต้นที่สีและรูปทรงสะดุดตาตอนเดินผ่านร้าน แม้บางต้นจะไม่ค่อยเข้ากับแสงในห้องนัก"
+ },
+ {
+  "id": "Sen6",
+  "cat": "a",
+  "sev": "low",
+  "why": "Choosing radio while driving or clips while queuing is plain practicality that nearly everyone shares. It does not discriminate Se. Fix: pick news by its concrete visual content.",
+  "fix": "เลือกว่าจะอ่านข่าวไหน ฉันมักกดเรื่องที่มีภาพหรือคลิปเหตุการณ์จริงให้เห็นก่อน แม้พาดหัวจะไม่ได้บอกอะไรมาก"
+ },
+ {
+  "id": "Six6",
+  "cat": "g,d",
+  "sev": "high",
+  "why": "Declining a friend's invitation to try a new dish together is a mild refusal scene (rejected type). It also duplicates existing Sid0 and Six1 (regular dish or place) and the batch's Siw6 and Sid4 menu items. Fix: Si recall of a past good time.",
+  "fix": "ตอนเลือกว่าจะทำอะไรกับเพื่อนวันหยุด ฉันมักนึกถึงครั้งที่สนุกกันที่สุดแล้วเสนอแบบเดิมอีก แม้จะเคยทำแบบนั้นมาหลายรอบแล้ว"
+ },
+ {
+  "id": "Siw6",
+  "cat": "d",
+  "sev": "low",
+  "why": "This is the 3rd 'เมนูเดิม' Si item in the batch (Six6, Sid4), plus existing Sid0. Food is over-used for Si. Fix: a work-specific Si decision.",
+  "fix": "เลือกแม่แบบเอกสารสำหรับงานชิ้นใหม่ ฉันมักใช้ไฟล์เดิมที่เคยใช้แล้วรู้ว่าต้องแก้ตรงไหน แม้จะมีแม่แบบใหม่ ๆ ให้เลือกอีกเยอะ"
+ },
+ {
+  "id": "Siq6",
+  "cat": "e",
+  "sev": "low",
+  "why": "'กลิ่นนั้นพาเช้าแต่ละวันไปแบบไหน' is unnatural Thai. Fix the wording.",
+  "fix": "สบู่กลิ่นที่ใช้ประจำเลิกขาย ฉันมักตามหากลิ่นที่ใกล้ของเดิมที่สุด เพราะจำได้ว่าเช้าที่มีกลิ่นนั้นรู้สึกยังไง แม้ต้องลองดมหลายร้าน"
+ },
+ {
+  "id": "Siy6",
+  "cat": "d,e,b",
+  "sev": "low",
+  "why": "Same stem as Sil6 (rain ruins the day, fall back on the familiar). 'คำเตือนใจ … ผ่านวันแบบนี้มาแล้ว … พูดกับตัวเองซ้ำ ๆ' reads as a distress-coping mantra, close to mental-health wording, and has no cost. Fix: a different small mishap with a cost.",
+  "fix": "วันไหนสะดุดตั้งแต่เช้า เช่น นาฬิกาปลุกไม่ดัง ฉันมักยึดหลักเดิมที่เคยใช้กับวันแบบนี้ คือทำทีละอย่างตามลำดับที่คุ้น แม้จะช้ากว่าลัดขั้นไปเลย"
+ }
+]

@@ -1,0 +1,627 @@
+{
+ "decisions": [
+  {
+   "id": "Nic0",
+   "verdict": "fix-judge",
+   "why": "Critic is right that 'no evidence yet' is a prescience flourish shared with Nie0, but its fix runs 135 chars and repeats ทางผ่าน. Judge keeps the felt sense and gives a behavioural cost that admits the hunch can be wrong.",
+   "t": "อยู่ห้องไหนไปสักพัก ฉันมักรู้สึกได้เองว่าที่นี่จะเป็นแค่ทางผ่านหรือที่อยู่ยาว จนบางทีไม่แต่งห้องเลยทั้งที่สุดท้ายอยู่ไปหลายปี"
+  },
+  {
+   "id": "Nic1",
+   "verdict": "fix-pro",
+   "why": "The original 'cost' is a strength. The critic's 'room just stays messy' cuts the Ni link and reads as ไร้ระเบียบ; the agree fix keeps the one-cause convergence and explains the mess.",
+   "t": "ห้องรกหลายจุดพร้อมกัน ฉันมักมองว่าเป็นสัญญาณของเรื่องเดียว เช่น ช่วงนี้ชีวิตแน่นไป แล้วไปคิดเรื่องนั้นก่อน จนห้องรกต่ออีกหลายวัน"
+  },
+  {
+   "id": "Nic2",
+   "verdict": "fix-con",
+   "why": "Real stem/cost contradiction. Critic's fix keeps the comic small-trigger vs big-picture gap and shares a stem with Sec2 for pairing.",
+   "t": "หลอดไฟขาดหรือก๊อกเริ่มหยด ฉันมักเห็นเลยไปว่าห้องนี้ถึงรอบที่ต้องรื้อจัดใหม่ทั้งห้อง แม้ตอนนั้นมีของเสียแค่ชิ้นเดียว"
+  },
+  {
+   "id": "Nic5",
+   "verdict": "fix-judge",
+   "why": "Cost copied Tec4 and 'core task' read as Te prioritising. Agree fix is the right direction but adds 'รู้สึกได้เอง' (now twice in c-Ni with Nic0) and 'แผนที่' reads as 'map'. Judge keeps one theme the day turns around, with a new cost.",
+   "t": "วันหยุดอยู่บ้าน ฉันมักมีเรื่องหนึ่งค่อย ๆ เด่นขึ้นมาเป็นแกนของวัน แล้วทั้งวันก็หมุนรอบเรื่องนั้น แม้เรื่องที่วางไว้จะถูกพับไปหมด"
+  },
+  {
+   "id": "Nec0",
+   "verdict": "fix-judge",
+   "why": "Duplicate of BNeSic0-a is real, but critic's fix is 140 chars and a third 'other uses of objects' Ne item (Nee0, Nei8). Judge uses the corner-possibilities idea freed by keeping Nec4, with a mild non-จับจด cost.",
+   "t": "มองมุมว่าง ๆ ในห้อง ฉันมักเห็นไปหลายแบบว่ามันเป็นมุมอ่านหนังสือ มุมกาแฟ หรือมุมต้นไม้ได้ จนของในมุมนั้นย้ายเข้าย้ายออกอยู่บ่อย ๆ"
+  },
+  {
+   "id": "Nec4",
+   "verdict": "keep",
+   "why": "Ned3 is a different context and a plain item; Nec4 is a needed home decision scene. Critic's 168-char fix is unusable.",
+   "t": "จะทำอะไรกินจากของที่เหลือในตู้เย็น ฉันมักนึกเมนูผสมได้หลายแบบ แล้วเลือกแบบที่ยังไม่ได้ลอง แม้อาจออกมาแปลก"
+  },
+  {
+   "id": "Sic0",
+   "verdict": "fix-judge",
+   "why": "Weekly timetable is J/มีวินัย. Critic's fix copies BNeSic0-b ('ลำดับเดิมที่คุ้นมือ'); agree fix uses room smell, which duplicates Sic4's scent. Judge keeps the 'ค้าง ๆ' inner check against a familiar reference (things back in their usual place).",
+   "t": "ทำความสะอาดห้อง ฉันมักรู้ว่าเสร็จจากความรู้สึกที่คุ้น เช่น ของทุกชิ้นได้กลับที่เดิม ถ้ายังไม่ใช่จะรู้สึกค้าง ๆ แม้ห้องดูสะอาดแล้ว"
+  },
+  {
+   "id": "Sic2",
+   "verdict": "fix-pro",
+   "why": "Near-copy of Sie3. Agree fix uses the object's remembered quirks, distinct from 'what fixed it last time', and avoids the คุ้นมือ cluster.",
+   "t": "ของในบ้านที่ใช้มานานเริ่มรวน ฉันมักแก้ตามนิสัยของมันที่จำได้ เช่น ต้องเคาะตรงไหนหรือรอกี่นาที แม้คราวนี้อาการจะไม่เหมือนเดิมนัก"
+  },
+  {
+   "id": "Sic3",
+   "verdict": "fix-judge",
+   "why": "No cost and near-health wording. Critic's fix is right but 143 chars; judge trims it and keeps the familiar cooler spot.",
+   "t": "พัดลมหรือแอร์เสียกลางหน้าร้อน ฉันมักทำตามที่รู้ว่าตัวเองทนร้อนได้แค่ไหน เช่น ย้ายไปนั่งมุมเดิมที่เย็นกว่า แม้ยังไม่ได้เรียกช่าง"
+  },
+  {
+   "id": "Sic4",
+   "verdict": "fix-judge",
+   "why": "'มากกว่าดูโปร' brings in thrift. Agree fix's opportunity cost is right; judge only removes the absolute 'ไม่เคย' (R4).",
+   "t": "เลือกน้ำยาซักผ้าหรือน้ำยาถูพื้น ฉันมักเลือกจากกลิ่นที่จำได้ว่าทำให้ห้องรู้สึกเหมือนบ้าน แม้จะไม่ได้รู้เลยว่ากลิ่นอื่นอาจถูกใจกว่า"
+  },
+  {
+   "id": "Sic5",
+   "verdict": "fix-judge",
+   "why": "Food overlap with Sid3 is real. Agree fix keeps a decision scene with bodily memory, but its 'search many shops' cost repeats Sii7's 'try many brands'. Judge gives a mild, non-lazy consequence instead.",
+   "t": "จะซื้อหมอนหรือผ้าปูชุดใหม่ ฉันมักเลือกแบบที่สัมผัสเหมือนชุดเดิมที่นอนแล้วหลับสบาย จนห้องนอนหน้าตาแทบไม่เปลี่ยนมาหลายปี"
+  },
+  {
+   "id": "Sec1",
+   "verdict": "fix-judge",
+   "why": "'ดื่มด่ำ' duplicated BNiSec0-b. Critic's fix is 147 chars; judge swaps only the marker word and keeps the textures and cost.",
+   "t": "อยู่บ้านวันหยุด ฉันมักเพลินไปกับสัมผัสรอบตัว เช่น ผ้าปูที่เพิ่งซักหรือลมจากหน้าต่าง จนเรื่องที่ตั้งใจทำเลื่อนไป"
+  },
+  {
+   "id": "Tic0",
+   "verdict": "fix-pro",
+   "why": "Teardown is DIY/male-coded. Agree fix keeps the mechanism curiosity with gender-neutral objects; the critic's fix would make two 'viral tip' Ti items in c.",
+   "t": "หม้อหุงข้าวหรือพัดลมทำงานแปลก ๆ ฉันมักอยากรู้ว่ากลไกข้างในเป็นยังไงถึงออกมาแบบนั้น จนบางทีนั่งหาข้อมูลอยู่นานทั้งที่มันยังใช้ได้"
+  },
+  {
+   "id": "Tic1",
+   "verdict": "fix-pro",
+   "why": "Elder directive removed while keeping the Thai folk-rule realism; the critic's baking-soda fix duplicates Tic5.",
+   "t": "ข้อห้ามเรื่องบ้านที่พูดต่อกันมา เช่น ห้ามตากผ้าในห้อง ฉันมักนึกเองว่ามันมีที่มาจริงไหม แม้จะยังทำตามอยู่เหมือนคนอื่น"
+  },
+  {
+   "id": "Tic4",
+   "verdict": "keep",
+   "why": "States a habit, no ability word, and the critic's wall-plug fix is just as technical.",
+   "t": "จะแขวนชั้นบนผนัง ฉันมักคิดก่อนว่าน้ำหนักลงตรงไหน ผนังแบบนี้รับได้เพราะอะไร แม้ชั้นจะวางพิงผนังรอไปหลายวัน"
+  },
+  {
+   "id": "Tec2",
+   "verdict": "fix-judge",
+   "why": "Ambiguity is real, but critic's fix is 147 chars. Judge trims to 130 and clarifies it is the machine that waits.",
+   "t": "เครื่องซักผ้าค้างกลางรอบ ฉันมักหาทางให้ผ้าแห้งทันใช้ก่อน เช่น ยกไปร้านซัก แล้วปล่อยเรื่องซ่อมไว้ จนบางทีเครื่องค้างอยู่เป็นสัปดาห์"
+  },
+  {
+   "id": "Tec3",
+   "verdict": "fix-con",
+   "why": "Time pressure forced the answer. Critic's fix removes it and keeps act-without-diagnosing.",
+   "t": "ห้องน้ำรั่วซึม ฉันมักเลือกทางที่ปิดปัญหาได้ในรอบเดียวก่อน เช่น ปิดวาล์วแล้วเรียกช่าง แม้จะยังไม่ได้ดูเองเลยว่าน้ำมาจากตรงไหน"
+  },
+  {
+   "id": "Fic0",
+   "verdict": "fix-judge",
+   "why": "Floor-eating is ordinary and 'เป็นตัวเอง' is overused. Agree fix's 'อยากให้…เป็น' frame now collides with Fic3; judge uses a different Fi cue.",
+   "t": "ฉันใช้ชีวิตในห้องตามจังหวะของใจตัวเอง เช่น ทำความสะอาดตอนดึกหรือนั่งทำงานริมหน้าต่างแทนโต๊ะ แม้คนที่แวะมาจะงงอยู่บ้าง"
+  },
+  {
+   "id": "Fic1",
+   "verdict": "fix-judge",
+   "why": "Not tidying for guests reads as not caring. Critic's frame is right but 133 chars and adds another 'others think it's untidy' cost; judge trims to the original mild cost.",
+   "t": "มีคนมาที่ห้อง ฉันมักเก็บแค่ส่วนที่ตัวเองอยากเก็บ แล้วปล่อยมุมที่เป็นชีวิตจริงของฉันไว้ให้เห็น แม้บางมุมจะดูรกไปหน่อย"
+  },
+  {
+   "id": "Fic3",
+   "verdict": "fix-con",
+   "why": "Duplicate of Fic4 and implausible journaling. Critic's mishap scene with a practical cost is clean once Fic0 drops the matching phrase.",
+   "t": "ของในห้องต้องรื้อออกเพราะน้ำรั่ว พอจะจัดกลับเข้าที่ ฉันมักจัดตามที่ใจอยากให้ห้องเป็นตอนนี้ แม้แบบเดิมจะใช้พื้นที่ได้คุ้มกว่า"
+  },
+  {
+   "id": "Fic5",
+   "verdict": "fix-judge",
+   "why": "Chipped cup is ไม่เป็นมงคล. Agree team's fresh cue is kept, but 'แม้ระหว่างนั้นจะต้อง…' is the Fi waiting ending also in Fie3 and BTeFii2-b, so judge changes the cost to time spent looking.",
+   "t": "จะซื้อแก้วหรือจานใบใหม่ ฉันมักรอจนเจอใบที่มีอะไรบางอย่างตรงกับใจ จนบางทีเดินดูมาหลายร้านแล้วก็ยังไม่ได้ซื้อสักใบ"
+  },
+  {
+   "id": "Fec0",
+   "verdict": "fix-judge",
+   "why": "Self-sacrifice cost is real. Critic's ending 'เขาต้องบอกว่าไม่ต้องห่วงขนาดนั้น' is verbatim the existing Fel4 (l/f now merged). Judge gives an over-fussing comic cost.",
+   "t": "มีคนมาที่ห้อง ฉันมักคอยดูสีหน้าเขาว่านั่งสบายไหม ร้อนไปไหม แล้วขยับพัดลมหรือหมอนให้ จนเขาต้องขยับที่นั่งตามอยู่หลายรอบ"
+  },
+  {
+   "id": "Fec1",
+   "verdict": "fix-judge",
+   "why": "Heroic cost is real. Critic's ending repeats the guest-says pattern; agree fix's 'guest feels awkward' is the same idea as Fec0. Judge uses a comic carry-over cost.",
+   "t": "มีคนมาพักค้างที่ห้อง ฉันมักปรับกิจวัตรตัวเองตามจังหวะเขา เช่น เวลาปิดไฟ จนเขากลับไปแล้วฉันยังเข้านอนตามเวลาเขาอยู่อีกหลายวัน"
+  },
+  {
+   "id": "Fec3",
+   "verdict": "fix-pro",
+   "why": "'I barely ate' is the classic heroic cost. Agree fix's comic 'side dishes outnumber the main' avoids the repeated guest-reassures ending.",
+   "t": "อาหารที่ทำรับเพื่อนที่ห้องออกมาไม่เป็นอย่างที่คิด ฉันมักห่วงว่าเพื่อนจะฝืนกินไหม แล้วรีบหาของมาเสริม จนของเสริมเยอะกว่าจานหลัก"
+  },
+  {
+   "id": "Fec4",
+   "verdict": "fix-pro",
+   "why": "'เมนู' overlap fixed by dropping it. Critic's cost brings back the 'Fe gives up my preference' marker; same-old repetition is a crowd-pleasing consequence, not Si.",
+   "t": "จะเลือกกิจกรรมตอนเพื่อนมาที่ห้อง ฉันมักเลือกสิ่งที่ทุกคนน่าจะสนุกด้วยกัน จนบางทีได้แต่แบบเดิม ๆ ซ้ำไปซ้ำมา"
+  },
+  {
+   "id": "BNiSec0",
+   "verdict": "fix-judge",
+   "why": "Se side's aimless cost is real and critic's mirrored costs are right, but its Ni side echoes Nil0 ('ปล่อยให้ความคิด…') and its Se side uses 'จดจ่อกับ… กลิ่น' like Sey3/Ses3/Sef2. Judge keeps the tea vs unfinished-thought mirror with new wording.",
+   "a": "อยู่ห้องตัวเองเงียบ ๆ ฉันมักจมอยู่กับเรื่องหนึ่งในใจจนเริ่มเห็นว่ามันกำลังก่อตัวไปทางไหน แม้ชาที่ชงไว้จะเย็นชืดไปโดยไม่ทันได้ดื่ม",
+   "b": "อยู่ห้องตัวเองเงียบ ๆ ฉันมักอยู่กับแสง เสียง และกลิ่นรอบตัวตอนนั้นไปเรื่อย ๆ แม้เรื่องที่คิดค้างไว้จะยังไม่ได้แตะต่อ"
+  },
+  {
+   "id": "BNiSec1",
+   "verdict": "fix-judge",
+   "why": "Omen reading and fix-now asymmetry are real; agree fix gives Ni a new angle (critic's duplicated Nic2). Judge only changes 'ชีวิตช่วงนี้' to avoid echoing Nii8's 'ชีวิตช่วง…'.",
+   "a": "ของในห้องเสียกะทันหัน ฉันมักนึกโยงไปว่าห้องนี้อาจเริ่มไม่เข้ากับชีวิตตอนนี้แล้ว แม้ชิ้นที่เสียจะยังรอซ่อม",
+   "b": "ของในห้องเสียกะทันหัน ฉันมักลงมือแก้ชิ้นนั้นจากที่เห็นตรงหน้าก่อน แม้อีกไม่นานอาจต้องมาแก้จุดเดิมซ้ำ"
+  },
+  {
+   "id": "BNeSic1",
+   "verdict": "fix-judge",
+   "why": "Si cost was a non-cost. Critic's 'no longer suits the room' echoes BNiSec1-a's Ni idea and opens like Fic3 ('แม้แบบเดิมจะ'); judge gives Si a concrete, own-kind cost.",
+   "a": "ต้องซื้อของใช้ในบ้านมาแทนชิ้นที่หมดสภาพ ฉันมักหยิบแบบที่ยังไม่ได้ใช้มาลอง แม้จะต้องปรับตัวกับมันอยู่หลายวัน",
+   "b": "ต้องซื้อของใช้ในบ้านมาแทนชิ้นที่หมดสภาพ ฉันมักหยิบแบบที่เคยใช้แล้วคุ้นมือ แม้รุ่นนั้นจะเริ่มหาซื้อยากขึ้นทุกที"
+  },
+  {
+   "id": "BTiFec0",
+   "verdict": "fix-judge",
+   "why": "Ti ignoring a tired helper is the เกรงใจ trap; agree fix's shared time cost is right. Judge makes both openings 'สนใจว่า' because 'จดจ่อกับ' is an Se marker and 'คอยดูว่าทุกคน' is the Fe template in BTiFey0/BTiFes0.",
+   "a": "เพื่อนมาช่วยประกอบเฟอร์นิเจอร์ที่ห้อง ฉันมักสนใจว่าแต่ละชิ้นต่อกันด้วยหลักอะไรถึงแน่น จนบางทีประกอบเสร็จช้ากว่าที่คิดไว้มาก",
+   "b": "เพื่อนมาช่วยประกอบเฟอร์นิเจอร์ที่ห้อง ฉันมักสนใจว่าทุกคนช่วยกันเพลินไหม จนบางทีมัวคุยกันจนประกอบเสร็จช้ากว่าที่คิดไว้มาก"
+  },
+  {
+   "id": "BTiFec1",
+   "verdict": "fix-con",
+   "why": "Social cost on Ti only. Critic's identical practical cost (water keeps pooling) balances it.",
+   "a": "ท่อใต้ซิงก์รั่วตอนกำลังทำอาหารกับเพื่อนที่ห้อง ฉันมักหยุดไล่คิดก่อนว่าน้ำมาจากข้อต่อไหน แม้น้ำจะนองพื้นไปอีกพักหนึ่ง",
+   "b": "ท่อใต้ซิงก์รั่วตอนกำลังทำอาหารกับเพื่อนที่ห้อง ฉันมักหันไปดูก่อนว่าเพื่อนเลอะหรือตกใจไหม แม้น้ำจะนองพื้นไปอีกพักหนึ่ง"
+  },
+  {
+   "id": "BTeFic1",
+   "verdict": "fix-pro",
+   "why": "Repair-or-buy brings in thrift. Agree fix keeps the critic's frame and removes 'ปิดเรื่องได้ในรอบเดียว', which duplicated the Tec3 fix.",
+   "a": "ของชิ้นเก่าในห้องเสีย ฉันมักเลือกทางที่ทำให้เรื่องนี้จบไวที่สุด แม้ของชิ้นนั้นจะอยู่กับฉันมานาน",
+   "b": "ของชิ้นเก่าในห้องเสีย ฉันมักเลือกตามว่าใจยังอยากเก็บชิ้นนั้นไว้ไหม แม้ทางนั้นจะต้องวิ่งเรื่องอีกหลายรอบ"
+  },
+  {
+   "id": "Nie0",
+   "verdict": "fix-judge",
+   "why": "Non-cost and repeated ending. Agree fix's cost ends like Tic0 ('ทั้งที่…ยังใช้ได้') and the stem 'X ไหนไปสักพัก ฉันมักรู้สึก' mirrors Nic0. Judge gives a new stem and a cost that admits the hunch can be wrong.",
+   "t": "แอปที่ใช้อยู่ค่อย ๆ เพิ่มอะไรเข้ามา ฉันมักสัมผัสได้ว่ามันกำลังจะกลายเป็นแอปแบบไหน จนบางทีย้ายออกก่อนแล้วมันก็ไม่ได้เป็นแบบนั้น"
+  },
+  {
+   "id": "Nie3",
+   "verdict": "fix-pro",
+   "why": "Agree fix keeps the incubation the pro side valued and makes the hunch about location, not cause (not Ti).",
+   "t": "ถ้าไฟล์หายไปทั้งโฟลเดอร์ ฉันมักนิ่งไปพักหนึ่งจนมีที่หนึ่งผุดขึ้นมาในหัวว่าน่าจะอยู่ตรงไหน แม้ระหว่างนั้นจะดูเหมือนไม่ได้ลงมือหา"
+  },
+  {
+   "id": "Nie5",
+   "verdict": "fix-judge",
+   "why": "Duplicate of BNiSee0-a and J planning. Agree fix's 'ทางที่ชีวิตกำลังไป' is grandiose and repeats the Ni 'life direction' phrase. Judge uses Sie5's shared stem and Ni convergence on the gist, with Si memories as the cost.",
+   "t": "ตอนต้องเลือกว่าจะเก็บหรือลบรูป ฉันมักเก็บไว้แค่รูปที่รู้สึกว่าเป็นใจความของช่วงนั้น แม้บางรูปที่ลบไปจะมีความทรงจำดี ๆ อยู่"
+  },
+  {
+   "id": "Nee1",
+   "verdict": "fix-judge",
+   "why": "Se overlap is real, but critic's fix is 138 chars and duplicates Nee0 ('นึกต่อว่า…เรื่องอื่น'). Judge marks Ne by generating several guesses before clicking.",
+   "t": "เห็นเมนูที่ยังไม่เคยกดในแอป ฉันมักเดาเล่น ๆ ไว้หลายแบบว่าข้างในน่าจะมีอะไร ก่อนกดเข้าไปดู แม้ตอนนั้นไม่ได้จะใช้อะไรเลย"
+  },
+  {
+   "id": "Nee4",
+   "verdict": "fix-judge",
+   "why": "Duplicate of BNeSie0-a. Both fixes produce 'นึกต่อว่า…เอาไป…กับเรื่องอื่น', a near-copy of Nee0. Judge uses a potential/ต่อยอด criterion on the shared stem.",
+   "t": "จะเลือกแอปมาใช้สักตัว ฉันมักเอนไปทางตัวที่ดูมีลูกเล่นให้เอาไปต่อยอดเล่นได้ แม้ตัวเรียบ ๆ จะพอสำหรับเรื่องที่ใช้อยู่แล้ว"
+  },
+  {
+   "id": "Sie3",
+   "verdict": "keep",
+   "why": "Once Sic2 is rewritten the duplication is gone. Critic's replacement adds คุ้นมือ and overlaps See2.",
+   "t": "เวลาเครื่องรวนแปลก ๆ ฉันมักนึกว่าครั้งก่อนที่เป็นแบบนี้ทำอะไรแล้วหาย แล้วลองแบบนั้นก่อน แม้ครั้งนี้อาจเป็นคนละสาเหตุ"
+  },
+  {
+   "id": "See1",
+   "verdict": "fix-judge",
+   "why": "Comparing to before is Si. Critic's present-moment fix is right, but its 'forgot why I opened it' cost copies Nee0. Judge changes the cost.",
+   "t": "เปิดแอปที่มีหน้าตาใหม่ ฉันมักไล่ดูสี ภาพเคลื่อนไหว และเสียงตอนกดตรงหน้าไปเรื่อย ๆ จนบางทีกดเล่นอยู่นานกว่าจะเริ่มใช้งานจริง"
+  },
+  {
+   "id": "Tie0",
+   "verdict": "fix-con",
+   "why": "AI-literacy virtue removed, and the cost is real. Critic's fix is clean.",
+   "t": "ใช้เครื่องมือ AI ฉันมักอยากรู้ว่ามันได้คำตอบแบบนี้มาจากอะไร จนบางทีถามย้อนเรื่องที่มาของคำตอบมากกว่าเรื่องที่ตั้งใจถาม"
+  },
+  {
+   "id": "Tie2",
+   "verdict": "fix-con",
+   "why": "Clarifies the ambiguity at no cost.",
+   "t": "ถ้าแอปเด้งออกเอง แม้เปิดใหม่แล้วจะใช้ได้ปกติ ฉันก็ยังอยากรู้ว่ามันเด้งเพราะอะไร จนบางทีลองทำซ้ำดูว่าจะเด้งอีกไหม"
+  },
+  {
+   "id": "Tie5",
+   "verdict": "fix-judge",
+   "why": "Time cost is right but critic's fix is 132 chars and 'กินเวลา' repeats BTeFie0. Judge trims.",
+   "t": "ตอนจะเปิดหรือปิดการตั้งค่าสักอย่าง ฉันมักอ่านจนเข้าใจว่ามันไปเปลี่ยนอะไรในเครื่องบ้าง จนบางทีปุ่มเดียวใช้เวลาไปครึ่งชั่วโมง"
+  },
+  {
+   "id": "Tee2",
+   "verdict": "fix-judge",
+   "why": "Rush forced the answer. Agree fix's 'leave the broken app for days' copies the Tec2 Te ending. Judge gives a redo cost.",
+   "t": "ถ้าแอปค้าง ฉันมักหาทางอื่นให้งานนั้นเดินต่อไปก่อน เช่น สลับไปทำในเว็บ แม้ส่วนที่ทำค้างไว้ในแอปจะต้องเริ่มใหม่"
+  },
+  {
+   "id": "Tee4",
+   "verdict": "fix-pro",
+   "why": "Agree fix rewords the criterion, drops the money cue and the double-barrel, and gives one Si-type cost.",
+   "t": "จะเลือกแอปมาใช้สักตัว ฉันมักเทียบว่าตัวไหนพาไปถึงสิ่งที่ต้องการได้ตรงที่สุด แม้จะต้องเลิกใช้ตัวที่ใช้มานานจนชินแล้ว"
+  },
+  {
+   "id": "Fie0",
+   "verdict": "fix-judge",
+   "why": "Duplicate of Fie4. Both fixes use a 'friends move to a trendy app, I wait until it fits my life' scene that duplicates Fii6. Judge writes a fresh Fi organising habit (playlists by inner meaning) with a practical cost.",
+   "t": "ฉันมักจัดเพลย์ลิสต์ในเครื่องตามว่าแต่ละเพลงพูดแทนใจฉันเรื่องไหน แม้เวลาจะหาเพลงสักเพลงจะยากกว่าเรียงตามชื่อ"
+  },
+  {
+   "id": "Fie1",
+   "verdict": "fix-judge",
+   "why": "Marker and aesthetic theming are real. Critic's 'มีความหมายกับใจฉัน' is the Fi phrase already in Fie2 and BTeFie1. Judge keeps the private-meaning wallpaper with new wording.",
+   "t": "ตั้งรูปหน้าจอ ฉันมักเลือกภาพที่มีเรื่องส่วนตัวซ่อนอยู่ซึ่งรู้กันอยู่คนเดียว แม้คนที่เห็นจะถามว่ามันคือรูปอะไร"
+  },
+  {
+   "id": "Fie3",
+   "verdict": "fix-pro",
+   "why": "Agree fix's 'ไม่รู้สึกฝืนใจ' marks Fi without the 'ใจบอกว่าใช่' marker the critic introduced.",
+   "t": "ถ้าแอปที่ใช้มานานปิดตัวไป ฉันมักใช้เวลาหาตัวใหม่ที่ใช้แล้วไม่รู้สึกฝืนใจ แม้ระหว่างนั้นจะต้องทำแบบขัด ๆ ไปก่อน"
+  },
+  {
+   "id": "Fee1",
+   "verdict": "fix-con",
+   "why": "Verbatim Fei6 ending. Critic's 'generic profile' cost is neutral.",
+   "t": "ตั้งชื่อหรือรูปโปรไฟล์ในแอปที่ใช้กับคนอื่น ฉันมักเลือกแบบที่คนเห็นแล้วรู้สึกสบาย ๆ จนรูปโปรไฟล์ของฉันดูกลาง ๆ เหมือนของใครก็ได้"
+  },
+  {
+   "id": "Fee2",
+   "verdict": "fix-judge",
+   "why": "Responsible coordination plus repeated 'รีบบอก' are real. Critic's fix is 137 chars, repeats 'ทักไปถามทีละคน' from BTiFee1-b, and shares BTiFee1's group-app scene. Judge uses a video-call lag scene with an over-worry cost.",
+   "t": "ถ้าเน็ตกระตุกตอนวิดีโอคอลกับเพื่อน ๆ ฉันมักคิดก่อนว่าคนในสายจะรำคาญไหม จนบางทีขอวางสายไปเองทั้งที่ไม่มีใครว่าอะไร"
+  },
+  {
+   "id": "Fee4",
+   "verdict": "fix-judge",
+   "why": "Critic is right that 'what most already have' is Te/Si logistics. Its fix is 137 chars and keeps the 'my preferred app does more' give-up ending. Judge keeps the comfort criterion with a misplaced-worry cost.",
+   "t": "จะเลือกแอปมาใช้ร่วมกับเพื่อน ๆ ฉันมักดูก่อนว่าใครในกลุ่มน่าจะไม่สะดวกใจกับตัวไหน แม้สุดท้ายคนที่ฉันห่วงแทนจะไม่ได้ติดใจอะไรเลย"
+  },
+  {
+   "id": "BNiSee0",
+   "verdict": "fix-judge",
+   "why": "J/P confound and Nie5 duplicate. Agree side a's 'เปลี่ยนชีวิต' is grandiose and side b's cost repeats the Se 'ยังไม่ได้คิดว่า' ending (See3). Judge rewords both and keeps the costs mirrored.",
+   "a": "ตอนได้มือถือเครื่องใหม่ ฉันมักรู้สึกไปก่อนว่าเครื่องนี้จะพาวันของฉันต่อจากนี้เปลี่ยนไปแบบไหน แม้จะยังไม่ได้เปิดใช้อะไรจริงจัง",
+   "b": "ตอนได้มือถือเครื่องใหม่ ฉันมักสนุกกับสัมผัสตรงหน้าก่อน ทั้งน้ำหนักในมือและความลื่นของจอ แม้ยังไม่ได้ย้ายข้อมูลจากเครื่องเก่า"
+  },
+  {
+   "id": "BNiSee1",
+   "verdict": "fix-pro",
+   "why": "Agree fix describes the process ('guess from a rough feeling'), keeps 'มุ่ง' convergence and leaves b unchanged.",
+   "a": "ถ้ามือถือดับกลางทางตอนกำลังดูแผนที่ ฉันมักเดาทิศรวม ๆ จากความรู้สึกว่าที่หมายอยู่ทางไหน แล้วมุ่งไปทางนั้น แม้อาจต้องย้อนกลับมาบ้าง",
+   "b": "ถ้ามือถือดับกลางทางตอนกำลังดูแผนที่ ฉันมักมองป้ายและสิ่งรอบตัวตรงนั้น แล้วเดินไปตามที่เห็นทีละช่วง แม้ต้องหยุดดูบ่อย ๆ"
+  },
+  {
+   "id": "BTiFee0",
+   "verdict": "keep",
+   "why": "Consistent classification is Ti and the cost is self-borne; critic's fix is 152 chars and weakens Fe.",
+   "a": "เวลาใช้อัลบั้มหรือปฏิทินร่วมกับคนอื่น ฉันมักอยากให้การตั้งชื่อและแบ่งหมวดใช้หลักเดียวกันไม่ขัดกัน แม้ต้องเสียเวลาจัดเองอีกรอบ",
+   "b": "เวลาใช้อัลบั้มหรือปฏิทินร่วมกับคนอื่น ฉันมักดูว่าแต่ละคนสะดวกใส่แบบไหน แล้วปรับให้ทุกคนใช้ได้สบายใจ แม้หมวดจะปนกันไปบ้าง"
+  },
+  {
+   "id": "BTiFee1",
+   "verdict": "fix-judge",
+   "why": "Group-waiting cost on Ti only. Critic's shared practical cost is right; judge rewords it because 'อีกพักหนึ่ง' already ends BTiFec1.",
+   "a": "ถ้าแอปที่ใช้ร่วมกันในกลุ่มรวนจนข้อมูลเพี้ยน ฉันมักไล่หาก่อนว่ามันเพี้ยนตรงขั้นไหน แม้ข้อมูลที่เพี้ยนจะยังค้างอยู่อย่างนั้นไปก่อน",
+   "b": "ถ้าแอปที่ใช้ร่วมกันในกลุ่มรวนจนข้อมูลเพี้ยน ฉันมักทักไปถามก่อนว่าแต่ละคนโดนผลแค่ไหน แม้ข้อมูลที่เพี้ยนจะยังค้างอยู่อย่างนั้นไปก่อน"
+  },
+  {
+   "id": "BTeFie0",
+   "verdict": "fix-con",
+   "why": "Integrity judgement removed by moving to captions, and the costs stay symmetric.",
+   "a": "เวลาใช้ AI ช่วยร่างข้อความหรือแคปชันสั้น ๆ ฉันมักเอาที่ได้ไปใช้ต่อเลยถ้ามันบอกเรื่องครบ แม้สำนวนจะไม่ค่อยเหมือนที่ฉันพูด",
+   "b": "เวลาใช้ AI ช่วยร่างข้อความหรือแคปชันสั้น ๆ ฉันมักแก้คำจนอ่านแล้วเป็นเสียงของฉันก่อน แม้ข้อความสั้น ๆ จะกินเวลาไปอีกพักใหญ่"
+  },
+  {
+   "id": "BTeFie1",
+   "verdict": "fix-judge",
+   "why": "Aesthetic plus marker on Fi. Agree fix keeps the parallel, but 'มีความหมายกับ…ฉัน' adds to the Fi phrase already in Fie2 and bank. Judge uses 'ใกล้ใจ' on both sides.",
+   "a": "ตอนจัดหน้าจอหลักของมือถือ ฉันมักวางแอปตามความถี่ที่ใช้ให้กดถึงได้ไวที่สุด แม้ตัวที่ใกล้ใจจะไปอยู่หน้าหลัง ๆ",
+   "b": "ตอนจัดหน้าจอหลักของมือถือ ฉันมักวางแอปตามว่าตัวไหนใกล้ใจฉันที่สุดในช่วงนี้ แม้บางตัวที่ใช้บ่อยจะต้องเลื่อนหา"
+  },
+  {
+   "id": "Nii7",
+   "verdict": "fix-pro",
+   "why": "Agree fix turns the inner-want (Fi) phrasing into purpose convergence in plain Thai, avoiding the 'แก่น' marker.",
+   "t": "ถ้าของที่ตั้งใจซื้อหมดกะทันหัน ฉันมักนึกย้อนไปว่าที่จริงของชิ้นนั้นมีไว้เพื่อเรื่องอะไรในชีวิต จนบางทีได้ของคนละประเภทกลับมาแทน"
+  },
+  {
+   "id": "Nii8",
+   "verdict": "fix-judge",
+   "why": "Wise-shopper ↑ is real. Agree fix is less grandiose than the critic's, but its cost 'แม้ตอนนี้จะยัง…' copies Nie4. Judge keeps the felt fit and changes the cost.",
+   "t": "เลือกระหว่างของสองชิ้นที่ใกล้เคียงกัน ฉันมักเลือกชิ้นที่รู้สึกว่าจะเข้ากับชีวิตช่วงหน้า จนบางทีชิ้นนั้นวางรอเป็นเดือนกว่าจะได้ใช้"
+  },
+  {
+   "id": "Nei8",
+   "verdict": "fix-judge",
+   "why": "Repeated 'ได้อีกกี่แบบ' fixed by the agree team, but its ending 'อื่นได้บ้าง แม้สุดท้าย…' echoes BNeSie0-a. Judge rewords the cost.",
+   "t": "ก่อนกดซื้อ ฉันมักเผลอคิดต่อว่าของชิ้นนั้นพลิกไปใช้ทำอะไรอื่นได้บ้าง แม้ได้มาแล้วจะใช้อยู่แค่แบบเดียว"
+  },
+  {
+   "id": "Sei6",
+   "verdict": "fix-con",
+   "why": "Live-selling is an access topic. Critic's general online version keeps the physical-demo contrast.",
+   "t": "ดูของออนไลน์ ฉันมักเลือกดูคลิปหรือรูปที่เห็นของจริงถูกจับ บิด หรือส่องกับแสง มากกว่าอ่านคำบรรยายสินค้า"
+  },
+  {
+   "id": "Tii6",
+   "verdict": "fix-judge",
+   "why": "Savvy virtue with no cost. Critic's cost is right but 139 chars; judge trims.",
+   "t": "ถ้าคำอธิบายสินค้าบอกว่าทั้งเบาและทนกว่าทุกรุ่น ฉันมักหยุดคิดว่าสองอย่างนี้ไปด้วยกันได้ยังไง จนบางทีปิดหน้านั้นไปก่อนได้ดูของจริง ๆ"
+  },
+  {
+   "id": "Tei7",
+   "verdict": "fix-judge",
+   "why": "Same behaviour as Sei7. Critic adds Te criteria but runs 136 chars, adds a fee cue and keeps a storm stake. Judge keeps compare-then-switch with a blameless delay.",
+   "t": "ถ้าของที่สั่งไว้เลื่อนวันส่งกะทันหัน ฉันมักเทียบทางเลือกที่มีจากวันที่จะได้ของ แล้วสลับไปทางที่ได้ก่อน แม้ต้องยกเลิกออเดอร์เดิม"
+  },
+  {
+   "id": "Fii6",
+   "verdict": "fix-pro",
+   "why": "Ethical boycott is a moral virtue and paraphrases Fii0. Agree fix keeps quiet non-adoption with a practical cost; Fie0 no longer duplicates it.",
+   "t": "ของที่ใคร ๆ ก็บอกว่าต้องมี ถ้าฉันรู้สึกว่ามันไม่ใช่ชีวิตแบบของฉัน ฉันมักผ่านไปเงียบ ๆ แม้บางครั้งจะไม่สะดวกตอนที่ต้องใช้จริง"
+  },
+  {
+   "id": "Fii8",
+   "verdict": "fix-judge",
+   "why": "Marker repeats. Agree fix's 'ตรงกับใจ' now also sits in Fic5, so judge uses another inner-state cue and keeps the colour concreteness.",
+   "t": "เลือกสีของของใช้ ฉันมักเลือกสีที่ใจอยากอยู่ด้วยในช่วงนั้น แม้รู้ว่าสีกลาง ๆ จะเข้ากับของอื่นที่มีอยู่มากกว่า"
+  },
+  {
+   "id": "Fei6",
+   "verdict": "fix-pro",
+   "why": "Verbatim Fee1 ending. Agree fix's time cost avoids both the give-up marker and Fee5's 'ask if OK'.",
+   "t": "เวลาเลือกของที่จะใช้ร่วมกับคนอื่น ฉันมักเลือกแบบที่คิดว่าทุกคนใช้แล้วโอเค จนบางทีเลือกนานกว่าซื้อของให้ตัวเองหลายเท่า"
+  },
+  {
+   "id": "Fei7",
+   "verdict": "keep",
+   "why": "With Fee2 rewritten, the 'รีบบอก' repetition is gone. The premature-announcement cost already undercuts the responsible reading.",
+   "t": "ถ้าของที่สั่งรวมกับเพื่อนส่งช้า ฉันมักรีบบอกในกลุ่มก่อนเพราะห่วงว่าใครจะรอเก้อ แม้ตัวเองยังไม่รู้วันส่งแน่นอน"
+  },
+  {
+   "id": "BNiSei2",
+   "verdict": "fix-judge",
+   "why": "J search vs browse is real. Critic's filter-image side is right but 146 chars and its cost is social. Judge trims and mirrors b's informational cost.",
+   "a": "เวลาเลื่อนดูของในแอปช้อปปิ้ง ฉันมักมีภาพเดียวในใจว่าอยากได้แบบไหน แล้วปัดผ่านชิ้นที่ไม่เข้าภาพนั้น แม้บางชิ้นที่ผ่านไปอาจถูกใจกว่า",
+   "b": "เวลาเลื่อนดูของในแอปช้อปปิ้ง ฉันมักกดดูชิ้นที่สะดุดตาไปเรื่อย ๆ แล้วค่อยรู้ว่าชอบอันไหน แม้บางทีจะเลื่อนนานกว่าที่ตั้งใจ"
+  },
+  {
+   "id": "BNeSii2",
+   "verdict": "fix-con",
+   "why": "Success vs failure asymmetry fixed with neutral costs; within ±20%.",
+   "a": "เวลาต้องเลือกร้านออนไลน์ ฉันมักลองร้านใหม่ที่ยังไม่รู้จัก ดูว่าจะได้อะไรต่างไปจากเดิม แม้ต้องลุ้นว่าของจะมาแบบไหน",
+   "b": "เวลาต้องเลือกร้านออนไลน์ ฉันมักกลับไปร้านเดิมที่เคยสั่งจนคุ้น แม้จะไม่ค่อยได้เห็นของแบบใหม่ ๆ"
+  },
+  {
+   "id": "BTiFei2",
+   "verdict": "fix-judge",
+   "why": "Insincere-Fe cost fixed, but critic's b is 134 chars; judge trims.",
+   "a": "เพื่อนสนิทส่งลิงก์ของมาถามว่าน่าซื้อไหม ฉันมักไล่ดูก่อนว่าคำอธิบายสินค้าต่อกันลงตัวไหม แม้คำตอบจะยาวเกินกว่าที่เขาถาม",
+   "b": "เพื่อนสนิทส่งลิงก์ของมาถามว่าน่าซื้อไหม ฉันมักดูก่อนว่าเขาอยากได้มากแค่ไหน แล้วตอบให้เข้ากับใจเขา แม้ยังไม่ได้ดูรายละเอียดของ"
+  },
+  {
+   "id": "BTeFii2",
+   "verdict": "fix-con",
+   "why": "'ใจเลือกไว้' on both sides gives Fi a reason and removes odd 'ผูกพัน'.",
+   "a": "ถ้าของที่ตั้งใจซื้อหมด แต่มีอีกรุ่นที่ใช้แทนกันได้ ฉันมักสั่งรุ่นนั้นเลยให้เรื่องจบ แม้รุ่นนั้นจะไม่ใช่ชิ้นที่ใจเลือกไว้",
+   "b": "ถ้าของที่ตั้งใจซื้อหมด แต่มีอีกรุ่นที่ใช้แทนกันได้ ฉันมักรอชิ้นที่ใจเลือกไว้จนกว่าจะกลับมามี แม้ระหว่างนั้นจะต้องใช้ของเดิมไปก่อน"
+  },
+  {
+   "id": "Niy0",
+   "verdict": "fix-judge",
+   "why": "Awkward Thai and no cost. Critic's 'loses details' cost is 131 chars and is the Ni cost already in Nis2. Judge gives an over-generalising cost.",
+   "t": "เวลาอ่านแนวคิดเรื่องชีวิตจากหลายแหล่ง ฉันชอบหาแก่นเดียวที่ทุกแนวพูดถึงอยู่ลึก ๆ แม้บางทีแนวที่ไม่เข้ากับแก่นนั้นจะถูกมองข้ามไป"
+  },
+  {
+   "id": "Ney5",
+   "verdict": "fix-con",
+   "why": "Mechanical swap; critic's phrasing is natural.",
+   "t": "คุยกับเพื่อนเรื่องว่าชีวิตแบบไหนถึงเรียกว่าดี ฉันมักแตกประเด็นไปหลายทาง จนวงคุยไปไกลจากเรื่องที่เริ่มไว้"
+  },
+  {
+   "id": "Siy0",
+   "verdict": "fix-pro",
+   "why": "Abstract and มีหลักการ ↑. Agree fix gives a neutral Si example and cost; the critic's late-night rule is a prudence virtue.",
+   "t": "หลักเล็ก ๆ ที่ฉันใช้มานาน เช่น ถ้าลังเลก็เลือกแบบที่เคยเลือก พอได้ทำตามแบบเดิมแล้วรู้สึกมั่นคง แม้บางทีจะพลาดทางที่อาจเหมาะกว่า"
+  },
+  {
+   "id": "Siy2",
+   "verdict": "fix-judge",
+   "why": "Discipline/J examples. Agree fix is right, but its cost 'there's a more convenient way' repeats Siy0's. Judge gives a small own-cost.",
+   "t": "ก่อนเรื่องสำคัญ ฉันมักทำทุกอย่างแบบเดิมที่เคยทำแล้วใจนิ่ง เช่น กินมื้อเช้าแบบเดิมหรือนั่งรถสายเดิม แม้ต้องตื่นเช้ากว่าปกติ"
+  },
+  {
+   "id": "Siy5",
+   "verdict": "fix-judge",
+   "why": "Duplicate of Siy4. Critic's past-vs-now body comparison is distinctly Si but 137 chars; judge trims.",
+   "t": "เวลาต้องตัดสินใจเรื่องใหญ่ ฉันมักเทียบความรู้สึกในตัวตอนนี้กับครั้งก่อนที่เจอเรื่องคล้ายกัน เช่น ใจหวิวหรือตัวเบา แล้วใช้ช่วยเลือก"
+  },
+  {
+   "id": "Sey0",
+   "verdict": "fix-pro",
+   "why": "Faces/voices pull to Fe/E. Agree fix keeps 'made real by live events' through observed action, and the critic's savouring idea duplicates Sey3/Sey4.",
+   "t": "หลักคิดเรื่องชีวิตจะชัดกับฉันขึ้นมาก ตอนได้เห็นคนใช้มันจริงต่อหน้า จนหลักที่แค่อ่านเจอมักผ่านไปเฉย ๆ"
+  },
+  {
+   "id": "Sey1",
+   "verdict": "fix-judge",
+   "why": "Indistinguishable from Siy3. Critic's mishap principle is clean Se, but it is 135 chars, echoes Sey5's 'ปรับไปตามที่เจอ' and the Se 'ยังไม่ได้คิด' ending. Judge trims and changes the cost.",
+   "t": "เวลาชีวิตมีเรื่องไม่คาดคิด หลักของฉันคือจัดการสิ่งที่อยู่ตรงหน้าให้ได้ก่อน แม้ภาพรวมของเรื่องจะยังไม่ชัดเลย"
+  },
+  {
+   "id": "Sey2",
+   "verdict": "fix-judge",
+   "why": "'ลองทำสิ่งใหม่' is Ne. Critic's body-in-event idea is right but 138 chars and uses an exercise cue. Judge keeps an in-the-event sensory example.",
+   "t": "เรื่องหลักคิดในชีวิต ฉันมักอินตอนที่ตัวเองได้อยู่ในเหตุการณ์จริง เช่น เดินขึ้นเขาจนเห็นวิวกับตา มากกว่าตอนนั่งฟังคำอธิบาย"
+  },
+  {
+   "id": "Sey3",
+   "verdict": "fix-judge",
+   "why": "People cue is E. Critic's fix uses 'จดจ่อกับ สี เสียง และกลิ่น', the same phrase as BNiSec0-b and Sef2; judge keeps 'สีสันและเสียง' and the modest anchor.",
+   "t": "สำหรับฉัน ช่วงที่ชีวิตมีรสชาติคือตอนได้อยู่กับสีสันและเสียงตรงหน้าเต็มที่ แม้จะเป็นแค่ตอนเดินตลาดใกล้บ้าน"
+  },
+  {
+   "id": "Tiy1",
+   "verdict": "fix-con",
+   "why": "'แค่ความเห็นของคนพูด' is the right contrast for quotes.",
+   "t": "เวลาฟังคำคมหรือสูตรใช้ชีวิตที่คนแชร์กัน ฉันชอบแยกดูว่าส่วนไหนเหตุผลต่อกันจริง ส่วนไหนเป็นแค่ความเห็นของคนพูด แม้จะฟังไม่ค่อยสนุก"
+  },
+  {
+   "id": "Tey2",
+   "verdict": "fix-judge",
+   "why": "Discipline virtue with no cost. Critic's cost is honest Te but 131 chars; judge trims.",
+   "t": "ฉันชอบเปลี่ยนสิ่งที่ตั้งใจไว้ เช่น เป้าปีใหม่ ให้เป็นแผนที่มีขั้นตอนและเส้นตาย จนบางเป้ากลายเป็นงานที่ต้องตามเช็กจนไม่สนุก"
+  },
+  {
+   "id": "Tey5",
+   "verdict": "fix-pro",
+   "why": "Agree fix is the critic's shorter version, keeping the honest 'รวบรัดไป' cost.",
+   "t": "หลักของฉันคืองานไหนทำร่วมกันต้องมีลำดับและหน้าที่ชัด จนบางทีคนอื่นรู้สึกว่าฉันรวบรัดไปกับเรื่องสบาย ๆ"
+  },
+  {
+   "id": "Fiy3",
+   "verdict": "fix-judge",
+   "why": "Vague with a free authenticity point. Agree fix's plant-each-new-start reads as a ritual, uses 'ทุกครั้ง', and its 'คนรอบตัวงง' cost repeats Fic0/Fiy1. Judge gives a secular private habit with a practical cost.",
+   "t": "บางอย่างที่ฉันทำเป็นประจำ เช่น เขียนโน้ตถึงตัวเองตอนเริ่มอะไรใหม่ ฉันทำเพราะมันสำคัญกับใจฉันเอง แม้บางวันต้องเลื่อนเรื่องอื่นไป"
+  },
+  {
+   "id": "Fey0",
+   "verdict": "fix-con",
+   "why": "Normative 'ต้องไป' and heroic cost removed; attunement with a mild cost.",
+   "t": "ถ้าเพื่อนชวนไปวันสำคัญของเขา ฉันมักไปเพราะรู้สึกว่าเขาคงอยากเห็นหน้ากันครบ ๆ แม้ไปถึงแล้วจะได้คุยกับเขาแค่ไม่กี่คำ"
+  },
+  {
+   "id": "Fey2",
+   "verdict": "fix-pro",
+   "why": "Confused logic. Agree fix keeps a group norm without Si 'จนชิน' or the give-up marker.",
+   "t": "อยู่กับกลุ่มเพื่อน ฉันมักทำตามสิ่งที่กลุ่มถือกันในเรื่องเล็ก ๆ เช่น ต้องถ่ายรูปก่อนกิน แม้ปกติฉันจะไม่ได้ทำแบบนั้นเลย"
+  },
+  {
+   "id": "BNeSiy0",
+   "verdict": "fix-con",
+   "why": "'คุ้นมาตั้งแต่เด็ก' brings back upbringing. Critic balances the 'เพราะ' reasons; within ±20%.",
+   "a": "ฉันมักชอบลองฟังหลักคิดเรื่องชีวิตแบบใหม่ ๆ ดูว่าเปิดมุมไหนให้คิด เพราะรู้สึกสนุก แม้บางแนวคิดจะดูแปลกในสายตาคนอื่น",
+   "b": "ฉันมักชอบหลักคิดเรื่องชีวิตที่ใช้มานานจนคุ้น เพราะรู้สึกอุ่นใจ แม้จะไม่ค่อยได้ลองแนวคิดแบบอื่น"
+  },
+  {
+   "id": "BTiFey0",
+   "verdict": "fix-pro",
+   "why": "Agree fix takes the critic's clearer Ti side and keeps Fe's mood-reading, triggered by someone going quiet, not by conflict.",
+   "a": "คุยเรื่องหลักคิดในชีวิตกับเพื่อน ฉันมักสนใจว่าหลักของแต่ละคนสอดคล้องกันเองทุกข้อไหม แม้จะคิดค้างต่อไปอีกหลายวัน",
+   "b": "คุยเรื่องหลักคิดในชีวิตกับเพื่อน ฉันมักคอยดูว่าทุกคนยังสบายใจไหม แล้วพาเปลี่ยนเรื่องเมื่อใครเริ่มเงียบ แม้จะคุยกันได้แค่ผิว ๆ"
+  },
+  {
+   "id": "BTiFey1",
+   "verdict": "fix-pro",
+   "why": "Disagreement scene removed. Agree fix swaps the critic's good-listener 'ตั้งใจฟัง' for a neutral verb.",
+   "a": "เพื่อนเล่าคติประจำใจที่เขาใช้ ฉันมักนึกในใจต่อว่าคติข้อนั้นเข้ากับข้ออื่นที่เขาเล่าไหม แม้จะตามเรื่องที่เขาเล่าต่อไม่ค่อยทัน",
+   "b": "เพื่อนเล่าคติประจำใจที่เขาใช้ ฉันมักตอบรับไปตามจังหวะให้เขาเล่าต่อได้สบาย ๆ แม้จะยังไม่ได้คิดตามว่ามันเข้ากับข้ออื่นไหม"
+  },
+  {
+   "id": "Siy1",
+   "verdict": "fix-judge",
+   "why": "A leftover religion/upbringing item. Both fixes ('มาจากเรื่องที่เคยเจอกับตัว') now duplicate Siy3 ('เชื่อในสิ่งที่เคยลองแล้วเห็นผลกับตัวเอง'). Judge anchors the principles in vividly recalled events, which is Si, with the agree team's cost.",
+   "t": "หลักใช้ชีวิตหลายข้อของฉันผูกอยู่กับเหตุการณ์ที่ยังนึกภาพออกเหมือนเพิ่งผ่านมา แม้ชีวิตตอนนี้จะต่างจากตอนนั้นไปมากแล้ว"
+  },
+  {
+   "id": "BNiSey1",
+   "verdict": "fix-con",
+   "why": "Leftover 'ความเชื่อ' framing; critic secularises it with minimal change.",
+   "a": "หลักคิดที่ดีสำหรับฉันคือหลักที่ช่วยให้เห็นทางชีวิตข้างหน้า",
+   "b": "หลักคิดที่ดีสำหรับฉันคือหลักที่ช่วยให้อยู่กับวันนี้ได้เต็มที่"
+  },
+  {
+   "id": "Sis2",
+   "verdict": "fix-con",
+   "why": "Memory-ability claim. Critic adds 'มัก' and a self-limiting cost.",
+   "t": "นึกถึงเรื่องที่เคยเรียน ฉันมักนึกออกมาพร้อมภาพว่าตอนนั้นเรียนที่ไหน ฟังจากคลิปไหน จนบางทีจำที่มาได้ชัดกว่าตัวเนื้อหาเสียอีก"
+  },
+  {
+   "id": "Ses3",
+   "verdict": "fix-con",
+   "why": "Double 'เช่น' list and skill reading fixed, with a cost.",
+   "t": "เวลาฝึกทำอาหารหรือซ่อมของตามคลิป ฉันมักจดจ่อกับสี กลิ่น หรือเสียงที่เปลี่ยนไปตรงหน้า แล้วปรับตามนั้นเลย จนบางทีทำไม่ตรงกับในคลิป"
+  },
+  {
+   "id": "Tes1",
+   "verdict": "fix-judge",
+   "why": "'ทุ่มเวลา' virtue and no cost are real. Critic's skip-basics cost repeats Tes3's 'ข้าม…', so judge uses a backtrack cost.",
+   "t": "เวลาเรียนเรื่องใหม่ ฉันมักเริ่มจากส่วนที่เอาไปใช้กับเป้าหมายได้ก่อน แม้บางบทจะต้องย้อนกลับมาเรียนพื้นฐานทีหลัง"
+  },
+  {
+   "id": "Fis0",
+   "verdict": "fix-con",
+   "why": "Virtuous-learner answer; the half-done course cost balances it.",
+   "t": "เวลาเรียนเอง ฉันจะเรียนต่อเนื่องก็ต่อเมื่อเรื่องนั้นตรงกับสิ่งที่ฉันให้คุณค่า จนบางคอร์สที่จำเป็นกับงานก็ค้างอยู่ครึ่งทาง"
+  },
+  {
+   "id": "Fis1",
+   "verdict": "fix-con",
+   "why": "Stem duplicate and marker removed.",
+   "t": "เวลาต้องเลือกหัวข้อชิ้นงานในคอร์ส ฉันมักเลือกเรื่องที่ผูกกับตัวฉันจริง ๆ แม้หัวข้อตัวอย่างที่คอร์สให้มาจะทำง่ายกว่า"
+  },
+  {
+   "id": "Fis3",
+   "verdict": "fix-con",
+   "why": "Heroic honesty cost replaced with a neutral rambling cost.",
+   "t": "เวลาคอร์สให้เขียนสะท้อนสิ่งที่เรียน ฉันเขียนตามที่รู้สึกจริง แม้บางทีจะเขียนยาวเกินและออกนอกหัวข้อที่คอร์สถาม"
+  },
+  {
+   "id": "Fes1",
+   "verdict": "fix-con",
+   "why": "Classroom scene moved to a workshop or online class.",
+   "t": "ถ้าใครในเวิร์กช็อปหรือคลาสออนไลน์เปิดไมค์ตอบแล้วติดขัด ฉันมักเขินแทนจนฟังต่อไม่ค่อยเข้าหัว"
+  },
+  {
+   "id": "Fes2",
+   "verdict": "fix-pro",
+   "why": "Study-group E/I confound is real. The critic's cost is the give-up marker; agree fix gives a solo learner a different cost.",
+   "t": "เรียนอะไรใหม่มา ฉันมักนึกก่อนว่าคนใกล้ตัวน่าจะสนุกกับส่วนไหน แล้วเล่าแค่ส่วนนั้น จนบางทีเนื้อหาจริงแทบไม่ได้พูดถึง"
+  },
+  {
+   "id": "BNiSes0",
+   "verdict": "fix-judge",
+   "why": "Neither side had a cost and 'เห็นแก่น' sounds deeper. Critic's mirrored costs run 133/135 chars and its Ni cost copies Nis2's 'lose details'. Judge plainens Ni's wording and uses crossed costs.",
+   "a": "เวลาดูคลิปหรือคอร์สที่อธิบายเรื่องยาก ฉันจะเข้าใจเมื่อเห็นว่าทุกตัวอย่างมีเรื่องเดียวกันอยู่ข้างหลัง แม้ยังไม่ได้ลองทำตามเองสักอัน",
+   "b": "เวลาดูคลิปหรือคอร์สที่อธิบายเรื่องยาก ฉันจะเข้าใจเมื่อได้ลองทำตามตัวอย่างตรงหน้า แม้ยังไม่ได้มองว่าทุกตัวอย่างโยงกันยังไง"
+  },
+  {
+   "id": "BNeSis0",
+   "verdict": "fix-pro",
+   "why": "Agree fix keeps the critic's Ne cost and avoids 'คุ้นมือ' and the BNeSic0-b 'รู้สึกซ้ำ ๆ'.",
+   "a": "เวลาทบทวนสิ่งที่เรียนไปแล้ว ฉันชอบลองหาวิธีจำหรือมุมมองใหม่ ๆ ให้กับเนื้อหาเดิม แม้บางวิธีจะทำให้ทบทวนช้าลง",
+   "b": "เวลาทบทวนสิ่งที่เรียนไปแล้ว ฉันชอบใช้วิธีจำและลำดับทบทวนแบบที่ใช้มาจนชิน แม้เนื้อหาเดิมจะเริ่มอ่านแล้วรู้สึกจำเจ"
+  }
+ ],
+ "lessons": [
+  "A fix can solve its own flag and still duplicate something else. Fec0's new ending was word for word the existing Fel4, and l/f are now one pool. Nee1/Nee4 fixes copied Nee0, the Fie0 trend scene copied Fii6, and the Siy1 fixes copied Siy3. Check every fix against the whole bank, including merged pools, not just the debate batch.",
+  "Cost endings cluster by function even after a sweep. Se 'ยังไม่ได้คิด/ยังไม่รู้ว่า…' (See2/3/4, BNiSee0, Sey1), Fi 'แม้ระหว่างนั้นจะต้อง…' for waiting, Fi 'คนอื่นงง', Fe 'the guest says don't bother', Te 'work around it, then leave the broken thing for days' (Tec2/Tee2), and Ni 'แม้ตอนนี้จะยัง…' for future fit. Give each item a different kind of cost: time, a comic overshoot, a hunch that turned out wrong, or a practical knock-on.",
+  "Swapping one marker for another only moves the leak. 'เป็นตัวเอง' became 'ใจบอกว่าใช่', 'ตรงกับใจ' or 'มีความหมายกับใจ', and 'คุ้นมือ' became 'จนชิน'. Use each Fi or Ni cue at most once per context, and prefer a concrete private meaning or a concrete process over a feeling label.",
+  "Many critic fixes broke the length rules: 38 of 99 ran over 130 characters, mostly by stacking an example and a cost. Measure after every edit, and trim the stem or the example before weakening the cost.",
+  "A fix must pass the one-function test and the virtue test again. Ni should converge, not plan (J). Ti should stay internal, not become DIY teardown. Se should be the outer senses, not 'what changed since before' (Si). Fe should be attunement that pays its own down-face cost (over-fussing, misplaced worry), never heroic loss or 'gave up my preference'. Secular y items must also drop upbringing cues (คุ้นมาตั้งแต่เด็ก) and anything that reads as a lucky ritual."
+ ]
+}
