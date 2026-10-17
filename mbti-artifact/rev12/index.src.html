@@ -1440,7 +1440,7 @@ var DISCLAIMERS = [
   "ข้อช่วงที่ 2 ถูกเลือกจากคำตอบช่วงแรกของคุณเอง จึงไม่ใช่การทดสอบอิสระ “สอดคล้อง” แปลว่าคุณตอบสองช่วงไปทางเดียวกัน ไม่ได้แปลว่าผลถูกต้อง ผลทั้งหมดคำนวณด้วยโค้ดในหน้านี้ ไม่มี AI วิเคราะห์ตอนคุณทำ และเกณฑ์ตัดสินของช่วงที่ 2 ตั้งขึ้นเองแล้วทดลองกับผู้ตอบจำลองเท่านั้น ไม่ใช่ข้อมูลคนจริง",
   "การจัดกลุ่ม Keirsey และ Berens เป็นเพียงการจัดตัวอักษรของคุณใหม่ ไม่ได้เพิ่มการวัด",
   "ข้อถามตรงเรื่อง I/E ถามตรงทุกชุด 8 ข้อ (+3 ข้อในช่วงที่ 2) ไม่ว่าคุณจะเลือกเรื่องอะไร แต่ตัวอักษร I/E ในผลยังรวมกับคะแนนฟังก์ชันด้วย และข้อชุดนี้เขียนใหม่ ยังไม่ผ่านการทดสอบกับคนจริง",
-  "ข้อเรื่องหุ้นและการลงทุนถามถึงวิธีคิดของคุณ ไม่ใช่คำแนะนำการลงทุน",
+  "ข้อเรื่องเงินและการซื้อของถามถึงวิธีคิดและวิธีเลือกของคุณ ไม่ใช่คำแนะนำการเงินหรือการลงทุน",
   "อย่าใช้ผลนี้ตีตรา ตัดสิน หรือจำกัดตัวคุณเองหรือผู้อื่น",
   "สิ่งที่คุณตอบไม่ถูกส่งออกจากหน้านี้ แหล่งอ้างอิงตรวจเมื่อ 2026-10-13 ถึง 2026-10-16 และไม่อัปเดตอัตโนมัติ"
 ];
@@ -1569,7 +1569,9 @@ function surCount(chosenLen, L) {
   var S = LEN_SPEC[L]; if (!S) return 0;
   return Math.max(0, Math.min(CTX_ALL.length - chosenLen, Math.max(1, S.ctxMin - chosenLen)));
 }
-function plan(ctxList, L) { var S = LEN_SPEC[L]; return { ok: !!S && ctxList.length >= S.minChosen }; }
+/* rev12: นับเป็น "เรื่อง" (เวลาว่างกับงานอดิเรกที่รวมกันนับเป็นเรื่องเดียว) */
+function topicCount(list) { var o = {}; list.forEach(function (c) { o[topicOf(c)] = 1; }); return Object.keys(o).length; }
+function plan(ctxList, L) { var S = LEN_SPEC[L]; return { ok: !!S && topicCount(ctxList) >= S.minChosen }; }
 function availableLens(ctxList) { return ctxList.length ? LENS.filter(function (L) { return plan(ctxList, L).ok; }) : []; }
 function bipPerPair() { return 2; }
 function fnsOf(q) { return q.bip ? [q.fa, q.fb] : [q.f]; }
@@ -1591,13 +1593,18 @@ function pickSurprise(seed, chosen, n) {
   var rnd = makeRng(seed + "|sur");
   var broad = shuffle(SUR_BROAD.filter(function (c) { return chosen.indexOf(c) < 0; }), rnd);
   var niche = shuffle(SUR_NICHE.filter(function (c) { return chosen.indexOf(c) < 0; }), rnd);
-  return broad.concat(niche).slice(0, n);
+  var out = broad.concat(niche).slice(0, n);
+  /* เรื่องที่สุ่มได้มีคลังที่รวมกันอยู่ (เช่น เวลาว่าง + งานอดิเรก) ให้ใช้ทั้งสองคลัง */
+  Object.keys(CTX_FOLLOW).forEach(function (k) { if (out.indexOf(CTX_FOLLOW[k]) >= 0 && chosen.indexOf(k) < 0 && out.indexOf(k) < 0) out.push(k); });
+  return out;
 }
 /* เลือกข้อเลือกข้างของคู่ key: ข้อรายบริบทจากเรื่องที่ใช้อยู่ไม่เกินครึ่ง (ปัดขึ้น) ที่เหลือเป็นข้อทั่วไป
    ไม่ใช้ข้อของเรื่องที่ไม่ได้เลือกหรือถูกข้าม ถ้าข้อทั่วไปหมดจึงเติมด้วยข้อรายบริบทที่เหลือ */
 function bipPool(key, live, used, dropped, n, rnd, avoidCtx) {
   /* rev11: ข้อคู่ตรงข้ามที่สองฝั่งน่าปรารถนาต่างกันเกิน 0.5 (ตามแผงผู้ให้คะแนน) ไม่ใช้ */
-  var ok = function (b) { var r = typeof DES_BIP !== "undefined" && DES_BIP[b.id]; return b.pair === key && !used[b.id] && dropped.indexOf(b.c) < 0 && !(r && Math.abs(r[0] - r[1]) > 0.5) && !(typeof RETIRED !== "undefined" && RETIRED[b.id]); };
+  var BIP_GAP_MAX = 0.4;
+  /* rev12 ตรวจรอบหลัง: ตัดคู่ที่สองฝั่งน่าปรารถนาต่างกันเกิน 0.4 (เดิม 0.5) เพราะฉากเจอเรื่องไม่คาดคิดมักเอียงไปฝั่งลงมือแก้ */
+  var ok = function (b) { var r = typeof DES_BIP !== "undefined" && DES_BIP[b.id]; return b.pair === key && !used[b.id] && dropped.indexOf(b.c) < 0 && !(r && Math.abs(r[0] - r[1]) > BIP_GAP_MAX) && !(typeof RETIRED !== "undefined" && RETIRED[b.id]); };
   var ctxB = shuffle(BIPS.filter(function (b) { return ok(b) && b.c !== "o" && live.indexOf(b.c) >= 0; }), rnd);
   if (avoidCtx) ctxB = ctxB.filter(function (b) { return b.c !== avoidCtx; }).concat(ctxB.filter(function (b) { return b.c === avoidCtx; }));
   var gen = shuffle(BIPS.filter(function (b) { return ok(b) && b.c === "o"; }), rnd);
@@ -1869,7 +1876,7 @@ function stabilityOf(rank) {
 function contextGaps(set, answers, minPer, minGap) {
   var by = {}, res = [];
   scoredItems(set, answers).forEach(function (it) {
-    var c = set[it.i].c;
+    var c = topicOf(set[it.i].c);
     if (c !== "k" && c !== "o") (by[c] = by[c] || {})[it.i] = 1;
   });
   Object.keys(by).forEach(function (c) {
@@ -1890,7 +1897,7 @@ function contextGaps(set, answers, minPer, minGap) {
 function agreements(set, answers, skip) {
   var by = {};
   set.forEach(function (q, i) {
-    if (q.bip || q.c === "k" || q.c === "o" || skip.indexOf(q.c) >= 0) return;
+    if (q.bip || q.c === "k" || q.c === "o" || skip.indexOf(q.c) >= 0 || skip.indexOf(topicOf(q.c)) >= 0) return;
     var a = answers[i];
     if (typeof a === "number" && a >= 1) (by[q.c] = by[q.c] || []).push({ t: q.t, f: q.f, a: a, i: i });
   });
@@ -1907,7 +1914,7 @@ function chosenByCtx(set, answers, skip) {
   var by = {};
   set.forEach(function (q, i) {
     var a = answers[i];
-    if (!q.bip || q.ei || q.c === "k" || q.c === "o" || skip.indexOf(q.c) >= 0 || typeof a !== "number" || Math.abs(a) < 2) return;
+    if (!q.bip || q.ei || q.c === "k" || q.c === "o" || skip.indexOf(q.c) >= 0 || skip.indexOf(topicOf(q.c)) >= 0 || typeof a !== "number" || Math.abs(a) < 2) return;
     var key = CTX_FOLLOW[q.c] || q.c;
     (by[key] = by[key] || []).push({ t: a > 0 ? q.ta : q.tb, f: a > 0 ? q.fa : q.fb, a: Math.abs(a), i: i });
   });
@@ -2194,7 +2201,7 @@ function buildProbes(set, answers, seed, info) {
 var VERDICT_T = { mid: 1, exp: 0.15, expBip: 0.3 };
 var CH_T = { min: 8, rate: 0.8, gap: 0, margin: 0.6 };
 var CH_COV = "1 ใน 20"; /* สัดส่วนผู้ตอบจำลองที่ผ่านเกณฑ์ */
-var CH_PREC = "90–95"; /* ความแม่นของ “ผ่านการเช็กซ้ำ” ในผู้ตอบจำลอง 3 แบบ แบบละ 4,800 คน (tools/calib2.js, calib2_hold.js, calib2_alt.js ซึ่งใช้น้ำหนักหน้าที่ต่างจากที่หน้านี้ใช้คิดคะแนน) */
+var CH_PREC = "91–96"; /* ความแม่นของ “ผ่านการเช็กซ้ำ” ในผู้ตอบจำลอง 3 แบบ แบบละ 4,800 คน (tools/calib2.js, calib2_hold.js, calib2_alt.js ซึ่งใช้น้ำหนักหน้าที่ต่างจากที่หน้านี้ใช้คิดคะแนน) */
 function verify(set, answers, mainN) {
   var mset = set.slice(0, mainN), mans = answers.slice(0, mainN);
   var pre = functionScores(mset, mans), preRank = rankTypes(pre.c, pre.ei), preA = assess(preRank);
@@ -2372,7 +2379,7 @@ function fix(v) { return Math.abs(v) < 0.05 ? "0.0" : (v >= 0 ? "+" : "−") + M
     function valOf(s) { return s === "n" ? "na" : Number(s) - 2; }
     function startRun(seed, chosen, L) {
       usedSeed = seed; usedChosen = chosen.slice(); usedL = L;
-      var sn = surCount(chosen.length, L);
+      var sn = surCount(topicCount(chosen), L);
       usedSur = sn ? pickSurprise(seed, chosen, sn) : [];
       set = buildSet(usedSeed, usedChosen, usedL, usedSur);
       answers = set.map(function () { return null; });
@@ -2390,7 +2397,7 @@ function fix(v) { return Math.abs(v) < 0.05 ? "0.0" : (v >= 0 ? "+" : "−") + M
         if (r) { set.splice(r.pos, 0, r.item); answers.splice(r.pos, 0, null); reps++; }
       }
       return !!(topic && naTopic[topic] === 2 && usedDrop.indexOf(topic) < 0 && noAsk.indexOf(topic) < 0 &&
-        set.some(function (x, k) { return answers[k] === null && !x.ei && !x.ph && x.c === topic; })) ? topic : false;
+        set.some(function (x, k) { return answers[k] === null && !x.ei && !x.ph && topicOf(x.c) === topic; })) ? topic : false;
     }
     /* จบช่วงที่ 1: คำนวณผลเบื้องต้นแบบเงียบ ๆ แล้วต่อข้อช่วงที่ 2 */
     function closeMain() {
@@ -2620,7 +2627,7 @@ function fix(v) { return Math.abs(v) < 0.05 ? "0.0" : (v >= 0 ? "+" : "−") + M
             '<div class="row"><input id="seed" type="text" maxlength="40" autocomplete="off" placeholder="ชื่อเล่น หรือคำอะไรก็ได้"><button type="button" class="btn" id="roll">สุ่มคำให้</button></div></div>' +
           '<fieldset class="field"><legend>ด้านหลักของชีวิต</legend><div class="chips2">' + main + '</div></fieldset>' +
           '<fieldset class="field"><legend>สิ่งที่คุณสนใจ</legend><div class="chips2">' + more + '</div></fieldset>' +
-          '<p class="small">ถ้าตอนนี้โสด ไม่ได้ลงทุน หรือไม่ได้ทำเรื่องนั้นอยู่ ตอบจากประสบการณ์ที่ผ่านมา หรือกด “ไม่เกี่ยวกับฉัน” ได้เลย ข้อเรื่องหุ้นและการลงทุนถามถึงวิธีคิด ไม่ใช่คำแนะนำการลงทุน</p>' +
+          '<p class="small">ถ้าตอนนี้โสด หรือไม่ได้ทำเรื่องนั้นอยู่ ตอบจากประสบการณ์ที่ผ่านมา หรือกด “ไม่เกี่ยวกับฉัน” ได้เลย ข้อเรื่องเงินและการซื้อของถามถึงวิธีคิดและวิธีเลือก ไม่ใช่คำแนะนำการเงินหรือการลงทุน</p>' +
           '<div class="mini"><button type="button" class="btn small ghost" id="all">เลือกทั้งหมด</button><button type="button" class="btn small ghost" id="none">ล้างที่เลือก</button></div>' +
           '<fieldset class="field"><legend>ความยาวช่วงที่ 1</legend><div class="chips2 tight">' + lenChips + '</div><p class="guard" id="guard"></p></fieldset>' +
           '<p class="small" id="summary"></p>' +
@@ -2664,7 +2671,7 @@ function fix(v) { return Math.abs(v) < 0.05 ? "0.0" : (v >= 0 ? "+" : "−") + M
       if (!list.length) { guard.textContent = "เลือกอย่างน้อย 1 เรื่องก่อน"; summary.textContent = ""; }
       else {
         guard.textContent = avail.indexOf(84) < 0 ? "เลือกอย่างน้อย 2 เรื่องเพื่อปลดล็อก 84 และ 92 ข้อ" : "";
-        var sn = surCount(list.length, cfg.L), li = lenInfo(cfg.L);
+        var sn = surCount(topicCount(list), cfg.L), li = lenInfo(cfg.L);
         summary.textContent = "ช่วงที่ 1: " + cfg.L + " ข้อ แบบสองตัวเลือกทั้งหมด = เทียบสองหน้าที่ " + li.mfc + " ข้อ + คู่ตรงข้าม " + li.opp + " ข้อ + ข้อถามตรงเรื่อง I/E " + li.ei + " ข้อ · เรื่อง: " + names(list) + " + ระบบสุ่มเพิ่ม " + sn + " เรื่อง (ช่วยให้มีข้อพอ และลดการเลือกแต่เรื่องที่ถนัด)";
       }
       document.getElementById("start").disabled = !(list.length && avail.length && cfg.ack);
@@ -3432,6 +3439,13 @@ function fix(v) { return Math.abs(v) < 0.05 ? "0.0" : (v >= 0 ? "+" : "−") + M
         else renderResume("local");
       } else {
         var v10 = null; try { v10 = localStorage.getItem("ft10_progress"); if (v10) localStorage.removeItem("ft10_progress"); } catch (e) {}
+        /* rev12: รอบที่ทำค้างจากเวอร์ชันก่อน (เช่น rev11) แจ้งให้รู้แล้วลบทิ้ง */
+        try {
+          for (var oi = localStorage.length - 1; oi >= 0; oi--) {
+            var ok0 = localStorage.key(oi);
+            if (ok0 && ok0.indexOf(RUNPFX) === 0) { var orun = null; try { orun = JSON.parse(localStorage.getItem(ok0)); } catch (e) {} if (orun && orun.v !== BANKV) { v10 = v10 || "old"; localStorage.removeItem(ok0); } }
+          }
+        } catch (e) {}
         renderSetup(v10 ? "แบบทดสอบที่ทำค้างไว้มาจากเวอร์ชันเก่า คำถามเปลี่ยนไปแล้ว ทำต่อไม่ได้ เริ่มใหม่ได้เลย" : undefined);
       }
     }

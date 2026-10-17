@@ -1,0 +1,533 @@
+[
+ {
+  "sev": "blocker",
+  "id": "Fiy2",
+  "area": "brief:religion-in-y",
+  "finding": "Untouched existing y item. 'ฉันถือว่าความเชื่อเป็นเรื่องส่วนตัว และไม่อยากให้ใครมาบอกว่าฉันต้องเชื่ออะไร' reads as religious faith ('ต้องเชื่ออะไร'), which breaks the secular-only rule for y, although the CHANGELOG says every religious item was rewritten. It is also a resisting-others line (close to a refusal), and it carries no cost.",
+  "suggested_fix": "ฉันถือว่าหลักใช้ชีวิตเป็นเรื่องของแต่ละคน เลยมักเก็บหลักของตัวเองไว้เงียบ ๆ แม้บางทีคนรอบตัวจะไม่รู้ว่าฉันยึดอะไรอยู่"
+ },
+ {
+  "sev": "blocker",
+  "id": "BTeFiy1",
+  "area": "brief:religion-in-y",
+  "finding": "Untouched existing y bipolar item. Both sides open with 'ความเชื่อที่มีค่าคือ…'. Under the old 'ความเชื่อ' context this is about religious belief, and the evaluative 'ที่มีค่า' plus no cost on either side pushes both sides high.",
+  "suggested_fix": {
+   "a": "สำหรับฉัน หลักคิดที่หยิบมาใช้บ่อยคือหลักที่เอาไปจัดการเรื่องตรงหน้าได้จริง แม้บางข้อจะไม่ค่อยตรงกับตัวตนของฉัน",
+   "b": "สำหรับฉัน หลักคิดที่หยิบมาใช้บ่อยคือหลักที่ตรงกับตัวตนลึก ๆ ของฉัน แม้บางข้อจะเอาไปใช้กับเรื่องตรงหน้าได้ไม่ค่อยตรง"
+  }
+ },
+ {
+  "sev": "major",
+  "id": "Fiy0",
+  "area": "brief:religion-in-y",
+  "finding": "Untouched y item that keeps the 'ความเชื่อ … ต่อให้คนรอบตัวเชื่อกันหมด … ฉันก็ไม่ตาม' framing. It still reads as religious or superstitious belief and as refusing the group (Fi vs group, which the Thai map flags as the Egotism factor).",
+  "suggested_fix": "หลักใช้ชีวิตของฉันต้องผ่านใจตัวเองก่อน ต่อให้คนรอบตัวยึดอีกแบบ ฉันก็มักใช้แบบของตัวเองเงียบ ๆ แม้บางทีต้องอธิบายตัวเองอยู่บ่อย ๆ"
+ },
+ {
+  "sev": "major",
+  "id": "Fiy5",
+  "area": "brief:religion-in-y",
+  "finding": "Untouched y item: 'สิ่งที่ฉันเชื่อลึก ๆ … มากกว่าสิ่งที่ได้ยินต่อกันมา … เชื่อไม่เหมือนคนรอบตัว'. This is faith or tradition language left in a context that is now secular.",
+  "suggested_fix": "หลักที่ฉันยึดลึก ๆ มักมาจากสิ่งที่รู้สึกข้างในมากกว่าสิ่งที่ได้ยินต่อกันมา แม้บางทีจะทำให้คิดไม่เหมือนคนรอบตัว"
+ },
+ {
+  "sev": "major",
+  "id": "Ney3",
+  "area": "brief:religion-in-y",
+  "finding": "Untouched y item: “ถ้าความเชื่อนี้เป็นจริง…”. This asks the reader to speculate about whether a belief is true, which in Thai defaults to religious or supernatural belief.",
+  "suggested_fix": "ฉันสนุกกับการคิดต่อว่า “ถ้าใช้หลักนี้กับทุกเรื่องในชีวิต แล้วอะไรจะตามมาอีก” จนบางทีคิดเลยไปไกลจากตัวหลักเอง"
+ },
+ {
+  "sev": "major",
+  "id": "Tiy5",
+  "area": "brief:religion-in-y",
+  "finding": "Untouched y item: 'ความเชื่อที่ฉันถือเอง' keeps the old belief/faith wording.",
+  "suggested_fix": "ต่อให้เป็นหลักคิดที่ฉันใช้เอง ถ้าเจอจุดที่ขัดกันเอง ฉันก็อยากรื้อคิดใหม่ แม้จะรู้สึกไม่มั่นคงไปพักหนึ่ง"
+ },
+ {
+  "sev": "minor",
+  "id": "Ney2,Niy2,Tiy0",
+  "area": "brief:religion-in-y",
+  "finding": "Untouched y items still use 'ความเชื่อ' or 'เชื่อ' ('มุมมองเรื่องชีวิตและความเชื่อ', 'สิ่งที่ฉันเชื่อตอนนี้', 'ก่อนเชื่ออะไร'). These are milder but keep the old religion connotation. Swap in 'หลักคิด'. The fix shown is for Ney2. Niy2: 'หลักคิดที่ฉันใช้ตอนนี้ค่อย ๆ ตกผลึกเป็นภาพเดียวในหัว…'. Tiy0: 'ก่อนรับหลักคิดอะไรมาใช้ ฉันต้องไล่เหตุผลในหัวก่อน…'.",
+  "suggested_fix": "มุมมองเรื่องชีวิตและหลักคิดของฉันขยับไปเรื่อย ๆ ตามไอเดียใหม่ที่เจอ จนบางทีหลักที่เคยพูดไว้ก็เปลี่ยนไปแล้ว"
+ },
+ {
+  "sev": "major",
+  "id": "Fey0",
+  "area": "brief:religion-in-y / desirability",
+  "finding": "This y rewrite has des 3.61, the highest Fe item in y. 'ไปวันสำคัญของเขาเพราะเขาคงอยากเห็นหน้ากันครบ' is the loyal-friend answer. 'วันสำคัญ' also still covers ordinations and funerals (the old item was งานบุญ), so the religious scene is implied.",
+  "suggested_fix": "ถ้าเพื่อนชวนไปงานวันเกิดของเขา ฉันมักรีบตอบรับเพราะกลัวเขาจะรู้สึกว่าไม่มีใครไป ทั้งที่จริงงานนั้นมีคนไปเต็มอยู่แล้ว"
+ },
+ {
+  "sev": "minor",
+  "id": "Siy2",
+  "area": "brief:religion-in-y",
+  "finding": "This rewrite replaced 'พิธีเล็ก ๆ' but still describes a pre-event ritual done to calm the mind. Thai readers may take it as a lucky ritual (เคล็ด). 'ทุกอย่าง' is also an absolute (R4).",
+  "suggested_fix": "ก่อนเรื่องสำคัญ ฉันมักทำเช้าวันนั้นให้เหมือนวันปกติที่คุ้น เช่น กินมื้อเช้าแบบเดิมหรือนั่งรถสายเดิม แม้ต้องตื่นเช้ากว่าปกติ"
+ },
+ {
+  "sev": "minor",
+  "id": "Tic1",
+  "area": "thai-culture",
+  "finding": "A new c item set on 'ข้อห้ามเรื่องบ้านที่พูดต่อกันมา เช่น ห้ามตากผ้าในห้อง'. Folk household taboos are close to superstition (ถือ/เคล็ด). Questioning them puts the Ti side in a 'modern sceptic vs tradition' frame, which brings back the belief content the owner removed from y.",
+  "suggested_fix": "ป้ายวิธีใช้ที่ติดมากับเครื่องใช้ในบ้าน เช่น ห้ามใช้ปลั๊กพ่วง ฉันมักนึกเองว่ามันห้ามเพราะกลไกอะไร แม้จะยังทำตามอยู่เหมือนคนอื่น"
+ },
+ {
+  "sev": "minor",
+  "id": "Fis2",
+  "area": "thai-culture",
+  "finding": "Untouched s item: 'เรียนสิ่งที่ขัดกับความเชื่อของตัวเอง ฉันรู้สึกต่อต้าน'. This is belief and resistance wording. It is outside y but is the only remaining 'ความเชื่อ' item in s.",
+  "suggested_fix": "ถ้าต้องเรียนเรื่องที่ขัดกับหลักที่ฉันยึดไว้ ฉันมักเรียนต่อได้ แต่ในใจจะรู้สึกค้าง ๆ อยู่ลึก ๆ"
+ },
+ {
+  "sev": "major",
+  "id": "SYS-mishap-direction",
+  "area": "desirability / construct",
+  "finding": "Systemic. In mishap scenes the 'act on it now' side is rated as more desirable, so the scenes reward coping competence rather than the function. New mishap bipolar items: Se>Ni in 8/8 (mean +0.28), Te>Fi in 5/5 (+0.28), Fe>Ti in 4/4 (+0.25). New mishap statements: Se 3.30, Te 3.21 vs Ni 2.91, Ti 2.96. The engine only drops bipolar items with a gap >0.5, so all of these ship and push fakers toward S/T/E, which the Thai sample already over-picks (S 82.5%, T 61%). The usual cause is a cost asymmetry: the Ni/Fi/Ti side's cost is 'nothing got done' (ยังไม่ได้ขยับงาน / ข้อมูลยังค้าง / ที่อื่นหลุดหมด), while the Se/Te side's cost is mild or another success.",
+  "suggested_fix": "ให้ฝั่งที่ ‘ลงมือแก้ทันที’ จ่ายต้นทุนชนิดเดียวกับฝั่งที่คิด เช่น ใช้ท่อนท้ายคู่ขนาน “แม้อาจต้องมาแก้จุดเดิมซ้ำอีกรอบ” / “แม้จะไม่ช่วยให้เรื่องจบเร็วขึ้น” กับทั้งสองฝั่ง และห้ามให้ฝั่ง Ni/Ti/Fi จบด้วย “ยังไม่ได้ทำอะไรเลย”"
+ },
+ {
+  "sev": "major",
+  "id": "SYS-lexical-tells",
+  "area": "item transparency (R6)",
+  "finding": "Systemic keyword keying across the 274 new statements and 57 new bipolar items (share of a function's items containing the marker, vs other functions). Fi 'ใจ…/ถามใจ/ใจรู้สึกว่าใช่/เป็นตัวเอง/ตัวฉัน/มีความหมาย' 30/49 (61%) vs ≤6%. Ne 'หลายแบบ/หลายทาง/หลายอย่าง…' 30/49 (61%) vs ≤2%. Si 'เดิม/เคย/คุ้น' 44/50 (88%). Ti 'ไล่/เพราะอะไร/ลงตัว/ต่อกัน' 32/45 (71%). Se 'ตรงหน้า/ตรงนั้น/ของจริง/สะดุดตา' 31/50 (62%). Ni 'ภาพ/แก่น/ปลายทาง/ไปทางไหน' 27/48 (56%). Fe 'ทุกคน/คนส่วนใหญ่/ในกลุ่ม' 22/47 and 'ห่วง' 8/47 (0 elsewhere). Fi and Ne are the worst: 'ใจ' is close to naming the Feeling construct, and a single word lets readers spot the function in any statement pair.",
+  "suggested_fix": "ลดคำบอกใบ้ให้ไม่เกินราว 1 ใน 3 ของแต่ละหน้าที่ เช่น Fi ใช้เหตุผลส่วนตัวที่จับต้องได้แทน “ใจ” (“เพราะเป็นสีที่ฉันใส่ตอนเริ่มงานแรก”), Ne ใช้ “ทั้ง…ทั้ง…” หรือยกตัวอย่างสองสามอย่างแทน “หลายแบบ”, Si สลับ “เดิม” กับเหตุการณ์ที่จำได้ (“เหมือนครั้งที่…”)"
+ },
+ {
+  "sev": "minor",
+  "id": "SYS-cost-connector",
+  "area": "item transparency",
+  "finding": "The cost connector partly reveals the function. Fi uses 'แม้' in 48/49 items and Te in 46/50, while Fe uses 'จน/จนบางที' in 23/47, Ne in 22/49 and Ti in 18/45. Repeated cost stems: 'แม้จะยังไม่ได้…' in Se 10/50 and Ni 10/48, 'ที่ตั้งใจ' in Ne 7, Se 6 and Te 5, 'แม้จะไม่ใช่…' in Te 7. Unlike rev11's 'แม้จะอธิบายเหตุผลไม่ได้', no single ending dominates one function, but the connector split shows up when Fi is paired with Fe or Ne.",
+  "suggested_fix": "สลับรูปท่อนต้นทุนให้แต่ละหน้าที่มีทั้ง “แม้…” และ “จนบางที…” ราวครึ่งต่อครึ่ง เช่น Fii8 → “เลือกสีของของใช้ ฉันมักเลือกสีที่อยากอยู่ด้วยในช่วงนั้น จนบางทีของในห้องสีตีกันไปหมด”"
+ },
+ {
+  "sev": "minor",
+  "id": "SYS-JP-confound",
+  "area": "construct (J/P)",
+  "finding": "Several Te items are really J planning: Tec0 (an order schedule), Tec1 (a timed checklist), Tes0 (a daily study timetable checked against the plan), Tey2 (deadlines). Many perceiving-function costs are 'the planned task slipped' (Sec0, Sec1, Sec5, Fic3, Nic3, Nee0, Nee3), which keys P rather than the function.",
+  "suggested_fix": "เวลาเรียนคอร์สออนไลน์ ฉันมักเลือกบทที่จะเรียนจากว่าบทไหนพาไปถึงสิ่งที่อยากทำได้ไวที่สุด แม้บางบทที่น่าสนใจจะถูกข้ามไป"
+ },
+ {
+  "sev": "major",
+  "id": "Sec3",
+  "area": "desirability",
+  "finding": "des 3.61 and no cost. Grabbing towels to stop rain coming in is simply the competent answer.",
+  "suggested_fix": "ฝนสาดเข้าห้องกะทันหัน ฉันมักคว้าของใกล้มือมากันน้ำไว้ก่อน เช่น ผ้าขนหนูหรือกะละมัง จนบางทีผ้าที่คว้ามาเป็นผืนที่เพิ่งซักเสร็จ"
+ },
+ {
+  "sev": "major",
+  "id": "Sew6",
+  "area": "desirability",
+  "finding": "des 3.64. Carrying on at work during a power cut is the model employee, and the cost 'ทำได้แค่บางส่วน' is weak.",
+  "suggested_fix": "ระหว่างทำงานแล้วไฟดับ ฉันมักหยิบสิ่งที่ใช้ได้ตรงหน้ามาทำต่อเลย เช่น เปิดงานในมือถือ แม้ไฟล์ที่แก้ในมือถือจะต้องตามมาจัดใหม่อีกรอบ"
+ },
+ {
+  "sev": "major",
+  "id": "Set4",
+  "area": "desirability",
+  "finding": "des 3.64 and no cost. Checking pavement heat before walking the pet reads as the responsible owner.",
+  "suggested_fix": "เลือกว่าจะพาสัตว์เลี้ยงออกไปเดินช่วงไหน ฉันมักดูจากแดดและพื้นถนนตอนนั้นแล้วออกไปเลย แม้บางวันเดินได้ไม่ถึงหัวซอยก็ต้องพากลับ"
+ },
+ {
+  "sev": "major",
+  "id": "Fei7",
+  "area": "desirability",
+  "finding": "des 3.64. Telling the group straight away because others might wait is both responsible and caring, and the cost is barely a cost.",
+  "suggested_fix": "ถ้าของที่สั่งรวมกับเพื่อนส่งช้า ฉันมักรีบบอกในกลุ่มก่อนเพราะห่วงว่าใครจะรอเก้อ จนต้องส่งข้อความแก้วันส่งตามไปอีกหลายรอบ"
+ },
+ {
+  "sev": "major",
+  "id": "Few6",
+  "area": "desirability / Thai culture",
+  "finding": "des 3.64. Picking the date that disrupts colleagues' private plans least is a considerate-colleague virtue (เกรงใจ), and the cost lands on the work, not on Fe.",
+  "suggested_fix": "ถ้าฝนตกหนักจนต้องเลื่อนงานนอกสถานที่ ฉันมักไล่ถามทีละคนว่าวันไหนไม่กระทบแผนส่วนตัว จนกว่าจะได้วันใหม่ก็กินเวลาไปทั้งบ่าย"
+ },
+ {
+  "sev": "major",
+  "id": "Fey6",
+  "area": "desirability",
+  "finding": "des 3.64. 'หลักของฉันคือดูว่าคนส่วนใหญ่สบายแบบไหน' is the textbook good-Thai answer, and 'แม้บางทีจะเดาผิดไป' is too mild a cost.",
+  "suggested_fix": "เรื่องเล็กที่ใช้ร่วมกัน เช่น นั่งโต๊ะไหน หลักของฉันคือถามให้ครบทุกคนก่อน จนเรื่องที่ควรจบในนาทีเดียวกลายเป็นคุยกันนาน"
+ },
+ {
+  "sev": "major",
+  "id": "Feq6",
+  "area": "desirability (Fe sacrifice cost)",
+  "finding": "des 3.55. The cost is self-sacrifice ('สีที่อยากใส่จะต้องเก็บไว้ก่อน'), the heroic-cost pattern the rev12 debate said Fe must not use.",
+  "suggested_fix": "เลือกสีเสื้อตอนนัดถ่ายรูปกลุ่ม ฉันมักถามในแชตก่อนว่าคนอื่นใส่สีอะไร แล้วเลือกให้เข้ากัน จนแชตวนคุยเรื่องสีเสื้อนานกว่าเรื่องนัด"
+ },
+ {
+  "sev": "major",
+  "id": "Fen6",
+  "area": "desirability (Fe sacrifice cost)",
+  "finding": "des 3.55. The cost is again self-sacrifice ('เรื่องที่อยากคุยเองต้องรอไปก่อน'). It also uses 'อารมณ์' for feelings, which research_thai rule 5 advises against.",
+  "suggested_fix": "เลือกข่าวส่งเข้ากลุ่มแชต ฉันมักดูก่อนว่าช่วงนี้ทุกคนคุยกันแนวไหน แล้วเลือกให้เข้ากับวง จนกว่าจะส่งได้ วงก็คุยเรื่องอื่นไปแล้ว"
+ },
+ {
+  "sev": "major",
+  "id": "Fej6",
+  "area": "desirability (Fe sacrifice cost)",
+  "finding": "des 3.51. Noticing who is hungry or tired and picking the nearest restaurant is caring. The cost is again self-sacrifice ('ร้านที่อยากลองต้องพับไว้').",
+  "suggested_fix": "เที่ยวกับเพื่อน ฉันมักคอยดูว่าใครเริ่มหิวหรือเหนื่อย แล้วเสนอร้านใกล้สุดก่อน จนบางทีรีบพาเข้าร้านทั้งที่ยังไม่มีใครหิวจริง"
+ },
+ {
+  "sev": "minor",
+  "id": "Fec5",
+  "area": "desirability (Fe sacrifice cost)",
+  "finding": "des 3.45, so within band, but the cost is self-sacrifice ('ของที่ตัวเองติดใจไม่ค่อยมีในห้อง'), the same pattern as Feq6.",
+  "suggested_fix": "ซื้อขนมติดห้อง ฉันมักเลือกแบบที่คนส่วนใหญ่กินได้เผื่อมีคนแวะมา จนขนมบางห่อหมดอายุก่อนมีใครมาเปิด"
+ },
+ {
+  "sev": "minor",
+  "id": "Neg4,Tea4,Sea4,Sij6,Sed4",
+  "area": "desirability",
+  "finding": "des 3.45–3.55 and no real cost. Each describes smooth, competent coping (backup game, reordering work, adjusting to light, navigating by memory, fixing a dish), so it scores high. The fix shown is for Neg4; give the others a mild cost of their own the same way.",
+  "suggested_fix": "ถ้าเซิร์ฟเวอร์เกมล่มตอนนัดเล่นกัน ฉันมักนึกออกหลายอย่างที่เล่นแทนได้ เช่น โหมดออฟไลน์ จนเสนอไปหลายอย่างแต่ยังไม่ได้เล่นสักอย่าง"
+ },
+ {
+  "sev": "minor",
+  "id": "LOW-des",
+  "area": "desirability",
+  "finding": "Low outliers (<2.70): Fis0 2.55, Fey5 2.55, Nee0 2.65, Niw6 2.65, Nel6 2.65, Niy6 2.65, Ney6 2.65, Fiq6 2.65, Teg4 2.65, Tiv4 2.65, Fes1 2.65, Nes3 2.65, Nic0, Nic1, Sec1, Nee5, Tii8, Tix6, Tiz6 (2.67). These are not 'good person' risks, but most of them come from Ni, Ne and Ti, whose new statements average 2.93–2.95 against 3.17–3.18 for Fe, Se and Te. That makes close-desirability pairs harder to find. The usual cause is a cost of neglecting a duty ('เรื่องที่ต้องแก้วันนี้ยังค้าง', 'ลืมจัดการเรื่องตรงหน้า', 'คอร์สที่จำเป็นกับงานค้าง'). The fix shown is for Fis0; for Fey5: 'เวลาเพื่อนเล่าเป้าหมายชีวิตที่ต่างจากฉันมาก ฉันมักคอยดูว่าเขาอยากให้ตอบรับแบบไหน จนบางทีจำรายละเอียดที่เขาเล่าได้ไม่ครบ'.",
+  "suggested_fix": "เวลาเรียนเอง ฉันจะเรียนต่อเนื่องก็ต่อเมื่อเรื่องนั้นตรงกับสิ่งที่ฉันให้คุณค่า จนบางคอร์สที่เริ่มไว้ก็เดินช้ากว่าที่วางแผน"
+ },
+ {
+  "sev": "major",
+  "id": "BNiSee1",
+  "area": "desirability (bip gap 0.48)",
+  "finding": "[2.93, 3.41]. The Ni side guesses direction 'จากความรู้สึก', which sounds reckless, while the Se side reads the signs. The costs differ in kind (going back vs stopping often).",
+  "suggested_fix": {
+   "a": "ถ้ามือถือดับกลางทางตอนกำลังดูแผนที่ ฉันมักนึกภาพรวมของทางที่ดูไว้ว่าที่หมายอยู่ทางไหน แล้วมุ่งไปทางนั้น แม้อาจต้องย้อนกลับมาบ้าง",
+   "b": "ถ้ามือถือดับกลางทางตอนกำลังดูแผนที่ ฉันมักมองป้ายและสิ่งรอบตัวตรงนั้น แล้วเดินไปตามที่เห็นทีละช่วง แม้อาจต้องย้อนกลับมาบ้าง"
+  }
+ },
+ {
+  "sev": "major",
+  "id": "BTiFee0",
+  "area": "desirability (bip gap 0.42)",
+  "finding": "[3.13, 3.55]. The Fe side 'ปรับให้ทุกคนใช้ได้สบายใจ' is the good-person answer. The Ti side imposes one naming rule on a shared space, which reads as controlling.",
+  "suggested_fix": {
+   "a": "เวลาใช้อัลบั้มหรือปฏิทินร่วมกับคนอื่น ฉันมักคิดหลักตั้งชื่อหมวดที่ไม่ทับกันไว้ แล้วจัดของตัวเองตามนั้น แม้คนอื่นจะไม่ได้ใช้ตาม",
+   "b": "เวลาใช้อัลบั้มหรือปฏิทินร่วมกับคนอื่น ฉันมักดูว่าแต่ละคนใส่แบบไหน แล้วปรับของตัวเองตามทุกคน แม้หมวดจะปนกันจนหาของยาก"
+  }
+ },
+ {
+  "sev": "major",
+  "id": "BTiFee1",
+  "area": "desirability (bip gap 0.49)",
+  "finding": "[3.06, 3.55]. This is just under the engine's 0.5 cut-off. Checking how each person is affected is caring, so both sides sharing the same cost does not make them equal.",
+  "suggested_fix": {
+   "a": "ถ้าแอปที่ใช้ร่วมกันในกลุ่มรวนจนข้อมูลเพี้ยน ฉันมักไล่หาก่อนว่ามันเพี้ยนตรงขั้นไหน แม้ข้อมูลที่เพี้ยนจะยังค้างอยู่อย่างนั้นไปก่อน",
+   "b": "ถ้าแอปที่ใช้ร่วมกันในกลุ่มรวนจนข้อมูลเพี้ยน ฉันมักรีบทักบอกทุกคนว่าอย่าเพิ่งตกใจ แม้ยังไม่รู้เลยว่ามีใครเดือดร้อนจริงไหม"
+  }
+ },
+ {
+  "sev": "major",
+  "id": "BTeFie0",
+  "area": "desirability (bip gap 0.38)",
+  "finding": "[2.84, 3.22]. Pasting AI text unchanged reads as lazy and inauthentic, while 'เป็นเสียงของฉัน' is the authentic answer.",
+  "suggested_fix": {
+   "a": "เวลาใช้ AI ช่วยร่างข้อความหรือแคปชันสั้น ๆ ฉันมักเช็กแค่ว่าเนื้อความครบแล้วส่งต่อเลย แม้สำนวนจะไม่ค่อยเหมือนที่ฉันพูด",
+   "b": "เวลาใช้ AI ช่วยร่างข้อความหรือแคปชันสั้น ๆ ฉันมักแก้คำจนอ่านแล้วเป็นเสียงของฉันก่อน จนข้อความไม่กี่บรรทัดกินเวลาไปครึ่งชั่วโมง"
+  }
+ },
+ {
+  "sev": "major",
+  "id": "BTeFie1",
+  "area": "desirability (bip gap 0.39)",
+  "finding": "[3.26, 2.87]. Te is efficient while Fi is sentimental and inefficient. The costs differ in kind: Te gives up a favourite icon, Fi scrolls every day.",
+  "suggested_fix": {
+   "a": "ตอนจัดหน้าจอหลักของมือถือ ฉันมักวางแอปตามความถี่ที่ใช้ให้กดถึงได้ไวที่สุด แม้หน้าจอจะดูไม่มีอะไรเป็นของฉันเลย",
+   "b": "ตอนจัดหน้าจอหลักของมือถือ ฉันมักวางแอปตามเรื่องที่ฉันให้ค่าในช่วงนี้ เช่น แอปวาดรูปไว้หน้าแรก แม้แอปที่ใช้บ่อยจะต้องเลื่อนหา"
+  }
+ },
+ {
+  "sev": "major",
+  "id": "BNiSew0",
+  "area": "desirability (bip gap 0.42)",
+  "finding": "[2.74, 3.16]. The Ni side 'ยังไม่ได้ขยับงานจริงสักชิ้น' is idling at work, which carries a duty-failure cost against Se's harmless one.",
+  "suggested_fix": {
+   "a": "อินเทอร์เน็ตที่ทำงานล่มทั้งบ่าย ฉันมักใช้ช่วงนั้นนึกภาพว่างานชิ้นที่ทำอยู่กำลังไปทางไหน แม้จะไม่ช่วยให้เน็ตมาเร็วขึ้น",
+   "b": "อินเทอร์เน็ตที่ทำงานล่มทั้งบ่าย ฉันมักลุกไปดูของจริงก่อน เช่น ไฟที่เราเตอร์หรือสายที่ต่ออยู่ แม้จะไม่ช่วยให้เน็ตมาเร็วขึ้น"
+  }
+ },
+ {
+  "sev": "major",
+  "id": "BTiFew0",
+  "area": "desirability (bip gap 0.35)",
+  "finding": "[3.26, 3.61]. The Fe side 'ตามได้สบายที่สุด' is the good-presenter answer, and its cost is lighter than Ti's 'ดูแห้ง'.",
+  "suggested_fix": {
+   "a": "ทำสไลด์สั้น ๆ เล่างานให้ทีมฟัง ฉันมักเรียงหน้าตามลำดับที่เหตุผลต่อกันลงตัวที่สุด แม้บางคนในห้องจะตามไม่ค่อยทัน",
+   "b": "ทำสไลด์สั้น ๆ เล่างานให้ทีมฟัง ฉันมักเรียงหน้าตามจังหวะที่คนฟังน่าจะตามได้สบาย แม้ลำดับเหตุผลจะกระโดดไปมาบ้าง"
+  }
+ },
+ {
+  "sev": "major",
+  "id": "BNeSir0",
+  "area": "desirability (bip gap 0.35)",
+  "finding": "[3.41, 3.06]. Ne turns a cancellation into a shared adventure, while Si's 'ไม่ได้เจออะไรแปลกใหม่' cost labels it the dull partner.",
+  "suggested_fix": {
+   "a": "ที่พักที่จองไว้ไปกับคนใกล้ตัวปิดปรับปรุงกะทันหัน ฉันมักโยนแผนใหม่ ๆ ให้อีกฝ่ายเลือกหลายทาง จนกว่าจะตกลงกันได้ก็ดึกแล้ว",
+   "b": "ที่พักที่จองไว้ไปกับคนใกล้ตัวปิดปรับปรุงกะทันหัน ฉันมักชวนอีกฝ่ายกลับไปที่เดิมที่เคยไปด้วยกันแล้วสบายใจ จนกว่าจะจองได้ก็ดึกแล้ว"
+  }
+ },
+ {
+  "sev": "major",
+  "id": "BTeFiy2",
+  "area": "desirability (bip gap 0.39)",
+  "finding": "[3.26, 2.87]. The Fi cost 'จบโดยไม่ได้อะไรเป็นชิ้นเป็นอัน' reads as unproductive, which goes against an official Thai virtue.",
+  "suggested_fix": {
+   "a": "หลักที่ฉันใช้เลือกว่าจะใช้วันว่างกับอะไร คือดูว่าทำแล้วได้อะไรที่จับต้องได้กลับมาบ้าง แม้บางวันจะเหมือนทำงานต่อจนไม่ได้พัก",
+   "b": "หลักที่ฉันใช้เลือกว่าจะใช้วันว่างกับอะไร คือดูว่าทำแล้วรู้สึกเป็นตัวเองจริงไหม แม้เรื่องที่ค้างอยู่จะต้องเลื่อนออกไปอีก"
+  }
+ },
+ {
+  "sev": "major",
+  "id": "BTiFes1",
+  "area": "desirability (bip gap 0.38)",
+  "finding": "[3.41, 3.03]. This pits success against failure: Ti 'ตรงจุด' is precise, while the Fe cost is 'คำถามไม่ตรงจุดที่สงสัย'.",
+  "suggested_fix": {
+   "a": "จะโพสต์ถามในกลุ่มเรียนออนไลน์ ฉันมักเรียบเรียงคำถามให้ตรงจุดที่เหตุผลยังไม่ต่อกันก่อน แม้จะโพสต์ช้ากว่าคนอื่น",
+   "b": "จะโพสต์ถามในกลุ่มเรียนออนไลน์ ฉันมักดูบรรยากาศในกลุ่มก่อนว่าถามแบบไหนทุกคนสบายใจ แม้จะโพสต์ช้ากว่าคนอื่น"
+  }
+ },
+ {
+  "sev": "major",
+  "id": "BNiSep1",
+  "area": "desirability (bip gap 0.49)",
+  "finding": "[3.06, 3.55]. This is just under the 0.5 cut-off. Se is the adaptable athlete, while Ni's 'ได้ซ้อมไม่ครบ' is a failure cost.",
+  "suggested_fix": {
+   "a": "ถ้าไปถึงแล้วสนามเต็ม ฉันมักนึกว่าการเล่นของตัวเองช่วงนี้กำลังเปลี่ยนไปทางไหน แล้วซ้อมแค่ส่วนนั้น แม้ส่วนอื่นจะไม่ได้แตะ",
+   "b": "ถ้าไปถึงแล้วสนามเต็ม ฉันมักดูว่าตรงนั้นมีพื้นที่หรืออุปกรณ์อะไรว่าง แล้วซ้อมตามที่มีเลย แม้จะได้ซ้อมแบบกระจัดกระจายไม่เป็นชุด"
+  }
+ },
+ {
+  "sev": "major",
+  "id": "BNiSet1",
+  "area": "desirability (bip gap 0.38)",
+  "finding": "[2.84, 3.22]. The Ni side ignores what the pet does now ('มันยังไม่ค่อยไปนอน'), while Se follows the pet, which reads as the caring owner.",
+  "suggested_fix": {
+   "a": "เลือกมุมวางที่นอนให้สัตว์เลี้ยง ฉันมักนึกภาพว่าพอมันโตขึ้นมุมไหนจะเข้ากับบ้าน แล้ววางไว้ตรงนั้น แม้ต้องรอให้มันชินกับมุมนั้นอีกนาน",
+   "b": "เลือกมุมวางที่นอนให้สัตว์เลี้ยง ฉันมักวางตรงที่เห็นมันเพิ่งขดตัวนอนเมื่อกี้ แล้วย้ายตามที่เห็นมันทำ แม้ต้องย้ายไปมาจนมุมห้องเกะกะ"
+  }
+ },
+ {
+  "sev": "major",
+  "id": "BTeFij2",
+  "area": "desirability (bip gap 0.48)",
+  "finding": "[3.32, 2.84]. Fi's 'ที่อื่นในลิสต์จะหลุดไปเกือบหมด' is a heavy cost against Te's 'เร่งกว่าที่ตั้งใจ'. 'ใจผูกไว้' is also the Fi tell.",
+  "suggested_fix": {
+   "a": "ถ้าถนนที่จะไปจุดหมายถูกปิดชั่วคราว ฉันมักจัดลำดับที่เที่ยวที่เหลือใหม่ให้ยังไปได้หลายจุด แม้แต่ละจุดจะได้อยู่แค่แป๊บเดียว",
+   "b": "ถ้าถนนที่จะไปจุดหมายถูกปิดชั่วคราว ฉันมักเลือกไปแค่ที่ที่ฉันอยากไปที่สุดให้เต็มที่ แม้ที่อื่นในลิสต์จะต้องตัดออกไป"
+  }
+ },
+ {
+  "sev": "major",
+  "id": "BNeSiy0",
+  "area": "desirability (bip gap 0.42, rewrite)",
+  "finding": "[3.45, 3.03]. The rewrite added 'เพราะรู้สึกสนุก' to the Ne side only, making it longer and warmer. Si's 'ไม่ค่อยได้ลองแนวคิดแบบอื่น' frames it as closed-minded.",
+  "suggested_fix": {
+   "a": "ฉันมักชอบลองฟังหลักคิดเรื่องชีวิตแบบใหม่ ๆ เพราะรู้สึกสนุก แม้ฟังไปหลายแนวแล้วก็ยังไม่ได้เอามาใช้จริงสักแนว",
+   "b": "ฉันมักชอบหลักคิดเรื่องชีวิตที่ใช้มานานจนคุ้น เพราะรู้สึกอุ่นใจ แม้บางข้อจะเริ่มไม่ค่อยเข้ากับชีวิตตอนนี้แล้ว"
+  }
+ },
+ {
+  "sev": "major",
+  "id": "BNeSis0",
+  "area": "desirability (bip gap 0.39, rewrite)",
+  "finding": "[3.26, 2.87]. The rewrite gave Si 'เนื้อหาเดิมจะเริ่มรู้สึกจำเจ' (boredom, rigid) against Ne's mild 'ทบทวนช้าลง'.",
+  "suggested_fix": {
+   "a": "เวลาทบทวนสิ่งที่เรียนไปแล้ว ฉันชอบลองหาวิธีจำหรือมุมมองใหม่ ๆ ให้กับเนื้อหาเดิม แม้บางวิธีจะทำให้ต้องทบทวนซ้ำหลายรอบ",
+   "b": "เวลาทบทวนสิ่งที่เรียนไปแล้ว ฉันชอบใช้วิธีจำและลำดับทบทวนแบบที่ใช้มาจนชิน แม้บางเรื่องจะไม่ค่อยเข้ากับวิธีนั้นนัก"
+  }
+ },
+ {
+  "sev": "major",
+  "id": "BNiSey1",
+  "area": "desirability (both sides out of band, rewrite)",
+  "finding": "[3.74, 3.61]. Both sides are 'หลักคิดที่ดีสำหรับฉันคือ…', an evaluative frame with no cost, so the pair is outside the neutral band. Thurstonian scoring cannot neutralise a pair where both sides are desirable (Frick 2022).",
+  "suggested_fix": {
+   "a": "หลักคิดที่ฉันมักหยิบมาใช้ คือหลักที่ช่วยให้เห็นทางชีวิตข้างหน้า แม้วันนี้จะผ่านไปโดยไม่ทันได้สังเกตอะไร",
+   "b": "หลักคิดที่ฉันมักหยิบมาใช้ คือหลักที่ช่วยให้อยู่กับวันนี้ได้เต็มที่ แม้ทางข้างหน้าจะยังไม่ค่อยได้คิด"
+  }
+ },
+ {
+  "sev": "major",
+  "id": "BTeFis0",
+  "area": "desirability (both sides out of band, rewrite)",
+  "finding": "[3.84, 3.74]. These are the highest desirability values in the changed set. Neither side has a cost, and 'เป้าหมายการงานหรือชีวิต' vs 'ให้คุณค่าจริง ๆ' are both ideal-self answers.",
+  "suggested_fix": {
+   "a": "เวลาเลือกคอร์สที่จะเรียนต่อ ฉันดูว่าคอร์สไหนช่วยให้ถึงเป้าหมายการงานได้ชัดที่สุด แม้บางคอร์สจะเรียนแล้วไม่ค่อยสนุก",
+   "b": "เวลาเลือกคอร์สที่จะเรียนต่อ ฉันดูว่าคอร์สไหนตรงกับสิ่งที่ฉันให้ค่าจริง ๆ แม้บางคอร์สจะไม่ได้ช่วยเรื่องงานเลย"
+  }
+ },
+ {
+  "sev": "minor",
+  "id": "BNiSev1",
+  "area": "desirability (bip gap 0.32)",
+  "finding": "[3.16, 2.84]. Ni 'แก่นให้คิดต่อ' is the deep answer, while Se 'ภาพและเสียงจัดเต็ม' is the shallow one. Use a parallel cost on both sides.",
+  "suggested_fix": {
+   "a": "ไปโรงหนังโดยไม่ได้เลือกเรื่องไว้ ฉันมักเลือกเรื่องที่รู้สึกว่ามีแก่นให้คิดต่อหลังดูจบ แม้บางเรื่องจะดูแล้วง่วงในโรง",
+   "b": "ไปโรงหนังโดยไม่ได้เลือกเรื่องไว้ ฉันมักเลือกเรื่องที่ตัวอย่างหน้าโรงดึงตาที่สุดตอนนั้น แม้บางเรื่องจะดูแล้วง่วงในโรง"
+  }
+ },
+ {
+  "sev": "minor",
+  "id": "BTeFii2",
+  "area": "desirability (bip gap 0.32) / tell",
+  "finding": "[3.35, 3.03]. 'ชิ้นที่ใจเลือกไว้' is the Fi tell, and it appears on the Te side too.",
+  "suggested_fix": {
+   "a": "ถ้าของที่ตั้งใจซื้อหมด แต่มีอีกรุ่นที่ใช้แทนกันได้ ฉันมักสั่งรุ่นนั้นเลยให้เรื่องจบ แม้รุ่นนั้นจะไม่ใช่ชิ้นที่เลือกไว้แต่แรก",
+   "b": "ถ้าของที่ตั้งใจซื้อหมด แต่มีอีกรุ่นที่ใช้แทนกันได้ ฉันมักรอชิ้นที่เลือกไว้แต่แรกจนกว่าจะมีของ แม้ระหว่างนั้นต้องใช้ของเดิมไปก่อน"
+  }
+ },
+ {
+  "sev": "minor",
+  "id": "BTiFex2",
+  "area": "desirability (bip gap 0.33)",
+  "finding": "[2.93, 3.26]. The costs differ in kind: Ti is slower than others (looks less helpful), while Fe gets a mediocre pick.",
+  "suggested_fix": {
+   "a": "นัดเพื่อนแล้วร้านที่จะไปปิดกะทันหัน ฉันมักไล่ในหัวก่อนว่าร้านแทนต้องมีอะไรบ้างถึงจะลงตัว แม้สุดท้ายจะไม่ใช่ร้านที่ใครอยากไปจริง ๆ",
+   "b": "นัดเพื่อนแล้วร้านที่จะไปปิดกะทันหัน ฉันมักเลือกร้านที่เดาว่าทุกคนพอรับได้ แม้สุดท้ายจะไม่ใช่ร้านที่ใครอยากไปจริง ๆ"
+  }
+ },
+ {
+  "sev": "minor",
+  "id": "BNiSec1,BTiFec0,BNiSeh2,BTeFiq2,BNiSes1,BTiFep1,BTiFey0,BNiSes0",
+  "area": "desirability (bip gap 0.26–0.32)",
+  "finding": "Gaps are above research_fc's 0.25 accept line but under the engine's 0.5 cut-off, so these should go into the fake-good pilot first. Seven of the eight lean toward Se, Fe or Te. The fix shown is for BNiSes0 [3.03, 3.35], which gives both sides a cost of the same kind.",
+  "suggested_fix": {
+   "a": "เวลาดูคลิปหรือคอร์สที่อธิบายเรื่องยาก ฉันจะเข้าใจเมื่อเห็นว่าทุกตัวอย่างมีเรื่องเดียวกันอยู่ข้างหลัง แม้ต้องดูซ้ำหลายรอบกว่าจะเห็น",
+   "b": "เวลาดูคลิปหรือคอร์สที่อธิบายเรื่องยาก ฉันจะเข้าใจเมื่อได้ลองทำตามตัวอย่างตรงหน้า แม้ต้องลองซ้ำหลายรอบกว่าจะเข้าใจ"
+  }
+ },
+ {
+  "sev": "major",
+  "id": "Seq6",
+  "area": "duplicate",
+  "finding": "Near-verbatim duplicate of the new c item Sec4 (choosing a plant at the shop by colour and shape, 'แม้บางต้นจะไม่ค่อยเหมาะ/เข้ากับแสงในห้อง'). c and q are both offered, so one session can show both.",
+  "suggested_fix": "เลือกน้ำหอมหรือโลชั่น ฉันมักลองทาที่ข้อมือตรงนั้นแล้วเลือกจากกลิ่นที่ได้ตอนนั้นเลย แม้จะยังไม่ได้รอดูว่ากลิ่นจะเปลี่ยนไปยังไง"
+ },
+ {
+  "sev": "major",
+  "id": "Sim4",
+  "area": "duplicate",
+  "finding": "Same scene and response as the new e item Sie2 (an app update moves the menu or button, so I restore the old layout), and close to the existing m item Sim1. It also has no cost.",
+  "suggested_fix": "ถ้าแอปเปลี่ยนวิธีเรียงฟีด ฉันมักไล่หาบัญชีที่ติดตามประจำตามลำดับที่คุ้นก่อน แม้จะเลื่อนผ่านโพสต์ใหม่ ๆ ไปเยอะ"
+ },
+ {
+  "sev": "major",
+  "id": "Siq6",
+  "area": "duplicate",
+  "finding": "The 'usual product discontinued, so I hunt for the closest match' idea appears three times among the new Si items: Sii7 (i), BNeSia1.b (a) and Siq6 (q, soap scent). Sic4 is a fourth scent-memory variant. This makes the Si script predictable.",
+  "suggested_fix": "ถ้าฝนตกจนชุดที่ตั้งใจใส่ยังไม่แห้ง ฉันมักหยิบชุดที่เคยใส่ไปที่แบบนี้แล้วสบายตัวมาแทน แม้ในตู้จะมีชุดใหม่ที่ยังไม่ได้ลองใส่"
+ },
+ {
+  "sev": "major",
+  "id": "Nil6",
+  "area": "duplicate (merged l+f)",
+  "finding": "Since l and f are merged, Nil6 ('เลือกงานอดิเรกใหม่… จากภาพว่าอีกสักปีตัวเองจะเป็นคนที่ทำสิ่งนี้ในแบบไหน') repeats the existing Nif0 ('เลือกงานอดิเรกจากความรู้สึกลึก ๆ ว่ามันกำลังพาไปสู่อะไร') and BNiSef1.a in the same pool.",
+  "suggested_fix": "ทริปวันว่างที่ตั้งใจไว้ต้องยกเลิก ฉันมักนึกเลยไปว่าวันว่างช่วงนี้ของฉันกำลังเปลี่ยนไปทางไหน แม้ยังไม่รู้ว่าวันนั้นจะทำอะไรแทน"
+ },
+ {
+  "sev": "minor",
+  "id": "Nic1",
+  "area": "duplicate",
+  "finding": "Three Ni items in c share one idea: a broken item or a long stay leads to 'is this room still right for my life'. They are Nic0, Nic1 and BNiSec1.a.",
+  "suggested_fix": "จะซื้อของชิ้นใหญ่เข้าห้อง ฉันมักนึกภาพว่าอีกสองสามปีชีวิตในห้องจะเป็นแบบไหน แล้วเลือกตามภาพนั้น แม้ตอนนี้จะดูเกินความจำเป็น"
+ },
+ {
+  "sev": "minor",
+  "id": "Fiz6",
+  "area": "duplicate / construct",
+  "finding": "Same 'wallpaper with private meaning' idea as Fie1 (e). Changing it 'ทันทีที่รู้สึกว่าไม่ใช่ตัวฉัน' after a few days reads as novelty-seeking (Ne/Se), not stable Fi values.",
+  "suggested_fix": "เลือกว่าจะเล่าความฝันให้ใครฟัง ฉันมักเก็บไว้กับตัวจนกว่าจะรู้สึกว่ามันเป็นของฉันจริง ๆ แม้บางทีจะไม่มีใครรู้ว่าฉันกำลังทำอะไรอยู่"
+ },
+ {
+  "sev": "minor",
+  "id": "Teq6",
+  "area": "duplicate",
+  "finding": "Same 'filter online listings by fixed criteria' response as Tei6 (i): size, fabric and reviews vs delivery date, shop rating and returns.",
+  "suggested_fix": "เลือกเสื้อผ้าออนไลน์ ฉันมักดูว่าตัวไหนใส่ได้หลายโอกาสที่สุดแล้วเลือกตัวนั้น แม้ตัวที่สะดุดตากว่าจะใส่ได้แค่งานเดียว"
+ },
+ {
+  "sev": "minor",
+  "id": "Ter6",
+  "area": "brief:interpersonal",
+  "finding": "'ตัดสินให้จบ แม้อีกฝ่ายอาจอยากลองร้านที่ไกลกว่า' means deciding over the partner's wish. This is mild interpersonal friction, and the Thai map reads it as bossy (เจ้ากี้เจ้าการ).",
+  "suggested_fix": "ออกไปข้างนอกกับคนใกล้ตัวแล้วหิวกันทั้งคู่ ฉันมักเปิดแผนที่หาร้านที่ใกล้และคิวสั้นสุดแล้วเสนอให้จบ แม้จะไม่ใช่ร้านที่ตั้งใจลอง"
+ },
+ {
+  "sev": "minor",
+  "id": "Ney6,Tey6,Niy6",
+  "area": "construct (context fit y)",
+  "finding": "New y items have drifted out of 'หลักคิดในชีวิต': a cancelled flight (Ney6, a travel duplicate), what to eat or wear (Tey6), two small paths (Niy6). They have no principle anchor, unlike Sey6, Siy6 and Fey6, which state 'หลักของฉันคือ…'.",
+  "suggested_fix": "เวลาแผนชีวิตสะดุดเพราะเรื่องสุดวิสัย หลักของฉันคือมองหาว่ามันเปิดทางให้ลองอะไรได้อีก จนบางทีทางเลือกเยอะจนยังไม่ได้เริ่มสักทาง"
+ },
+ {
+  "sev": "minor",
+  "id": "Nie3",
+  "area": "construct",
+  "finding": "'นิ่งไปพักหนึ่งจนมีที่หนึ่งผุดขึ้นมาว่าน่าจะอยู่ตรงไหน' is recall of a location, which is closer to Si memory than to Ni pattern insight. 'มีที่หนึ่ง' is also unclear.",
+  "suggested_fix": "ถ้าไฟล์หายไปทั้งโฟลเดอร์ ฉันมักนิ่งไปพักหนึ่งจนเห็นภาพรวมว่าช่วงนั้นเก็บของในเครื่องไปทางไหน แม้ระหว่างนั้นจะดูเหมือนไม่ได้ลงมือหา"
+ },
+ {
+  "sev": "minor",
+  "id": "BNiSen2",
+  "area": "construct / Thai",
+  "finding": "With the power out all night, 'นึกจากข่าวที่ตามมา' does not make sense and is forecasting from information (Te/Si). An overnight storm with a blackout also sits at the edge of the 'low stakes' rule.",
+  "suggested_fix": {
+   "a": "ถ้าไฟดับตอนฝนตกหนักหัวค่ำ ฉันมักนึกโยงจากที่เห็นมาทั้งวันว่าคืนนี้น่าจะจบลงแบบไหน แม้จะยังไม่รู้สถานการณ์ล่าสุดจริง",
+   "b": "ถ้าไฟดับตอนฝนตกหนักหัวค่ำ ฉันมักฟังเสียงลมฝนและดูความเคลื่อนไหวแถวบ้านแทน แม้จะยังไม่รู้ว่าภาพรวมไปถึงไหน"
+  }
+ },
+ {
+  "sev": "minor",
+  "id": "Fec1",
+  "area": "Thai naturalness / construct",
+  "finding": "The cost (still sleeping on the guest's schedule days after they leave) is odd and reads as Si habit carry-over, not Fe. 'ปรับกิจวัตรตามจังหวะเขา' is also เกรงใจ, a Thai virtue.",
+  "suggested_fix": "มีคนมาพักค้างที่ห้อง ฉันมักคอยถามว่าเขาอยากปิดไฟหรือตื่นกี่โมง จนบางทีถามบ่อยจนเขาต้องบอกว่าทำตามสบายได้เลย"
+ },
+ {
+  "sev": "minor",
+  "id": "Sic3",
+  "area": "Thai naturalness",
+  "finding": "'ฉันมักทำตามที่รู้ว่าตัวเองทนร้อนได้แค่ไหน' is awkward Thai.",
+  "suggested_fix": "พัดลมหรือแอร์เสียกลางหน้าร้อน ฉันมักกลับไปใช้วิธีคลายร้อนที่รู้ว่าตัวเองสบาย เช่น นั่งมุมเดิมที่เย็นกว่า แม้ยังไม่ได้เรียกช่าง"
+ },
+ {
+  "sev": "minor",
+  "id": "Nec3",
+  "area": "Thai naturalness",
+  "finding": "'ไฟดับทั้งเย็น' is clipped. Natural Thai would be 'ไฟดับไปทั้งเย็น' or 'ไฟดับตอนหัวค่ำ'.",
+  "suggested_fix": "ไฟดับไปทั้งเย็น ฉันมักนึกสนุกว่าคืนนี้จะทำอะไรแปลก ๆ ในห้องได้บ้าง จนบางทีลืมหาไฟฉายสำรอง"
+ },
+ {
+  "sev": "minor",
+  "id": "Fie0",
+  "area": "Thai naturalness",
+  "finding": "There is a doubled 'จะ' ('แม้เวลาจะหาเพลงสักเพลงจะยากกว่า').",
+  "suggested_fix": "ฉันมักจัดเพลย์ลิสต์ในเครื่องตามว่าแต่ละเพลงพูดแทนเรื่องไหนในชีวิตฉัน แม้เวลาหาเพลงสักเพลงจะยากกว่าเรียงตามชื่อ"
+ },
+ {
+  "sev": "minor",
+  "id": "Tih6",
+  "area": "Thai naturalness",
+  "finding": "'จะเลือกวันครบรอบที่ใช้ฉลอง ฉันอยากนิยาม…' is awkward and drops 'มัก', which breaks the habitual-mood parallel (R12).",
+  "suggested_fix": "จะเลือกวันครบรอบไว้ฉลองกับคนที่คบ ฉันมักอยากนิยามให้ชัดก่อนว่าจะนับจากวันไหน แม้สุดท้ายวันที่ได้จะต่างกันแค่ไม่กี่วัน"
+ },
+ {
+  "sev": "minor",
+  "id": "Sic0",
+  "area": "Thai naturalness",
+  "finding": "This is a run-on sentence with two clauses ('รู้ว่าเสร็จจากความรู้สึกที่คุ้น เช่น… ถ้ายังไม่ใช่จะรู้สึกค้าง ๆ แม้…') at 129 characters.",
+  "suggested_fix": "ทำความสะอาดห้อง ฉันมักรู้ว่าเสร็จเมื่อของทุกชิ้นได้กลับที่เดิม ถ้ายังไม่ครบจะรู้สึกค้าง ๆ แม้ห้องจะดูสะอาดแล้ว"
+ },
+ {
+  "sev": "minor",
+  "id": "Feq6",
+  "area": "Thai spelling consistency",
+  "finding": "This is the only changed item spelled 'แชท'; the rest of the bank uses 'แชต'. The Feq6 fix above already uses 'แชต'.",
+  "suggested_fix": "เลือกสีเสื้อตอนนัดถ่ายรูปกลุ่ม ฉันมักถามในแชตก่อนว่าคนอื่นใส่สีอะไร แล้วเลือกให้เข้ากัน จนแชตวนคุยเรื่องสีเสื้อนานกว่าเรื่องนัด"
+ }
+]
