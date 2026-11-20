@@ -208,7 +208,7 @@ details.fold[open] > summary { margin-bottom: 8px; }
 .probes { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px; }
 .probes li { border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; font-size: 14px; display: flex; flex-direction: column; gap: 4px; min-width: 0; overflow-wrap: anywhere; }
 .probes small { color: var(--muted); font-size: 13px; }
-/* ---- rev8: FirstThread brand ---- */
+/* ---- rev8: Vletter brand ---- */
 body { background: radial-gradient(120% 60% at 100% 0%, var(--glow), transparent 60%), radial-gradient(90% 50% at 0% 100%, var(--glow), transparent 60%), var(--bg); background-repeat: no-repeat; background-color: var(--bg); }
 .brand { display: inline-flex; align-items: center; gap: 8px; color: var(--hl); font-weight: 600; letter-spacing: .01em; }
 .brand img { width: 28px; height: 28px; border-radius: 8px; flex: none; }
@@ -451,7 +451,7 @@ ul.letters b { color: var(--fg); font-weight: 800; }
 .cmp2 b { color: var(--fg); }
 .handle { color: var(--muted); }
 details.fold > summary { font-weight: 600; }
-/* โลโก้ FirstThread: ไฟล์ต้นฉบับ ตัดมุมมนแบบ app icon (รัศมี ~22.5% ของขนาด) ไม่ใส่ฟิลเตอร์ */
+/* โลโก้ Vletter: ไฟล์ต้นฉบับ ตัดมุมมนแบบ app icon (รัศมี ~22.5% ของขนาด) ไม่ใส่ฟิลเตอร์ */
 .brand img, .handle img, .ftcta img { border-radius: 22.5%; filter: none; object-fit: contain; }
 @media (prefers-reduced-motion: reduce) { .btn { transition: none; } }
 @media (max-width: 400px) { .card { padding: 22px 18px; } .card.result > div, .card.result > .eibox { padding: 20px 16px; } }
@@ -2338,12 +2338,12 @@ if (typeof document !== "undefined") {
        จึงใช้ได้ทั้งบันทึกในเครื่อง ลิงก์ทำต่อ และการย้อน 1 ข้อ */
     var RECV = "ft10_recv", BANKV = 12, KEEP_DAYS = 14;
     var ART_URL = "https://claude.ai/artifact/WqBk1B1VjY7ccf1z3rS3Mx";
-    var IG_URL = "https://www.instagram.com/firstthread.app/";
+    var IG_URL = "https://www.instagram.com/vletter.app/";
     var cfg = { seed: "", ctx: { w: true, r: true, l: true }, L: 64, ack: false };
     var set = [], answers = [], idx = 0, usedSeed = "", usedChosen = [], usedSur = [], usedL = 64, reps = 0, bestFit = null, usedDrop = [], naTopic = {}, noAsk = [], skipPrompt = null, mainN = 0, ph = 1;
     var tape = [], backUsed = false, cps = [], busy = false, advTimer = null, finTimer = null;
     var WORDS = ["มะลิ", "ดาวเหนือ", "ชาเย็น", "ทะเลหมอก", "ฝนแรก", "กาแฟดำ", "ลมหนาว", "จันทร์เพ็ญ", "ข้าวเหนียว", "สายน้ำ"];
-    var BRAND = '<img src="img/firstthread-icon.png" alt="" width="28" height="28">Firstthread';
+    var BRAND = '<img src="img/vletter-icon.png" alt="" width="28" height="28">Vletter';
     var LEN_MIN = { 56: 8, 64: 10, 84: 13, 92: 15 };
     var CHECKPOINTS = [20, 40, 60];
     var BIP_SCALE = [
@@ -2637,7 +2637,7 @@ function fix(v) { return Math.abs(v) < 0.05 ? "0.0" : (v >= 0 ? "+" : "−") + M
             '<label><input type="checkbox" id="ack"> เข้าใจแล้ว</label></div>' +
           '<button type="button" class="btn primary block" id="start">เริ่มเลย →</button>' +
         '</section>' +
-        '<p class="handle"><img src="img/firstthread-icon.png" alt="" width="22" height="22"><a href="' + IG_URL + '" target="_blank" rel="noopener noreferrer">@firstthread.app</a></p>';
+        '<p class="handle"><img src="img/vletter-icon.png" alt="" width="22" height="22"><a href="' + IG_URL + '" target="_blank" rel="noopener noreferrer">@vletter.app</a></p>';
       var seedEl = document.getElementById("seed");
       seedEl.value = cfg.seed;
       seedEl.addEventListener("input", function () { cfg.seed = seedEl.value; });
@@ -2853,7 +2853,7 @@ function fix(v) { return Math.abs(v) < 0.05 ? "0.0" : (v >= 0 ? "+" : "−") + M
       var code = encodeResume(), link = ART_URL + "#" + code;
       var done = answeredCount(), p2 = mainN && ph !== 1, tot = p2 ? set.length - mainN : (mainN || set.length), dn = p2 ? done - mainN : done;
       var warnTxt = "ลิงก์นี้มีคำตอบทั้งหมดของคุณ อย่าโพสต์หรือส่งให้คนอื่น";
-      var M = mailLinks("ลิงก์ทำแบบทดสอบต่อ (FirstThread)", "ทำต่อจากข้อ " + (dn + 1) + "/" + tot + ": " + link + "\n\n" + warnTxt);
+      var M = mailLinks("ลิงก์ทำแบบทดสอบต่อ (Vletter)", "ทำต่อจากข้อ " + (dn + 1) + "/" + tot + ": " + link + "\n\n" + warnTxt);
       var grouped = code.replace(/(.{5})/g, "$1 ").trim();
       app.innerHTML =
         '<div class="top"><span class="brand">' + BRAND + '</span><span class="count">' + (p2 ? "ช่วงที่ 2 · " : "ช่วงที่ 1 · ") + dn + '/' + tot + '</span></div>' +
@@ -3244,7 +3244,7 @@ function fix(v) { return Math.abs(v) < 0.05 ? "0.0" : (v >= 0 ? "+" : "−") + M
     function captionOf(S, link) {
       var st = STACKS[S.code];
       return (S.alt ? "ผลของฉันใกล้กับ " + S.code + " / " + S.alt : "ผลของฉันใกล้กับ " + S.code + " (" + st[0] + "-" + st[1] + ") ที่สุด") +
-        " จากแบบสะท้อนตัวเองเรื่อง 8 ฟังก์ชันตามแนวคิดของยุง โดย FirstThread · ไม่ใช่ MBTI ทางการ · ลองทำแล้วมาเทียบกัน " + link;
+        " จากแบบสะท้อนตัวเองเรื่อง 8 ฟังก์ชันตามแนวคิดของยุง โดย Vletter · ไม่ใช่ MBTI ทางการ · ลองทำแล้วมาเทียบกัน " + link;
     }
     function miniBars(S) {
       return '<div class="mbars">' + FUNCS.slice().sort(function (a, b) { return S.bars[b] - S.bars[a]; }).map(function (f) {
@@ -3268,7 +3268,7 @@ function fix(v) { return Math.abs(v) < 0.05 ? "0.0" : (v >= 0 ? "+" : "−") + M
           '<div class="sharebtns"><button type="button" class="btn" id="copyinvite">คัดลอกลิงก์แบบทดสอบ</button></div>' + igCta() + '</section>';
       }
       var S = summaryOf(V), link = ART_URL + "#" + encodeShare(S), cap = captionOf(S, link), recv = loadRecv();
-      var M = mailLinks("ผลแบบทดสอบไทป์ของฉัน (FirstThread)", cap);
+      var M = mailLinks("ผลแบบทดสอบไทป์ของฉัน (Vletter)", cap);
       return '<section class="card share" id="shareslot">' +
         '<h2 class="sec">แชร์ผล &amp; ชวนเพื่อนมาเทียบ</h2>' +
         '<p class="small">ลิงก์แชร์มีแค่สรุปผล (ไทป์ แถบฟังก์ชัน และระดับ I/E) ไม่มีคำตอบของคุณ ผู้รับจะเห็นป้าย “ผลที่ผู้ทำแชร์เอง ไม่ใช่ผลยืนยัน”</p>' +
@@ -3288,7 +3288,7 @@ function fix(v) { return Math.abs(v) < 0.05 ? "0.0" : (v >= 0 ? "+" : "−") + M
         igCta() + '</section>';
     }
     function igCta() {
-      return '<div class="ftcta"><img src="img/firstthread-icon.png" alt="" width="56" height="56"><div><p class="cta-h">ได้ผลแล้ว กลับมาแชร์กัน</p><p>แท็ก <a href="' + IG_URL + '" target="_blank" rel="noopener noreferrer">@firstthread.app</a> บนไอจี</p><p class="small">เพื่อสำรวจตัวเอง ไม่ใช่การวินิจฉัย</p></div></div>';
+      return '<div class="ftcta"><img src="img/vletter-icon.png" alt="" width="56" height="56"><div><p class="cta-h">ได้ผลแล้ว กลับมาแชร์กัน</p><p>แท็ก <a href="' + IG_URL + '" target="_blank" rel="noopener noreferrer">@vletter.app</a> บนไอจี</p><p class="small">เพื่อสำรวจตัวเอง ไม่ใช่การวินิจฉัย</p></div></div>';
     }
     function bindShare(V, hide) {
       var ci = document.getElementById("copyinvite");
@@ -3328,7 +3328,7 @@ function fix(v) { return Math.abs(v) < 0.05 ? "0.0" : (v >= 0 ? "+" : "−") + M
         document.fonts.load('700 200px "Kanit"'), document.fonts.load('600 64px "Kanit"'), document.fonts.load('500 36px "IBM Plex Sans Thai"')
       ]).catch(function () {}) : Promise.resolve();
       var icon = new Image(), iconP = new Promise(function (res) { icon.onload = function () { res(true); }; icon.onerror = function () { res(false); }; });
-      icon.src = "img/firstthread-icon.png";
+      icon.src = "img/vletter-icon.png";
       Promise.all([fontsReady, iconP]).then(function (r) {
         var res = drawStory(S, r[1] ? icon : null), url;
         try { url = res.toDataURL("image/png"); } catch (e) { res = drawStory(S, null); url = res.toDataURL("image/png"); }
@@ -3363,16 +3363,18 @@ function fix(v) { return Math.abs(v) < 0.05 ? "0.0" : (v >= 0 ? "+" : "−") + M
         x.fillStyle = "#7A5761"; x.font = "500 28px " + B;
         wrapLines(x, "แบบสะท้อนตัวเองจากฟังก์ชันการคิด 8 แบบ ไม่ใช่แบบทดสอบ MBTI ทางการ และไม่ใช่การวินิจฉัย", 820).forEach(function (l, i) { x.fillText(l, W / 2, 1545 + i * 46); });
         x.fillStyle = "#FFFFFF"; x.font = "600 50px " + D; x.fillText("ลองทำแล้วมาเทียบกัน", W / 2, 1730);
+        x.textAlign = "left"; x.font = "600 46px " + D;
+        var HANDLE = "@vletter.app", iw = icon ? 90 : 0, hx = W / 2 - (iw + x.measureText(HANDLE).width) / 2;
         if (icon) {
           x.save(); x.beginPath();
-          if (x.roundRect) x.roundRect(W / 2 - 250, 1785, 72, 72, 16); else x.rect(W / 2 - 250, 1785, 72, 72);
-          x.clip(); x.drawImage(icon, W / 2 - 250, 1785, 72, 72); x.restore();
+          if (x.roundRect) x.roundRect(hx, 1785, 72, 72, 16); else x.rect(hx, 1785, 72, 72);
+          x.clip(); x.drawImage(icon, hx, 1785, 72, 72); x.restore();
         }
-        x.textAlign = "left"; x.font = "600 46px " + D; x.fillText("@firstthread.app", W / 2 - 160, 1838);
+        x.fillText(HANDLE, hx + iw, 1838);
         return cv;
     }
     function showStory(S, cv, url) {
-        var out = document.getElementById("storyout"), st = STACKS[S.code], fname = "firstthread-" + S.code + ".png";
+        var out = document.getElementById("storyout"), st = STACKS[S.code], fname = "vletter-" + S.code + ".png";
         var alt = "รูปสตอรี่ผลไทป์ " + typeLine(S) + " หน้าที่หลัก " + st[0] + " รอง " + st[1] + " " + EI_BAND_TXT[S.ei];
         out.innerHTML = '<img class="storyimg" src="' + url + '" alt="' + esc(alt) + '"><p class="small">แตะค้างที่รูปเพื่อบันทึก หรือใช้ปุ่มด้านล่าง</p>' +
           '<div class="sharebtns"><button type="button" class="btn" id="savestory" hidden>บันทึกรูป</button><button type="button" class="btn" id="fullstory">เปิดเต็มจอเพื่อแคป</button></div>';
@@ -3410,7 +3412,7 @@ function fix(v) { return Math.abs(v) < 0.05 ? "0.0" : (v >= 0 ? "+" : "−") + M
           '<p class="small">เทียบกันเองในตัวคนนั้น ไม่ใช่เทียบกับคนอื่น · ' + EI_BAND_TXT[S.ei] + '</p>' +
           '<p class="small">แบบสะท้อนตัวเองที่เขียนขึ้นใหม่ ไม่ใช่แบบทดสอบ MBTI ทางการ ยังไม่ผ่านการตรวจสอบความตรง ใช้เพื่อสำรวจตัวเอง ไม่ใช่การวินิจฉัย</p>' +
           '<button type="button" class="btn primary block" id="tryme">ลองทำของคุณ แล้วมาเทียบกัน</button>' +
-        '</section>' + '<p class="handle"><img src="img/firstthread-icon.png" alt="" width="22" height="22"><a href="' + IG_URL + '" target="_blank" rel="noopener noreferrer">@firstthread.app</a></p>';
+        '</section>' + '<p class="handle"><img src="img/vletter-icon.png" alt="" width="22" height="22"><a href="' + IG_URL + '" target="_blank" rel="noopener noreferrer">@vletter.app</a></p>';
       document.getElementById("tryme").addEventListener("click", function () {
         try { localStorage.setItem(RECV, encodeShare(S)); } catch (e) {}
         var s = loadLocal();
